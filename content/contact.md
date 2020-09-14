@@ -1,10 +1,17 @@
 ---
 id: contact
 title: Contact
+aliases:
+- contact-us
+- contact-sortee
+- contact-sortecoevo
+author: ML
+date: "2020-09-14"
+description: Contact Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:sortecoevo@gmail.com 
 ---
 
-# We are here to help you
-
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-
-Please feel free to contact us, our customer service center is working for you 24/7.
+You can contact us by using this email: sortecoevo@gmail.com 
