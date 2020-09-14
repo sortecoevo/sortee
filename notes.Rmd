@@ -1,0 +1,103 @@
+---
+title: "notes"
+author: "ML"
+date: "08/09/2020"
+output: html_document
+---
+
+# install Blogdown
+
+
+> install.packages("blogdown")
+also installing the dependencies ‘rmarkdown’, ‘bookdown’
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.6/rmarkdown_2.3.tgz'
+Content type 'application/x-gzip' length 3572882 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.6/bookdown_0.20.tgz'
+Content type 'application/x-gzip' length 947069 bytes (924 KB)
+==================================================
+downloaded 924 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.6/blogdown_0.20.tgz'
+Content type 'application/x-gzip' length 168765 bytes (164 KB)
+==================================================
+downloaded 164 KB
+
+
+The downloaded binary packages are in
+	/var/folders/7k/h_hyk83j4sl4lk0qnv6jrcr00000gn/T//RtmpPI2ucI/downloaded_packages
+> blogdown::install_hugo()
+The latest Hugo version is 0.74.3
+trying URL 'https://github.com/gohugoio/hugo/releases/download/v0.74.3/hugo_extended_0.74.3_macOS-64bit.tar.gz'
+Content type 'application/octet-stream' length 15971844 bytes (15.2 MB)
+==================================================
+downloaded 15.2 MB
+
+Hugo has been installed to /Users/itchyshin/Library/Application Support/Hugo
+Warning message:
+In file.copy(exec, destdir, overwrite = TRUE) :
+  problem copying ./hugo to /usr/local/bin/hugo: Permission denied
+
+> blogdown::hugo_version()
+[1] ‘0.74.3’
+
+
+
+######################################################################################
+
+# Set up new website with custoom theme "Eureka" 
+#(description: https://themes.gohugo.io/hugo-eureka/)
+blogdown::new_site(theme='wangchucheng/hugo-eureka')
+
+
+# Set up new website with custoom theme "Minimal bootstrap" 
+#(description: https://themes.gohugo.io/minimal-bootstrap-hugo-theme/)
+blogdown::new_site(theme='zwbetz-gh/minimal-bootstrap-hugo-theme')
+
+#display demo site:
+blogdown:::serve_site()
+
+
+######################################################################################
+
+configure:
+
+#Add to config.toml:
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+usethis::edit_r_profile() 
+#add: (servr.daemon=TRUE)
+
+######################################################################################
+
+
+
+Add-in functions:
+
+"Serve Site"
+"New Post"
+"Modify Metadata"
+
+blogdown:::serve_site()
+servr::browse_last()
+
+######################################################################################
+
+config/_default contains:
+- Main menu elements are set up in config.toml AND in menus.toml
+- Slogan (mission statement) is in params.toml
+
+content folder has:
+- main web pages as .md files
+- posts in post folder, as .md files
+
+
+
+######################################################################################
+To publish the website:
+resterat Rsession
+blogdown::hugo_buil()
+

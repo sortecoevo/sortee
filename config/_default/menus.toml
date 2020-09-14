@@ -1,0 +1,41 @@
+[[main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[[main]]
+    identifier = "officer"
+    name = "Officers"
+    url = "/officers/"
+    weight = 20
+
+[[main]]
+    identifier = "bylaws"
+    name = "Bylaws"
+    url = "/bylaws/"
+    weight = 30
+
+[[main]]
+    identifier = "code"
+    name = "Code of conduct"
+    url = "/codeofconduct/"
+    weight = 40
+
+[[main]]
+    identifier = "join"
+    name = "Join"
+    url = "/join/"
+    weight = 50
+
+[[main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 60
+
+[[main]]
+    identifier = "post"
+    name = "Posts"
+    url = "/post/"
+    weight = 70
