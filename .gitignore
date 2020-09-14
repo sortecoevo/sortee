@@ -1,5 +1,7 @@
-# Website files
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+# processed website files
+public 
 
 # History files
 .Rhistory

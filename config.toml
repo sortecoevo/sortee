@@ -5,7 +5,7 @@ languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -89,14 +89,14 @@ paginate = 4
 [params]
     viewMorePostLink = "/blog/"
     author = "ML"
-    defaultKeywords = ["blog", "hugo", "go"]
+    defaultKeywords = ["blog", "general", "news"]
     mainSections = ["blog"]
     defaultDescription = "SORTEE site"
 
     # Social media
     #facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
     twitter_site = "sortecoevo" # the Twitter handle of your site (without the '@')
-    default_sharing_image = "img/sharing-default.png"
+    default_sharing_image = "img/seeds.jpg"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
     #enableGoogleMaps = true
@@ -148,7 +148,7 @@ paginate = 4
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on ortecoevo@gmail.com .</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us on: sortecoevo@gmail.com</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
@@ -156,9 +156,9 @@ paginate = 4
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = true
-    tags = true
-    search = true
+    categories = false
+    tags = false
+    search = false
 
 [params.carousel]
     enable = false
@@ -167,7 +167,7 @@ paginate = 4
     # For more informtion take a look at the README.
 
 [params.features]
-    enable = true
+    enable = false
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
@@ -181,12 +181,12 @@ paginate = 4
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
-    enable = false
-    icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    enable = true
+    icon = "fas fa-lightbulb"
+    title = "Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)"
+    subtitle = " brings together researchers working to improve reliability and transparency through cultural and institutional changes in ecology, evolutionary biology, ethology, environmental science, conservation science, and related fields. Anyone interested in improving research in these disciplines is welcome to join, regardless of experience"
+    link_url = "/about"
+    link_text = "Learn more"
 
 [params.clients]
     enable = false
