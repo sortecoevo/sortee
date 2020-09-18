@@ -8,3 +8,7 @@
 .box-simple {
   min-height: 230px;
 }
+
+.navbar-affixed-top.affix + section {
+  margin-top: 162px;
+}
