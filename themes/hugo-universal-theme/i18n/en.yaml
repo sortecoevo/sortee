@@ -7,6 +7,12 @@
 - id: portedBy
   translation: "Ported to Hugo by"
 
+- id: websiteBy
+  translation: "Website by"
+
+- id: andBy
+  translation: "and by"
+
 - id: contactGoTo
   translation: "Go to contact page"
 
