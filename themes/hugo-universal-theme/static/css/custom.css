@@ -9,6 +9,10 @@
   min-height: 230px;
 }
 
-.navbar-affixed-top.affix + section {
-  margin-top: 162px;
+/* navbar */
+.navbar {
+  position: relative;
+  min-height: 162px;
+  margin-bottom: 0;
+  border-bottom: 1px solid transparent;
 }
