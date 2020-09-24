@@ -9,18 +9,18 @@ title: Bylaws
 
 
 
-## Article I: Name and Purpose
+### Article I: Name and Purpose
  
 Open Reliable Transparent Ecology and Evolutionary biology (operating as SORTEE: Society for Open Reliable Transparent Ecology and Evolutionary biology) is a service organization which brings together researchers working to improve reliability and transparency through cultural and institutional changes in ecology, evolutionary biology, ethology, environmental science, conservation science, and related fields. Anyone interested in improving research in these disciplines is welcome to join, regardless of experience. The society is international in scope, membership, and objectives.
  
  
-## Article II: Membership
+### Article II: Membership
  
  1. Members of the society shall have a research or scholarly interest in improving reliability and transparency through cultural and institutional changes in ecology, evolutionary biology, ethology, environmental science, conservation science, and related fields.
  2. The Executive Committee of the society may establish application procedures for membership and set additional qualifications (including payment of dues).
  
  
-## Article III: Officers
+### Article III: Officers
  
  1. The Society shall be governed by an Executive Committee consisting of nine officers elected by the members of the Society.
  
@@ -42,7 +42,7 @@ Open Reliable Transparent Ecology and Evolutionary biology (operating as SORTEE:
  
  
  
-## Article IV: Elections
+### Article IV: Elections
  
  1. Executive Committee members will be elected by a vote of the Society membership. Executive Committee members shall serve three-year terms unless specified otherwise during the election, with terms staggered within each group. The first election will occur prior to the second January following adoption of these bylaws. Thereafter, elections will ordinarily occur annually with three Executive Committee members elected each year.
  
@@ -56,7 +56,7 @@ Open Reliable Transparent Ecology and Evolutionary biology (operating as SORTEE:
  
  
  
-## Article V: Committees
+### Article V: Committees
  
  1. The Executive Committee has the authority to create or dissolve committees as deemed necessary to conduct the business of the Society.
  
@@ -64,7 +64,7 @@ Open Reliable Transparent Ecology and Evolutionary biology (operating as SORTEE:
  
  
  
-## ARTICLE VI: General Prohibitions
+### ARTICLE VI: General Prohibitions
  
 Any provisions of these By Laws which might be susceptible to a contrary construction notwithstanding:
  
@@ -80,34 +80,34 @@ Any provisions of these By Laws which might be susceptible to a contrary constru
  
  6) The Society shall not:
  
-  (a) lend any part of its income or corpus without the receipt of adequate security and a reasonable rate of interest to;
+    (a) lend any part of its income or corpus without the receipt of adequate security and a reasonable rate of interest to;
  
-  (b) pay any compensation in excess of a reasonable allowance for salaries or other remuneration for personal services actually rendered to;
+    (b) pay any compensation in excess of a reasonable allowance for salaries or other remuneration for personal services actually rendered to;
  
-  (c) make any part of its services available on a preferential basis to;
+    (c) make any part of its services available on a preferential basis to;
  
-  (d) make any purchase of securities or any other property for more than adequate consideration in money’s worth from;
+    (d) make any purchase of securities or any other property for more than adequate consideration in money’s worth from;
  
-  (e) sell any securities or other property for less than adequate consideration in money or money’s worth to; or
+    (e) sell any securities or other property for less than adequate consideration in money or money’s worth to; or
  
-  (f) engage any other transactions which result in a substantial diversion of its income or corpus to any member, officer, member of the Council, or substantial contributor to The Society.
+    (f) engage any other transactions which result in a substantial diversion of its income or corpus to any member, officer, member of the Council, or substantial contributor to The Society.
  
 The prohibitions contained in this section (6)(a to f) do not mean to imply that The Society may make such loans, payments, sales, or purchases from or to anyone else, unless such authority be given or implied by other provisions of these By Laws.
  
  
-## Article VII: Amendments
+### Article VII: Amendments
  
 Amendments or repeal of any bylaws may be initiated by the Executive Committee or by a petition of at least 10% of the members of the Society. Amendments proposed by the Executive Committee will be decided by majority vote of the Executive Committee. Amendments or repeals proposed by petition will be decided by vote of the Society. Votes by the Society will be announced to Society members at least one week prior to voting. Voting shall be conducted by electronic ballot. A majority vote of those who return ballots within two weeks shall carry the vote.
  
  
  
-## Article VIII: Adoption
+### Article VIII: Adoption
  
 Founding Executive Committee officers already serving at the time these bylaws are adopted will serve terms of one, two, or three years in length in order to create staggered terms within each of the four officer groups (student, <10 years since PhD, >10 years since PhD, open).
  
  
  
-## Article IX: Dissolution
+### Article IX: Dissolution
  
 In the event of dissolution of the Society, whether voluntary or involuntary, the assets of the Society, after the payment of all debts, shall be distributed to one or more organizations operated exclusively for charitable, educational, or scientific reasons in satisfaction of the purposes listed in Article I of these bylaws.
 
