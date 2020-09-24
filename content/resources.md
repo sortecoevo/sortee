@@ -1,8 +1,6 @@
 ---
 aliases:
-- resource-us
-- resource-sortee
-- resource-sortecoevo
+- resources-us
 author: ML
 date: "2019-02-28"
 description: About Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
