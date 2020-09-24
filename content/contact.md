@@ -12,4 +12,4 @@ social:
   link: mailto:sortecoevo@gmail.com 
 ---
 
-You can contact us by using this email: sortecoevo@gmail.com 
+You can contact us directly by using this email: sortecoevo@gmail.com, or the form below:
