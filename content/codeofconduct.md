@@ -1,8 +1,6 @@
 ---
 aliases:
 - code-us
-- code-sortee
-- code-sortecoevo
 author: ML
 date: "2020-09-14"
 description: Code of contact of Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)

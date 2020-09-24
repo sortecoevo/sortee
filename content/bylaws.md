@@ -1,8 +1,6 @@
 ---
 aliases:
 - bylaws-us
-- bylaws-sortee
-- bylaws-sortecoevo
 author: ML
 date: "2020-09-14"
 description: Bylaws of Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)

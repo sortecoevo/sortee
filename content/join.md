@@ -1,17 +1,13 @@
 ---
 aliases:
 - join-us
-- join-sortee
-- join-sortecoevo
 author: ML
 date: "2020-09-14"
 description: Join Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: Join
 ---
 
-Need info here on the benefits/fees and ways to join..
-Will need some sort of simple form for potential members? 
-Or we can direct them to a google form / payment site? 
+SORTEE is in the process of establishing a form for the payment of membership dues. In the meantime, you can contact us at sortecoevo@gmail.com.
 
 
 

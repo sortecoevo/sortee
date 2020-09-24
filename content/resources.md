@@ -9,13 +9,13 @@ title: About
 
 Other societies and organisations with similar aims: 
 
-AIMOS: Association for Interdisciplinary Meta-research and Open Science (https://aimos.community/)
+* AIMOS: Association for Interdisciplinary Meta-research and Open Science (https://aimos.community/)
 
-Center for Open Science: https://cos.io/
+* Center for Open Science: https://cos.io/
 
-SIPS: Society for the Improvement of Psychological Science (https://improvingpsych.org/)
+* SIPS: Society for the Improvement of Psychological Science (https://improvingpsych.org/)
 
-UKRN: UK Reproducibility Network (https://www.ukrn.org/
+* UKRN: UK Reproducibility Network (https://www.ukrn.org/)
 
 
 
