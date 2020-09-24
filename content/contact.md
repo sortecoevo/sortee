@@ -3,8 +3,6 @@ id: contact
 title: Contact
 aliases:
 - contact-us
-- contact-sortee
-- contact-sortecoevo
 author: ML
 date: "2020-09-14"
 description: Contact Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
