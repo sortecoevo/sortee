@@ -6,13 +6,13 @@
 }
 
 .box-simple {
-  min-height: 230px;
+  min-height: 330px;
 }
 
 /* navbar */
 .navbar {
   position: relative;
-  min-height: 126px;
+  min-height: 100px;
   margin-bottom: 0;
   border-bottom: 1px solid transparent;
 }

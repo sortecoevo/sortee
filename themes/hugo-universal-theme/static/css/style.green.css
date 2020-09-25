@@ -3563,6 +3563,9 @@ a.list-group-item.active > .badge,
   right: 15px;
 }
 img[src*="#textphoto"] {
-   width:110px;
-   height:90px;
+   width:220px;
+   height:180px;
+   margin-left: auto;
+   margin-right: auto;
+   padding:20px;
 }
