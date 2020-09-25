@@ -7,7 +7,6 @@ description: Code of contact of Society for Open, Reliable, and Transparent Ecol
 title: Code of Conduct
 ---
 
-## Code of Conduct  
 
 The Society for Open Reliable Transparent Ecology and Evolutionary biology (SORTEE) holds professional conferences and other events to enable its members to work to improve methods and practices in ecology, evolutionary biology, and related disciplines, build professional networks, and receive continuing education. SORTEE is dedicated to providing a harassment-free event experience for everyone, regardless of gender, race, ethnicity, sexual orientation, gender identity, gender expression, disability, age, appearance, religion, or other group status. We do not tolerate harassment of event participants in any form. Event participants violating these rules may be sanctioned or expelled without a refund at the discretion of the SORTEE Executive Committee or event organizers.  
 

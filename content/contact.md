@@ -14,4 +14,4 @@ social:
 
 You can contact us directly by using this email: sortecoevo@gmail.com, or the form below:  
 
-<i class="glyphicon glyphicon-envelope"></i>
+
