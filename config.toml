@@ -135,12 +135,6 @@ paginate = 4
     address = """<p class="text-lowercase"> # <strong>SORTEE</strong>
         <br>Email: sortecoevo@gmail.com 
         <br>Twitter: @twitterhandle        
-        # <br>street
-        # <br>city
-        # <br>postcode
-        # <br>County
-        # <br>
-        # <strong>Country</strong>
       </p>
       """
 

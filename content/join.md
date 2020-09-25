@@ -11,7 +11,7 @@ SORTEE is in the process of establishing a form for the payment of membership du
 
 In the meantime, you can contact us at sortecoevo@gmail.com.  
 
-<p>&nbsp;</p>
+<i class="glyphicon glyphicon-user"></i>
 
 
 

@@ -12,7 +12,7 @@ SORTEE was founded in 2020 by [Tim Parker](http://people.whitman.edu/~parkerth/)
 
 List of Society Officers will be posted here, once positions are filled.    
 
-<p>&nbsp;</p>
+
 
 
 
