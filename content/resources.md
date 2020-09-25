@@ -17,7 +17,7 @@ Other societies and organisations with similar aims:
 
 * [UKRN: UK Reproducibility Network](https://www.ukrn.org/)  
    
-<p>&nbsp;</p>
+<i class="glyphicon glyphicon-thumbs-up"></i>
 
 
 
