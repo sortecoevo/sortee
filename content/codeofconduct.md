@@ -36,7 +36,7 @@ We expect participants to follow these rules at all events and event-related soc
 
 ### Reporting
 
-If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to any member of the SORTEE Executive Committee or event organizers. Alternatively, you may report your concerns electronically (here), with the option to remain anonymous.  
+If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to any member of the SORTEE Executive Committee or event organizers. Alternatively, you may [report your concerns electronically](https://forms.gle/31LhHvGfu9bbUMa2A), with the option to remain anonymous.  
 
 All Executive Committee members and event organizers are required to pass along all reports to the SORTEE President (or if the President may have a conflict of interest, to at least 3 uninvolved members of the SORTEE Executive Committee).  
 
