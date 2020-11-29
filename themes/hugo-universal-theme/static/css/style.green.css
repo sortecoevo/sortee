@@ -1776,7 +1776,7 @@ fieldset[disabled] .btn-template-primary.active {
   background: #fff;
 }
 .bar.background-image-fixed-1 {
-  background: url('../img/fixed-background-1.jpg') center top no-repeat;
+  background: url('../img/homepage-slider.jpg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
