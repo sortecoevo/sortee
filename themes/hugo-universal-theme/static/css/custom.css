@@ -16,3 +16,13 @@
   margin-bottom: 0;
   border-bottom: 1px solid transparent;
 }
+
+
+/* MINIMIZING THE FOOTER? */
+/* footer */
+.footer {
+  position: relative;
+  max-height: 100px;
+  margin-bottom: 0;
+  border-bottom: 1px solid transparent;
+}

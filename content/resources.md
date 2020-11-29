@@ -16,8 +16,12 @@ Other societies and organisations with similar aims:
 * [SIPS: Society for the Improvement of Psychological Science](https://improvingpsych.org/)  
 
 * [UKRN: UK Reproducibility Network](https://www.ukrn.org/)  
+
+* [Open Science Center – LMU Munich](https://www.osc.uni- muenchen.de/index.html)  
+
+* [Center for Reproducible Science at the Unviersity of Zurich](https://www.crs.uzh.ch/en.html)  
    
-![seeds photo](/img/seeds.jpg#textphoto)
+[//]: # ( ![seeds photo](/img/seeds.jpg#textphoto) )
 
 
 

@@ -53,11 +53,11 @@ paginate = 4
     url = "/contact/"
     weight = 60
 
-[[menu.main]]
-    identifier = "post"
-    name = "Posts"
-    url = "/post/"
-    weight = 70
+#[[menu.main]]
+#    identifier = "post"
+#    name = "Posts"
+#    url = "/post/"
+#    weight = 70
     
     
 # Top bar social links menu
@@ -96,7 +96,7 @@ paginate = 4
     # Social media
     #facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
     twitter_site = "SORTEcoEvo" # the Twitter handle of your site (without the '@')
-    default_sharing_image = "img/SORTEE_logo_rectangle_v1.0.png"
+    default_sharing_image = "img/SORTEE_logo_twitter.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
     #enableGoogleMaps = true
@@ -124,14 +124,14 @@ paginate = 4
     email = "sortecoevo@gmail.com"
     contact_form_ajax = false
 
-    about_us = "<p>SORTEE stands for society for Open Reliable Transparent Ecology and Evolutionary biology.</p>"
+    #about_us = "<p>SORTEE stands for society for Open Reliable Transparent Ecology and Evolutionary biology.</p>"
     copyright = "Copyright (c) 2020, SORTEE; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    logo_small = "img/SORTEE_logo_square_v1.0.png"
+    logo_small = "img/logo-small.png"
     address = """<p>Email: sortecoevo@gmail.com 
         <br>Twitter: @SORTEcoEvo       
       </p>
