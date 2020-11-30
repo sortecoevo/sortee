@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "https://www.sortee.org"
 title = "SORTEE"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
@@ -65,7 +65,7 @@ paginate = 4
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
-    url = "https://github.com/mlagisz/sorteetesthugo"
+    url = "https://github.com/sortecoevo/sortee"
     pre = "<i class='fab fa-2x fa-github'></i>"
 
 #[[menu.topbar]]
@@ -88,7 +88,7 @@ paginate = 4
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "ML"
+    author = "SORTEE"
     defaultKeywords = ["blog", "general", "news"]
     mainSections = ["blog"]
     defaultDescription = "SORTEE site blog"
