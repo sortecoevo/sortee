@@ -22,7 +22,7 @@
 /* footer */
 .footer {
   position: relative;
-  max-height: 50px;
+  max-height: 20px;
   margin-bottom: 0;
   border-bottom: 1px solid transparent;
 }
