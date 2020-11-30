@@ -17,7 +17,7 @@ Other societies and organisations with similar aims:
 
 * [UKRN: UK Reproducibility Network](https://www.ukrn.org/)  
 
-* [Open Science Center – LMU Munich](https://www.osc.uni- muenchen.de/index.html)  
+* [Open Science Center - LMU Munich](https://www.osc.uni-muenchen.de/index.html)  
 
 * [Center for Reproducible Science at the Unviersity of Zurich](https://www.crs.uzh.ch/en.html)  
    
