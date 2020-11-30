@@ -26,7 +26,7 @@ Members of the inaugural executive committee (with category) are:
 
 ---
 
-![Tim Parker](/people/TimParker.png)
+![Tim Parker](TimParker.png)
 
 ##  [Tim Parker](http://people.whitman.edu/~parkerth/) (> 10 years)     
 
