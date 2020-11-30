@@ -16,7 +16,7 @@ Members of the inaugural executive committee (with category) are:
 ## [Samantha Burke](http://www.i-deel.org/samantha-burke.html) (student)   
 
 
----
+
 
 [Antica Culina](https://nioo.knaw.nl/en/employees/antica-culina) (at large)   
 [Clint Kelly](https://kellylab.weebly.com/) (> 10 years)   
@@ -24,7 +24,7 @@ Members of the inaugural executive committee (with category) are:
 [Malika Ihle](https://malikaihle.wordpress.com/) (< 10 years)   
 [Rose O’Dea](https://www.roseodea.com/) (< 10 years)   
 
----
+
 
 ![Tim Parker](TimParker.png)
 
@@ -32,7 +32,7 @@ Members of the inaugural executive committee (with category) are:
 
 Tim Parker is an Associate Professor of Biology at Whitman College and has interests in behavioral ecology, demography, community ecology, and meta-science.   
 
----
+
 
 
 [Dominique Roche](https://dominiqueroche.weebly.com/) (at large)   
@@ -41,8 +41,6 @@ Tim Parker is an Associate Professor of Biology at Whitman College and has inter
    
 Other members of the founding committee (contributing to the establishment of the society) are:
    
-![](Williams_logo.jpeg)
-## [Tim Parker](http://people.whitman.edu/~parkerth/)   
 
 [Emilio Bruna](http://brunalab.org/emilio-m-bruna/)   
 [Szymon Drobniak](https://szymekdrobniak.wordpress.com/)   
