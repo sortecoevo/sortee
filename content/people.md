@@ -13,7 +13,7 @@ title: People
 
 Members of the inaugural executive committee (with category) are:
 
-## [Samantha Burke](http://www.i-deel.org/samantha-burke.html) (student)   
+[Samantha Burke](http://www.i-deel.org/samantha-burke.html) (student)   
 
 
 

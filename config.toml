@@ -138,7 +138,7 @@ paginate = 4
       """
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+#    blog = "/blog/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
@@ -196,7 +196,6 @@ paginate = 4
     title = "From our blog"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
 
-[taxonomies]
-    comittee = "people"
+
     
     
