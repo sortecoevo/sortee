@@ -26,13 +26,13 @@ Members of the inaugural executive committee (with category) are:
 
 
 
-![Tim Parker](TimParker.png)
+![Tim Parker](/img/people/TimParker.png)
 
 ##  [Tim Parker](http://people.whitman.edu/~parkerth/) (> 10 years)     
 
 Tim Parker is an Associate Professor of Biology at Whitman College and has interests in behavioral ecology, demography, community ecology, and meta-science.   
 
-
+---
 
 
 [Dominique Roche](https://dominiqueroche.weebly.com/) (at large)   
