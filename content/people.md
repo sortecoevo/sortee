@@ -13,7 +13,11 @@ Members of the inaugural executive committee (with category) are:
 
 ---
 
+![Samantha Burke](/img/people/SamanthaBurke.png)
+
 #### [Samantha Burke](http://www.i-deel.org/samantha-burke.html) (student)   
+
+Samantha is a student pursuing a PhD with the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
 
 ---
 
