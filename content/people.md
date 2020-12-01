@@ -45,7 +45,11 @@ Malika Ihle is the Reproducible Research Oxford coordinator, she holds a PhD in 
 
 ---
 
+![Rose O’Dea](/img/people/RoseODea.png)
+
 #### [Rose O’Dea](https://www.roseodea.com/) (< 10 years)   
+
+Rose is a postdoctoral researcher in the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.
 
 ---
 
