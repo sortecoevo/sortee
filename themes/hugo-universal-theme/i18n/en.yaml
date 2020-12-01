@@ -12,6 +12,9 @@
 
 - id: andBy
   translation: "and by"
+  
+- id: logoDesignBy
+  translation: "Logo design by"
 
 - id: contactGoTo
   translation: "Go to contact page"
