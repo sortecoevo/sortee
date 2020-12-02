@@ -37,7 +37,11 @@ Clint is an Associate Professor of Biology and Canada Research Chair in Behaviou
 
 ---
 
+![Elliot Gould](/img/people/ElliotGould.png)
+
 #### [Elliot Gould](https://orcid.org/0000-0002-6585-538X) (student)   
+
+Elliot is a PhD student studying the transparency and reproducibility of model-based research in applied ecology and conservation at the University of Melbourne.     
 
 ---
 
