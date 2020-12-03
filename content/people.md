@@ -15,7 +15,7 @@ Members of the inaugural executive committee (with category) are:
 
 ![Samantha Burke](/img/people/SamanthaBurke.png)
 
-#### [Samantha Burke](http://www.i-deel.org/samantha-burke.html) (student)   
+#### [Samantha Burke](http://www.i-deel.org/samantha-burke.html)
 
 Samantha is a student pursuing a PhD with the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
 
@@ -23,7 +23,7 @@ Samantha is a student pursuing a PhD with the Inter-Disciplinary Ecology and Evo
 
 ![Antica Culina](/img/people/AnticaCulina.png)
 
-#### [Antica Culina](https://nioo.knaw.nl/en/employees/antica-culina) (at large)   
+#### [Antica Culina](https://nioo.knaw.nl/en/employees/antica-culina)
 
 Antica works as a research scientist at the NIOO-KNAW, Nethrlands. She is a co-founder and executive board member of SPI-Birds (www/spibirds.org), and the advisory committee member of [FAIRsFAIR](https://www.fairsfair.eu/) and [Open Knowledge Maps](https://openknowledgemaps.org/).    
 
@@ -31,7 +31,7 @@ Antica works as a research scientist at the NIOO-KNAW, Nethrlands. She is a co-f
 
 ![Clint Kelly](/img/people/ClintKelly.png)
 
-#### [Clint Kelly](https://kellylab.weebly.com/) (> 10 years)   
+#### [Clint Kelly](https://kellylab.weebly.com/)
 
 Clint is an Associate Professor of Biology and Canada Research Chair in Behavioural Ecology at the Université du Québec à Montréal. Clint currently serves on the SORTEE Executive Committee.   
 
@@ -39,7 +39,7 @@ Clint is an Associate Professor of Biology and Canada Research Chair in Behaviou
 
 ![Elliot Gould](/img/people/ElliotGould.png)
 
-#### [Elliot Gould](https://orcid.org/0000-0002-6585-538X) (student)   
+#### [Elliot Gould](https://orcid.org/0000-0002-6585-538X) (Secretary / Treasurer)   
 
 Elliot is a PhD student studying the transparency and reproducibility of model-based research in applied ecology and conservation at the University of Melbourne.     
 
@@ -47,7 +47,7 @@ Elliot is a PhD student studying the transparency and reproducibility of model-b
 
 ![Malika Ihle](/img/people/MalikaIhle.png)
 
-#### [Malika Ihle](https://malikaihle.wordpress.com/) (< 10 years)   
+#### [Malika Ihle](https://malikaihle.wordpress.com/)
 
 Malika Ihle is the Reproducible Research Oxford coordinator, she holds a PhD in Evolutionary Behavioral Ecology.
 
@@ -55,7 +55,7 @@ Malika Ihle is the Reproducible Research Oxford coordinator, she holds a PhD in 
 
 ![Rose O’Dea](/img/people/RoseODea.png)
 
-#### [Rose O’Dea](https://www.roseodea.com/) (< 10 years)   
+#### [Rose O’Dea](https://www.roseodea.com/) 
 
 Rose is a postdoctoral researcher in the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.
 
@@ -63,7 +63,7 @@ Rose is a postdoctoral researcher in the Inter-Disciplinary Ecology and Evolutio
 
 ![Tim Parker](/img/people/TimParker.png)
 
-#### [Tim Parker](http://people.whitman.edu/~parkerth/) (> 10 years)     
+#### [Tim Parker](http://people.whitman.edu/~parkerth/) (President)   
 
 Tim Parker is an Associate Professor of Biology at Whitman College and has interests in behavioral ecology, demography, community ecology, and meta-science.   
 
@@ -79,7 +79,7 @@ Dom Roche is a Marie Skłodowska-Curie Global Fellow at Carleton University, Can
 
 ![Bonnie Wintle](/img/people/BonnieWintle.png)
 
-#### [Bonnie Wintle](https://bonnieresearch.wordpress.com/about/) (at large)   
+#### [Bonnie Wintle](https://bonnieresearch.wordpress.com/about/) 
 
 Bonnie is a Senior Research Fellow in the School of BioSciences at Melbourne University, based in the interdisciplinary MetaMelb group.   
     
