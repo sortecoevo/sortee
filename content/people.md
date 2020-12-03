@@ -9,7 +9,7 @@ title: People
 
 
 
-Members of the inaugural executive committee (with category) are:
+Members of the inaugural executive committee are:
 
 ---
 
