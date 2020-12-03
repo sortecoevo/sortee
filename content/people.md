@@ -79,7 +79,7 @@ Dom Roche is a Marie Skłodowska-Curie Global Fellow at Carleton University, Can
 
 ![Bonnie Wintle](/img/people/BonnieWintle.png)
 
-#### [Bonnie Wintle](https://bonnieresearch.wordpress.com/about/) (at lage)   
+#### [Bonnie Wintle](https://bonnieresearch.wordpress.com/about/) (at large)   
 
 Bonnie is a Senior Research Fellow in the School of BioSciences at Melbourne University, based in the interdisciplinary MetaMelb group.   
     
