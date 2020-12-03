@@ -7,9 +7,11 @@ description: Join Society for Open, Reliable, and Transparent Ecology and Evolut
 title: Join
 ---
 
-SORTEE is in the process of establishing a process for new membership to join in.   
 
-In the meantime, you can contact us at sortecoevo@gmail.com.  
+
+To join SORTEE, please fill in this [new member survey](https://whitmancollege.qualtrics.com/jfe/form/SV_8cVHlAEMUoPRr01).   
+
+
 
 
 
