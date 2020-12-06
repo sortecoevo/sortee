@@ -11,10 +11,13 @@ title: Join
 
 ## To join SORTEE, please fill in this [new member survey](https://whitmancollege.qualtrics.com/jfe/form/SV_8cVHlAEMUoPRr01).   
 
+----
+
 ### Why join SORTEE?  
 
 SORTEE membership for 2021 is free and we promise to not send you too many emails if you join.   
 
+----
 
 ### Why join SORTEE?  
 
@@ -32,6 +35,8 @@ Please help us:
 * diversify geographically  
 * diversify by welcoming members of underrepresented groups   
 * diversify in terms of types of interests in open, reliable, and transparent science   
+
+----
 
 ## To join SORTEE, please fill in this [new member survey](https://whitmancollege.qualtrics.com/jfe/form/SV_8cVHlAEMUoPRr01).    
 
