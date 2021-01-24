@@ -53,11 +53,11 @@ paginate = 4
     url = "/contact/"
     weight = 60
 
-#[[menu.main]]
-#    identifier = "post"
-#    name = "Posts"
-#    url = "/post/"
-#    weight = 70
+[[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 70
     
     
 # Top bar social links menu
@@ -91,7 +91,7 @@ paginate = 4
     author = "SORTEE"
     defaultKeywords = ["blog", "general", "news"]
     mainSections = ["blog"]
-    defaultDescription = "SORTEE site blog"
+    defaultDescription = "SORTEE blog"
 
     # Social media
     #facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
@@ -138,7 +138,7 @@ paginate = 4
       """
 
 [Permalinks]
-#    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
@@ -151,9 +151,9 @@ paginate = 4
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = false
-    tags = false
-    search = false
+    categories = true
+    tags = true
+    search = true
 
 [params.carousel]
     enable = false
