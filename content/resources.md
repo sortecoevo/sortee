@@ -52,7 +52,7 @@ title: Resources
 
 * Mislan, K. A. S., Jeffrey M. Heer, and Ethan P. White (2015) Elevating the status of code in ecology. Trends in Ecology & Evolution 31: 4-7. [doi:10.1016/j.tree.2015.11.006](doi:10.1016/j.tree.2015.11.006)
 
-* Nosek, Brian A. and others (2015) Promoting an open research culture. Science 348: 1422.  [doi:10.1126/science.aab2374](doi:10.1126/science.aab2374.)
+* Nosek, Brian A., and others (2015) Promoting an open research culture. Science 348: 1422.  [doi:10.1126/science.aab2374](doi:10.1126/science.aab2374)
 
 * Parker, Timothy H., Wolfgang Forstmeier, Julia Koricheva, Fiona Fidler, Jarrod D. Hadfield, Yung En Chee, Clint D. Kelly, Jessica Gurevitch, and Shinichi Nakagawa (2016) Transparency in ecology and evolution: real problems, real solutions. Trends in Ecology & Evolution 31: 711-19. [doi:10.1016/j.tree.2016.07.002](doi:10.1016/j.tree.2016.07.002.)
 
