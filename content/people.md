@@ -45,7 +45,7 @@ Members of the inaugural Executive Committee are:
 [Dominique Roche](https://dominiqueroche.weebly.com/) is a Marie Skłodowska-Curie Global Fellow at Carleton University, Canada. He studies how open data improve transparency, reproducibility, and collaboration in science.   
 
 ![Elliot Gould](/img/people/ElliotGould.png)   
-[Elliot Gould](https://orcid.org/0000-0002-6585-538X) *(Secretary / Treasurer)* is a PhD student studying the transparency and reproducibility of model-based research in applied ecology and conservation at the University of Melbourne.     
+[Elliot Gould](https://orcid.org/0000-0002-6585-538X) **(Secretary / Treasurer)** is a PhD student studying the transparency and reproducibility of model-based research in applied ecology and conservation at the University of Melbourne.     
 
 ![Malika Ihle](/img/people/MalikaIhle.png)   
 [Malika Ihle](https://malikaihle.wordpress.com/) is the Reproducible Research Oxford coordinator, she holds a PhD in Evolutionary Behavioral Ecology.   
@@ -57,7 +57,7 @@ Members of the inaugural Executive Committee are:
 [Samantha Burke](http://www.i-deel.org/samantha-burke.html) is a student pursuing a PhD with the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
 
 ![Tim Parker](/img/people/TimParker.png)   
-[Tim Parker](http://people.whitman.edu/~parkerth/) *(President)* is an Associate Professor of Biology at Whitman College and has interests in behavioral ecology, demography, community ecology, and meta-science.   
+[Tim Parker](http://people.whitman.edu/~parkerth/) **(President)** is an Associate Professor of Biology at Whitman College and has interests in behavioral ecology, demography, community ecology, and meta-science.   
 
 ---
 
@@ -65,7 +65,7 @@ Members of the inaugural Executive Committee are:
 [Alessandro	Filazzola](https://www.filazzola.info/)   
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
 [Bonnie	Wintle](https://bonnieresearch.wordpress.com/about/)   
-[Clint	Kelly](https://kellylab.weebly.com/)  *(Chair)*        
+[Clint	Kelly](https://kellylab.weebly.com/)  **(Chair)**        
 [Erlend	Nilsen](https://scholar.google.com/citations?hl=no&user=XSJg2XoAAAAJ&view_op=list_works&gmla=AJsN-F6-RHUhi_1hN7lqODeNiX75f4HEZ8J8goOsFafJ2UOzdTZYCg80l-B214mIJQWrntfH3eQnhw-E3bfnZIbOC7Y83cWpHtB08Dlt87cfHvPNsdeW_8A)   
 [Hannah	Dugdale](https://hannahdugdale.wordpress.com)   
 [Jason	Pither](https://jasonpither.weebly.com/)   
@@ -86,7 +86,7 @@ Wendy	Thorogood
 [Matthieu	Paquet](https://www.researchgate.net/profile/Matthieu-Paquet)   
 [Rose	O'Dea](http://www.roseodea.com/)   
 [Victoria	Hemming](https://hemmingresearch.wordpress.com/)   
-[Tim	Parker](http://people.whitman.edu/~parkerth/) *(Chair)*   
+[Tim	Parker](http://people.whitman.edu/~parkerth/) **(Chair)**   
 [Malika	Ihle](https://ox.ukrn.org/people/#MalikaIhle)   
 [Josefin	Sundin](https://www.slu.se/cv/josefin-sundin2/)   
 [Benoit	Pujol](http://www.criobe.pf/pro/personnel/chercheurs-et-enseignants-chercheurs/benoit-pujol/)   
@@ -95,8 +95,8 @@ Wendy	Thorogood
 
 ### Diversity, Equity, and Inclusion Committee	 
 [Kaitlyn	Gaynor](www.kaitlyngaynor.com)   
-[Malika	Ihle](https://ox.ukrn.org/people/#MalikaIhle) *(Co-Chair)*   
-[Samantha	Burke](http://www.i-deel.org/samantha-burke.html) *(Co-Chair)*   
+[Malika	Ihle](https://ox.ukrn.org/people/#MalikaIhle) **(Co-Chair)**   
+[Samantha	Burke](http://www.i-deel.org/samantha-burke.html) **(Co-Chair)**   
 [Sarah	Goslee](https://scholar.google.com/citations?hl=en&user=dQwgxiMAAAAJ)   
 [Victoria	Hemming](https://hemmingresearch.wordpress.com/)   
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
@@ -115,8 +115,8 @@ Colette	Ward
 [Ilias	Berberi](https://scholar.google.ca/citations?user=-zFoCE0AAAAJ&hl)   
 [Malgorzata (Losia) Lagisz](https://mlagisz.weebly.com/)   
 [Malika	Ihle](https://ox.ukrn.org/people/#MalikaIhle)   
-[Samantha	Burke](http://www.i-deel.org/samantha-burke.html) *(Co-Chair)*   
-[Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina) *(Co-Chair)*   
+[Samantha	Burke](http://www.i-deel.org/samantha-burke.html) **(Co-Chair)**   
+[Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina) **(Co-Chair)**   
 [Elliot	Gould](https://github.com/egouldo)   
 [Georgia	Titcomb](https://georgiatitcomb.weebly.com/)   
 [Chris	Nadeau](https://chrisnadeau.wixsite.com/chris)   
@@ -127,15 +127,15 @@ Colette	Ward
 
 ### Finance Committee		 
 [Bonnie	Wintle](https://bonnieresearch.wordpress.com/about/)   
-[Elliot	Gould](https://github.com/egouldo) *(Co-Chair)*    
+[Elliot	Gould](https://github.com/egouldo) **(Co-Chair)**    
 [Lauren	White](https://scholar.google.de/citations?user=sRtLgggAAAAJ&hl=en)    
-[Tim	Parker](http://people.whitman.edu/~parkerth/) *(Co-Chair)*   
+[Tim	Parker](http://people.whitman.edu/~parkerth/) **(Co-Chair)**   
 
 ---
 
 ### Fundraising Committee	 
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
-[Dom	Roche](https://dominiqueroche.weebly.com/) *(Chair)*    
+[Dom	Roche](https://dominiqueroche.weebly.com/) **(Chair)**    
 Joseph	Burant   
 [Raphaël	Royauté](http://raphaelroyaute.com/)   
 [Shinichi	Nakagawa](http://www.i-deel.org/)   
@@ -152,7 +152,7 @@ Joseph	Burant
 [Rose	O'Dea](http://www.roseodea.com/)   
 [Samantha	Burke](http://www.i-deel.org/samantha-burke.html)   
 [Szymek	Drobniak](https://szymekdrobniak.wordpress.com)   
-[Tim	Parker](http://people.whitman.edu/~parkerth/) *(Chair)*    
+[Tim	Parker](http://people.whitman.edu/~parkerth/) **(Chair)**    
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
 [Jeff	Clements](https://jclementsphd.wordpress.com/)   
 [Heather	Ritchie](https://hevritchie.wordpress.com/)   
@@ -167,17 +167,17 @@ Joseph	Burant
 [Kaija	Gahm](https://kaijagahm.netlify.app/)   
 [Lewis	Bartlett](https://www.bartlett.science/)   
 [Paul	Selmants](https://www.usgs.gov/staff-profiles/paul-c-selmants)   
-[Rose	O'Dea](http://www.roseodea.com/) *(Chair)*     
+[Rose	O'Dea](http://www.roseodea.com/) **(Chair)**     
 [Tim	Parker](http://people.whitman.edu/~parkerth/)   
 
 ---
-¬
-¬
-¬
+&nbsp;
+&nbsp;
+&nbsp;
 ### Overlay Journal Committee  		
 [Alkistis	Elliott-Graves](http://alkistis-elliott-graves.net/)   
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
-[Dom	Roche](https://dominiqueroche.weebly.com/) *(Chair)*   
+[Dom	Roche](https://dominiqueroche.weebly.com/) **(Chair)**   
 Inês	Silva	
 [Jithin	Vijayan](https://www.jithinvijayan.info/)   
 [Kaitlin	Kimmel](http://kaitlinakimmel.wixsite.com/ecologist)   
