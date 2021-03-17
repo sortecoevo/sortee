@@ -747,7 +747,7 @@ fieldset[disabled] .btn-template-primary.active {
   text-transform: uppercase;
   font-size: 50px;
   color: #fff;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
   letter-spacing: 0.08em;
 }
 @media (max-width: 991px) {
@@ -762,7 +762,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 #intro .item h3 {
   color: #fff;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 @media (max-width: 767px) {
   #intro .item h3 {
