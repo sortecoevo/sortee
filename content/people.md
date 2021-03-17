@@ -28,16 +28,14 @@ Members of the inaugural Executive Committee are:
 
 ---
 
-![Samantha Burke](/img/people/SamanthaBurke.png)
-
-#### [Samantha Burke](http://www.i-deel.org/samantha-burke.html)
-
+#### [Samantha Burke](http://www.i-deel.org/samantha-burke.html)   
+![Samantha Burke](/img/people/SamanthaBurke.png)   
 Samantha is a student pursuing a PhD with the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
 
 ---
 
 #### [Antica Culina](https://nioo.knaw.nl/en/employees/antica-culina)
-![Antica Culina](/img/people/AnticaCulina.png)
+![Antica Culina](/img/people/AnticaCulina.png)   
 Antica works as a research scientist at the NIOO-KNAW, Nethrlands. She is a co-founder and executive board member of [SPI-Birds](https://www.spibirds.org), and the advisory committee member of [FAIRsFAIR](https://www.fairsfair.eu/) and [Open Knowledge Maps](https://openknowledgemaps.org/).    
 
 ---
