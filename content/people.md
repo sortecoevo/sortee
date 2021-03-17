@@ -9,15 +9,15 @@ title: People
 
 ## Committees:
 
-{{< relref "#Executive Committee" >}}
+* {{< relref "#executive-committee" >}}   
 
-Media Committee
-Education and Outreach Committee
-Diversity Committee
-Conference Committee
-Funding Committee
+* Media Committee   
+* Education and Outreach Committee   
+* Diversity Committee   
+* Conference Committee   
+* Funding Committee   
 
-### Executive Committee
+## Executive Committee
 
 Members of the inaugural Executive Committee are:
 
