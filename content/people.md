@@ -25,7 +25,7 @@ Samantha is a student pursuing a PhD with the Inter-Disciplinary Ecology and Evo
 
 #### [Antica Culina](https://nioo.knaw.nl/en/employees/antica-culina)
 
-Antica works as a research scientist at the NIOO-KNAW, Nethrlands. She is a co-founder and executive board member of [SPI-Birds] (www/spibirds.org), and the advisory committee member of [FAIRsFAIR](https://www.fairsfair.eu/) and [Open Knowledge Maps](https://openknowledgemaps.org/).    
+Antica works as a research scientist at the NIOO-KNAW, Nethrlands. She is a co-founder and executive board member of [SPI-Birds](https://www.spibirds.org), and the advisory committee member of [FAIRsFAIR](https://www.fairsfair.eu/) and [Open Knowledge Maps](https://openknowledgemaps.org/).    
 
 ---
 
