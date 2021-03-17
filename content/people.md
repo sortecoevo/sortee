@@ -33,32 +33,41 @@ title: People
 ### Executive Committee   
 
 This committee focuses on the strategic matters for the Society and coordinates all other committees.
-
-Members of the inaugural Executive Committee are:
+&nbsp;
+Current members are:   
+&nbsp;
 
 ![Antica Culina](/img/people/AnticaCulina.png)    
 [Antica Culina](https://nioo.knaw.nl/en/employees/antica-culina) works as a research scientist at the NIOO-KNAW, Nethrlands. She is a co-founder and executive board member of [SPI-Birds](https://www.spibirds.org), and the advisory committee member of [FAIRsFAIR](https://www.fairsfair.eu/) and [Open Knowledge Maps](https://openknowledgemaps.org/).    
+&nbsp;
 
 ![Bonnie Wintle](/img/people/BonnieWintle.png)   
 [Bonnie Wintle](https://bonnieresearch.wordpress.com/about/) is a Senior Research Fellow in the School of BioSciences at Melbourne University, based in the interdisciplinary MetaMelb group.    
+&nbsp;
 
 ![Clint Kelly](/img/people/ClintKelly.png)   
 [Clint Kelly](https://kellylab.weebly.com/) is an Associate Professor of Biology and Canada Research Chair in Behavioural Ecology at the Université du Québec à Montréal. Clint currently serves on the SORTEE Executive Committee.   
+&nbsp;
 
 ![Dom Roche](/img/people/DomRoche.png)   
 [Dominique Roche](https://dominiqueroche.weebly.com/) is a Marie Skłodowska-Curie Global Fellow at Carleton University, Canada. He studies how open data improve transparency, reproducibility, and collaboration in science.   
+&nbsp;
 
 ![Elliot Gould](/img/people/ElliotGould.png)   
 [Elliot Gould](https://orcid.org/0000-0002-6585-538X) **(Secretary / Treasurer)** is a PhD student studying the transparency and reproducibility of model-based research in applied ecology and conservation at the University of Melbourne.     
+&nbsp;
 
 ![Malika Ihle](/img/people/MalikaIhle.png)   
 [Malika Ihle](https://malikaihle.wordpress.com/) is the Reproducible Research Oxford coordinator, she holds a PhD in Evolutionary Behavioral Ecology.   
+&nbsp;
 
 ![Rose O’Dea](/img/people/RoseODea.png)   
 [Rose O’Dea](https://www.roseodea.com/) is a postdoctoral researcher in the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
+&nbsp;
 
 ![Samantha Burke](/img/people/SamanthaBurke.png)   
 [Samantha Burke](http://www.i-deel.org/samantha-burke.html) is a student pursuing a PhD with the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
+&nbsp;
 
 ![Tim Parker](/img/people/TimParker.png)   
 [Tim Parker](http://people.whitman.edu/~parkerth/) **(President)** is an Associate Professor of Biology at Whitman College and has interests in behavioral ecology, demography, community ecology, and meta-science.   
@@ -71,7 +80,11 @@ Members of the inaugural Executive Committee are:
 ---
 
 ### Awards Committee	 
+
 This committee is responsible for proposing new awards to the SORTEE Executive Committee and will also solicit nominations and select winners, subject to EC oversight and approval.   
+&nbsp;
+Current members are:   
+&nbsp;
 
 [Alessandro	Filazzola](https://www.filazzola.info/)   
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
@@ -93,7 +106,12 @@ Wendy	Thorogood
 ---
 
 ### Conference Committee	 
+
 This committee organizes SORTEE conferences.   
+&nbsp;
+Current members are:   
+&nbsp;
+
 [Amelia	Hood](https://www.zoo.cam.ac.uk/directory/amelia-hood)   
 [Divya	Vasudev](https://www.conservationinitiatives.org/divya-vasudev)   
 [Edward	Ivimey-Cook](https://www.researchgate.net/profile/Edward-Ivimey-Cook)   
@@ -116,7 +134,12 @@ This committee organizes SORTEE conferences.
 ---
 
 ### Diversity, Equity, and Inclusion Committee	 
+
 This committee works to promote diversity, equity, and inclusion within SORTEE.   
+&nbsp;
+Current members are:   
+&nbsp;
+
 [Kaitlyn	Gaynor](www.kaitlyngaynor.com)   
 [Malika	Ihle](https://ox.ukrn.org/people/#MalikaIhle) **(Co-Chair)**   
 [Samantha	Burke](http://www.i-deel.org/samantha-burke.html) **(Co-Chair)**   
@@ -136,7 +159,12 @@ This committee works to promote diversity, equity, and inclusion within SORTEE.
 ---
 
 ### Education Outreach Committee  
+
 This committee develops plans to provide educational resources to individuals and organizations interested in learning more about improving research by making it more open, reliable, and transparent.   
+&nbsp;
+Current members are:   
+&nbsp;
+
 Bawan	Amin   
 [Clint Kelly](https://kellylab.weebly.com/)    
 Cole	Brookson  
@@ -160,7 +188,12 @@ Colette	Ward
 ---
 
 ### Finance Committee		 
+
 This committee manages the organization’s finances and government obligations regarding incorporation and taxes.   
+&nbsp;
+Current members are:   
+&nbsp;
+
 [Bonnie	Wintle](https://bonnieresearch.wordpress.com/about/)   
 [Elliot	Gould](https://github.com/egouldo) **(Co-Chair)**    
 [Lauren	White](https://scholar.google.de/citations?user=sRtLgggAAAAJ&hl=en)    
@@ -174,7 +207,12 @@ This committee manages the organization’s finances and government obligations 
 ---
 
 ### Fundraising Committee	 
+
 This committee develops and implements plans for raising funds to support SORTEE.   
+&nbsp;
+Current members are:   
+&nbsp;
+
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
 [Dom	Roche](https://dominiqueroche.weebly.com/) **(Chair)**    
 Joseph	Burant   
@@ -189,7 +227,12 @@ Joseph	Burant
 ---
 
 ### Media Committee  		
+
 This committee develops content for the website and for Twitter, designs and maintains the website, and develops new ideas for spreading the word about SORTEE and open, reliable, and transparent science.   
+&nbsp;
+Current members are:   
+&nbsp;
+
 [Alfredo	Sanchez-Tojar](https://publons.com/researcher/455178/alfredo-sanchez-tojar)   
 [David	Murray-Stoker](https://dmurraystoker.github.io/)   
 [Heather	Ritchie](https://hevritchie.wordpress.com/)   
@@ -212,7 +255,12 @@ This committee develops content for the website and for Twitter, designs and mai
 ---
 
 ### Membership Committee  		
+
 This committee focuses on recruiting SORTEE members and determining conditions for and benefits of SORTEE membership.   
+&nbsp;
+Current members are:   
+&nbsp;
+
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
 [Borja	Esteve Altava](https://organismalbiologylab.com/)   
 [Elliot	Gould](https://github.com/egouldo)   
@@ -231,7 +279,12 @@ This committee focuses on recruiting SORTEE members and determining conditions f
 ---
 
 ### Overlay Journal Committee  		
+
 This committee is exploring the possibility of establishing an ‘overlay’ journal associated with SORTEE.   
+&nbsp;
+Current members are:   
+&nbsp;
+
 [Alkistis	Elliott-Graves](http://alkistis-elliott-graves.net/)   
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
 [Dom	Roche](https://dominiqueroche.weebly.com/) **(Chair)**   
@@ -250,7 +303,10 @@ Inês	Silva
 ---
 
 ### Founding Members   
+
 Members contributing to the establishment of the Society in 2020 are:    
+&nbsp;
+
 [Alfredo Sánchez-Tojar](https://www.uni-bielefeld.de/(en)/biologie/Evolutionsbiologie/mitarbeiter/tojar.html)   
 [Allyson O’Brien](https://allysonobrien.com/home/)   
 [Antica Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
