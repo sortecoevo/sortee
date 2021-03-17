@@ -17,7 +17,7 @@ title: People
 * Conference Committee   
 * Funding Committee   
 
-## Executive Committee
+### Executive Committee
 
 Members of the inaugural Executive Committee are:
 
