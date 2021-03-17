@@ -7,9 +7,17 @@ description: People of Society for Open, Reliable, and Transparent Ecology and E
 title: People
 ---
 
+Committees:
+Executive Committee
+Media Committee
+Education and Outreach Committee
+Diversity Committee
+Conference Committee
+Funding Committee
 
+### Executive Committee
 
-Members of the inaugural executive committee are:
+Members of the inaugural Executive Committee are:
 
 ---
 
