@@ -21,7 +21,11 @@ title: People
 * [Overlay Journal]({{< ref "people.md#overlay-journal-committee" >}})    
 * [Funding Members]({{< ref "people.md#funding-members" >}})    
 
---- 
+
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 ---   
 
@@ -59,6 +63,11 @@ Members of the inaugural Executive Committee are:
 ![Tim Parker](/img/people/TimParker.png)   
 [Tim Parker](http://people.whitman.edu/~parkerth/) **(President)** is an Associate Professor of Biology at Whitman College and has interests in behavioral ecology, demography, community ecology, and meta-science.   
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+
 ---
 
 ### Awards Committee	 
@@ -73,6 +82,11 @@ Members of the inaugural Executive Committee are:
 [Nicholas	Grebe](nicholasgrebe.github.io)   
 [Sandra	Hamel](https://sites.google.com/site/sandrahamel18/)   
 Wendy	Thorogood   
+
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 ---
 
@@ -91,6 +105,11 @@ Wendy	Thorogood
 [Josefin	Sundin](https://www.slu.se/cv/josefin-sundin2/)   
 [Benoit	Pujol](http://www.criobe.pf/pro/personnel/chercheurs-et-enseignants-chercheurs/benoit-pujol/)   
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+
 ---
 
 ### Diversity, Equity, and Inclusion Committee	 
@@ -104,6 +123,11 @@ Wendy	Thorogood
 [Erin	Macartney](https://www.bees.unsw.edu.au/our-people/erin-macartney)   
 [Kimberly	Cook](https://www.researchgate.net/profile/Kimberly-Cook-3)   
 [Kaitlin	Stack Whitney](https://www.rit.edu/directory/kxwsbi-kaitlin-stack-whitney)   
+
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 ---
 
@@ -123,6 +147,11 @@ Colette	Ward
 [Ehren	Moler](https://www.researchgate.net/profile/Ehren-Moler)   
 [Valentin	Amrhein](https://camargue.unibas.ch/en/team/valentin-amrhein/)   
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+
 ---
 
 ### Finance Committee		 
@@ -130,6 +159,11 @@ Colette	Ward
 [Elliot	Gould](https://github.com/egouldo) **(Co-Chair)**    
 [Lauren	White](https://scholar.google.de/citations?user=sRtLgggAAAAJ&hl=en)    
 [Tim	Parker](http://people.whitman.edu/~parkerth/) **(Co-Chair)**   
+
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 ---
 
@@ -140,6 +174,11 @@ Joseph	Burant
 [Raphaël	Royauté](http://raphaelroyaute.com/)   
 [Shinichi	Nakagawa](http://www.i-deel.org/)   
  
+&nbsp;
+&nbsp;
+&nbsp;
+
+
 ---
 
 ### Media Committee  		
@@ -157,6 +196,11 @@ Joseph	Burant
 [Jeff	Clements](https://jclementsphd.wordpress.com/)   
 [Heather	Ritchie](https://hevritchie.wordpress.com/)   
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+
 ---
 
 ### Membership Committee  		
@@ -170,10 +214,13 @@ Joseph	Burant
 [Rose	O'Dea](http://www.roseodea.com/) **(Chair)**     
 [Tim	Parker](http://people.whitman.edu/~parkerth/)   
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+
 ---
-&nbsp;
-&nbsp;
-&nbsp;
+
 ### Overlay Journal Committee  		
 [Alkistis	Elliott-Graves](http://alkistis-elliott-graves.net/)   
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
@@ -184,6 +231,11 @@ Inês	Silva
 [Matthew	Jones](https://www.nceas.ucsb.edu/about-us/our-people)   
 [Ross	Mounce](https://rossmounce.co.uk/aboutme/)   
 [Thomas	Johnson](https://thomasfjohnson.webnode.co.uk/)   
+
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 ---
 
@@ -212,5 +264,4 @@ Members contributing to the establishment of the society are:
 [Szymon Drobniak](https://szymekdrobniak.wordpress.com/)   
 [Tim Parker](http://people.whitman.edu/~parkerth/)  
 [Wolfgang Forstmeier](https://www.orn.mpg.de/person/26271/660919)   
-
 
