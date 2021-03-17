@@ -8,7 +8,7 @@ title: People
 ---
 
 Committees:
-Executive Committee
+{{< relref "people.md#Executive Committee" >}}
 Media Committee
 Education and Outreach Committee
 Diversity Committee
