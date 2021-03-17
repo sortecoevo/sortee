@@ -32,7 +32,7 @@ title: People
 
 ### Executive Committee   
 
-Committee description here.   
+This committee focuses on the strategic matters for the Society and coordinates all other committees.
 
 Members of the inaugural Executive Committee are:
 
@@ -71,6 +71,8 @@ Members of the inaugural Executive Committee are:
 ---
 
 ### Awards Committee	 
+This committee is responsible for proposing new awards to the SORTEE Executive Committee and will also solicit nominations and select winners, subject to EC oversight and approval.   
+
 [Alessandro	Filazzola](https://www.filazzola.info/)   
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
 [Bonnie	Wintle](https://bonnieresearch.wordpress.com/about/)   
@@ -91,6 +93,7 @@ Wendy	Thorogood
 ---
 
 ### Conference Committee	 
+This committee organizes SORTEE conferences.   
 [Amelia	Hood](https://www.zoo.cam.ac.uk/directory/amelia-hood)   
 [Divya	Vasudev](https://www.conservationinitiatives.org/divya-vasudev)   
 [Edward	Ivimey-Cook](https://www.researchgate.net/profile/Edward-Ivimey-Cook)   
@@ -113,6 +116,7 @@ Wendy	Thorogood
 ---
 
 ### Diversity, Equity, and Inclusion Committee	 
+This committee works to promote diversity, equity, and inclusion within SORTEE.   
 [Kaitlyn	Gaynor](www.kaitlyngaynor.com)   
 [Malika	Ihle](https://ox.ukrn.org/people/#MalikaIhle) **(Co-Chair)**   
 [Samantha	Burke](http://www.i-deel.org/samantha-burke.html) **(Co-Chair)**   
@@ -131,7 +135,8 @@ Wendy	Thorogood
 
 ---
 
-### Education Outreach Committee  		
+### Education Outreach Committee  
+This committee develops plans to provide educational resources to individuals and organizations interested in learning more about improving research by making it more open, reliable, and transparent.   
 Bawan	Amin   
 [Clint Kelly](https://kellylab.weebly.com/)    
 Cole	Brookson  
@@ -155,6 +160,7 @@ Colette	Ward
 ---
 
 ### Finance Committee		 
+This committee manages the organization’s finances and government obligations regarding incorporation and taxes.   
 [Bonnie	Wintle](https://bonnieresearch.wordpress.com/about/)   
 [Elliot	Gould](https://github.com/egouldo) **(Co-Chair)**    
 [Lauren	White](https://scholar.google.de/citations?user=sRtLgggAAAAJ&hl=en)    
@@ -168,6 +174,7 @@ Colette	Ward
 ---
 
 ### Fundraising Committee	 
+This committee develops and implements plans for raising funds to support SORTEE.   
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
 [Dom	Roche](https://dominiqueroche.weebly.com/) **(Chair)**    
 Joseph	Burant   
@@ -182,6 +189,7 @@ Joseph	Burant
 ---
 
 ### Media Committee  		
+This committee develops content for the website and for Twitter, designs and maintains the website, and develops new ideas for spreading the word about SORTEE and open, reliable, and transparent science.   
 [Alfredo	Sanchez-Tojar](https://publons.com/researcher/455178/alfredo-sanchez-tojar)   
 [David	Murray-Stoker](https://dmurraystoker.github.io/)   
 [Heather	Ritchie](https://hevritchie.wordpress.com/)   
@@ -204,6 +212,7 @@ Joseph	Burant
 ---
 
 ### Membership Committee  		
+This committee focuses on recruiting SORTEE members and determining conditions for and benefits of SORTEE membership.   
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
 [Borja	Esteve Altava](https://organismalbiologylab.com/)   
 [Elliot	Gould](https://github.com/egouldo)   
@@ -222,6 +231,7 @@ Joseph	Burant
 ---
 
 ### Overlay Journal Committee  		
+This committee is exploring the possibility of establishing an ‘overlay’ journal associated with SORTEE.   
 [Alkistis	Elliott-Graves](http://alkistis-elliott-graves.net/)   
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
 [Dom	Roche](https://dominiqueroche.weebly.com/) **(Chair)**   
@@ -240,8 +250,7 @@ Inês	Silva
 ---
 
 ### Founding Members   
-Members contributing to the establishment of the society are:    
-
+Members contributing to the establishment of the Society in 2020 are:    
 [Alfredo Sánchez-Tojar](https://www.uni-bielefeld.de/(en)/biologie/Evolutionsbiologie/mitarbeiter/tojar.html)   
 [Allyson O’Brien](https://allysonobrien.com/home/)   
 [Antica Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
