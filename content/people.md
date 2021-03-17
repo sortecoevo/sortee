@@ -9,7 +9,7 @@ title: People
 
 ## Committees:
 
-* {{< ref "people.md#executive-committee" >}}   
+* [Executive Committee]({{< ref "people.md#executive-committee" >}})   
 
 * Media Committee   
 * Education and Outreach Committee   
