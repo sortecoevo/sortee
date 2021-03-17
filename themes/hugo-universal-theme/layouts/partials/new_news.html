@@ -1,20 +1,20 @@
-{{ if isset .Site.Params "see_more" }}
-{{ if .Site.Params.see_more.enable }}
+{{ if isset .Site.Params "new_news" }}
+{{ if .Site.Params.new_news.enable }}
 <section class="bar background-image-fixed-2 no-mb color-white text-center">
     <div class="dark-mask"></div>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="text-uppercase">{{ .Site.Params.see_more.title | markdownify }}</h3>
-                <p class="lead">{{ .Site.Params.see_more.subtitle | markdownify }}</p>
+                <h3 class="text-uppercase">{{ .Site.Params.new_news.title | markdownify }}</h3>
+                <p class="lead">{{ .Site.Params.new_news.subtitle | markdownify }}</p>
                 <p class="text-center">
-                    {{ with .Site.Params.see_more.link_url }}
+                    {{ with .Site.Params.new_news.link_url }}
                     <a href="{{ . }}" class="btn btn-template-transparent-black btn-lg">
                     {{ end }}
-                        {{ with .Site.Params.see_more.link_text }}
+                        {{ with .Site.Params.new_news.link_text }}
                         {{ . | markdownify }}
                         {{ end }}
-                    {{ with .Site.Params.see_more.link_url }}
+                    {{ with .Site.Params.new_news.link_url }}
                     </a>
                     {{ end }}
                 </p>
