@@ -7,8 +7,10 @@ description: People of Society for Open, Reliable, and Transparent Ecology and E
 title: People
 ---
 
-Committees:
-{{< relref "people.md#Executive Committee" >}}
+## Committees:
+
+{{< relref "#Executive Committee" >}}
+
 Media Committee
 Education and Outreach Committee
 Diversity Committee
