@@ -762,7 +762,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 #intro .item h3 {
   color: #fff;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 @media (max-width: 767px) {
   #intro .item h3 {
@@ -1845,7 +1845,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .portfolio-showcase p.lead {
   color: #555555;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .portfolio-showcase p {
   color: #999999;
