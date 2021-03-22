@@ -38,7 +38,7 @@ Current members are:
 &nbsp;
 
 ![Antica Culina](/img/people/AnticaCulina.png)    
-[Antica Culina](https://nioo.knaw.nl/en/employees/antica-culina) works as a research scientist at the NIOO-KNAW, Nethrlands. She is a co-founder and executive board member of [SPI-Birds](https://www.spibirds.org), and the advisory committee member of [FAIRsFAIR](https://www.fairsfair.eu/) and [Open Knowledge Maps](https://openknowledgemaps.org/).    
+[Antica Culina](https://nioo.knaw.nl/en/employees/antica-culina) works as a research scientist at the NIOO-KNAW, Netherlands. She is a co-founder and executive board member of [SPI-Birds](https://www.spibirds.org), and the advisory committee member of [FAIRsFAIR](https://www.fairsfair.eu/) and [Open Knowledge Maps](https://openknowledgemaps.org/).    
 &nbsp;
 
 ![Bonnie Wintle](/img/people/BonnieWintle.png)   
@@ -147,9 +147,10 @@ Current members are:
 [Victoria	Hemming](https://hemmingresearch.wordpress.com/)   
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
 [Alexander	Mielke](https://www.alex-mielke.com/)   
-[Erin	Macartney](https://www.bees.unsw.edu.au/our-people/erin-macartney)   
+[Erin	Macartney](https://www.erinmacartney.com/)   
 [Kimberly	Cook](https://www.researchgate.net/profile/Kimberly-Cook-3)   
 [Kaitlin	Stack Whitney](https://www.rit.edu/directory/kxwsbi-kaitlin-stack-whitney)   
+Zuzanna Zagrodza
 
 &nbsp;
 &nbsp;
