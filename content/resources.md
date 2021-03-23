@@ -63,7 +63,6 @@ While the resources below were published by other parties, in the future we plan
 
 * [Chue Hong, N 2014 'Minimal information for reusable scientific software'](https://doi.org/10.6084/m9.figshare.1112528)  
 
-
 &nbsp;
 
 ### Videos   
@@ -84,11 +83,10 @@ While the resources below were published by other parties, in the future we plan
    
 &nbsp;
 
+
 ### Reading   
 
-&nbsp;
-
-Light reading - popular articles / blogs:   
+**Light reading - popular articles / blogs:**   
 
 * [Finkel, A. (2019) ‘There is a problem’: Australia’s top scientist Alan Finkel pushes to eradicate bad science. The Conversation](https://theconversation.com/there-is-a-problem-australias-top-scientist-alan-finkel-pushes-to-eradicate-bad-science-123374)   
 
@@ -98,20 +96,20 @@ Light reading - popular articles / blogs:
 
 &nbsp;
 
-*Books:*
+**Books:**
 
-Harris, R. (2017). Rigor Mortis: How Sloppy Science Creates Worthless Cures, Crushes Hope, And Wastes Billions. https://richardharriswrites.com/
+* [Harris, R. (2017). Rigor Mortis: How Sloppy Science Creates Worthless Cures, Crushes Hope, And Wastes Billions.](https://richardharriswrites.com/)
 
-Ritchie, S. (2020). Science fictions.  https://www.penguin.com.au/books/science-fictions-9781473564251
+* [Ritchie, S. (2020). Science fictions.](https://www.penguin.com.au/books/science-fictions-9781473564251)
 
-Leng G., Leng R.I. (2020). The Matter of Facts: Skepticism, Persuasion, and Evidence in Science.  https://www.penguin.com.au/books/the-matter-of-facts-9780262043885
+* [Leng G., Leng R.I. (2020). The Matter of Facts: Skepticism, Persuasion, and Evidence in Science.](https://www.penguin.com.au/books/the-matter-of-facts-9780262043885)
 
-Spiegelhalter  D. (2019). The Art of Statistics: Learning from Data. https://www.penguin.com.au/books/the-art-of-statistics-9780241258767
+* [Spiegelhalter  D. (2019). The Art of Statistics: Learning from Data.](https://www.penguin.com.au/books/the-art-of-statistics-9780241258767)
 
 &nbsp;
 
 
-*Academic reading (journal articles - ecology and evolution focus):*
+**Academic reading (journal articles - ecology and evolution focus):**
 
 * Barto, E. Kathryn and Matthias C. Rillig (2012) Dissemination biases in ecology: effect sizes matter more than quality. Oikos, 121: 228-235. [doi:10.1111/j.1600-0706.2011.19401.x](doi:10.1111/j.1600-0706.2011.19401.x)
 
