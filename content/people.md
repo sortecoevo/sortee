@@ -159,7 +159,7 @@ Zuzanna Zagrodza
 
 ---
 
-### Education Outreach Committee  
+### Education and Outreach Committee  
 
 This committee develops plans to provide educational resources to individuals and organizations interested in learning more about improving research by making it more open, reliable, and transparent.   
 &nbsp;
