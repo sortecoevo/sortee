@@ -268,7 +268,6 @@ Current members are:
 [Gideon	Deme Gywa](https://scholar.google.com/citations?user=ISsrNjIAAAAJ&hl=en)   
 [Kaija	Gahm](https://kaijagahm.netlify.app/)   
 [Lewis	Bartlett](https://www.bartlett.science/)   
-[Paul	Selmants](https://www.usgs.gov/staff-profiles/paul-c-selmants)   
 [Rose	O'Dea](http://www.roseodea.com/) **(Chair)**     
 [Tim	Parker](http://people.whitman.edu/~parkerth/)   
 
