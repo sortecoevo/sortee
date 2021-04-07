@@ -17,6 +17,16 @@
   border-bottom: 1px solid transparent;
 }
 
+/* FONT SIZE - overriding style.default.css size 14 */
+/* scaffolding */
+body {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.42857143;
+  color: #555555;
+}
+
+
 
 /* MINIMIZING THE FOOTER? */
 /* footer */
