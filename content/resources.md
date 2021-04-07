@@ -9,7 +9,7 @@ title: Resources
 
 This page hosts an assortment of resources ranging from societies and organizations to tools, guide, videos and articles. We selected journal articles to reflect ecology and evolution-specific problems and solutions, while other resources usually have a more general scope.    
 
-**If you know about any other relevant items, please contact [SORTEE]({{< ref "pcontact.md" >}}) or somebody from our [Education and Outreach]({{< ref "people.md#Education-and-outreach-committee" >}}) or [Media]({{< ref "people.md#media-committee" >}})  committees.**    
+**If you know about any other relevant items, please contact [SORTEE]({{< ref "contact.md" >}}) or somebody from our [Education and Outreach]({{< ref "people.md#Education-and-outreach-committee" >}}) or [Media]({{< ref "people.md#media-committee" >}})  committees.**    
 
 While the resources below were published by other parties, in the future we would love to create  our own resources, tailored for ecology and evolution. For example, these may take form of slides, videos, or even one-page summaries of key concepts, workflows or tools. If you have specific requests, ideas or wish to contribute - please get in touch!   
 
