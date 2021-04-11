@@ -28,18 +28,22 @@ paginate = 4
     name = "People"
     url = "/people/"
     weight = 20
-
+    
 [[menu.main]]
-    identifier = "bylaws"
-    name = "Bylaws"
-    url = "/bylaws/"
+    identifier = "documents"
+    name = "documents"
+    url = "/documents/"
     weight = 30
 
 [[menu.main]]
-    identifier = "code"
+    parent = "bylaws"
+    name = "Bylaws"
+    url = "/documents/bylaws/"
+
+[[menu.main]]
+    parent = "code"
     name = "Code of conduct"
-    url = "/codeofconduct/"
-    weight = 40
+    url = "/documents/codeofconduct/"
 
 [[menu.main]]
     identifier = "resource"
