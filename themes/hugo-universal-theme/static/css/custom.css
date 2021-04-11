@@ -15,6 +15,7 @@
   min-height: 120px;
   margin-bottom: 0;
   border-bottom: 1px solid transparent;
+  font-size: 14px;
 }
 
 /* FONT SIZE - overriding style.default.css size 14 */
