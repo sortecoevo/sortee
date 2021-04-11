@@ -1,7 +1,9 @@
 ---
 aliases:
 - code-us
-author: ML
+author: SORTEE
+categories:
+- documents
 date: "2020-09-14"
 description: Code of contact of Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: Code of Conduct
