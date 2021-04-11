@@ -36,12 +36,12 @@ paginate = 4
     weight = 30
 
 [[menu.main]]
-    parent = "bylaws"
+    parent = "documents"
     name = "Bylaws"
     url = "/documents/bylaws/"
 
 [[menu.main]]
-    parent = "code"
+    parent = "documents"
     name = "Code of conduct"
     url = "/documents/codeofconduct/"
 
