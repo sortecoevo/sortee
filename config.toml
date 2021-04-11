@@ -38,12 +38,12 @@ paginate = 4
 [[menu.main]]
     parent = "documents"
     name = "Bylaws"
-    url = "/documents/bylaws/"
+    url = "/bylaws/"
 
 [[menu.main]]
     parent = "documents"
     name = "Code of conduct"
-    url = "/documents/codeofconduct/"
+    url = "/codeofconduct/"
 
 [[menu.main]]
     identifier = "resource"
