@@ -21,16 +21,20 @@ title: Events
 * [Malvika Sharan](https://malvikasharan.github.io/) - Alan Turing Institute   
 
 ### Content submissions are now [open](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW)!    
-(conference registration coming soon)   
+ 
+*Content submissions deadline: 1st of June*
+*See below for more details!*
+**conference registration coming soon**      
 
-*Content submissions deadline: 1st of June*    
+&nbsp;
 
 --------------------------------------------------------------------------------------------------------------------
 
 *Submit proposals for:*   
 
+
 ### Participatory events:   
-[PLEASE SUBMIT YOUR PROPOSALS](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW) by the 1st of June.  
+[PLEASE SUBMIT YOUR PROPOSALS HERE](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW) by the 1st of June.  
 We want to facilitate lively exchanges of ideas, and so the following three event types will be the heart of the conference:   
 
 * **Unconferences** - Facilitated discussions of ideas for how to make ecology, evolutionary biology, and related disciplines more open, reliable, and transparent. Facilitation involves moderating the conversation with ideas and examples, but there are no formal presentations.   
@@ -41,7 +45,8 @@ We want to facilitate lively exchanges of ideas, and so the following three even
 
 
 ### Short Presentations:    
-We also invite you to [propose a presentation](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW) (by the 1st of June) to share your experience with issues of openness, reliability, and transparency in scientific research that are relevant to people working in fields related to ecology and evolutionary biology. For example, you could reflect on failures in your own work and what they taught you, present tools or methods that can help others make their research more open, reliable, and transparent, present plans for an upcoming project, or present research that integrates open science practices in an inspiring way.   
+[PLEASE SUBMIT YOUR PROPOSALS HERE](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW) by the 1st of June.  
+We also invite you to propose a presentation to share your experience with issues of openness, reliability, and transparency in scientific research that are relevant to people working in fields related to ecology and evolutionary biology. For example, you could reflect on failures in your own work and what they taught you, present tools or methods that can help others make their research more open, reliable, and transparent, present plans for an upcoming project, or present research that integrates open science practices in an inspiring way.   
 
 --------------------------------------------------------------------------------------------------------------------
 
