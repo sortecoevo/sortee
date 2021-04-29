@@ -25,7 +25,9 @@ title: Events
 
 *Content submissions deadline: 1st of June*    
 
-**Submit proposals for:**   
+--------------------------------------------------------------------------------------------------------------------
+
+*Submit proposals for:*   
 
 ### Participatory events:   
 [PLEASE SUBMIT YOUR PROPOSALS](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW) by the 1st of June.  
