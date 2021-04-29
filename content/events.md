@@ -24,7 +24,10 @@ title: Events
  
 *Content submissions deadline: 1st of June*   
 *See below for more details!*   
-**conference registration coming soon**      
+
+&nbsp;
+
+**Conference registration coming soon!**      
 
 &nbsp;
 
@@ -49,20 +52,23 @@ We want to facilitate lively exchanges of ideas, and so the following three even
 We also invite you to propose a presentation to share your experience with issues of openness, reliability, and transparency in scientific research that are relevant to people working in fields related to ecology and evolutionary biology. For example, you could reflect on failures in your own work and what they taught you, present tools or methods that can help others make their research more open, reliable, and transparent, present plans for an upcoming project, or present research that integrates open science practices in an inspiring way.   
 
 --------------------------------------------------------------------------------------------------------------------
+&nbsp;
 
-We strongly encourage proposals for all contribution types from people at a wide range of career stages and from members of underrepresented groups.  
+**More info on submissions:**   
+
+We strongly encourage proposals for all contribution types from people at a wide range of career stages and from members of underrepresented groups.   
 
 For facilitated sessions (Workshops, Unconferences, and Hackathons), we welcome proposals from small teams (as well as individuals). We encourage teams to include diverse perspectives, for instance with facilitators from different countries and balanced in terms of gender and career stage. Facilitation by early career researchers (students or early career postdocs) is warmly encouraged.   
 
 We encourage people with any questions about accessibility in the submission process or the events themselves to contact us via sorteeconf2021@gmail.com. Similarly, please feel free to contact us if you would like guidance as you prepare your proposals and submissions.   
 
 --------------------------------------------------------------------------------------------------------------------
+&nbsp;
 
-*The conference will run continuously from 12 July 0700 UTC to 14 July 0700 UTC, in order to cover all timezones (with Europe/Africa and the Americas spanning July 12-13, and Asia/Pacific spanning July 13-14).   
-
-
+* *The conference will run continuously from 12 July 0700 UTC to 14 July 0700 UTC, in order to cover all timezones (with Europe/Africa and the Americas spanning July 12-13, and Asia/Pacific spanning July 13-14).*      
 
 --------------------------------------------------------------------------------------------------------------------
+&nbsp;
 
 Join SORTEE (it’s free for 2021) to be sure to receive an email announcement when registrations open: 
 
