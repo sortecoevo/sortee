@@ -27,7 +27,7 @@ title: Events
 
 * Plenary presentations: from experts on open, reliable, and transparent science
 
-* Short professional talks: share your experience working to make EcoEvo more open, reliable, and transparent (for instance, reflections from successes and failures in your own work; descriptions of tools, methods, protocols; etc.)
+* Short professional presentations: share your experience working to make EcoEvo more open, reliable, and transparent (for instance, reflections from successes and failures in your own work; descriptions of tools, methods, protocols; etc.)
 
 Join SORTEE (it’s free for 2021) to be sure to receive an email announcement when registrations open: 
 
