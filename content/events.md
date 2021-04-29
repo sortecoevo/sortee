@@ -7,27 +7,53 @@ description: Events by Society for Open, Reliable, and Transparent Ecology and E
 title: Events
 ---
 
-## Announcing the inaugural SORTEE Conference!   
+## SORTEE Conference 2021   
 
-**When: The week of the 12th of JULY 2021 (exact days to be determined)**   
+### Virtually, world-wide 12th - 14th of July*
 
-**Where: Virtually, world-wide**     
+**Announcing the plenary presenters for the 2021 SORTEE Conference:**
 
-**What:**
+* [Michael Eisen](http://www.eisenlab.org/) - University of California, Berkeley  
+* [Hannah Fraser](https://hsfraser.wordpress.com/) - University of Melbourne   
+* [Michael Jennions](http://thejennionslab.weebly.com/) - Australian National University   
+* [Julia Stewart Lowndes](https://juliastewart.org/) - National Center for Ecological Analysis and Synthesis   
+* [Richard McElreath](https://xcelab.net/rm/) - Max Planck Institute for Evolutionary Anthropology   
+* [Malvika Sharan](https://malvikasharan.github.io/) - Alan Turing Institute   
 
-* We plan events and talks in working hours worldwide, including:
+### Content submissions are now [open](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW)!    
+(conference registration coming soon)   
 
-* Workshops: learn tips for producing open, reliable, and transparent science
+*Content submissions deadline: 1st of June*    
 
-* Unconferences: discuss ideas for how to make ecology, evolutionary biology, and related disciplines more open, reliable, and transparent
+**Submit proposals for:**   
 
-* Hackathons: work together on projects with well-defined goals (papers, techniques, software, etc.)
+**Participatory events**. [PLEASE SUBMIT YOUR PROPOSALS](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW) by the 1st of June.  
+We want to facilitate lively exchanges of ideas, and so the following three event types will be the heart of the conference:   
 
-* Networking opportunities: meet others in your region and around the world who share your interest in open, reliable, and transparent science. 
+**Unconferences:** Facilitated discussions of ideas for how to make ecology, evolutionary biology, and related disciplines more open, reliable, and transparent. Facilitation involves moderating the conversation with ideas and examples, but there are no formal presentations.   
 
-* Plenary presentations: from experts on open, reliable, and transparent science
+**Hackathons:** Group projects with well-defined goals (papers, techniques, software, protocols, organizations, etc.).   
 
-* Short professional presentations: share your experience working to make EcoEvo more open, reliable, and transparent (for instance, reflections from successes and failures in your own work; descriptions of tools, methods, protocols; etc.)
+**Workshops:** Facilitators will teach tools for implementing open, reliable, and transparent practices.   
+
+
+**Short Presentations:** We also invite you to propose a presentation (by the 1st of June) to share your experience with issues of openness, reliability, and transparency in scientific research that are relevant to people working in fields related to ecology and evolutionary biology. For example, you could reflect on failures in your own work and what they taught you, present tools or methods that can help others make their research more open, reliable, and transparent, present plans for an upcoming project, or present research that integrates open science practices in an inspiring way.   
+
+--------------------------------------------------------------------------------------------------------------------
+
+We strongly encourage proposals for all contribution types from people at a wide range of career stages and from members of underrepresented groups.  
+
+For facilitated sessions (Workshops, Unconferences, and Hackathons), we welcome proposals from small teams (as well as individuals). We encourage teams to include diverse perspectives, for instance with facilitators from different countries and balanced in terms of gender and career stage. Facilitation by early career researchers (students or early career postdocs) is warmly encouraged.   
+
+We encourage people with any questions about accessibility in the submission process or the events themselves to contact us via sorteeconf2021@gmail.com . Similarly, please feel free to contact us if you would like guidance as you prepare your proposals and submissions.   
+
+--------------------------------------------------------------------------------------------------------------------
+
+*The conference will run continuously from 12 July 0700 UTC to 14 July 0700 UTC, in order to cover all timezones (with Europe/Africa and the Americas spanning July 12-13, and Asia/Pacific spanning July 13-14).   
+
+
+
+--------------------------------------------------------------------------------------------------------------------
 
 Join SORTEE (it’s free for 2021) to be sure to receive an email announcement when registrations open: 
 
