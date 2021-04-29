@@ -25,7 +25,7 @@ title: Events
 
 * Networking opportunities: meet others in your region and around the world who share your interest in open, reliable, and transparent science. 
 
-* Plenary talks: from experts on open, reliable, and transparent science
+* Plenary presentations: from experts on open, reliable, and transparent science
 
 * Short professional talks: share your experience working to make EcoEvo more open, reliable, and transparent (for instance, reflections from successes and failures in your own work; descriptions of tools, methods, protocols; etc.)
 
