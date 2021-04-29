@@ -30,7 +30,6 @@ title: Events
 **Conference registration coming soon!**      
 
 &nbsp;
-
 --------------------------------------------------------------------------------------------------------------------
 
 *Submit proposals for:*   
@@ -51,8 +50,8 @@ We want to facilitate lively exchanges of ideas, and so the following three even
 [PLEASE SUBMIT YOUR PROPOSALS HERE](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW) by the 1st of June.  
 We also invite you to propose a presentation to share your experience with issues of openness, reliability, and transparency in scientific research that are relevant to people working in fields related to ecology and evolutionary biology. For example, you could reflect on failures in your own work and what they taught you, present tools or methods that can help others make their research more open, reliable, and transparent, present plans for an upcoming project, or present research that integrates open science practices in an inspiring way.   
 
---------------------------------------------------------------------------------------------------------------------
 &nbsp;
+--------------------------------------------------------------------------------------------------------------------
 
 **More info on submissions:**   
 
@@ -62,11 +61,12 @@ For facilitated sessions (Workshops, Unconferences, and Hackathons), we welcome 
 
 We encourage people with any questions about accessibility in the submission process or the events themselves to contact us via sorteeconf2021@gmail.com. Similarly, please feel free to contact us if you would like guidance as you prepare your proposals and submissions.   
 
---------------------------------------------------------------------------------------------------------------------
 &nbsp;
+--------------------------------------------------------------------------------------------------------------------
 
 * *The conference will run continuously from 12 July 0700 UTC to 14 July 0700 UTC, in order to cover all timezones (with Europe/Africa and the Americas spanning July 12-13, and Asia/Pacific spanning July 13-14).*      
 
+&nbsp;
 --------------------------------------------------------------------------------------------------------------------
 &nbsp;
 
@@ -74,7 +74,7 @@ Join SORTEE (it’s free for 2021) to be sure to receive an email announcement w
 
 ## To join SORTEE, please fill in this [new member survey](https://whitmancollege.qualtrics.com/jfe/form/SV_8cVHlAEMUoPRr01).    
 
-
+&nbsp;
 
 
 
