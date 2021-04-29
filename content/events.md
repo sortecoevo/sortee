@@ -16,7 +16,7 @@ title: Events
 * [Michael Eisen](http://www.eisenlab.org/) - University of California, Berkeley  
 * [Hannah Fraser](https://hsfraser.wordpress.com/) - University of Melbourne   
 * [Michael Jennions](http://thejennionslab.weebly.com/) - Australian National University   
-* [Julia Stewart Lowndes](https://juliastewart.org/) - National Center for Ecological Analysis and Synthesis   
+* [Julia Stewart Lowndes](https://jules32.github.io/) - National Center for Ecological Analysis and Synthesis   
 * [Richard McElreath](https://xcelab.net/rm/) - Max Planck Institute for Evolutionary Anthropology   
 * [Malvika Sharan](https://malvikasharan.github.io/) - Alan Turing Institute   
 
@@ -27,17 +27,19 @@ title: Events
 
 **Submit proposals for:**   
 
-**Participatory events**. [PLEASE SUBMIT YOUR PROPOSALS](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW) by the 1st of June.  
+### Participatory events:   
+[PLEASE SUBMIT YOUR PROPOSALS](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW) by the 1st of June.  
 We want to facilitate lively exchanges of ideas, and so the following three event types will be the heart of the conference:   
 
-**Unconferences:** Facilitated discussions of ideas for how to make ecology, evolutionary biology, and related disciplines more open, reliable, and transparent. Facilitation involves moderating the conversation with ideas and examples, but there are no formal presentations.   
+* **Unconferences** - Facilitated discussions of ideas for how to make ecology, evolutionary biology, and related disciplines more open, reliable, and transparent. Facilitation involves moderating the conversation with ideas and examples, but there are no formal presentations.   
 
-**Hackathons:** Group projects with well-defined goals (papers, techniques, software, protocols, organizations, etc.).   
+* **Hackathons** - Group projects with well-defined goals (papers, techniques, software, protocols, organizations, etc.).   
 
-**Workshops:** Facilitators will teach tools for implementing open, reliable, and transparent practices.   
+* **Workshops** - Facilitators will teach tools for implementing open, reliable, and transparent practices.   
 
 
-**Short Presentations:** We also invite you to [propose a presentation](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW) (by the 1st of June) to share your experience with issues of openness, reliability, and transparency in scientific research that are relevant to people working in fields related to ecology and evolutionary biology. For example, you could reflect on failures in your own work and what they taught you, present tools or methods that can help others make their research more open, reliable, and transparent, present plans for an upcoming project, or present research that integrates open science practices in an inspiring way.   
+### Short Presentations:    
+We also invite you to [propose a presentation](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW) (by the 1st of June) to share your experience with issues of openness, reliability, and transparency in scientific research that are relevant to people working in fields related to ecology and evolutionary biology. For example, you could reflect on failures in your own work and what they taught you, present tools or methods that can help others make their research more open, reliable, and transparent, present plans for an upcoming project, or present research that integrates open science practices in an inspiring way.   
 
 --------------------------------------------------------------------------------------------------------------------
 
