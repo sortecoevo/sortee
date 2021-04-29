@@ -64,7 +64,7 @@ We encourage people with any questions about accessibility in the submission pro
 &nbsp;
 --------------------------------------------------------------------------------------------------------------------
 
-* *The conference will run continuously from 12 July 0700 UTC to 14 July 0700 UTC, in order to cover all timezones (with Europe/Africa and the Americas spanning July 12-13, and Asia/Pacific spanning July 13-14).*      
+   * *The conference will run continuously from 12 July 0700 UTC to 14 July 0700 UTC, in order to cover all timezones (with Europe/Africa and the Americas spanning July 12-13, and Asia/Pacific spanning July 13-14).*      
 
 &nbsp;
 --------------------------------------------------------------------------------------------------------------------
