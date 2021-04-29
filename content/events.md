@@ -68,6 +68,7 @@ We encourage people with any questions about accessibility in the submission pro
 
 &nbsp;
 --------------------------------------------------------------------------------------------------------------------
+
 &nbsp;
 
 Join SORTEE (it’s free for 2021) to be sure to receive an email announcement when registrations open: 
