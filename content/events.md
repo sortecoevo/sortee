@@ -73,7 +73,7 @@ We encourage people with any questions about accessibility in the submission pro
 
 Join SORTEE (it’s free for 2021) to be sure to receive an email announcement when registrations open: 
 
-## To join SORTEE, please fill in this [new member survey](https://whitmancollege.qualtrics.com/jfe/form/SV_8cVHlAEMUoPRr01).    
+## To join SORTEE, please fill in this [new member survey](https://whitmancollege.qualtrics.com/jfe/form/SV_erj9dfYpaGDqolM).    
 
 &nbsp;
 
