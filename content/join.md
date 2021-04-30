@@ -9,7 +9,7 @@ title: Join
 
 
 
-## To join SORTEE, please fill in this [new member survey](https://whitmancollege.qualtrics.com/jfe/form/SV_8cVHlAEMUoPRr01).   
+## To join SORTEE, please fill in this [new member survey](https://whitmancollege.qualtrics.com/jfe/form/SV_erj9dfYpaGDqolM).   
 
 ----
 
@@ -38,7 +38,7 @@ Please help us:
 
 ----
 
-## To join SORTEE, please fill in this [new member survey](https://whitmancollege.qualtrics.com/jfe/form/SV_8cVHlAEMUoPRr01).    
+## To join SORTEE, please fill in this [new member survey](https://whitmancollege.qualtrics.com/jfe/form/SV_erj9dfYpaGDqolM).    
 
 
 
