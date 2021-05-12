@@ -1,2 +1,2 @@
 # SORTEE
-This is a website for SORTEE created Hugo website builder via blogdown R package.
+This is an offcieal website for SORTEE - Society for Open, Reliable, and Transparent Ecology and Evolutionary biology.
