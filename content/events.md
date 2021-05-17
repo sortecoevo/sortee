@@ -55,6 +55,10 @@ We also invite you to propose a presentation to share your experience with issue
 
 **More info on submissions:**   
 
+[Here is a Google doc](https://docs.google.com/document/d/1h_aZ5zyVTBIf3bsqy6foj1SH7VlQnDXHtqjBZhrR4G0/edit?usp=sharing) of the questions that are in the [Qualtrics form](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW)!, to help you prepare your submissions (note that there are short character limits for specific questions). Please submit the proposals using online [Qualtrics form](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW).    
+
+&nbsp;
+
 We strongly encourage proposals for all contribution types from people at a wide range of career stages and from members of underrepresented groups.   
 
 For facilitated sessions (Workshops, Unconferences, and Hackathons), we welcome proposals from small teams (as well as individuals). We encourage teams to include diverse perspectives, for instance with facilitators from different countries and balanced in terms of gender and career stage. Facilitation by early career researchers (students or early career postdocs) is warmly encouraged.   
