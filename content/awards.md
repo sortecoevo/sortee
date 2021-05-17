@@ -18,6 +18,9 @@ Please submit nominations by **1 June 2021** to Clint Kelly at kelly.clint@uqam.
 
 **Description of awards**   
 
+&nbsp;
+
+
 ## 1. Open Science in Practice   
 
 This award aims to recognize and reward researchers who have endeavoured to implement best practices in Open Science (OS) within their research workflow, thereby increasing the transparency and reproducibility of their research activities.   
@@ -36,10 +39,14 @@ All steps that are taken to improve the transparency and reproducibility of EEB 
 (ii) An up-to-date CV.   
 (iii) A brief document (maximum 300 words) describing other elements of reproducibility or open science that you wish to have applied to your research, but were limited by financial constraints, access to certain resources, bureaucratic restrictions, or any other barrier.     
 
+&nbsp;
+
 **Criteria:**   
 The criteria for judging submissions are based on TOP journal guidelines modified for application to individual publications.   
 
 We emphasize that making publications Open Access is NOT a criterion for the awards, as this typically requires access to substantial funds.  However, making a penultimate version of an officially accepted manuscript publicly available (e.g. on a preprint server, institutional repository, or personal webpage) is good practice, and is now permitted by almost all publishing outlets.   
+
+&nbsp;
 
 &nbsp;
 
@@ -65,19 +72,26 @@ We emphasize that making publications Open Access is NOT a criterion for the awa
 
 &nbsp;
 
+&nbsp;
+
 ## 2. Best First Paper   
 
 This award aims to recognize and reward researchers who, in the calendar year 2020, published their first peer-reviewed publication, and in the production of said output, sought to maximize the transparency, openness, and reproducibility of their work.  The publication is required to have been published with a DOI online (i.e., either “online early” view or in issue) by the publisher in the calendar year 2020. This might not correspond to the final publication date associated with the citation.    
 
+&nbsp;
+
 **Eligibility:** The first author of the paper published in 2020 must be a graduate student or post-doctoral researcher.   
 
 If the awardee is selected by the committee with lead time sufficient time, the awardee will be invited to give a short (~15 minute) presentation at the inaugural SORTEE conference, to be held 12-14 July 2021.  The awardee’s work will also be promoted by SORTEE via Twitter, and announced to other EEB societies (e.g. CSEE, ESA). In this inaugural year for SORTEE and its activities, we unfortunately do not have funds available for awards, and we may not be able to select the awardee with sufficient lead time to provide presentation slots at the conference.   
+
+&nbsp;
 
 **Application materials:**   
 (i) A letter (maximum 500 words) describing why you are deserving of this award, and referring to evidence and examples (accessible to adjudicators through URLs / DOIs) of how your publication and the work that went into it exemplifies Open Science best practices.   
 (ii) An up-to-date resumé (maximum 2 pages as a .pdf).   
 (iii) A .pdf copy of the paper.   
 
+&nbsp;
 &nbsp;
 
 Please submit nominations by **1 June 2021** to Clint Kelly at kelly.clint@uqam.ca   
