@@ -94,6 +94,12 @@ paginate = 4
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
+    weight = 3
+    name = "Linkedin"
+    url = "https://www.linkedin.com/company/sortee/"
+    pre = "<i class='fab fa-2x fa-linkedin'></i>"
+    
+[[menu.topbar]]
     weight = 4
     name = "Email"
     url = "mailto:sortecoevo@gmail.com"
