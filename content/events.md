@@ -55,7 +55,7 @@ We also invite you to propose a presentation to share your experience with issue
 
 **More info on submissions:**   
 
-[Here is a Google doc](https://docs.google.com/document/d/1h_aZ5zyVTBIf3bsqy6foj1SH7VlQnDXHtqjBZhrR4G0/edit?usp=sharing) of the questions that are in the [Qualtrics form](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW), to help you prepare your submissions (note that there are short character limits for specific questions). Please submit the proposals using online [Qualtrics form](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW).    
+To help you prepare your submissions you can download a [Google doc](https://docs.google.com/document/d/1h_aZ5zyVTBIf3bsqy6foj1SH7VlQnDXHtqjBZhrR4G0/edit?usp=sharing) or an [OSF-sttored file](https://osf.io/6rujg/) containing the questions that are in the [Qualtrics form](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW). Note that there are short character limits for specific questions. Please submit the proposals using online [Qualtrics form](https://unsw.au1.qualtrics.com/jfe/form/SV_cUPB1c3Y9Gb5JUW).    
 
 &nbsp;
 
