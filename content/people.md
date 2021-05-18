@@ -143,7 +143,6 @@ Current members are:
 [Kaitlyn	Gaynor](www.kaitlyngaynor.com)   
 [Malika	Ihle](https://ox.ukrn.org/people/#MalikaIhle) **(Co-Chair)**   
 [Samantha	Burke](http://www.i-deel.org/samantha-burke.html) **(Co-Chair)**   
-[Sarah	Goslee](https://scholar.google.com/citations?hl=en&user=dQwgxiMAAAAJ)   
 [Victoria	Hemming](https://hemmingresearch.wordpress.com/)   
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
 [Alexander	Mielke](https://www.alex-mielke.com/)   
