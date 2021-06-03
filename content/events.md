@@ -9,7 +9,7 @@ title: Events
 
 ## SORTEE Conference 2021   
 
-### Virtually, world-wide 12th - 14th of July*^
+### Virtually, world-wide 12th - 14th of July ^
 
 **Announcing the plenary presenters for the 2021 SORTEE Conference:**
 
