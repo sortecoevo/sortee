@@ -14,7 +14,7 @@ title: Events
 **Announcing the plenary presenters for the 2021 SORTEE Conference:**
 
 * [Michael Eisen](http://www.eisenlab.org/) (University of California, Berkeley) - [talk abstract and speaker bio]({{< ref "michael_eisen.md" >}})       
-* [Hannah Fraser](https://hsfraser.wordpress.com/) (University of Melbourne) - [talk abstract and speaker bio]    
+* [Hannah Fraser](https://hsfraser.wordpress.com/) (University of Melbourne) - [talk abstract and speaker bio]({{< ref "hannah_fraser.md" >}})    
 * [Michael Jennions](http://thejennionslab.weebly.com/) (Australian National University) - [talk abstract and speaker bio]({{< ref "michael_jennions.md" >}})        
 * [Julia Stewart Lowndes](https://jules32.github.io/) (National Center for Ecological Analysis and Synthesis) - [talk abstract and speaker bio]({{< ref "julia_stewart_lowndes.md" >}})        
 * [Richard McElreath](https://xcelab.net/rm/) (Max Planck Institute for Evolutionary Anthropology) - [talk abstract and speaker bio]({{< ref "richard_mcelreath.md" >}})    
@@ -27,9 +27,8 @@ title: Events
 &nbsp;
 --------------------------------------------------------------------------------------------------------------------
 
-*The conference will run continuously from 12 July 0700 UTC to 14 July 0700 UTC, in order to cover all timezones (with Europe/Africa and the Americas spanning July 12-13, and Asia/Pacific spanning July 13-14).     
+* *The conference will run continuously from 12 July 0700 UTC to 14 July 0700 UTC, in order to cover all timezones (with Europe/Africa and the Americas spanning July 12-13, and Asia/Pacific spanning July 13-14).*     
 
-&nbsp;
 --------------------------------------------------------------------------------------------------------------------
 
 &nbsp;
