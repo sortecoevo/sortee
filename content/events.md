@@ -9,7 +9,7 @@ title: Events
 
 ## SORTEE Conference 2021   
 
-### Virtually, world-wide 12th - 14th of July*
+### Virtually, world-wide 12th - 14th of July*^
 
 **Announcing the plenary presenters for the 2021 SORTEE Conference:**
 
@@ -27,7 +27,7 @@ title: Events
 &nbsp;
 --------------------------------------------------------------------------------------------------------------------
 
-* *The conference will run continuously from 12 July 0700 UTC to 14 July 0700 UTC, in order to cover all timezones (with Europe/Africa and the Americas spanning July 12-13, and Asia/Pacific spanning July 13-14).*     
+^  *The conference will run continuously from 12 July 0700 UTC to 14 July 0700 UTC, in order to cover all timezones (with Europe/Africa and the Americas spanning July 12-13, and Asia/Pacific spanning July 13-14).*     
 
 --------------------------------------------------------------------------------------------------------------------
 
