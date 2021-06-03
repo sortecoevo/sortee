@@ -42,4 +42,3 @@ She is a co-founder of Open Life Science, a mentoring and training programme tha
 
 
 
-
