@@ -13,11 +13,11 @@ title: Events
 
 **Announcing the plenary presenters for the 2021 SORTEE Conference:**
 
-* [Michael Eisen](http://www.eisenlab.org/) (University of California, Berkeley) - [talk abstract and speaker bio]()    
-* [Hannah Fraser](https://hsfraser.wordpress.com/) (University of Melbourne) - [talk abstract and speaker bio]()     
-* [Michael Jennions](http://thejennionslab.weebly.com/) (Australian National University) - [talk abstract and speaker bio]()     
-* [Julia Stewart Lowndes](https://jules32.github.io/) (National Center for Ecological Analysis and Synthesis) - [talk abstract and speaker bio]()     
-* [Richard McElreath](https://xcelab.net/rm/) (Max Planck Institute for Evolutionary Anthropology) - [talk abstract and speaker bio]()    
+* [Michael Eisen](http://www.eisenlab.org/) (University of California, Berkeley) - [talk abstract and speaker bio]({{< ref "michael_eisen.md" >}})       
+* [Hannah Fraser](https://hsfraser.wordpress.com/) (University of Melbourne) - [talk abstract and speaker bio]({{< ref "[hannah_fraser.md" >}})    
+* [Michael Jennions](http://thejennionslab.weebly.com/) (Australian National University) - [talk abstract and speaker bio]({{< ref "michael_jennions.md" >}})        
+* [Julia Stewart Lowndes](https://jules32.github.io/) (National Center for Ecological Analysis and Synthesis) - [talk abstract and speaker bio]({{< ref "julia_stewart_lowndes.md" >}})        
+* [Richard McElreath](https://xcelab.net/rm/) (Max Planck Institute for Evolutionary Anthropology) - [talk abstract and speaker bio]({{< ref "richard_mcelreath.md" >}})    
 * [Malvika Sharan](https://malvikasharan.github.io/) (Alan Turing Institute) - [talk abstract and speaker bio]({{< ref "malvika_sharan.md" >}})  
 
 &nbsp;
