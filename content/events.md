@@ -22,7 +22,10 @@ title: Events
 
 &nbsp;
 
-**Content submissions are now closed, but conference registration will be open soon!**     
+**Content submissions are now closed, but conference registration is open!**   
+
+## [Conference registration](https://www.eventbrite.co.uk/e/sortee-conference-2021-registration-154693776249)   
+
 
 &nbsp;
 --------------------------------------------------------------------------------------------------------------------
@@ -35,7 +38,7 @@ title: Events
 
 Join SORTEE (it’s free for 2021) to be sure to receive an email announcement when registrations open: 
 
-## To join SORTEE, please fill in this [new member survey](https://whitmancollege.qualtrics.com/jfe/form/SV_erj9dfYpaGDqolM).    
+## To join SORTEE, please fill in this [new member survey](https://whitmancollege.qualtrics.com/jfe/form/SV_erj9dfYpaGDqolM)    
 
 &nbsp;
 
