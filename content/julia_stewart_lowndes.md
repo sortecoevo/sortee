@@ -15,9 +15,6 @@ title: Julia Stewart Lowndes
 
 ### July 12th, 1700 UTC     
 
-### Pre-recorded or live   
-
-
 
 **Talk title:** Openscapes: Towards more open, reproducible, inclusive practices for research teams and communities     
 

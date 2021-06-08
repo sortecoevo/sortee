@@ -15,9 +15,6 @@ title: Malvika Sharan
 
 ### July 12th, 0900 UTC     
 
-### Pre-recorded   
-
-
 
 **Talk title:** The Turing Way Guide to Reproducible, Ethical and Collaborative Research   
 
@@ -29,10 +26,8 @@ In this talk, I will introduce The Turing Way - an open source community-driven 
 She is a co-founder of Open Life Science, a mentoring and training programme that empowers researchers to integrate open science in the context of their communities. After receiving her PhD in Bioinformatics, she started her career in open source community building at the European Molecular Biology Laboratory. She is a Software Sustainability Institute fellow, Open Bioinformatics Foundation board member and an active contributor of open source projects. Connect with her to discuss and collaborate on building resources, promoting open practices and supporting projects to enhance the diversity of marginalised members in research leadership.   
 
 
-
 &nbsp;
 --------------------------------------------------------------------------------------------------------------------
-
 
 ![Malvika Sharan](/img/people/MalvikaSharan.png) 
 
