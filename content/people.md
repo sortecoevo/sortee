@@ -146,7 +146,6 @@ Current members are:
 [Victoria	Hemming](https://hemmingresearch.wordpress.com/)   
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
 [Alexander	Mielke](https://www.alex-mielke.com/)   
-[Erin	Macartney](https://www.erinmacartney.com/)   
 [Kimberly	Cook](https://www.researchgate.net/profile/Kimberly-Cook-3)   
 [Kaitlin	Stack Whitney](https://www.rit.edu/directory/kxwsbi-kaitlin-stack-whitney)   
 Zuzanna Zagrodza
