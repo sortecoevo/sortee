@@ -197,8 +197,8 @@ paginate = 4
 [params.new_news]
     enable = true
     icon = "fas fa-globe"
-    title = "Save the date: SORTEE conference this July"
-    subtitle = "Announcing the inaugural SORTEE (virtual) Conference!"
+    title = "REGISTRATION OPEN"
+    subtitle = "for the inaugural SORTEE conference!"
     link_url = "/events"
     link_text = "Read more"
     
