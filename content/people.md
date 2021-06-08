@@ -70,7 +70,7 @@ Current members are:
 &nbsp;
 
 ![Tim Parker](/img/people/TimParker.png)   
-[Tim Parker](http://people.whitman.edu/~parkerth/) **(President)** is an Associate Professor of Biology at Whitman College and has interests in behavioral ecology, demography, community ecology, and meta-science.   
+[Tim Parker](http://people.whitman.edu/~parkerth/) **(President)** is a Professor of Biology at Whitman College and has interests in behavioral ecology, demography, community ecology, and meta-science.   
 
 &nbsp;
 &nbsp;
