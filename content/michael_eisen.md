@@ -13,10 +13,10 @@ title: Michael Eisen
 
 ### 30 minutes    
 
-### July 13th, 1700 UTC (TBC)    
-
-### Live   
-
+### July 13th, 1700 UTC 
+test Add to Calendar button:
+<a href="https://add.eventable.com/events/60349b976b8c7f484caf26aa/60b94f157f19660c54088339" class="eventable-link" target="_blank" data-key="60349b976b8c7f484caf26aa" data-event="60b94f157f19660c54088339" data-style="3">Add to Calendar</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://plugins.eventable.com/eventable.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script', 'eventable-script');</script>
 
 
 **Talk title:** Making open science work at the toxic intersection between the business of publishing and the business of science     
