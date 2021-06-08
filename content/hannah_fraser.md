@@ -15,9 +15,6 @@ title: Hannah Fraser
 
 ### July 14th, 0100 UTC     
 
-### Pre-recorded    
-
-
 
 **Talk title:** Meta-research from ecological and interdisciplinary perspectives  
 
@@ -28,7 +25,6 @@ title: Hannah Fraser
 
 &nbsp;
 --------------------------------------------------------------------------------------------------------------------
-
 
 ![Hannah Fraser](/img/people/HannahFraser.png) 
 

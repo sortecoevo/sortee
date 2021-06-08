@@ -15,9 +15,6 @@ title: Michael Jennions
 
 ### July 13th, 0100 UTC     
 
-### Pre-recorded or live    
-
-
 
 **Talk title:** A Drunkard's Walk: from negative results to reverse P-hacking  
 

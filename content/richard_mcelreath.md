@@ -15,9 +15,6 @@ title: Richard McElreath
 
 ### July 13th, 0900 UTC     
 
-### LIve   
-
-
 
 **Talk title:** Science is Like a Chicken Coop   
 
