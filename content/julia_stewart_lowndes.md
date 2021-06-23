@@ -16,7 +16,7 @@ title: Julia Stewart Lowndes
 ### July 12th, 1700 UTC     
 
 
-**Talk title:** Openscapes: Towards more open, reproducible, inclusive practices for research teams and communities     
+**Talk title:** Openscapes: Better Science for Future Us     
 
 **Talk abstract:**  There is huge potential for open source software to accelerate scientific research, since it not only provides powerful analytical tools that increase reproducibility but also creates a new frontier for communication and publishing when combined with the open web. However, a fundamental shift is needed in scientific culture so that we value and prioritize data science, teamwork, and open practices, and provide training, support, and credit for our emerging scientific leaders. I will discuss my work to help catalyze this shift in environmental and Earth science through Openscapes (openscapes.org). Openscapes helps research teams reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. We do this primarily by mentoring cohorts of research teams through our Champions Program, which was designed based on my own Ocean Health Index team’s path to better science in less time (Lowndes et al. 2017). I’ll describe how open software facilitates kinder science (Lowndes 2019) and share examples of how Openscapes Champions teams from academia and government are working more reproducibly and transparently while contributing to the greater open movement.   
 
