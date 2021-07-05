@@ -10,11 +10,7 @@ title: Events
 ## SORTEE Conference 2021   
 ### Virtually, world-wide 12th - 14th of July ^
 
-&nbsp;
-
 **[Conference Information](https://docs.google.com/document/d/1o1te1bfm_QyM-06Au7KoGwU0GFo-peDMUhzccD0IAhI/edit?usp=sharing)**
-
-&nbsp;
 
 **[Conference Schedule](https://docs.google.com/spreadsheets/d/1VS14jKmCFJoiHFXMZ74qLA-IvwU_A9rn1SSNVGVkdMk/edit?usp=sharing)**
 
