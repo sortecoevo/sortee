@@ -9,11 +9,12 @@ title: Events
 
 ## SORTEE Conference 2021   
 ### Virtually, world-wide 12th - 14th of July ^
+&nbsp;
 
-[Conference Information](https://docs.google.com/document/d/1o1te1bfm_QyM-06Au7KoGwU0GFo-peDMUhzccD0IAhI/edit?usp=sharing)
-conference schedule to put on the website (i.e. doesn't include zoom links or emails) https://docs.google.com/spreadsheets/d/1VS14jKmCFJoiHFXMZ74qLA-IvwU_A9rn1SSNVGVkdMk/edit?usp=sharing
+**[Conference Information](https://docs.google.com/document/d/1o1te1bfm_QyM-06Au7KoGwU0GFo-peDMUhzccD0IAhI/edit?usp=sharing)**
+&nbsp;
 
-[Conference Schedule](https://docs.google.com/spreadsheets/d/1VS14jKmCFJoiHFXMZ74qLA-IvwU_A9rn1SSNVGVkdMk/edit?usp=sharing)
+**[Conference Schedule](https://docs.google.com/spreadsheets/d/1VS14jKmCFJoiHFXMZ74qLA-IvwU_A9rn1SSNVGVkdMk/edit?usp=sharing)**
 &nbsp;
 
 **Announcing the plenary presenters for the 2021 SORTEE Conference:**
