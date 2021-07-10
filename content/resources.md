@@ -63,6 +63,8 @@ While the resources below were published by other parties, in the future we woul
 
 * [Chue Hong, N 2014 'Minimal information for reusable scientific software'](https://doi.org/10.6084/m9.figshare.1112528)  
 
+* [McKiernan, E C 'Why Open Research'](http://whyopenresearch.org/index)   
+
 &nbsp;
 
 ### Videos   
