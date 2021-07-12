@@ -113,17 +113,14 @@ Current members are:
 &nbsp;
 
 [Amelia	Hood](https://www.zoo.cam.ac.uk/directory/amelia-hood)   
-[Divya	Vasudev](https://www.conservationinitiatives.org/divya-vasudev)   
 [Edward	Ivimey-Cook](https://www.researchgate.net/profile/Edward-Ivimey-Cook)   
 [Elina	Takola](https://www.researchgate.net/profile/Elina-Takola)   
 [Malika	Ihle](https://ox.ukrn.org/people/#MalikaIhle)   
 [Matt	Grainger](https://scholar.google.com/citations?user=aZ4E5I4AAAAJ&hl=en)   
 [Matthieu	Paquet](https://www.researchgate.net/profile/Matthieu-Paquet)   
 [Rose	O'Dea](http://www.roseodea.com/)   
-[Victoria	Hemming](https://hemmingresearch.wordpress.com/)   
 [Tim	Parker](http://people.whitman.edu/~parkerth/) **(Chair)**   
 [Malika	Ihle](https://ox.ukrn.org/people/#MalikaIhle)   
-[Josefin	Sundin](https://www.slu.se/cv/josefin-sundin2/)   
 [Benoit	Pujol](http://www.criobe.pf/pro/personnel/chercheurs-et-enseignants-chercheurs/benoit-pujol/)   
 
 &nbsp;
@@ -260,8 +257,6 @@ This committee focuses on recruiting SORTEE members and determining conditions f
 Current members are:   
 &nbsp;
 
-[Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
-[Borja	Esteve Altava](https://organismalbiologylab.com/)   
 [Elliot	Gould](https://github.com/egouldo)   
 [Gideon	Deme Gywa](https://scholar.google.com/citations?user=ISsrNjIAAAAJ&hl=en)   
 [Kaija	Gahm](https://kaijagahm.netlify.app/)   
