@@ -144,7 +144,6 @@ Current members are:
 [Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
 [Alexander	Mielke](https://www.alex-mielke.com/)   
 [Kimberly	Cook](https://www.researchgate.net/profile/Kimberly-Cook-3)   
-[Kaitlin	Stack Whitney](https://www.rit.edu/directory/kxwsbi-kaitlin-stack-whitney)   
 Zuzanna Zagrodza
 
 &nbsp;
