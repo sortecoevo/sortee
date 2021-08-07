@@ -3,16 +3,13 @@ banner: img/banners/banner-Kaitlin_Kimmel.png
 date: "2021-08-07"
 slug: 2021_sortee_member_kaitlin_kimmel
 author: SORTEE
-featured_image: img/banner-Kaitlin_Kimmel.png
 categories:
 - blog
 tags:
 - member
 - Q&As
 title: SORTEE member Q&As – Kaitlin Kimmel
-
 ---
-featuredpath: ../blog/2021-08-07-2021_sortee_member_kaitlin_kimmel_files/figure-html/
 
 
 *[The weekly Q&A blog series introduces the diversity of perspectives among SORTEE members]*    
@@ -50,7 +47,3 @@ One of my newer hobbies is skijoring with my dog around our lake in the winter. 
 
 
 ![Kaitlin Kimmel 0](img/banner-Kaitlin_Kimmel.png)    
-![Kaitlin Kimmel 1](blog/2021-08-07-2021_sortee_member_kaitlin_kimmel_files/banner-Kaitlin_Kimmel.png)    
-![Kaitlin Kimmel 2](2021-08-07-2021_sortee_member_kaitlin_kimmel_files/banner-Kaitlin_Kimmel.png)    
-![Kaitlin Kimmel 3](img/banners/banner-Kaitlin_Kimmel.png)  
-![Kaitlin Kimmel 4](banners/banner-Kaitlin_Kimmel.png)  
