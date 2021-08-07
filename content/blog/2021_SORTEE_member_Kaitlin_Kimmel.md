@@ -2,6 +2,7 @@
 banner: img/banners/banner-Kaitlin_Kimmel.png
 date: "2021-08-07"
 author: SORTEE
+featuredImage: banner-Kaitlin_Kimmel.png
 categories:
 - blog
 tags:
