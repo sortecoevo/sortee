@@ -3,8 +3,7 @@ banner: img/banners/banner-Kaitlin_Kimmel.png
 date: "2021-08-07"
 slug: 2021_sortee_member_kaitlin_kimmel
 author: SORTEE
-featured: banner-Kaitlin_Kimmel.png
-featuredpath: ../blog/2021-08-07-2021_sortee_member_kaitlin_kimmel_files/figure-html/
+featured: img/banners/banner-Kaitlin_Kimmel.png
 categories:
 - blog
 tags:
