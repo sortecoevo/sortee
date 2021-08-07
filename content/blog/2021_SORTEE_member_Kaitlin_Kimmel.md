@@ -43,4 +43,4 @@ One of my newer hobbies is skijoring with my dog around our lake in the winter. 
 [https://kaitlinakimmel.wixsite.com/ecologist](https://kaitlinakimmel.wixsite.com/ecologist)   
 &nbsp;
 
-![Kaitlin Kimmel](blog/banner-Kaitlin_Kimmel.png)    
+![Kaitlin Kimmel](blog/2021-08-07-2021_sortee_member_kaitlin_kimmel/banner-Kaitlin_Kimmel.png)    
