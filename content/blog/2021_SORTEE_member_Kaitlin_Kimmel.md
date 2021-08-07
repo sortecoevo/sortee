@@ -3,7 +3,7 @@ banner: img/banners/banner-Kaitlin_Kimmel.png
 date: "2021-08-07"
 author: SORTEE
 featured: banner-Kaitlin_Kimmel.png
-featuredpath: ../blog/2021-08-07-2021_sortee_member_kaitlin_kimmel/figure-html/
+featuredpath: ../blog/2021-08-07-2021_sortee_member_kaitlin_kimmel_files/figure-html/
 categories:
 - blog
 tags:
@@ -45,7 +45,7 @@ One of my newer hobbies is skijoring with my dog around our lake in the winter. 
 [https://kaitlinakimmel.wixsite.com/ecologist](https://kaitlinakimmel.wixsite.com/ecologist)   
 &nbsp;
 ![Kaitlin Kimmel 0](banner-Kaitlin_Kimmel.png)    
-![Kaitlin Kimmel 1](blog/2021-08-07-2021_sortee_member_kaitlin_kimmel/banner-Kaitlin_Kimmel.png)    
-![Kaitlin Kimmel 2](2021-08-07-2021_sortee_member_kaitlin_kimmel/banner-Kaitlin_Kimmel.png)    
+![Kaitlin Kimmel 1](blog/2021-08-07-2021_sortee_member_kaitlin_kimmel_files/banner-Kaitlin_Kimmel.png)    
+![Kaitlin Kimmel 2](2021-08-07-2021_sortee_member_kaitlin_kimmel_files/banner-Kaitlin_Kimmel.png)    
 ![Kaitlin Kimmel 3](img/banners/banner-Kaitlin_Kimmel.png)  
 ![Kaitlin Kimmel 4](banners/banner-Kaitlin_Kimmel.png)  
