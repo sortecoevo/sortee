@@ -46,5 +46,5 @@ One of my newer hobbies is skijoring with my dog around our lake in the winter. 
 &nbsp;
 
 
-![Kaitlin Kimmel](img/people/kaitlin_kimmel.png)    
+![Kaitlin Kimmel](/blog/images/kaitlin_kimmel.png)    
 &nbsp;
