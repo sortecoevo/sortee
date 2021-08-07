@@ -4,7 +4,7 @@ date: "2021-08-07"
 slug: 2021_sortee_member_kaitlin_kimmel
 author: SORTEE
 featured: banner-Kaitlin_Kimmel.png
-
+featuredpath: ../blog/2021-08-07-2021_sortee_member_kaitlin_kimmel_files/figure-html/
 categories:
 - blog
 tags:
@@ -13,7 +13,7 @@ tags:
 title: SORTEE member Q&As – Kaitlin Kimmel
 
 ---
-#featuredpath: ../blog/2021-08-07-2021_sortee_member_kaitlin_kimmel_files/figure-html/
+
 
 *[The weekly Q&A blog series introduces the diversity of perspectives among SORTEE members]*    
 &nbsp;
