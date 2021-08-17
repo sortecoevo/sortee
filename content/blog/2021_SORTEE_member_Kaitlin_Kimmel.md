@@ -1,6 +1,6 @@
 ---
 banner: img/banners/banner-Kaitlin_Kimmel.png
-date: "2021-08-07"
+date: "2021-08-09"
 slug: 2021_sortee_member_kaitlin_kimmel
 author: SORTEE
 categories:
