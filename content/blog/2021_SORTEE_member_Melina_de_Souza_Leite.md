@@ -8,12 +8,11 @@ categories:
 tags:
 - member-voices
 - Q-and-A
-title: >-
-      SORTEE member voices – Melina de Souza Leite
+title: "SORTEE member voices: Melina de Souza Leite"
 ---
 
 
-*[SORTEE member voices is a weekly Q&A with a different SORTEE member]*    
+*[SORTEE Member Voices is a weekly Q&A with a different SORTEE member]*    
 &nbsp;
 &nbsp;
 
