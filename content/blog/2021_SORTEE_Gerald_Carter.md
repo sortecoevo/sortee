@@ -6,13 +6,12 @@ author: SORTEE
 categories:
 - blog
 tags:
-- member
-- Q-and-A
-title: SORTEE member Q&As – Gerald Carter 
+- member-voices
+title: SORTEE member voices: Gerald Carter 
 ---
 
 
-*[The weekly Q&A blog series introduces the diversity of perspectives among SORTEE members]*    
+*[SORTEE member voices is a weekly Q&A with a different SORTEE member]*      
 &nbsp;
 &nbsp;
 
