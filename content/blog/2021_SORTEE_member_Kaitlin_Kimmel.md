@@ -6,13 +6,12 @@ author: SORTEE
 categories:
 - blog
 tags:
-- member
-- Q-and-A
-title: SORTEE member Q&As – Kaitlin Kimmel
+- member-voices
+title: SORTEE member voices: Kaitlin Kimmel
 ---
 
 
-*[The weekly Q&A blog series introduces the diversity of perspectives among SORTEE members]*    
+*[SORTEE member voices is a weekly Q&A with a different SORTEE member]*      
 &nbsp;
 &nbsp;
 
