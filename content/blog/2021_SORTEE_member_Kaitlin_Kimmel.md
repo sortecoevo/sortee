@@ -6,7 +6,7 @@ author: SORTEE
 categories:
 - blog
 tags:
-- member
+- member-voices
 - Q-and-A
 title: "SORTEE member voices: Kaitlin Kimmel"
 ---
