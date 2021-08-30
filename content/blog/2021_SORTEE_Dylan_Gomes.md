@@ -8,7 +8,7 @@ categories:
 tags:
 - member-voices
 - Q-and-A
-title: "SORTEE member voices: Dylan Gomes"" 
+title: "SORTEE member voices: Dylan Gomes"
 ---
 
 
