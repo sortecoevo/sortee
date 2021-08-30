@@ -6,9 +6,10 @@ author: SORTEE
 categories:
 - blog
 tags:
-- member
+- member-voices
 - Q-and-A
-title: SORTEE member Q&As – Melina de Souza Leite
+title: >-
+      SORTEE member voices – Melina de Souza Leite
 ---
 
 
