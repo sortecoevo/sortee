@@ -30,6 +30,7 @@ title: SORTEE member voices – Michael Jennions
 _Where were you born and raised?_   
 I was born in Manchester, UK. And I was raised in Johannesburg, South Africa.
 &nbsp;
+&nbsp;
 
 _Where to find you online?:_   
 [http://thejennionslab.weebly.com/](http://thejennionslab.weebly.com/)   
