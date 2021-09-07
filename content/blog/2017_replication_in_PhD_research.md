@@ -30,8 +30,7 @@ I think there’s a clear take-home message here. Students benefit from replicat
 I’m curious to hear about other replications of previously published results that were conducted as part of the process of building on those previously published results.   
 
 
-
 &nbsp;
 &nbsp;
 
-[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE."]  
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE.*]  

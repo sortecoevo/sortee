@@ -28,3 +28,8 @@ There are several reasons I have taken on the challenge of kickstarting and lead
 We hope EcoEvoRxvi will encourage more ecologists and evolutionary biologists to put their preprints online. We have more information at a dedicated information website ([ecoevorxiv.com](https://www.ecoevorxiv.com/)). As you will find out, we have a wonderful team of committee members and ambassadors from 11 different countries, helping me to launch EcoEvoRixv. EcoEvoRxiv wants your preprints (and also postprints)!
 
 Here I would like to acknowledge people from the [Center of Open Science](https://www.cos.io/) (COS; especially, Rusty, Rebecca, David and Matt – thank you) for their support in launching EcoEvoRxiv.
+
+&nbsp;
+&nbsp;
+
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE.*]  

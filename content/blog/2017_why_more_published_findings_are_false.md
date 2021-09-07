@@ -34,4 +34,4 @@ I would like to thank Tim Parker for detailed comments on an earlier version of 
 &nbsp;
 &nbsp;
 
-[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE."]  
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE.*]  

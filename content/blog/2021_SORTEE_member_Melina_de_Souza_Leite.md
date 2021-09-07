@@ -55,4 +55,8 @@ _Where to find you online?:_
 
 
 ![Melina de Souza Leite](/blog/images/Melina_de_Souza_Leite.png)    
+
 &nbsp;
+&nbsp;
+
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE.*]  

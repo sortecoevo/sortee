@@ -33,3 +33,9 @@ We did not reach a strong conclusion on any of these questions, but there were a
    * It is not clear whether under Plan S there will be savings in the overall research costs. If not-for-profit publishers and repositories get marginalised, the overall bill might be actually higher, with the costs shifting from the reading/access fees to publishing fees (and it is not quite clear how the later will be covered).    
     
     Finally, change to Open Access and Open Science should not be rushed. Taking time will allow figuring out the safest path for transition for the publishers and researchers. Changing the mindsets of academics via education, not enforcement, will be an important factor. It will also be easier with a new generation of young scientists joining academia, more ready to embrace open science.
+    
+    
+&nbsp;
+&nbsp;
+
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE.*]  

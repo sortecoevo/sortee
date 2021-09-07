@@ -106,4 +106,4 @@ This scientific reform about reproducibility differs from the NHST one because t
 &nbsp;
 &nbsp;
 
-[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE."]  
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE.*]  

@@ -43,4 +43,8 @@ _Where to find you online?:_
 
 
 ![Kaitlin Kimmel](/blog/images/kaitlin_kimmel.png)    
+
 &nbsp;
+&nbsp;
+
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE.*]  
