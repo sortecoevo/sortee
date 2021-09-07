@@ -106,3 +106,10 @@ If you're mentored by someone familiar with this system, then you'll want to wor
 If you have other concerns or questions about how you could apply pre-registration to your work, I'd love to hear about them. Let's have a discussion.
 
 Not all work needs to be pre-registered, but most work could be pre-registered. And this is important because pre-registration will help ecologists and evolutionary biologists improve transparency and thus, I expect, reduce bias in a wide array of circumstances.
+
+
+
+&nbsp;
+&nbsp;
+
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE."]  
