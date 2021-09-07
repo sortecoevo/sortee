@@ -27,20 +27,20 @@ These disadvantages mean that researchers are incentivised to “play the game�
 
 Society can and should be the agents of the much-needed shake-up of the research system. If research funders (which allocate public money through grants to researchers and research institutes) dictate changes then researchers are very quick to adapt. For example, data sharing and open access publishing have become a common requirement of funding decisions. Data sharing is now commonplace, although a lack of enforcement and standardisation of the requirement means that even when data are shared they are not always reusable. The solutions to the replicability crisis are known to researchers, but these solutions need to be mandated by research funders. Fundamental change in the system is vital to ensure research can answer societally important questions in an open and honest way leading to much better value for public money.  
 
-Funding bodies can make a huge impact on the quality of science that is produced by researchers by linking grant funding to the adoption of open and transparent science. For example:
- * Ensure that data sharing policies are enforced. Data need to be Findable, Accessibility, Interoperable, and Reuseable  (FAIR Principles - [GO FAIR](go-fair.org)).
- * Ensure that analysis code/details are also shared. Researchers need to be able to replicate the analysis carried out (sharing code and data has identified errors in analysis in many cases allowing the scientific record to be corrected)
- * Formalise grant applications as pre-registrations. Grant applications can already be considered a type of pre-registration (the concepts, hypotheses and methods are peer-reviewed) but this could be formalised so that grant funding or continued funding opportunities are linked to researchers sticking to (or providing detailed reasons as to why not) pre-registered hypotheses and outcome measures
- * Move away from assessing grants on “novelty”. The pursuit of “novelty” may lead to researchers inflating claims about the strength of their evidence. Funders should instead move towards assessing grants based on robustness of methodology and how well they build upon previous knowledge.    
- * Change how we assess grants. Do not include the number of papers, citations or other researcher-level metrics in assessments of grant applications
+Funding bodies can make a huge impact on the quality of science that is produced by researchers by linking grant funding to the adoption of open and transparent science. For example:  
+ * Ensure that data sharing policies are enforced. Data need to be Findable, Accessibility, Interoperable, and Reuseable  (FAIR Principles - [GO FAIR](go-fair.org)).  
+ * Ensure that analysis code/details are also shared. Researchers need to be able to replicate the analysis carried out (sharing code and data has identified errors in analysis in many cases allowing the scientific record to be corrected).  
+ * Formalise grant applications as pre-registrations. Grant applications can already be considered a type of pre-registration (the concepts, hypotheses and methods are peer-reviewed) but this could be formalised so that grant funding or continued funding opportunities are linked to researchers sticking to (or providing detailed reasons as to why not) pre-registered hypotheses and outcome measures.  
+ * Move away from assessing grants on “novelty”. The pursuit of “novelty” may lead to researchers inflating claims about the strength of their evidence. Funders should instead move towards assessing grants based on robustness of methodology and how well they build upon previous knowledge.     
+ * Change how we assess grants. Do not include the number of papers, citations or other researcher-level metrics in assessments of grant applications.  
 
-&nbsp
+&nbsp;
 
 *Autor information:  
 Matt Grainger - Norwegian Institute for Nature Research, Postbox 5685 Torgarden, 7485 Trondheim, Norway   
-Ed Ivimey-Cook - School of Biological Sciences, University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, United Kingdom*       
+Ed Ivimey-Cook - School of Biological Sciences, University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, United Kingdom*      
 
-&nbsp
-&nbsp
+&nbsp;
+&nbsp;
 
-[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE."]
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE."]  
