@@ -11,8 +11,7 @@ tags:
 - transparency
 - preregistration
 - conference
-title: "The ‘Replication Crisis’ is not a crisis for researchers it is a crisis for society"
-
+title: "The ‘Replication Crisis’ is not a crisis for researchers - it is a crisis for society"
 ---
 
 
@@ -44,4 +43,4 @@ Ed Ivimey-Cook - School of Biological Sciences, University of East Anglia, Norwi
 &nbsp
 &nbsp
 
-[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE"]
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE."]
