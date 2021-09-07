@@ -16,7 +16,7 @@ title: "SORTEE member voices: Dylan Gomes"
 &nbsp;
 &nbsp;
 
-   _Name:_ ****.   
+   _Name:_ Dylan Gomes.   
 &nbsp;
 
    _Date:_ 02 July 2021.   
