@@ -28,3 +28,10 @@ This study had a happy ending for all involved, but what if Karl’s replication
 I think there’s a clear take-home message here. Students benefit from replicating previously published studies that serve as the basis for their thesis research. Of course it’s not just students who can benefit here – anyone who replicates foundational work will reduce their risk of building on an unreliable foundation. And what’s more we all benefit when we can better distinguish reliable and repeatable results from those which are not repeatable.   
 
 I’m curious to hear about other replications of previously published results that were conducted as part of the process of building on those previously published results.   
+
+
+
+&nbsp;
+&nbsp;
+
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE."]  

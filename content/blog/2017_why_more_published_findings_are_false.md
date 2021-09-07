@@ -30,3 +30,8 @@ What can we do to prevent these stats mistakes? Doing stats right is more diffic
 Luckily, we have some amazing resource. I would recommend all graduate students read Gelman and Hill’s [book](http://www.stat.columbia.edu/~gelman/arm/). Also, you will learn a lot from Andrew Gelman’s [blog](https://statmodeling.stat.columbia.edu/) where he often talks about common statistical mistakes and scientific reproducibility. Although no match to Gelman and Hill, I am doing y part to educate biology students about stats by writing a new kind of stats book, which is based on conversations, i.e. a play (an excerpt [here](http://www.i-deel.org/blog/r-statistical-modeling-via-biologists-dialogues))!   
 
 I would like to thank Tim Parker for detailed comments on an earlier version of this blog.   
+
+&nbsp;
+&nbsp;
+
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE."]  
