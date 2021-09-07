@@ -102,3 +102,8 @@ This scientific reform about reproducibility differs from the NHST one because t
 
  4. Some of the other ideas we discussed above may be worth empirical exploration, but we should be aware that hypotheses rooted in fundamental differences between disciplines have often not been strongly supported in the past.   
 
+
+&nbsp;
+&nbsp;
+
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE."]  

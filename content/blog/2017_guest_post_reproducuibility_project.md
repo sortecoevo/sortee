@@ -61,3 +61,8 @@ I’ll augment these lists with information on the studies’ data requirements 
 Once that’s done I will call for people to check through their datasets to see whether they have any data that could be used to test whether the findings of these articles can be reproduced. I’m hoping that we can all work together to arrange reproducing these findings (regardless of whether you have data and/or the time and inclination to re-analyse things).   
 
 My dream is to have the reproducibility of each finding/article tested across a range of datasets so that we can 1) calculate the overall reproducibility of these influential findings, 2) combine them using meta-analytic techniques to understand the overall effect, and 3) try to understand why they may or may not have been reproduced when using different datasets. Anyway, I’m very excited about this! Watch this space for further updates and feel free to contact me directly if you have suggestions or would like to be involved. My email is hannahsfraser@gmail.com.   
+
+&nbsp;
+&nbsp;
+
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE."]  
