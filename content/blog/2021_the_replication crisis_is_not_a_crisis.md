@@ -11,7 +11,7 @@ tags:
 - transparency
 - preregistration
 - conference
-title: "EcoEvoRxiv launched!"The ‘Replication Crisis’ is not a crisis for researchers it is a crisis for society"
+title: "The ‘Replication Crisis’ is not a crisis for researchers it is a crisis for society"
 
 ---
 
