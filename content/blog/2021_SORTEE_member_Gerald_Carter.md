@@ -43,4 +43,8 @@ _Where to find you online?:_
 
 
 ![Gerald Carter](/blog/images/Gerald_Carter.png)    
+
 &nbsp;
+&nbsp;
+
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE.*]  

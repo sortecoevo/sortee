@@ -23,3 +23,8 @@ But now it’s non-reproducible textbook knowledge. Wang et al. report on multip
 By the way, in this case, ‘not reproducible’ means an average effect size that approximates zero. This is not just a case of one study crossing a significance threshold and another failing to cross the threshold. The sum of these replications looks exactly like the true absence of an effect.    
 
 It’s also worth noting that the distribution of published results from the lab that originally discovered the color band effect follows the pattern expected from various common research practices that unintentionally increase the publication of false positives and inflated effect sizes. I don’t mention this as an accusation, but rather as a reminder to the community that if we don’t take deliberate steps to minimize bias, its likely to creep in and reduce our reproducibility.    
+
+&nbsp;
+&nbsp;
+
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE.*]  

@@ -1,17 +1,13 @@
 ---
 banner: img/banners/ecoevotransparency.jpg
 date: "2021-09-08"
-author: Matt Grainger, Ed Ivimey-Cook
+author: Matt Grainger & Ed Ivimey-Cook
 categories:
 - blog
 tags:
 - Open Science
-- incentives
-- assessment
-- transparency
-- preregistration
 - conference
-title: "The ‘Replication Crisis’ is not a crisis for researchers - it is a crisis for society"
+title: "The Replication Crisis is not a crisis for researchers - it is a crisis for society"
 ---
 
 
@@ -43,4 +39,4 @@ Ed Ivimey-Cook - School of Biological Sciences, University of East Anglia, Norwi
 &nbsp;
 &nbsp;
 
-[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE."]  
+[*The opinions expressed in this blog post are those of the authors and are not necessarily endorsed by SORTEE.*]  
