@@ -1,8 +1,7 @@
 ---
 banner: img/banners/replication_crisis.jpg
 date: "2021-09-08"
-author: Matt Grainger 
-author: Ed Ivimey-Cook
+author: Matt Grainger & Ed Ivimey-Cook
 categories:
 - blog
 tags:
