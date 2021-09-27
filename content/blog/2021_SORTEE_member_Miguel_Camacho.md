@@ -18,7 +18,7 @@ title: SORTEE member voices – Miguel Camacho
    _Name:_ Miguel Camacho.   
 &nbsp;
 
-   _Date:_02 July 2021.   
+   _Date:_ 02 July 2021.   
 &nbsp;
 
    _Position:_ Postdoctoral researcher.   
