@@ -51,7 +51,3 @@ _Where to find you online?:_
 [Twitter: @cn_meynard](https://twitter.com/cn_meynard?lang=en)
 &nbsp;
 &nbsp;
-
-
-![Christine Meynard](/blog/images/Christine_Meynard.png)    
-&nbsp;
