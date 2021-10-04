@@ -41,7 +41,3 @@ _Where to find you online?:_
 [www.github.com/csmiguel](www.github.com/csmiguel)
 &nbsp;
 &nbsp;
-
-
-![Miguel Camacho](/blog/images/Miguel_Camacho.png)    
-&nbsp;
