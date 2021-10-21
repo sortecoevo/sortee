@@ -9,22 +9,26 @@ title: Infographics
 
 This page hosts Open Science infographics created by SORTEE members.   
 
-&nbsp;
+&nbsp;  
 
 ### 2021   
 
-&nbsp;
+&nbsp;  
 
 As part of the SORTEE 2021 conference, we organised a hackathon event to collaboratively work on infographics related to Open Science. We now finished two infographics from this event. You can provide us with your feedback on these, and/or express your interest in participating in future similar hackathons. Please use this short [survey form](https://forms.gle/QXqnNAxhzMjMJBa68).   
 
-&nbsp;
+&nbsp;  
 
 ### Infographic no. 1  
 
-![Infographics_nr_01](/img/sortee_infogr_01.png)
-&nbsp;
-*CRediT (in alphabetical order by family name):*   
-&nbsp;
+![Infographics_nr_01](/img/sortee_infogr_01.png "=350x")
+
+&nbsp;  
+
+CRediT (in alphabetical order by family name):   
+
+&nbsp;  
+
 **Amin, Bawan** (University College Dublin, Ireland): Visualization, Writing – review & editing   
 **Burke, Samantha** (University of New South Wales Sydney, Australia): Visualization, Writing – review & editing  
 **Drobniak, Szymon** (University of New South Wales Sydney, Australia): Conceptualization, Visualization, Writing – original draft, Writing – review & editing  
@@ -32,14 +36,18 @@ As part of the SORTEE 2021 conference, we organised a hackathon event to collabo
 **Pottier, Patrice** (University of New South Wales Sydney, Australia): Visualization, Writing – review & editing   
 **Tam, Jessica Tin-Ying** (University of New South Wales Sydney, Australia): Conceptualization, Visualization, Writing – original draft   
 
-&nbsp;
+&nbsp;   
 
 ### Infographic no. 2  
 
 ![Infographics_nr_02](/img/sortee_infogr_02.png)    
-&nbsp;
-*CRediT (in alphabetical order by family name):*  
-&nbsp;
+
+&nbsp;   
+
+CRediT (in alphabetical order by family name):   
+
+&nbsp;   
+
 **Amin, Bawan** (University College Dublin, Ireland): Conceptualization, Visualization, Writing – original draft, Writing – review & editing   
 **Burke, Samantha** (University of New South Wales Sydney, Australia): Conceptualization, Visualization, Writing – original draft, Writing – review & editing   
 **Drobniak, Szymon** (University of New South Wales Sydney, Australia): Visualization, Writing – review & editing  
@@ -47,11 +55,11 @@ As part of the SORTEE 2021 conference, we organised a hackathon event to collabo
 **Norton, Luke** (University of the Witwatersrand, South Africa): Conceptualization, Visualization, Writing – original draft   
 **Pottier, Patrice** (University of New South Wales Sydney, Australia): Conceptualization, Visualization, Writing – original draft, Writing – review & editing    
 
-&nbsp;
+&nbsp;   
 
 You can leave your feedback and contact the authors using this [survey form](https://forms.gle/QXqnNAxhzMjMJBa68).   
 
-&nbsp;
+&nbsp;   
 
 <div class="button_cont">
    <a class="example_d" href="">
