@@ -21,7 +21,7 @@ As part of the SORTEE 2021 conference, we organised a hackathon event to collabo
 
 ### Infographic no. 1  
 
-![Infographics_nr_01](/img/sortee_infogr_01.png#textphoto | width=100) 
+![Infographics_nr_01](/img/sortee_infogr_01.png#textphoto | width=1000) 
 
 *CRediT (in alphabetical order by family name):*   
 
@@ -36,7 +36,7 @@ Tam, Jessica Tin-Ying (University of New South Wales Sydney, Australia): Concept
 
 ### Infographic no. 2  
 
-![Infographics_nr_02](/img/sortee_infogr_02.png#textphoto | width=100)    
+![Infographics_nr_02](/img/sortee_infogr_02.png#textphoto | width=1000)    
 
 
 *CRediT (in alphabetical order by family name):*
