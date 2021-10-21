@@ -61,8 +61,4 @@ You can leave your feedback and contact the authors using this [survey form](htt
 
 &nbsp;   
 
-<div class="button_cont">
-   <a class="example_d" href="">
-    {{ i18n "CTAbutton"}}
-   </a>
-</div>
+{{< figure src="/img/sortee_infogr_02.png" alt="infogr2" width="200px" >}}
