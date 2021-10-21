@@ -9,13 +9,19 @@ title: Infographics
 
 This page hosts Open Science infographics created by SORTEE members.   
 
-As part of the SORTEE 2021 conference, we organised a hackathon event to collaboratively work on infographics related to Open Science. We now finished two infographics from this event. You can provide us with your feedback on these, and/or express your interest in participating in future similar hackathons. Please use this short [survey form](https://forms.gle/QXqnNAxhzMjMJBa68).  
+&nbsp;
+
+### 2021   
 
 &nbsp;
 
-### Infographic no. 1 
+As part of the SORTEE 2021 conference, we organised a hackathon event to collaboratively work on infographics related to Open Science. We now finished two infographics from this event. You can provide us with your feedback on these, and/or express your interest in participating in future similar hackathons. Please use this short [survey form](https://forms.gle/QXqnNAxhzMjMJBa68).   
 
-[//]: # ( ![Infographics_nr_01](/img/sortee_infogr_01.png#textphoto) )
+&nbsp;
+
+### Infographic no. 1  
+
+( ![Infographics_nr_01](/img/sortee_infogr_01.png#textphoto) )
 
 *CRediT (in alphabetical order by family name):*   
 
@@ -28,9 +34,9 @@ Tam, Jessica Tin-Ying (University of New South Wales Sydney, Australia): Concept
 
 &nbsp;
 
-### Infographic no. 2 
+### Infographic no. 2  
 
-[//]: # ( ![Infographics_nr_02](/img/sortee_infogr_02.png#textphoto) )
+( ![Infographics_nr_02](/img/sortee_infogr_02.png#textphoto) )   
 
 
 *CRediT (in alphabetical order by family name):*

@@ -7,17 +7,16 @@ description: other resources of the Society for Open, Reliable, and Transparent 
 title: Other resources
 ---
 
-This page hosts a list of other resources relevant to the goals of SORTEE:
 
-This page hosts an assortment of resources ranging from societies and organizations to tools, guides, videos and courses. Many of these resources  have a general scope, but are still relevant to research practices in ecology and evolution.  
-
-While the resources below were published by other parties, in the future we would love to create  our own resources, tailored for ecology and evolution. For example, these may take form of slides, videos, or even one-page summaries of key concepts, workflows or tools. If you have specific requests, ideas or wish to contribute - please get in touch!   
-
-**If you know about any other relevant items, please contact [SORTEE]({{< ref "contact.md" >}}) or somebody from our [Education and Outreach]({{< ref "people.md#Education-and-outreach-committee" >}}) or [Media]({{< ref "people.md#media-committee" >}})  committees.**    
+This page hosts an assortment of resources ranging from societies and organizations to tools, guides, videos and courses. Many of these resources  have a general scope, but are still relevant to research practices in ecology and evolution.   
 
 &nbsp;
 
-### Other societies and organisations with similar aims  
+While the resources below were published by other parties, in the future we would love to create  our own resources, tailored for ecology and evolution. For example, these may take form of slides, videos, or even one-page summaries of key concepts, workflows or tools. If you have specific requests, ideas or wish to contribute - please get in touch!    **If you know about any other relevant items, please contact [SORTEE]({{< ref "contact.md" >}}) or somebody from our [Education and Outreach]({{< ref "people.md#Education-and-outreach-committee" >}}) or [Media]({{< ref "people.md#media-committee" >}})  committees.**    
+
+&nbsp;
+
+### Other societies and organisations with similar aims   
 
 * [AIMOS: Association for Interdisciplinary Meta-research and Open Science](https://aimos.community/)  
 
