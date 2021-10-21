@@ -61,4 +61,10 @@ You can leave your feedback and contact the authors using this [survey form](htt
 
 &nbsp;   
 
-{{< figure src="/img/sortee_infogr_02.png" alt="infogr2" width="200px" >}}
+test1
+{{< figure src="/img/sortee_infogr_02.png" alt="infogr2" width="1200px" >}}
+
+test2
+![infogr2](/img/sortee_infogr_02.png "{width='350'}")
+
+
