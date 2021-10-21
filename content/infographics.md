@@ -21,7 +21,7 @@ As part of the SORTEE 2021 conference, we organised a hackathon event to collabo
 
 ### Infographic no. 1  
 
-![Infographics_nr_01](/img/sortee_infogr_01.png =250x500)
+![Infographics_nr_01](/img/sortee_infogr_01.png)
 *CRediT (in alphabetical order by family name):*   
 
 Amin, Bawan (University College Dublin, Ireland): Visualization, Writing – review & editing   
@@ -35,7 +35,7 @@ Tam, Jessica Tin-Ying (University of New South Wales Sydney, Australia): Concept
 
 ### Infographic no. 2  
 
-![Infographics_nr_02](/img/sortee_infogr_02.png =250x500)    
+![Infographics_nr_02](/img/sortee_infogr_02.png)    
 
 
 *CRediT (in alphabetical order by family name):*
