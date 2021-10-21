@@ -21,7 +21,11 @@ As part of the SORTEE 2021 conference, we organised a hackathon event to collabo
 
 ### Infographic no. 1  
 
-![Infographics_nr_01](/img/sortee_infogr_01.png "=350x")
+{{< figure src="/img/sortee_infogr_01.png" alt="infographics_nr1" width="1200px" >}}
+
+&nbsp;  
+
+[higher resolution image to be downloadable from OSF soon]   
 
 &nbsp;  
 
@@ -40,7 +44,11 @@ CRediT (in alphabetical order by family name):
 
 ### Infographic no. 2  
 
-![Infographics_nr_02](/img/sortee_infogr_02.png)    
+{{< figure src="/img/sortee_infogr_02.png" alt="infographics_2" width="1200px" >}}
+
+&nbsp;  
+
+[higher resolution image to be downloadable from OSF soon]   
 
 &nbsp;   
 
@@ -61,10 +69,5 @@ You can leave your feedback and contact the authors using this [survey form](htt
 
 &nbsp;   
 
-test1
-{{< figure src="/img/sortee_infogr_02.png" alt="infogr2" width="1200px" >}}
-
-test2
-![infogr2](/img/sortee_infogr_02.png "{width='350'}")
 
 
