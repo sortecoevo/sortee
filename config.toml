@@ -31,7 +31,7 @@ paginate = 4
     
 [[menu.main]]
     identifier = "documents"
-    name = "documents"
+    name = "Documents"
     url = "/documents/"
     weight = 30
 
@@ -51,10 +51,30 @@ paginate = 4
     url = "/codeofconduct/"
 
 [[menu.main]]
-    identifier = "resource"
+    identifier = "resources"
     name = "Resources"
     url = "/resources/"
     weight = 50
+    
+[[menu.main]]
+    parent = "resources"
+    name = "Newsletters"
+    url = "/newsletters/"
+    
+[[menu.main]]
+    parent = "resources"
+    name = "Infographics"
+    url = "/infographics/"
+    
+[[menu.main]]
+    parent = "resources"
+    name = "Reading"
+    url = "/reading/"
+
+[[menu.main]]
+    parent = "resources"
+    name = "Other resources"
+    url = "/other_resources/"
     
 [[menu.main]]
     identifier = "events"
