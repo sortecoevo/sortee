@@ -21,7 +21,7 @@ We currently have three seats to fill:
 
 Directors serve **three-years terms**.
 
-Volunteering for the remaining committees is a **one-year** commitment. Brief descriptions of each committee and their positions are listed in the [nomination form](https://whitmancollege.qualtrics.com/jfe/form/SV_3Uxw0F7XnPB0NBI).
+Volunteering for the remaining committees is a **one-year** commitment. Brief descriptions of each committee and their positions are listed in the [committee nomination form](https://whitmancollege.qualtrics.com/jfe/form/SV_3Uxw0F7XnPB0NBI).
 
 ## Committees:
 
