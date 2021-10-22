@@ -2,14 +2,31 @@
 aliases:
 - people-us
 author: ML
-date: "2020-09-14"
+date: "2021-10-22"
 description: People of Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: People
 ---
 
+## Nominations are open for 2022 SORTEE committees: [click here](https://whitmancollege.qualtrics.com/jfe/form/SV_3Uxw0F7XnPB0NBI) to apply!    
+
+We are seeking expressions of interest to volunteer on SORTEE committees in 2022 (3-year terms for the board of directors, and 1-year terms for the remaining committees). We warmly encourage SORTEE members who identify with groups that have been historically marginalized in science (e.g. women, people of colour and/or from ethnic minority backgrounds, people with disabilities, members of the LGBTQ+ community, and members of other marginalized groups).
+
+**Nominations for the [Board]({{< ref "people.md#board-of-directors" >}}) close Friday 29 October**.   
+
+Three positions on the board open each year and are elected by the members of SORTEE on the second Wednesday in November.   
+We currently have three seats to fill: 
+* a student seat (any SORTEE member who is a student at the time of election is eligible)       
+* a later-career seat (any SORTEE member with >10 years working in a professional capacity at the time of election is eligible), and    
+* an open seat (all SORTEE members are eligible).   
+
+Directors serve **three-years terms**.
+
+Volunteering for the remaining committees is a **one-year** commitment. Brief descriptions of each committee and their positions are listed in the [nomination form](https://whitmancollege.qualtrics.com/jfe/form/SV_3Uxw0F7XnPB0NBI).
+
 ## Committees:
 
-* [Executive]({{< ref "people.md#executive-committee" >}})   
+* [Board]({{< ref "people.md#board-of-directors" >}})   
+* [Advocacy]({{< ref "people.md#advocacy-committee" >}})   
 * [Awards]({{< ref "people.md#awards-committee" >}})   
 * [Conference]({{< ref "people.md#conference-committee" >}})   
 * [Diversity, Equity, and Inclusion]({{< ref "people.md#diversity-equity-and-inclusion-committee" >}})   
@@ -30,27 +47,30 @@ title: People
 ---   
 
 
-### Executive Committee   
+### Board of Directors      
 
-This committee focuses on the strategic matters for the Society and coordinates all other committees.
+This is an elected committee that is ultimately responsible for SORTEE. Three positions on the board come open each year and are elected by the members of SORTEE in November. These terms last for three (3) years.   
 &nbsp;
-Current members are:   
-&nbsp;
-
-![Antica Culina](/img/people/AnticaCulina.png)    
-[Antica Culina](https://nioo.knaw.nl/en/employees/antica-culina) works as a research scientist at the NIOO-KNAW, Netherlands. She is a co-founder and executive board member of [SPI-Birds](https://www.spibirds.org), and the advisory committee member of [FAIRsFAIR](https://www.fairsfair.eu/) and [Open Knowledge Maps](https://openknowledgemaps.org/).    
+Members until 2021 are:    
 &nbsp;
 
 ![Bonnie Wintle](/img/people/BonnieWintle.png)   
 [Bonnie Wintle](https://bonnieresearch.wordpress.com/about/) is a Senior Research Fellow in the School of BioSciences at Melbourne University, based in the interdisciplinary MetaMelb group.    
 &nbsp;
 
+![Samantha Burke](/img/people/SamanthaBurke.png)   
+[Samantha Burke](http://www.i-deel.org/samantha-burke.html) is a student pursuing a PhD with the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
+&nbsp;
+
 ![Clint Kelly](/img/people/ClintKelly.png)   
 [Clint Kelly](https://kellylab.weebly.com/) is an Associate Professor of Biology and Canada Research Chair in Behavioural Ecology at the Université du Québec à Montréal. Clint currently serves on the SORTEE Executive Committee.   
 &nbsp;
 
-![Dom Roche](/img/people/DomRoche.png)   
-[Dominique Roche](https://dominiqueroche.weebly.com/) is a Marie Skłodowska-Curie Global Fellow at Carleton University, Canada. He studies how open data improve transparency, reproducibility, and collaboration in science.   
+Members until 2022 are:    
+&nbsp;
+
+![Antica Culina](/img/people/AnticaCulina.png)    
+[Antica Culina](https://nioo.knaw.nl/en/employees/antica-culina) works as a research scientist at the NIOO-KNAW, Netherlands. She is a co-founder and executive board member of [SPI-Birds](https://www.spibirds.org), and the advisory committee member of [FAIRsFAIR](https://www.fairsfair.eu/) and [Open Knowledge Maps](https://openknowledgemaps.org/).    
 &nbsp;
 
 ![Elliot Gould](/img/people/ElliotGould.png)   
@@ -61,12 +81,15 @@ Current members are:
 [Malika Ihle](https://malikaihle.wordpress.com/) is the Reproducible Research Oxford coordinator, she holds a PhD in Evolutionary Behavioral Ecology.   
 &nbsp;
 
-![Rose O’Dea](/img/people/RoseODea.png)   
-[Rose O’Dea](https://www.roseodea.com/) is a postdoctoral researcher in the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
+Members until 2023 are:    
 &nbsp;
 
-![Samantha Burke](/img/people/SamanthaBurke.png)   
-[Samantha Burke](http://www.i-deel.org/samantha-burke.html) is a student pursuing a PhD with the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
+![Dom Roche](/img/people/DomRoche.png)   
+[Dominique Roche](https://dominiqueroche.weebly.com/) is a Marie Skłodowska-Curie Global Fellow at Carleton University, Canada. He studies how open data improve transparency, reproducibility, and collaboration in science.   
+&nbsp;
+
+![Rose O’Dea](/img/people/RoseODea.png)   
+[Rose O’Dea](https://www.roseodea.com/) is a postdoctoral researcher in the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
 &nbsp;
 
 ![Tim Parker](/img/people/TimParker.png)   
@@ -79,9 +102,20 @@ Current members are:
 
 ---
 
+### Advocacy Committee   
+
+This is a new committee in 2022 (subject to interest from members), which will develop policy statements and propose advocacy projects for improving the openness, reliability, and transparency of research in ecology and evolutionary biology. 
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+---
+
 ### Awards Committee	 
 
-This committee is responsible for proposing new awards to the SORTEE Executive Committee and will also solicit nominations and select winners, subject to EC oversight and approval.   
+This committee solicits nominations and selects winners for the existing SORTEE awards. Awards are presented during the SORTEE conference, and in 2022 winners will be given the opportunity to present their award-winning research. The committee may also propose new award categories.   
 &nbsp;
 Current members are:   
 &nbsp;
@@ -107,7 +141,7 @@ Wendy	Thorogood
 
 ### Conference Committee	 
 
-This committee organizes SORTEE conferences.   
+This committee organizes the virtual SORTEE Conference (typically in July).  
 &nbsp;
 Current members are:   
 &nbsp;
@@ -132,7 +166,7 @@ Current members are:
 
 ### Diversity, Equity, and Inclusion Committee	 
 
-This committee works to promote diversity, equity, and inclusion within SORTEE.   
+This committee works to promote diversity, equity, and inclusion within all SORTEE’s activities and committees.  
 &nbsp;
 Current members are:   
 &nbsp;
@@ -174,25 +208,6 @@ Colette	Ward
 [Chris	Nadeau](https://chrisnadeau.wixsite.com/chris)   
 [Ehren	Moler](https://www.researchgate.net/profile/Ehren-Moler)   
 [Valentin	Amrhein](https://camargue.unibas.ch/en/team/valentin-amrhein/)   
-
-&nbsp;
-&nbsp;
-&nbsp;
-
-
----
-
-### Finance Committee		 
-
-This committee manages the organization’s finances and government obligations regarding incorporation and taxes.   
-&nbsp;
-Current members are:   
-&nbsp;
-
-[Bonnie	Wintle](https://bonnieresearch.wordpress.com/about/)   
-[Elliot	Gould](https://github.com/egouldo) **(Co-Chair)**    
-[Lauren	White](https://scholar.google.de/citations?user=sRtLgggAAAAJ&hl=en)    
-[Tim	Parker](http://people.whitman.edu/~parkerth/) **(Co-Chair)**   
 
 &nbsp;
 &nbsp;
