@@ -15,6 +15,7 @@ We are seeking expressions of interest to volunteer on SORTEE committees in 2022
 
 Three positions on the board open each year and are elected by the members of SORTEE on the second Wednesday in November.   
 We currently have three seats to fill:   
+
 * a student seat (any SORTEE member who is a student at the time of election is eligible)       
 * a later-career seat (any SORTEE member with >10 years working in a professional capacity at the time of election is eligible), and    
 * an open seat (all SORTEE members are eligible).   
@@ -23,7 +24,7 @@ Directors serve **three-years terms**.
 
 Volunteering for the remaining committees is a **one-year** commitment. Brief descriptions of each committee and their positions are listed in the [committee nomination form](https://whitmancollege.qualtrics.com/jfe/form/SV_3Uxw0F7XnPB0NBI).
 
-## Committees:
+## Committees:   
 
 * [Board]({{< ref "people.md#board-of-directors" >}})   
 * [Advocacy]({{< ref "people.md#advocacy-committee" >}})   
@@ -49,10 +50,13 @@ Volunteering for the remaining committees is a **one-year** commitment. Brief de
 
 ### Board of Directors      
 
-This is an elected committee that is ultimately responsible for SORTEE. Three positions on the board come open each year and are elected by the members of SORTEE in November. These terms last for three (3) years.   
-&nbsp;
+This is an elected committee that is ultimately responsible for SORTEE. Three positions on the board come open each year and are elected by the members of SORTEE in November. These terms last for three (3) years.    
+
+&nbsp;   
+
 Members until 2021 are:    
-&nbsp;
+
+&nbsp;   
 
 ![Bonnie Wintle](/img/people/BonnieWintle.png)   
 [Bonnie Wintle](https://bonnieresearch.wordpress.com/about/) is a Senior Research Fellow in the School of BioSciences at Melbourne University, based in the interdisciplinary MetaMelb group.    
@@ -63,15 +67,17 @@ Members until 2021 are:
 &nbsp;
 
 ![Clint Kelly](/img/people/ClintKelly.png)   
-[Clint Kelly](https://kellylab.weebly.com/) is an Associate Professor of Biology and Canada Research Chair in Behavioural Ecology at the Université du Québec à Montréal. Clint currently serves on the SORTEE Executive Committee.   
-&nbsp;
+[Clint Kelly](https://kellylab.weebly.com/) is an Associate Professor of Biology and Canada Research Chair in Behavioural Ecology at the Université du Québec à Montréal. Clint currently serves on the SORTEE Executive Committee.    
+
+&nbsp;   
 
 Members until 2022 are:    
-&nbsp;
+
+&nbsp;   
 
 ![Antica Culina](/img/people/AnticaCulina.png)    
 [Antica Culina](https://nioo.knaw.nl/en/employees/antica-culina) works as a research scientist at the NIOO-KNAW, Netherlands. She is a co-founder and executive board member of [SPI-Birds](https://www.spibirds.org), and the advisory committee member of [FAIRsFAIR](https://www.fairsfair.eu/) and [Open Knowledge Maps](https://openknowledgemaps.org/).    
-&nbsp;
+&nbsp;   
 
 ![Elliot Gould](/img/people/ElliotGould.png)   
 [Elliot Gould](https://orcid.org/0000-0002-6585-538X) **(Secretary / Treasurer)** is a PhD student studying the transparency and reproducibility of model-based research in applied ecology and conservation at the University of Melbourne.     
