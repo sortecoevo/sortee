@@ -14,7 +14,7 @@ We are seeking expressions of interest to volunteer on SORTEE committees in 2022
 **Nominations for the [Board]({{< ref "people.md#board-of-directors" >}}) close Friday 29 October**.   
 
 Three positions on the board open each year and are elected by the members of SORTEE on the second Wednesday in November.   
-We currently have three seats to fill: 
+We currently have three seats to fill:   
 * a student seat (any SORTEE member who is a student at the time of election is eligible)       
 * a later-career seat (any SORTEE member with >10 years working in a professional capacity at the time of election is eligible), and    
 * an open seat (all SORTEE members are eligible).   
