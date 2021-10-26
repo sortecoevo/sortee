@@ -25,7 +25,8 @@ As part of the SORTEE 2021 conference, we organised a hackathon event to collabo
 
 &nbsp;  
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5602116.svg)](https://doi.org/10.5281/zenodo.5602116)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5602106.svg)](https://doi.org/10.5281/zenodo.5602106)Higher resolution and other format images are available at [OSF](https://osf.io/w6xn9/) and [Zenodo](https://zenodo.org/record/5602106#.YXiKtMZxWOw).   
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5602106.svg)](https://doi.org/10.5281/zenodo.5602106)   
+Files in other formats and resolution are available at [OSF](https://osf.io/w6xn9/) and [Zenodo](https://zenodo.org/record/5602106#.YXiKtMZxWOw).    
 
 &nbsp;  
 
@@ -48,8 +49,8 @@ CRediT (in alphabetical order by family name):
 
 &nbsp;  
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5602116.svg)](https://doi.org/10.5281/zenodo.5602116)
-Higher resolution and other format images are available at [OSF](https://osf.io/w6xn9/) and [Zenodo](https://zenodo.org/record/5602116#.YXiNLsZxWOw).   
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5602116.svg)](https://doi.org/10.5281/zenodo.5602116)   
+Files in other formats and resolution are available at  [OSF](https://osf.io/w6xn9/) and [Zenodo](https://zenodo.org/record/5602116#.YXiNLsZxWOw).    
 
 &nbsp;   
 
