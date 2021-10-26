@@ -15,7 +15,7 @@ This page hosts Open Science infographics created by SORTEE members.
 
 &nbsp;  
 
-As part of the SORTEE 2021 conference, we organised a hackathon event to collaboratively work on infographics related to Open Science. We now finished two infographics from this event. You can provide us with your feedback on these, and/or express your interest in participating in future similar hackathons. Please use this short [survey form](https://forms.gle/QXqnNAxhzMjMJBa68).   
+As part of the SORTEE 2021 conference, we organised a hackathon event to collaboratively work on infographics related to Open Science. We now finished two infographics from this event. You can provide us with your feedback on these, and/or express your interest in participating in future similar hackathons organised by the SORTEE Infographics Task Force. Please use this short [survey form](https://forms.gle/QXqnNAxhzMjMJBa68).   
 
 &nbsp;  
 
@@ -25,7 +25,7 @@ As part of the SORTEE 2021 conference, we organised a hackathon event to collabo
 
 &nbsp;  
 
-[higher resolution image to be downloadable from OSF soon]   
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5602116.svg)](https://doi.org/10.5281/zenodo.5602116)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5602106.svg)](https://doi.org/10.5281/zenodo.5602106)Higher resolution and other format images are available at [OSF](https://osf.io/w6xn9/) and [Zenodo](https://zenodo.org/record/5602106#.YXiKtMZxWOw).   
 
 &nbsp;  
 
@@ -48,7 +48,8 @@ CRediT (in alphabetical order by family name):
 
 &nbsp;  
 
-[higher resolution image to be downloadable from OSF soon]   
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5602116.svg)](https://doi.org/10.5281/zenodo.5602116)
+Higher resolution and other format images are available at [OSF](https://osf.io/w6xn9/) and [Zenodo](https://zenodo.org/record/5602116#.YXiNLsZxWOw).   
 
 &nbsp;   
 
