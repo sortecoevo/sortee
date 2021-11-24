@@ -7,22 +7,22 @@ description: People of Society for Open, Reliable, and Transparent Ecology and E
 title: People
 ---
 
-## Nominations are open for 2022 SORTEE committees: [click here](https://whitmancollege.qualtrics.com/jfe/form/SV_3Uxw0F7XnPB0NBI) to apply!    
+The SORTEE membership has elected three new members of the Board of Directors to begin three year terms in January of 2022:   
+Student seat: Kaija Gahm   
+Later-career seat: Esteban Fernandez-Juricic   
+Open seat: Alexa Fredston   
 
-We are seeking expressions of interest to volunteer on SORTEE committees in 2022 (3-year terms for the board of directors, and 1-year terms for the remaining committees). We warmly encourage SORTEE members who identify with groups that have been historically marginalized in science (e.g. women, people of colour and/or from ethnic minority backgrounds, people with disabilities, members of the LGBTQ+ community, and members of other marginalized groups).
+&nbsp;
 
-**Nominations for the [Board]({{< ref "people.md#board-of-directors" >}}) close Friday 29 October**.   
+Thanks so much to all who participated in the election, and especially to the SORTEE members who volunteered to run for positions on the board but were not elected.   
 
-Three positions on the board open each year and are elected by the members of SORTEE on the second Wednesday in November.   
-We currently have three seats to fill:   
+&nbsp;
 
-* a student seat (any SORTEE member who is a student at the time of election is eligible)       
-* a later-career seat (any SORTEE member with >10 years working in a professional capacity at the time of election is eligible), and    
-* an open seat (all SORTEE members are eligible).   
+Finally, we want to acknowledge the service of the three members of the SORTEE Board of Directors who will be stepping down at the end of 2021, Bonnie Wintle, Samantha Burke, and Clint Kelly.  
 
-Directors serve **three-years terms**.
+&nbsp;
 
-Volunteering for the remaining committees is a **one-year** commitment. Brief descriptions of each committee and their positions are listed in the [committee nomination form](https://whitmancollege.qualtrics.com/jfe/form/SV_3Uxw0F7XnPB0NBI).
+---
 
 ## Committees:   
 
