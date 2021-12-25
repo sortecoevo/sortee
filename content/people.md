@@ -2,7 +2,7 @@
 aliases:
 - people-us
 author: ML
-date: "2021-10-22"
+date: "2021-12-25"
 description: People of Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: People
 ---
@@ -54,20 +54,20 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 
 &nbsp;   
 
-Members until 2021 are:    
+Members serving from 2022 until 2024 are:    
 
 &nbsp;   
 
-![Bonnie Wintle](/img/people/BonnieWintle.png)   
-[Bonnie Wintle](https://bonnieresearch.wordpress.com/about/) is a Senior Research Fellow in the School of BioSciences at Melbourne University, based in the interdisciplinary MetaMelb group.    
+![Kaija Gahm](/img/people/KaijaGahm.png)   
+[Kaija Gahm](http://kaijagahm.netlify.app/) is a PhD student at UCLA, studying spatiotemporal dynamics of vulture social networks in the Pinter-Wollman lab.   
 &nbsp;
 
-![Samantha Burke](/img/people/SamanthaBurke.png)   
-[Samantha Burke](http://www.i-deel.org/samantha-burke.html) is a student pursuing a PhD with the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
+![Alexa Fredston ](/img/people/AlexaFredston.png)   
+Alexa Fredston is a quantitative ecologist working as a Postdoctoral Associate at Rutgers University.  
 &nbsp;
 
-![Clint Kelly](/img/people/ClintKelly.png)   
-[Clint Kelly](https://kellylab.weebly.com/) is an Associate Professor of Biology and Canada Research Chair in Behavioural Ecology at the Université du Québec à Montréal. Clint currently serves on the SORTEE Executive Committee.    
+![Esteban Fernandez-Juricic](/img/people/EstebanFernandezJuricic.png)   
+Esteban Fernandez-Juricic is a Professor of Biological Sciences at Purdue University (USA). His research is focused on behavioral ecology, visual ecology, and conservation ecology. He is interested in increasing computational reproducibility, particularly during the peer-review process.  
 
 &nbsp;   
 
@@ -343,3 +343,15 @@ Members contributing to the establishment of the Society in 2020 are:
 [Tim Parker](http://people.whitman.edu/~parkerth/)  
 [Wolfgang Forstmeier](https://www.orn.mpg.de/person/26271/660919)   
 
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+---
+
+### Past Board and Comittee Members  
+
+Please see [this page]({{< ref "people_archive.md" >}}).
+
+&nbsp;
