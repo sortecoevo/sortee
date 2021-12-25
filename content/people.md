@@ -54,7 +54,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 
 &nbsp;   
 
-Members serving from 2022 until 2024 are:    
+**Members serving from 2022 until 2024 are:**       
 
 &nbsp;   
 
@@ -63,7 +63,7 @@ Members serving from 2022 until 2024 are:
 &nbsp;
 
 ![Alexa Fredston ](/img/people/AlexaFredston.png)   
-Alexa Fredston is a quantitative ecologist working as a Postdoctoral Associate at Rutgers University.  
+Alexa Fredston is a quantitative ecologist working as a Postdoctoral Associate at Rutgers University.   
 &nbsp;
 
 ![Esteban Fernandez-Juricic](/img/people/EstebanFernandezJuricic.png)   
@@ -71,7 +71,7 @@ Esteban Fernandez-Juricic is a Professor of Biological Sciences at Purdue Univer
 
 &nbsp;   
 
-Members until 2022 are:    
+**Members until 2022 are:**    
 
 &nbsp;   
 
@@ -87,7 +87,7 @@ Members until 2022 are:
 [Malika Ihle](https://malikaihle.wordpress.com/) is the Reproducible Research Oxford coordinator, she holds a PhD in Evolutionary Behavioral Ecology.   
 &nbsp;
 
-Members until 2023 are:    
+**Members until 2023 are:**    
 &nbsp;
 
 ![Dom Roche](/img/people/DomRoche.png)   
