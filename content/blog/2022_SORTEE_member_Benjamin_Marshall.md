@@ -7,7 +7,7 @@ categories:
 - blog
 tags:
 - member-voices
-title: SORTEE member voices – Benjamin Marshall 
+title: "SORTEE member voices – Benjamin Marshall" 
 ---
 
 
