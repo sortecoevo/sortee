@@ -7,18 +7,7 @@ description: People of Society for Open, Reliable, and Transparent Ecology and E
 title: People
 ---
 
-The SORTEE membership has elected three new members of the Board of Directors to begin three year terms in January of 2022:   
-Student seat: Kaija Gahm   
-Later-career seat: Esteban Fernandez-Juricic   
-Open seat: Alexa Fredston   
-
-&nbsp;
-
-Thanks so much to all who participated in the election, and especially to the SORTEE members who volunteered to run for positions on the board but were not elected.   
-
-&nbsp;
-
-Finally, we want to acknowledge the service of the three members of the SORTEE Board of Directors who will be 
+Theis page lists SORTEE's past Board and Committe members.
 
 &nbsp;
 
@@ -52,16 +41,15 @@ Finally, we want to acknowledge the service of the three members of the SORTEE B
 
 &nbsp;   
 
-
-![Bonnie Wintle](/img/people/BonnieWintle.png)   
+![Bonnie Wintle](/img/people/BonnieWintle.png), 2021-2022      
 term 2021: [Bonnie Wintle](https://bonnieresearch.wordpress.com/about/) is a Senior Research Fellow in the School of BioSciences at Melbourne University, based in the interdisciplinary MetaMelb group.    
 &nbsp;
 
-![Samantha Burke](/img/people/SamanthaBurke.png)   
+![Samantha Burke](/img/people/SamanthaBurke.png) , 2021-2022     
 Term 2021: [Samantha Burke](http://www.i-deel.org/samantha-burke.html) is a student pursuing a PhD with the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
 &nbsp;
 
-![Clint Kelly](/img/people/ClintKelly.png)   
-Term 2021: [Clint Kelly](https://kellylab.weebly.com/) is an Associate Professor of Biology and Canada Research Chair in Behavioural Ecology at the Université du Québec à Montréal. Clint currently serves on the SORTEE Executive Committee.    
+![Clint Kelly](/img/people/ClintKelly.png), 2021-2022      
+Term 2021: [Clint Kelly](https://kellylab.weebly.com/)iss an Associate Professor of Biology and Canada Research Chair in Behavioural Ecology at the Université du Québec à Montréal. Clint currently serves on the SORTEE Executive Committee.    
 
 &nbsp;   
