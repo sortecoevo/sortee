@@ -2,7 +2,7 @@
 aliases:
 - people-us
 author: ML
-date: "2021-12-25"
+date: "2022-01-06"
 description: People of Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: People
 ---
@@ -11,14 +11,6 @@ The SORTEE membership has elected three new members of the Board of Directors to
 Student seat: Kaija Gahm   
 Later-career seat: Esteban Fernandez-Juricic   
 Open seat: Alexa Fredston   
-
-&nbsp;
-
-Thanks so much to all who participated in the election, and especially to the SORTEE members who volunteered to run for positions on the board but were not elected.   
-
-&nbsp;
-
-Finally, we want to acknowledge the service of the three members of the SORTEE Board of Directors who will be stepping down at the end of 2021, Bonnie Wintle, Samantha Burke, and Clint Kelly.  
 
 &nbsp;
 
@@ -54,7 +46,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 
 &nbsp;   
 
-**Members serving from 2022 until 2024 are:**       
+**Members serving from 2022 through 2024 are:**       
 
 &nbsp;   
 
@@ -62,16 +54,16 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 [Kaija Gahm](http://kaijagahm.netlify.app/) is a PhD student at UCLA, studying spatiotemporal dynamics of vulture social networks in the Pinter-Wollman lab.   
 &nbsp;
 
-![Alexa Fredston ](/img/people/AlexaFredston.png)   
-Alexa Fredston is a quantitative ecologist working as a Postdoctoral Associate at Rutgers University.   
+![Alexa Fredston](/img/people/AlexaFredston.png)   
+[Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)** is a quantitative ecologist working as a Postdoctoral Associate at Rutgers University.   
 &nbsp;
 
 ![Esteban Fernandez-Juricic](/img/people/EstebanFernandezJuricic.png)   
-Esteban Fernandez-Juricic is a Professor of Biological Sciences at Purdue University (USA). His research is focused on behavioral ecology, visual ecology, and conservation ecology. He is interested in increasing computational reproducibility, particularly during the peer-review process.  
+[Esteban Fernandez-Juricic](http://www.estebanfj.com) **(President-Elect, starting in 2023)** is a Professor of Biological Sciences at Purdue University (USA). His research is focused on behavioral ecology, visual ecology, and conservation ecology. He is interested in increasing computational reproducibility, particularly during the peer-review process.  
 
 &nbsp;   
 
-**Members until 2022 are:**    
+**Members serving through 2022 are:**    
 
 &nbsp;   
 
@@ -80,26 +72,26 @@ Esteban Fernandez-Juricic is a Professor of Biological Sciences at Purdue Univer
 &nbsp;   
 
 ![Elliot Gould](/img/people/ElliotGould.png)   
-[Elliot Gould](https://orcid.org/0000-0002-6585-538X) **(Secretary / Treasurer)** is a PhD student studying the transparency and reproducibility of model-based research in applied ecology and conservation at the University of Melbourne.     
+[Elliot Gould](https://orcid.org/0000-0002-6585-538X) is a PhD student studying the transparency and reproducibility of model-based research in applied ecology and conservation at the University of Melbourne.     
 &nbsp;
 
 ![Malika Ihle](/img/people/MalikaIhle.png)   
 [Malika Ihle](https://malikaihle.wordpress.com/) is the Reproducible Research Oxford coordinator, she holds a PhD in Evolutionary Behavioral Ecology.   
 &nbsp;
 
-**Members until 2023 are:**    
+**Members serving through 2023 are:**    
 &nbsp;
 
 ![Dom Roche](/img/people/DomRoche.png)   
-[Dominique Roche](https://dominiqueroche.weebly.com/) is a Marie Skłodowska-Curie Global Fellow at Carleton University, Canada. He studies how open data improve transparency, reproducibility, and collaboration in science.   
+[Dominique Roche](https://dominiqueroche.weebly.com/) **(President)** is a Marie Skłodowska-Curie Global Fellow at Carleton University, Canada. He studies how open data improve transparency, reproducibility, and collaboration in science.   
 &nbsp;
 
 ![Rose O’Dea](/img/people/RoseODea.png)   
-[Rose O’Dea](https://www.roseodea.com/) is a postdoctoral researcher in the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
+[Rose O’Dea](https://www.roseodea.com/) **(Secretary)** is a postdoctoral researcher in the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
 &nbsp;
 
 ![Tim Parker](/img/people/TimParker.png)   
-[Tim Parker](http://people.whitman.edu/~parkerth/) **(President)** is a Professor of Biology at Whitman College and has interests in behavioral ecology, demography, community ecology, and meta-science.   
+[Tim Parker](http://people.whitman.edu/~parkerth/) **(Past-President)** is a Professor of Biology at Whitman College and has interests in behavioral ecology, demography, community ecology, and meta-science.   
 
 &nbsp;
 &nbsp;
