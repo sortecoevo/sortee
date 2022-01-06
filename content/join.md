@@ -22,7 +22,10 @@ SORTEE will host gatherings of various sorts. Join and stay informed about these
 SORTEE will be a center for information about open, reliable, and transparent science. Join and learn how to improve your science.   
 
 SORTEE can best help science and the scientists in these disciplines if we are a diverse organization that fosters and amplifies diverse perspectives.   
-Please help us:  
+
+&nbsp;
+
+Please help us:   
 * diversify across disciplines and subdisciplines   
 * diversify geographically  
 * diversify by welcoming members of underrepresented groups   
