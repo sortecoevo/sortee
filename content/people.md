@@ -7,10 +7,7 @@ description: People of Society for Open, Reliable, and Transparent Ecology and E
 title: People
 ---
 
-The SORTEE membership has elected three new members of the Board of Directors to begin three year terms in January of 2022:   
-Student seat: Kaija Gahm   
-Later-career seat: Esteban Fernandez-Juricic   
-Open seat: Alexa Fredston   
+The SORTEE membership has elected three new members of the Board of Directors to begin three year terms in January of 2022: Kaija Gahm (Student seat), Esteban Fernandez-Juricic (Later-career seat), Alexa Fredston (Open seat).   
 
 &nbsp;
 
