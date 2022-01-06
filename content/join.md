@@ -7,15 +7,7 @@ description: Join Society for Open, Reliable, and Transparent Ecology and Evolut
 title: Join
 ---
 
-
-
-## To join SORTEE, please fill in this [new member survey](https://whitmancollege.qualtrics.com/jfe/form/SV_erj9dfYpaGDqolM).   
-
-----
-
-### Why join SORTEE?  
-
-SORTEE membership for 2021 is free and we promise to not send you too many emails if you join.   
+If you were a SORTEE member in 2021, please look for an email in early 2022 with instructions for renewing your membership. If you have never joined SORTEE, please click this [link](https://whitmancollege.qualtrics.com/jfe/form/SV_07LM1LMDJPKeR5Y) to make sure you receive an email when membership for 2022 becomes available soon.
 
 ----
 
@@ -37,10 +29,6 @@ Please help us:
 * diversify in terms of types of interests in open, reliable, and transparent science   
 
 ----
-
-## To join SORTEE, please fill in this [new member survey](https://whitmancollege.qualtrics.com/jfe/form/SV_erj9dfYpaGDqolM).    
-
-
 
 
 
