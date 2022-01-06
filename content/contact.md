@@ -12,14 +12,13 @@ social:
   link: mailto:sortecoevo@gmail.com 
 ---
 
+
+&nbsp;
+
+&nbsp;
+
 Please contact us via email or reach out on Twitter.   
 
 &nbsp;
-
-*Email:* sortecoevo@gmail.com   
-
-&nbsp;
-
-*Twitter:* @SORTEcoEvo   
 
 &nbsp;
