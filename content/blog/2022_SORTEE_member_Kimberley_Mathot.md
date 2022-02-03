@@ -32,7 +32,6 @@ There should be mandatory archiving of all data and scripts necessary to reprodu
 &nbsp;
 &nbsp;
 
-
 _Where to find you online?:_   
 [https://kjmathot.wordpress.com/](https://kjmathot.wordpress.com/)   
 &nbsp;
