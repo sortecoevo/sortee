@@ -2,12 +2,11 @@
 aliases:
 - people-us
 author: ML
-date: "2022-01-06"
-description: People of Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
+date: "2022-02-12"
+description: People of the Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE)
 title: People
 ---
 
-The SORTEE membership has elected three new members of the Board of Directors to begin three year terms in January of 2022: Kaija Gahm (Student seat), Esteban Fernandez-Juricic (Later-career seat), Alexa Fredston (Open seat).   
 
 &nbsp;
 
@@ -16,6 +15,7 @@ The SORTEE membership has elected three new members of the Board of Directors to
 ## Committees:   
 
 * [Board]({{< ref "people.md#board-of-directors" >}})   
+* [Executive Committee]({{< ref "people.md#executive-committee" >}})   
 * [Advocacy]({{< ref "people.md#advocacy-committee" >}})   
 * [Awards]({{< ref "people.md#awards-committee" >}})   
 * [Conference]({{< ref "people.md#conference-committee" >}})   
@@ -84,7 +84,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;
 
 ![Rose O’Dea](/img/people/RoseODea.png)   
-[Rose O’Dea](https://www.roseodea.com/) **(Secretary)** is a postdoctoral researcher in the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
+[Rose O’Dea](https://www.roseodea.com/) **(Secretary)** is a postdoctoral researcher, currently based in the MetaMelb Research Group at The University of Melbourne.   
 &nbsp;
 
 ![Tim Parker](/img/people/TimParker.png)   
@@ -94,253 +94,184 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;
 &nbsp;
 
+---
+
+### Executive Committee       
+As specified in the [SORTEE bylaws](https://www.sortee.org/bylaws/), the Executive Committee is chosen by the Board of Directors. 
+&nbsp;
+Current officers are:
+&nbsp;
+
+[Dominique Roche](https://dominiqueroche.weebly.com/) **(President)**     
+[Rose O’Dea](https://www.roseodea.com/) **(Secretary)**      
+[Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)**      
+[Esteban Fernandez-Juricic](http://www.estebanfj.com) **(President-Elect, starting in 2023)**        
+[Tim Parker](http://people.whitman.edu/~parkerth/) **(Past-President)**   
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 ---
 
 ### Advocacy Committee   
 
-This is a new committee in 2022 (subject to interest from members), which will develop policy statements and propose advocacy projects for improving the openness, reliability, and transparency of research in ecology and evolutionary biology. 
+A new committee in 2022, the Advocacy committee follows two ‘Unconference’ sessions at the 2021 SORTEE conference, asking whether this society should actively advocate for policy change. The Advocacy committee will develop policy statements and propose advocacy projects for improving the openness, reliability, and transparency of research in ecology and evolutionary biology.
+
+&nbsp;
+Current members are:   
+&nbsp;
+
+[Matt Grainger](mailto:matthew.grainger@nina.no)	**(Chair)**     
+Samantha Burke	(Membership consultant)     
+Cole Brookson	(Project drafter)     
+Dylan Gomes	(Policy drafter)     
+Kevin Bairos-Novak	(Researcher)     
 
 &nbsp;
 &nbsp;
 &nbsp;
-
 
 ---
 
 ### Awards Committee	 
 
-This committee solicits nominations and selects winners for the existing SORTEE awards. Awards are presented during the SORTEE conference, and in 2022 winners will be given the opportunity to present their award-winning research. The committee may also propose new award categories.   
+The Awards committee solicits nominations and selects winners for the existing SORTEE awards. Awards are presented during the SORTEE conference. 
 &nbsp;
 Current members are:   
 &nbsp;
 
-[Alessandro	Filazzola](https://www.filazzola.info/)   
-[Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
-[Bonnie	Wintle](https://bonnieresearch.wordpress.com/about/)   
-[Clint	Kelly](https://kellylab.weebly.com/)  **(Chair)**        
-[Erlend	Nilsen](https://scholar.google.com/citations?hl=no&user=XSJg2XoAAAAJ&view_op=list_works&gmla=AJsN-F6-RHUhi_1hN7lqODeNiX75f4HEZ8J8goOsFafJ2UOzdTZYCg80l-B214mIJQWrntfH3eQnhw-E3bfnZIbOC7Y83cWpHtB08Dlt87cfHvPNsdeW_8A)   
-[Hannah	Dugdale](https://hannahdugdale.wordpress.com)   
-[Jason	Pither](https://jasonpither.weebly.com/)   
-[Marcel	Carita Vaz](https://sites.google.com/g.ucla.edu/amazon-tree/home?authuser=0)   
-[Nicholas	Grebe](nicholasgrebe.github.io)   
-[Sandra	Hamel](https://sites.google.com/site/sandrahamel18/)   
-Wendy	Thorogood   
+[Clint Kelly](mailto:kelly.clint@uqam.ca)	**(Chair)**     
+Sandra Hamel	(Committee coordinator)     
+Patrice Pottier	(Selection coordinator)     
+Jason Pither	     
+Hannah Dugdale	      
 
 &nbsp;
 &nbsp;
 &nbsp;
-
 
 ---
 
 ### Conference Committee	 
 
-This committee organizes the virtual SORTEE Conference (typically in July).  
+The Conference committee organizes the virtual SORTEE Conference, which is held in the second week of July. If you have the capacity to donate time and/or money to organising the conference, please email the Committee Chair [Edward Ivimey-Cook](mailto:e.ivimeycook@gmail.com).
 &nbsp;
 Current members are:   
 &nbsp;
 
-[Amelia	Hood](https://www.zoo.cam.ac.uk/directory/amelia-hood)   
-[Edward	Ivimey-Cook](https://www.researchgate.net/profile/Edward-Ivimey-Cook)   
-[Elina	Takola](https://www.researchgate.net/profile/Elina-Takola)   
-[Malika	Ihle](https://ox.ukrn.org/people/#MalikaIhle)   
-[Matt	Grainger](https://scholar.google.com/citations?user=aZ4E5I4AAAAJ&hl=en)   
-[Matthieu	Paquet](https://www.researchgate.net/profile/Matthieu-Paquet)   
-[Rose	O'Dea](http://www.roseodea.com/)   
-[Tim	Parker](http://people.whitman.edu/~parkerth/) **(Chair)**   
-[Malika	Ihle](https://ox.ukrn.org/people/#MalikaIhle)   
-[Benoit	Pujol](http://www.criobe.pf/pro/personnel/chercheurs-et-enseignants-chercheurs/benoit-pujol/)   
+[Edward Ivimey-Cook](mailto:e.ivimeycook@gmail.com)	**(Chair)**     
+Tim Parker	(Past Chair)     
+Elina Takola	(Advertiser)     
+Matthieu Paquet	(Content submissions & selection)     
+Rachel Turba de Paula	(Plenary organizer)     
+Katie Spooner	(Program manager)      
 
 &nbsp;
 &nbsp;
 &nbsp;
-
 
 ---
 
 ### Diversity, Equity, and Inclusion Committee	 
 
-This committee works to promote diversity, equity, and inclusion within all SORTEE’s activities and committees.  
+To promote diversity, equity, and inclusion within SORTEE’s activities and committees, the 2022 DEI committee will be working more closely with specific committees by having dedicated ‘committee consultants’ to the Conference, Membership, Education & Outreach, and Media committees. These consultants will attend meetings of their nominated committee and advise on DEI matters. There is also a DEI ‘member consultant’ who is available to SORTEE members for advice on improving DEI in their own practice. 
 &nbsp;
 Current members are:   
 &nbsp;
 
-[Kaitlyn	Gaynor](www.kaitlyngaynor.com)   
-[Malika	Ihle](https://ox.ukrn.org/people/#MalikaIhle) **(Co-Chair)**   
-[Samantha	Burke](http://www.i-deel.org/samantha-burke.html) **(Co-Chair)**   
-[Victoria	Hemming](https://hemmingresearch.wordpress.com/)   
-[Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
-[Alexander	Mielke](https://www.alex-mielke.com/)   
-[Kimberly	Cook](https://www.researchgate.net/profile/Kimberly-Cook-3)   
-Zuzanna Zagrodza
+[Malgorzata Lagisz](mailto:losialagisz@gmail.com)	**(Chair)**     
+Joseph Burant	(SORTEE member consultant)     
+Bawan Amin	(Consultant to the conference committee)     
+Cole Brookson	(Consultant to the membership committee)     
+Dylan Gomes	(Consultant to the Education & Outreach committee)     
+Patrice Pottier	(Consultant to the media committee)     
+Cesar Herrera	(Consultant to the media committee)     
 
 &nbsp;
 &nbsp;
 &nbsp;
-
 
 ---
 
 ### Education and Outreach Committee   
 
-This committee develops plans to provide educational resources to individuals and organizations interested in learning more about improving research by making it more open, reliable, and transparent.   
+The Education & Outreach committee develops plans to provide educational resources to individuals and organizations interested in learning more about improving research by making it more open, reliable, and transparent. 
 &nbsp;
 Current members are:   
 &nbsp;
 
-Bawan	Amin   
-[Clint Kelly](https://kellylab.weebly.com/)    
-Cole	Brookson  
-Colette	Ward  
-[Ilias	Berberi](https://scholar.google.ca/citations?user=-zFoCE0AAAAJ&hl)   
-[Malgorzata (Losia) Lagisz](https://mlagisz.weebly.com/)   
-[Malika	Ihle](https://ox.ukrn.org/people/#MalikaIhle)   
-[Samantha	Burke](http://www.i-deel.org/samantha-burke.html) **(Co-Chair)**   
-[Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina) **(Co-Chair)**   
-[Elliot	Gould](https://github.com/egouldo)   
-[Georgia	Titcomb](https://georgiatitcomb.weebly.com/)   
-[Chris	Nadeau](https://chrisnadeau.wixsite.com/chris)   
-[Ehren	Moler](https://www.researchgate.net/profile/Ehren-Moler)   
-[Valentin	Amrhein](https://camargue.unibas.ch/en/team/valentin-amrhein/)   
+[Dave Angelini](mailto:david.r.angelini@gmail.com)	**(Chair)** (Organization promotor)     
+Cesar Herrera	(Website resources curator)     
+Georgia Titcomb	(Website resources curator)     
+Matthieu Paquet	(Slack manager)     
+Szymek Drobniak	(Media coordinator)     
 
 &nbsp;
 &nbsp;
 &nbsp;
-
 
 ---
 
 ### Fundraising Committee	 
 
-This committee develops and implements plans for raising funds to support SORTEE.   
+The Fundraising committee develops and implements plans for raising funds to support SORTEE. 
 &nbsp;
 Current members are:   
 &nbsp;
 
-[Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
-[Dom	Roche](https://dominiqueroche.weebly.com/) **(Chair)**    
-Joseph	Burant   
-[Raphaël	Royauté](http://raphaelroyaute.com/)   
-[Shinichi	Nakagawa](http://www.i-deel.org/)   
- 
-&nbsp;
-&nbsp;
-&nbsp;
+[Dom Roche](mailto:dom.g.roche@gmail.com)	**(Chair)**     
+Amelia Hood	(Application writer)     
+Joey Burant	(Researcher / application writer)     
+Raphael Royaute	(Donation seeker / application writer)     
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 ---
 
 ### Media Committee  		
 
-This committee develops content for the website and for Twitter, designs and maintains the website, and develops new ideas for spreading the word about SORTEE and open, reliable, and transparent science.   
+The Media committee develops content (for the website, Twitter, and newsletter), designs and maintains the website, and develops new ideas for spreading the word about SORTEE and open, reliable, and transparent science.
 &nbsp;
 Current members are:   
 &nbsp;
 
-[Alfredo	Sanchez-Tojar](https://publons.com/researcher/455178/alfredo-sanchez-tojar)   
-[David	Murray-Stoker](https://dmurraystoker.github.io/)   
-[Heather	Ritchie](https://hevritchie.wordpress.com/)   
-[Jasmine	Nirody](http://users.ox.ac.uk/~phys1213)   
-[Joshka	Kaufmann](https://joshkakaufmann.wordpress.com/)   
-[Malgorzata (Losia) Lagisz](https://mlagisz.weebly.com/)   
-[Rose	O'Dea](http://www.roseodea.com/)   
-[Samantha	Burke](http://www.i-deel.org/samantha-burke.html)   
-[Szymek	Drobniak](https://szymekdrobniak.wordpress.com)   
-[Tim	Parker](http://people.whitman.edu/~parkerth/) **(Chair)**    
-[Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
-[Jeff	Clements](https://jclementsphd.wordpress.com/)   
-[Heather	Ritchie](https://hevritchie.wordpress.com/)   
+[Szymek Drobniak](mailto:szymek.drobniak@gmail.com)	**(Chair)** (Newsletter editor)     
+Alfredo Sánchez-Tójar	(Twitter manager)     
+Malgorzata Lagisz	(Website maintainer)     
+Eleanor Jackson	(Website co-editor)     
+Rose O'Dea	(Member profiles editor)     
+Jithin V	(General content curator)     
+Rachael Blake	(General content curator)       
 
 &nbsp;
 &nbsp;
 &nbsp;
-
 
 ---
 
 ### Membership Committee  		
 
-This committee focuses on recruiting SORTEE members and determining conditions for and benefits of SORTEE membership.   
+The Membership committee focuses on recruiting SORTEE members and determining conditions for and benefits of SORTEE membership.   
 &nbsp;
 Current members are:   
 &nbsp;
 
-[Elliot	Gould](https://github.com/egouldo)   
-[Gideon	Deme Gywa](https://scholar.google.com/citations?user=ISsrNjIAAAAJ&hl=en)   
-[Kaija	Gahm](https://kaijagahm.netlify.app/)   
-[Lewis	Bartlett](https://www.bartlett.science/)   
-[Rose	O'Dea](http://www.roseodea.com/) **(Chair)**     
-[Tim	Parker](http://people.whitman.edu/~parkerth/)   
+[Lewis Bartlett](mailto:lewis.bartlett@uga.edu)	**(Chair)**     
+Kaija Gahm	(Membership consultant)     
+Ned Dochtermann	(Recruitment officer)     
+Gideon Deme Gywa	(Recruitment officer)     
 
 &nbsp;
 &nbsp;
 &nbsp;
-
-
----
-
-### Overlay Journal Committee  		
-
-This committee is exploring the possibility of establishing an ‘overlay’ journal associated with SORTEE.   
-&nbsp;
-Current members are:   
-&nbsp;
-
-[Alkistis	Elliott-Graves](http://alkistis-elliott-graves.net/)   
-[Antica	Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
-[Dom	Roche](https://dominiqueroche.weebly.com/) **(Chair)**   
-Inês	Silva	
-[Jithin	Vijayan](https://www.jithinvijayan.info/)   
-[Kaitlin	Kimmel](http://kaitlinakimmel.wixsite.com/ecologist)   
-[Matthew	Jones](https://www.nceas.ucsb.edu/about-us/our-people)   
-[Ross	Mounce](https://rossmounce.co.uk/aboutme/)   
-[Thomas	Johnson](https://thomasfjohnson.webnode.co.uk/)   
-
-&nbsp;
-&nbsp;
-&nbsp;
-
-
----
-
-### Founding Members   
-
-Members contributing to the establishment of the Society in 2020 are:    
-&nbsp;
-
-[Alfredo Sánchez-Tojar](https://www.uni-bielefeld.de/(en)/biologie/Evolutionsbiologie/mitarbeiter/tojar.html)   
-[Allyson O’Brien](https://allysonobrien.com/home/)   
-[Antica Culina](https://nioo.knaw.nl/en/employees/antica-culina)   
-[Bonnie Wintle](https://bonnieresearch.wordpress.com/about/)   
-[Clint Kelly](https://kellylab.weebly.com/)      
-[David Duncan](https://www.nespthreatenedspecies.edu.au/people/david-duncan)   
-[David Wilkinson](https://scholar.google.com/citations?user=RMGqZu0AAAAJ&hl=en)   
-[Dominique Roche](https://dominiqueroche.weebly.com/)   
-[Elliot Gould](https://orcid.org/0000-0002-6585-538X)    
-[Emilio Bruna](http://brunalab.org/emilio-m-bruna/)   
-[Fiona Fidler](https://fionaresearch.wordpress.com/about/)   
-[Hannah Fraser](https://hsfraser.wordpress.com/)   
-[Julia Stewart Lowndes](https://jules32.github.io/)   
-[Malgorzata Lagisz](https://mlagisz.weebly.com/)   
-[Malika Ihle](https://malikaihle.wordpress.com/)   
-[Rose O’Dea](https://www.roseodea.com/)  
-[Samantha Burke](http://www.i-deel.org/samantha-burke.html)   
-[Saras Windecker](https://www.smwindecker.com/)   
-[Shinichi Nakagawa](http://www.i-deel.org/shinichi-nakagawa.html)   
-[Szymon Drobniak](https://szymekdrobniak.wordpress.com/)   
-[Tim Parker](http://people.whitman.edu/~parkerth/)  
-[Wolfgang Forstmeier](https://www.orn.mpg.de/person/26271/660919)   
-
-&nbsp;
-&nbsp;
-&nbsp;
-
 
 ---
 
 ### Past Board and Comittee Members  
 
-Please see [this page]({{< ref "people_archive.md" >}}).
+Please see [this page]({{< ref "people_archive.md" >}}).   
 
 &nbsp;
