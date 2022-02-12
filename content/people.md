@@ -116,8 +116,7 @@ Current officers are:
 
 ### Advocacy Committee   
 
-A new committee in 2022, the Advocacy committee follows two ‘Unconference’ sessions at the 2021 SORTEE conference, asking whether this society should actively advocate for policy change. The Advocacy committee will develop policy statements and propose advocacy projects for improving the openness, reliability, and transparency of research in ecology and evolutionary biology.
-
+A new committee in 2022, the Advocacy committee follows two ‘Unconference’ sessions at the 2021 SORTEE conference, asking whether this society should actively advocate for policy change. The Advocacy committee will develop policy statements and propose advocacy projects for improving the openness, reliability, and transparency of research in ecology and evolutionary biology. 
 &nbsp;
 Current members are:   
 &nbsp;
@@ -155,7 +154,7 @@ Hannah Dugdale
 
 ### Conference Committee	 
 
-The Conference committee organizes the virtual SORTEE Conference, which is held in the second week of July. If you have the capacity to donate time and/or money to organising the conference, please email the Committee Chair [Edward Ivimey-Cook](mailto:e.ivimeycook@gmail.com).
+The Conference committee organizes the virtual SORTEE Conference, which is held in the second week of July. If you have the capacity to donate time and/or money to organising the conference, please email the Committee Chair [Edward Ivimey-Cook](mailto:e.ivimeycook@gmail.com). 
 &nbsp;
 Current members are:   
 &nbsp;
@@ -233,7 +232,7 @@ Raphael Royaute	(Donation seeker / application writer)
 
 ### Media Committee  		
 
-The Media committee develops content (for the website, Twitter, and newsletter), designs and maintains the website, and develops new ideas for spreading the word about SORTEE and open, reliable, and transparent science.
+The Media committee develops content (for the website, Twitter, and newsletter), designs and maintains the website, and develops new ideas for spreading the word about SORTEE and open, reliable, and transparent science. 
 &nbsp;
 Current members are:   
 &nbsp;
@@ -254,7 +253,7 @@ Rachael Blake	(General content curator)
 
 ### Membership Committee  		
 
-The Membership committee focuses on recruiting SORTEE members and determining conditions for and benefits of SORTEE membership.   
+The Membership committee focuses on recruiting SORTEE members and determining conditions for and benefits of SORTEE membership. 
 &nbsp;
 Current members are:   
 &nbsp;
