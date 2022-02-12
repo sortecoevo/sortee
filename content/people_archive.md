@@ -42,19 +42,17 @@ This page lists SORTEE's past Board and Committee members.
 &nbsp;   
 
 ![Bonnie Wintle](/img/people/BonnieWintle.png)    
-&nbsp; 
 2021-2022      
 term 2021: [Bonnie Wintle](https://bonnieresearch.wordpress.com/about/) is a Senior Research Fellow in the School of BioSciences at Melbourne University, based in the interdisciplinary MetaMelb group.    
 &nbsp;
 
 ![Samantha Burke](/img/people/SamanthaBurke.png)    
-&nbsp; 
+
 2021-2022     
 Term 2021: [Samantha Burke](http://www.i-deel.org/samantha-burke.html) is a student pursuing a PhD with the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
 &nbsp;
 
 ![Clint Kelly](/img/people/ClintKelly.png)    
-&nbsp; 
 2021-2022      
 Term 2021: [Clint Kelly](https://kellylab.weebly.com/) is an Associate Professor of Biology and Canada Research Chair in Behavioural Ecology at the Université du Québec à Montréal. Clint currently serves on the SORTEE Executive Committee.    
 
