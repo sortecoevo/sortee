@@ -9,7 +9,7 @@ title: Join
 
 ### 2022 Membership   
 
-[Become a SORTEE member in 2022](https://www.joinit.org/o/sortee/members).
+[Become a SORTEE member in 2022](https://www.joinit.org/o/sortee/).
 
 In 2022 SORTEE has introduced a **suggested membership fee** to support the society’s continued operation and growth (e.g., board insurance, website hosting, membership management software). Membership fees will help cover legal and administrative fees the society incurred to register as a not-for-profit organization in 2021.
 
@@ -21,7 +21,7 @@ The suggested membership fees for the 2022 calendar year are as follows (amounts
 
 **Flexible pricing and donations**: We are offering everyone an option to enter a different payment amount. This option is intended for people who need to pay less (e.g. to account for exchange rates or personal financial difficulty), and for those who have the means to pay more and would like to make a larger donation to support SORTEE’s activities. 
 
-To join SORTEE or update your membership details, please go to: [https://www.joinit.org/o/sortee/members](https://www.joinit.org/o/sortee/members).
+To join SORTEE or update your membership details, please go to: [https://www.joinit.org/o/sortee/](https://www.joinit.org/o/sortee/).
 
 ----
 
