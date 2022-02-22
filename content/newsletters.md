@@ -7,19 +7,17 @@ description: newsletters of the Society for Open, Reliable, and Transparent Ecol
 title: Newsletters
 ---
 
-This page hosts links to newsletters and notification emails produced by SORTEE members.   
+This page hosts links to archived newsletters and notification emails produced by SORTEE.   
 
 &nbsp;
 
 ## [Notification - February 2022](https://mailchi.mp/a68234a4a81f/action-required-sortee-2022-membership)  
 
-&nbsp;
-
 ## [Newsletter - October 2021](https://mailchi.mp/b4b7b38ce569/newsletter-october-2021)  
 
 &nbsp;
 
-If you are a registered  SORTEE member and did not receive the latest newsletter in your email,or would like to change your email address,  use this [online form](https://forms.gle/eD31BPypYi3yitRk9).   
+If you are a registered SORTEE member and did not receive the latest newsletter/notification in your email, or would like to change your email address, use this [online form](https://forms.gle/eD31BPypYi3yitRk9).   
 
 &nbsp;
 
