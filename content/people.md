@@ -184,7 +184,7 @@ Joseph Burant	(SORTEE member consultant)
 Bawan Amin	(Consultant to the conference committee)     
 Cole Brookson	(Consultant to the membership committee)     
 Dylan Gomes	(Consultant to the Education & Outreach committee)     
-Patrice Pottier	(Consultant to the media committee)     
+Patrice Pottier	(Consultant to the awards committee)     
 Cesar Herrera	(Consultant to the media committee)     
 
 &nbsp;
