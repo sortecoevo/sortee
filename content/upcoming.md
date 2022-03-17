@@ -8,8 +8,9 @@ title: Upcoming events
 ---
 
 ## SORTEE Conference 2022  
-The 2022 conference will be held remotely to facilitate participation from SORTEE members around the world.
-   More information will provided as it becomes available
+The 2022 conference will be held from the 11th - 13th July. The conference will be virtual, world-wide and across all time-zones to facilitate participation from SORTEE members around the world. It will include invited & submitted talks, as well as 
+interactive events (workshops, hackathons, structured & unstructured talks). More details to be announces closer to the conference date. Registrations and submissions will open soon.
+
    
 &nbsp;
 
