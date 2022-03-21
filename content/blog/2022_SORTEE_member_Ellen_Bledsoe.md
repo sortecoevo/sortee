@@ -32,7 +32,7 @@ I ended up in a wonderful PhD lab that is very strongly committed to Open Scienc
 &nbsp;
 &nbsp;
 
-_What 'ORT' practice have you introduced into your research practice that you've found really helpful? _   
+_What 'ORT' practice have you introduced into your research practice that you've found really helpful?_    
 Version control (I personally use git and GitHub) has been a revelation! It was very daunting to learn--I was forced into it--but I'm so grateful I was. Not only does it help me keep track of my own code and make collaborating on code easier, but I've also been able to hunt down other people's code from other projects to help facilitate my own code, which has, in turn, improved my own coding skills.
 &nbsp;
 &nbsp;
