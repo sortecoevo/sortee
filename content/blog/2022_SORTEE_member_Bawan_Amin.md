@@ -43,7 +43,7 @@ A few years ago, I started playing the guitar. I cannot stress how important it 
 &nbsp;
 
 _Where to find you online?:_   
-![Twitter: @Bio_Bawan](https://twitter.com/bio_bawan)    
+[Twitter: @Bio_Bawan](https://twitter.com/bio_bawan)    
 &nbsp;
 &nbsp;
 
