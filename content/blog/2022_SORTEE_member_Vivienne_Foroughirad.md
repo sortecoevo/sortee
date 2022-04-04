@@ -42,7 +42,3 @@ _Where to find you online?:_
 Twitter: [@vforoughirad](https://twitter.com/vforoughirad)   
 &nbsp;
 &nbsp;
-
-
-![Vivienne Foroughirad](/blog/images/Vivienne_Foroughirad.png)    
-&nbsp;
