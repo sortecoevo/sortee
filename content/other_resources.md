@@ -50,7 +50,7 @@ While the resources below were published by other parties, in the future we woul
 
 * [Ummul-Kiram Kathawalla, Priya Silverstein, Moin Syed; Easing Into Open Science: A Guide for Graduate Students and Their Advisors. Collabra: Psychology 4 January 2021; 7 (1): 18684](https://doi.org/10.1525/collabra.18684)   
 
-* [Open Science Foundation (OSF) Guides](https://help.osf.io/hc/en-us/categories/360001530634-Best-Practices)   
+* [Open Science Foundation (OSF) Guides](https://help.osf.io)   
 
 * [Open Access Infrastructure for Research in Europe (OpenAIRE) Guides](https://www.openaire.eu/guides)   
 
