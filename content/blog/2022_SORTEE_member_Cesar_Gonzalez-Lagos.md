@@ -41,7 +41,3 @@ _Where to find you online?:_
 [Twitter: @gonzalez_lagos](https://twitter.com/gonzalez_lagos)   
 &nbsp;
 &nbsp;
-
-
-![César González-Lagos](/blog/images/César_González-Lagos.png)    
-&nbsp;
