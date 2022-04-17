@@ -20,7 +20,7 @@ title: Past events
 
 You can find Conference Information Pack  [here ](https://docs.google.com/document/d/18TxM69XLGXUJKZFzN50FSjTb6wfctuyFhHc0NdRzbyE/edit)
 
-You can find video recordings of teh talks on [this OSF Meetings page](https://osf.io/meetings/SORTEE2021/) 
+You can find video recordings of the talks on [this OSF Meetings page](https://osf.io/meetings/SORTEE2021/) 
 
 &nbsp;
 &nbsp;
@@ -36,13 +36,3 @@ You can find video recordings of teh talks on [this OSF Meetings page](https://o
 
 
 &nbsp;
-
-Join SORTEE (it’s free for 2021) to be sure to receive an email announcement when registrations open for the next event: 
-
-## To join SORTEE, please fill in this [new member survey](https://whitmancollege.qualtrics.com/jfe/form/SV_erj9dfYpaGDqolM)    
-
-&nbsp;
-
-
-
-
