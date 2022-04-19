@@ -53,31 +53,31 @@ We emphasize that making publications Open Access is NOT a criterion for the awa
 
 **Data, Analytical Methods, Code, and Research Materials Transparency**   
 
--[ ] Did the author (hereafter applicant) indicate that the data, methods used in the analysis, and materials used to conduct the research are publicly available    
+- [ ] Did the author (hereafter applicant) indicate that the data, methods used in the analysis, and materials used to conduct the research are publicly available    
 
 -[ ] Did the applicant make the data available at a trusted digital repository? (Note: If all data required to reproduce the reported analyses appears in the article text, tables, and figures then it does not also need to be posted to a repository.)    
 
--[ ] Did the applicant include in the data and code all variables, treatment conditions, and observations described in the manuscript?   
+- [ ] Did the applicant include in the data and code all variables, treatment conditions, and observations described in the manuscript?   
 
--[ ] Did the applicant provide a full account of the procedures used to collect, preprocess, clean, or generate the data?   
+- [ ] Did the applicant provide a full account of the procedures used to collect, preprocess, clean, or generate the data?   
 
--[ ] Did the applicant provide program code, scripts, codebooks, and other documentation sufficient to precisely reproduce all published results?   
+- [ ] Did the applicant provide program code, scripts, codebooks, and other documentation sufficient to precisely reproduce all published results?   
 
--[ ] Did the applicant provide research materials and description of procedures necessary to conduct an independent replication of the research?   
+- [ ] Did the applicant provide research materials and description of procedures necessary to conduct an independent replication of the research?   
 
 **Design and Analysis Transparency**   
 
--[ ] Did the applicant report on the process by which they followed standards for disclosing key aspects of the research design and data analysis. For example, did the applicant review the standards available for many research applications from http://www.equator-network.org/ and use those that are relevant for the reported research applications?   
+- [ ] Did the applicant report on the process by which they followed standards for disclosing key aspects of the research design and data analysis. For example, did the applicant review the standards available for many research applications from http://www.equator-network.org/ and use those that are relevant for the reported research applications?   
 
 **Preregistration of Study**   
 
--[ ] Did the applicant, in acknowledgments or the first footnote, indicate if they did or did not pre-register the research in an independent, institutional registry?    
+- [ ] Did the applicant, in acknowledgments or the first footnote, indicate if they did or did not pre-register the research in an independent, institutional registry?    
 
--[ ] If an applicant did preregister the research, the applicant must confirm that the study was registered prior to conducting the research with links to the time-stamped pre-registrations at the institutional registry, and that the preregistration adheres to the disclosure requirements of the institutional registry or those required for the preregistered badge maintained by the Center for Open Science.   
+- [ ] If an applicant did preregister the research, the applicant must confirm that the study was registered prior to conducting the research with links to the time-stamped pre-registrations at the institutional registry, and that the preregistration adheres to the disclosure requirements of the institutional registry or those required for the preregistered badge maintained by the Center for Open Science.   
 
--[ ] Did the applicant report all pre-registered analyses in the text, or, if there were changes in the analysis plan following preregistration, those changes must be disclosed with explanation for the changes?    
+- [ ] Did the applicant report all pre-registered analyses in the text, or, if there were changes in the analysis plan following preregistration, those changes must be disclosed with explanation for the changes?    
 
--[ ] Did the applicant clearly distinguish in text analyses that were preregistered from those that were not, such as having separate sections in the results for confirmatory and exploratory analyses?    
+- [ ] Did the applicant clearly distinguish in text analyses that were preregistered from those that were not, such as having separate sections in the results for confirmatory and exploratory analyses?    
 
 &nbsp;
 
@@ -95,9 +95,9 @@ The awardees will be invited to give a short presentation at the SORTEE conferen
 
 **Application materials:**   
 
-(i) A letter (maximum 500 words) describing why you are deserving of this award, and referring to evidence and examples (accessible to adjudicators through URLs / DOIs) of how your publication and the work that went into it exemplifies Open Science best practices and the promotion of Open Science.  
-(ii) An up-to-date resumé (maximum 2 pages as a .pdf)
-(iii) A list with explanations of open science contributions
+(i) A letter (maximum 500 words) describing why you are deserving of this award, and referring to evidence and examples (accessible to adjudicators through URLs / DOIs) of how your publication and the work that went into it exemplifies Open Science best practices and the promotion of Open Science.   
+(ii) An up-to-date resumé (maximum 2 pages as a PDF).   
+(iii) A list with explanations of open science contributions   
 
 &nbsp;
 &nbsp;
