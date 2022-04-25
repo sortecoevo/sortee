@@ -11,7 +11,9 @@ title: Upcoming events
 
 ### Virtual, world-wide, 11th - 13th of July*
 
-#### Conference registration coming soon!   
+---
+
+**Registration**: *coming soon!*      
 
 **Conference registration fees will be US$10 for current members of SORTEE** (with a waiver option).
 
@@ -21,7 +23,7 @@ To be eligible for discounted member registration and the waiver option, join SO
 
 ---
 
-### Content submissions are now [open](https://forms.gle/SGJkA99uejDFnVg37)!**   
+### Content submissions are now [open](https://forms.gle/SGJkA99uejDFnVg37)!  
 
 **Content submissions deadline:** 1st of June
 
@@ -36,7 +38,7 @@ We want to facilitate lively exchanges of ideas, and so the following three even
 
 - **Workshops**: Facilitators will teach tools for implementing open, reliable, and transparent practices.    
 
-**Short Presentations** 
+**Short Presentations**:    
 We also invite you to propose a presentation to share your experience with issues of openness, reliability, and transparency in scientific research that are relevant to people working in fields related to ecology and evolutionary biology. For example, you could reflect on failures in your own work and what they taught you, present tools or methods that can help others make their research more open, reliable, and transparent, present plans for an upcoming project, or present research that integrates open science practices in an inspiring way.
 
 ---
@@ -54,7 +56,7 @@ For facilitated sessions (Workshops, Unconferences, and Hackathons), we welcome 
 We encourage people with any questions about accessibility in the submission process or the events themselves to contact us via [sorteeconf2022@gmail.com](mailto:sorteeconf2022@gmail.com). Similarly, please feel free to contact us if you would like guidance as you prepare your proposals and submissions.
 
 &nbsp;
-&nbsp;
+
 ---
 
 *The conference will run continuously from 11 July 0700 UTC to 13 July 0700 UTC, in order to cover all timezones (with Europe/Africa and the Americas spanning July 11-12, and Asia/Pacific spanning July 12-13).
