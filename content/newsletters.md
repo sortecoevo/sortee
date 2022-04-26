@@ -11,6 +11,8 @@ This page hosts links to archived newsletters and notification emails produced b
 
 &nbsp;
 
+## [Newsletter - April 2022](https://mailchi.mp/87ed7bf532dc/sortee-newsletter-april-2022)    
+
 ## [Notification - February 2022](https://mailchi.mp/a68234a4a81f/action-required-sortee-2022-membership)  
 
 ## [Newsletter - October 2021](https://mailchi.mp/b4b7b38ce569/newsletter-october-2021)  
