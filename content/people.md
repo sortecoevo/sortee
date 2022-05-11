@@ -260,7 +260,6 @@ Current members are:
 
 [Lewis Bartlett](mailto:lewis.bartlett@uga.edu)	**(Chair)**     
 Kaija Gahm	(Membership consultant)     
-Ned Dochtermann	(Recruitment officer)     
 Gideon Deme Gywa	(Recruitment officer)     
 
 &nbsp;
