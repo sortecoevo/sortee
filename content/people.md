@@ -21,7 +21,6 @@ title: People
 * [Conference]({{< ref "people.md#conference-committee" >}})   
 * [Diversity, Equity, and Inclusion]({{< ref "people.md#diversity-equity-and-inclusion-committee" >}})   
 * [Education and Outreach]({{< ref "people.md#education-and-outreach-committee" >}})   
-* [Finance]({{< ref "people.md#finance-committee" >}})   
 * [Fundraising]({{< ref "people.md#fundraising-committee" >}})  
 * [Media]({{< ref "people.md#media-committee" >}})   
 * [Membership]({{< ref "people.md#membership-committee" >}})   
