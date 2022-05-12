@@ -26,7 +26,7 @@ This page lists SORTEE's past Board and Committee members.
 * [Media]({{< ref "people.md#media-committee" >}})   
 * [Membership]({{< ref "people.md#membership-committee" >}})   
 * [Overlay Journal]({{< ref "people.md#overlay-journal-committee" >}})    
-* [Funding Members]({{< ref "people.md#funding-members" >}})    
+* [Founding Members]({{< ref "people.md#founding-members" >}})    
 
 
 &nbsp;
