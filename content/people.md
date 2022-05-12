@@ -20,12 +20,12 @@ title: People
 * [Awards]({{< ref "people.md#awards-committee" >}})   
 * [Conference]({{< ref "people.md#conference-committee" >}})   
 * [Diversity, Equity, and Inclusion]({{< ref "people.md#diversity-equity-and-inclusion-committee" >}})   
-* [Education and Outreach]({{< ref "people.md#Education-and-outreach-committee" >}})   
+* [Education and Outreach]({{< ref "people.md#education-and-outreach-committee" >}})   
 * [Finance]({{< ref "people.md#finance-committee" >}})   
 * [Fundraising]({{< ref "people.md#fundraising-committee" >}})  
 * [Media]({{< ref "people.md#media-committee" >}})   
 * [Membership]({{< ref "people.md#membership-committee" >}})   
-* [Past Board and Committee Members]({{< ref "people.md#Past-Board-and-Committee-Members" >}})    
+* [Past Board and Committee Members]({{< ref "people.md#past-board-and-committee-members" >}})    
 
 
 &nbsp;
