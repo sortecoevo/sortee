@@ -25,8 +25,7 @@ title: People
 * [Fundraising]({{< ref "people.md#fundraising-committee" >}})  
 * [Media]({{< ref "people.md#media-committee" >}})   
 * [Membership]({{< ref "people.md#membership-committee" >}})   
-* [Overlay Journal]({{< ref "people.md#overlay-journal-committee" >}})    
-* [Funding Members]({{< ref "people.md#funding-members" >}})    
+* [Past Board and Committee Members]({{< ref "people.md#Past-Board-and-Committee-Members" >}})    
 
 
 &nbsp;
@@ -268,7 +267,7 @@ Gideon Deme Gywa	(Recruitment officer)
 
 ---
 
-### Past Board and Comittee Members  
+### Past Board and Committee Members  
 
 Please see [this page]({{< ref "people_archive.md" >}}).   
 
