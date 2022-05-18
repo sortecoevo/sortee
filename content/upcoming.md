@@ -15,11 +15,19 @@ title: Upcoming events
 
 **Registration**: *coming soon!*      
 
-**Conference registration fees will be US$10 for current members of SORTEE** (with a waiver option).
+**Conference registration fees**:   
 
-For non-members, registration fees will be 30, 40, and 60 US dollars for students, early-career, and senior-career professionals, respectively.
+Attending as a SORTEE member: US $10 
 
-To be eligible for discounted member registration and the waiver option, join SORTEE here: [https://www.sortee.org/join/](https://www.sortee.org/join/)
+Attending as a Non-member: 30, 40, and 60 US dollars for students, early-career, and senior-career professionals, respectively.
+
+Conference waivers: **free**   
+*	SORTEE members presenting at the conference (content submissions close 1 June: https://forms.gle/SGJkA99uejDFnVg37)    
+*	SORTEE members with financial disadvantage (SORTEE membership fees can be waived too; https://www.joinit.org/o/sortee/)    
+*	Members of a sponsoring society    
+*	Plenary speakers and conference organizers  
+
+To be eligible for discounted member registration and the waiver option, join SORTEE here: [https://www.sortee.org/join/](https://www.sortee.org/join/)   
 
 ---
 
