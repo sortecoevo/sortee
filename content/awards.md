@@ -29,4 +29,3 @@ In 2021 SORTEE's ***Open Science in Practice*** awardees were:
 This award aims to recognize and reward researchers who have endeavoured to implement best practices in Open Science (OS) within their research workflow, thereby increasing the transparency and reproducibility of their research activities. 
 
 &nbsp;
-&nbsp;
