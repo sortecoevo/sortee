@@ -77,7 +77,7 @@ We encourage people with any questions about accessibility in the submission pro
 
 ![Corina Logan](/blog/images/Corina_Logan.png)
 
-## Dr. Corina Logan
+## Corina Logan
 ### How Peer Community in Registered Reports lets researchers take back control of the publishing process
 **July 13th, 16:00 CEST (GMT +2)**
 
@@ -90,8 +90,8 @@ There is a desperate need to reform the production and dissemination of scholarl
 
 ![C. Thi Nguyen](/blog/images/C_Thi_Nguyen.png)
 
-# C. Thi Nguyen
-## Transparency is Surveillance
+## C. Thi Nguyen
+### Transparency is Surveillance
 **July 11th, 13:00 MT (GMT -6)**
 
 In her BBC Reith Lectures on Trust, Onora O’Neill offers a short, but biting, criticism of transparency. People think that trust and transparency go together but in reality, says O'Neill, they are deeply opposed. Transparency forces people to conceal their actual reasons for action and invent different ones for public consumption. Transparency forces deception. I work out the details of her argument and worsen her conclusion. The drive to transparency forces experts to explain their reasoning to non-experts. But expert reasons are, by their nature, often inaccessible to non-experts. So the demand for transparency can pressure experts to act only in those ways for which they can offer public justification. Transparency, it turns out, is a form of surveillance. By forcing reasoning into the explicit and public sphere, transparency roots out corruption — but it also inhibits the full application of expert skill, sensitivity, and subtle shared understandings. The difficulty here arises from the basic fact that human knowledge vastly outstrips any individual’s capacities. We need both trust and transparency, but they are in essential tension. This is a deep practical dilemma; it admits of no neat resolution, but only painful compromise.
@@ -101,8 +101,8 @@ In her BBC Reith Lectures on Trust, Onora O’Neill offers a short, but biting, 
 
 ![Paula Martinez](/blog/images/Paula_Martinez.jpg)
 
-# Dr. Paula Martinez
-## Why don't we share data and code?
+## Paula Martinez
+### Why don't we share data and code?
 **July 11th, 15:00 AEST (GMT +10)**
 
 In support of research transparency and reproducibility we need to make our analytical code and data available, not only our results. A description of our methods is often not enough for others to be able to use and reuse our analysis and test our results, in particular when the code produced is an integral part of the research presented. The digital environment in which we live has rapidly developed our computational accessibility, storage options and online collaborations. Subsequently, the need to upskill digital literacy, in all fields of study, has increased. Learning to present, publish and cite data and the underlying analysis code is part of scientific integrity now more than ever. 
