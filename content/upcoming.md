@@ -13,7 +13,7 @@ title: Upcoming events
 
 ---
 
-**Registration**: *coming soon!*      
+### [Register now](https://www.eventbrite.com/e/sortee-conference-2022-registration-328068480657) to attend the 2022 SORTEE Conference!    
 
 **Conference registration fees**:   
 
@@ -25,19 +25,19 @@ Conference waivers: **free**
 
 *	SORTEE members presenting at the conference ([content submissions](https://forms.gle/SGJkA99uejDFnVg37) close June 1st)      
 
-*	SORTEE members with financial disadvantage (SORTEE [membership fees](; https://www.joinit.org/o/sortee/) can be waived too)    
+*	SORTEE members with financial disadvantage (SORTEE [membership fees](https://www.joinit.org/o/sortee/) can be waived too)    
 
-*	Members of a sponsoring society    
+*	Members of a fee-waivering organisation (American Society of Naturalists and NSERC CREATE Living Data Project (CIEE))    
 
 *	Plenary speakers and conference organizers  
 
 To be eligible for discounted member registration and the waiver option, join SORTEE here: [https://www.sortee.org/join/](https://www.sortee.org/join/)   
 
+To register for the conference, go here: [https://tinyurl.com/sortee2022registration](https://tinyurl.com/sortee2022registration)
+
 ---
 
-### Content submissions are now [open](https://forms.gle/SGJkA99uejDFnVg37)!  
-
-**Content submissions deadline:** 1st of June
+### [Content submissions](https://forms.gle/SGJkA99uejDFnVg37) close 1st of June  
 
 Submit proposals for:
 
