@@ -1,6 +1,6 @@
 ---
 banner: img/banners/banner-Ineta_Kacergyte.png
-date: "2022-30-05"
+date: "2022-05-30"
 slug: 2022_sortee_member_Ineta_Kacergyte
 author: SORTEE
 categories:
