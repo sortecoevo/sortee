@@ -19,7 +19,7 @@ We are grateful for the financial support of these sponsor organisations!
 
 - [NSERC CREATE Living Data Project (CIEE)](https://www.ciee-icee.ca/data.html)  
 
-![logos](/blog/images/supporters_20220602.png)  
+![logos](/blog/images/supporters_220602.png)  
 
 
 &nbsp;
