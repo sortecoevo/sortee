@@ -19,9 +19,13 @@ We are grateful for the financial support of these sponsor organisations!
 
 - [NSERC CREATE Living Data Project (CIEE)](https://www.ciee-icee.ca/data.html)  
 
-![logos](/blog/images/supporters_220602.png)  
+- [eLife](https://elifesciences.org/)  
 
+![logos](/blog/images/supporters_220602.png)  
 
 &nbsp;
 
+![](/blog/images/elife-full-color-horizontal-2020.png)  
+
+&nbsp;
 ---   
