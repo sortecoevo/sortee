@@ -127,7 +127,5 @@ Paula Andrea Martinez is the Software Project Coordinator of the Australian Rese
 
 ## Conference sponsors  
 
-**PeerJ**  
-![PeerJ](/blog/images/peerj_logo.png)
+![ConferenceSponsorLogos](/blog/images/conferene_sponsors.png)
 &nbsp;
-![eLife](/blog/images/elife-full-color-horizontal-2020.png)  
