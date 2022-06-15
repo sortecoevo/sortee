@@ -121,7 +121,7 @@ Paula Andrea Martinez is the Software Project Coordinator of the Australian Rese
 
 ---
 
-*The conference will run continuously from 11 July 0700 UTC to 13 July 0700 UTC in order to cover all timezones (with Europe/Africa and the Americas spanning July 11-12, and Asia/Pacific spanning July 12-13). The conference will start with Paula Martinez's plenary at 11 July 05:00 UTC.
+*The conference will run continuously from 11 July 0430 UTC to 13 July 0700 UTC in order to cover all timezones (with Europe/Africa and the Americas spanning July 11-12, and Asia/Pacific spanning July 12-13). The conference will start with Paula Martinez's plenary at 11 July [0430 UTC](http://www.timebie.com/std/utc.php?q=4.5).
 
 ---
 
