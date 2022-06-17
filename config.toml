@@ -91,16 +91,19 @@ paginate = 4
     parent = "events"
     name = "Upcoming SORTEE conferences"
     url = "/upcoming/"
+    weight = 110
     
 [[menu.main]]
     parent = "events"
     name = "Past SORTEE conferences"
     url = "/past/"
-
+    weight = 120
+    
 [[menu.main]]
     parent = "events"
     name = "SORTEE meet-ups at other conferences"
     url = "/other_events/"
+    weight = 130
     
 [[menu.main]]
     identifier = "blog"
