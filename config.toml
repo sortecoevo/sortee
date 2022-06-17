@@ -89,14 +89,19 @@ paginate = 4
 
 [[menu.main]]
     parent = "events"
-    name = "Upcoming"
+    name = "Upcoming SORTEE conferences"
     url = "/upcoming/"
     
 [[menu.main]]
     parent = "events"
-    name = "Past"
+    name = "Past SORTEE conferences"
     url = "/past/"
 
+[[menu.main]]
+    parent = "events"
+    name = "SORTEE meet-ups at other conferences"
+    url = "/other_events/"
+    
 [[menu.main]]
     identifier = "blog"
     name = "Blog"
