@@ -21,7 +21,7 @@ Attending as a SORTEE member: US $10
 
 Attending as a Non-member: 30, 40, and 60 US dollars for students, early-career, and senior-career professionals, respectively.
 
-Conference waivers: **free**   
+Conference waivers: conference artendance is **free** for   
 
 *	SORTEE members presenting at the conference ([content submissions](https://forms.gle/SGJkA99uejDFnVg37) close June 1st)      
 
@@ -75,15 +75,15 @@ We encourage people with any questions about accessibility in the submission pro
 
 &nbsp;
 
-![Corina Logan](/blog/images/Corina_Logan.png)
+![Corina Logan](/blog/images/Corina_Logan.png)  
 
-## Corina Logan
-### How Peer Community in Registered Reports lets researchers take back control of the publishing process
-**July 13th, 16:00 CEST (GMT +2)**
+## Corina Logan  
+### How Peer Community in Registered Reports lets researchers take back control of the publishing process  
+**July 11th, 16:00 CEST (GMT +2)**  
 
-There is a desperate need to reform the production and dissemination of scholarly outputs to increase transparency, reproducibility, timeliness, academic rigor, and equity. I will discuss what researchers are doing to address these issues by sharing ways to tackle biases and facilitate higher quality research that puts researchers back in control using Peer Community in Registered Reports - a free, supra-journal platform that reviews and recommends registered reports across all research fields.
+There is a desperate need to reform the production and dissemination of scholarly outputs to increase transparency, reproducibility, timeliness, academic rigor, and equity. I will discuss what researchers are doing to address these issues by sharing ways to tackle biases and facilitate higher quality research that puts researchers back in control using Peer Community in Registered Reports - a free, supra-journal platform that reviews and recommends registered reports across all research fields.  
 
-[Dr. Corina Logan](http://www.corinalogan.com/) investigates how behavioral flexibility relates to invasion success in grackles (an urban bird) and whether training species to be more flexible increases their chances of success in human modified environments as a Senior Researcher at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. She co-founded [Peer Community in Registered Reports](https://rr.peercommunityin.org/) which is innovating RRs to make them accessible for all fields and types of research, and co-leads the [#BulliedIntoBadScience](http://www.bulliedintobadscience.org/) campaign where early career researchers are working to change academic culture to adopt open research practices to improve research rigor.
+[Dr. Corina Logan](http://www.corinalogan.com/) investigates how behavioral flexibility relates to invasion success in grackles (an urban bird) and whether training species to be more flexible increases their chances of success in human modified environments as a Senior Researcher at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. She co-founded [Peer Community in Registered Reports](https://rr.peercommunityin.org/) which is innovating RRs to make them accessible for all fields and types of research, and co-leads the [#BulliedIntoBadScience](http://www.bulliedintobadscience.org/) campaign where early career researchers are working to change academic culture to adopt open research practices to improve research rigor.  
 
 &nbsp;
 &nbsp;
@@ -94,7 +94,7 @@ There is a desperate need to reform the production and dissemination of scholarl
 ### Transparency is Surveillance
 **July 11th, 13:00 MT (GMT -6)**
 
-In her BBC Reith Lectures on Trust, Onora O’Neill offers a short, but biting, criticism of transparency. People think that trust and transparency go together but in reality, says O'Neill, they are deeply opposed. Transparency forces people to conceal their actual reasons for action and invent different ones for public consumption. Transparency forces deception. I work out the details of her argument and worsen her conclusion. The drive to transparency forces experts to explain their reasoning to non-experts. But expert reasons are, by their nature, often inaccessible to non-experts. So the demand for transparency can pressure experts to act only in those ways for which they can offer public justification. Transparency, it turns out, is a form of surveillance. By forcing reasoning into the explicit and public sphere, transparency roots out corruption — but it also inhibits the full application of expert skill, sensitivity, and subtle shared understandings. The difficulty here arises from the basic fact that human knowledge vastly outstrips any individual’s capacities. We need both trust and transparency, but they are in essential tension. This is a deep practical dilemma; it admits of no neat resolution, but only painful compromise.
+In her BBC Reith Lectures on Trust, Onora O’Neill offers a short, but biting, criticism of transparency. People think that trust and transparency go together but in reality, says O'Neill, they are deeply opposed. Transparency forces people to conceal their actual reasons for action and invent different ones for public consumption. Transparency forces deception. I work out the details of her argument and worsen her conclusion. The drive to transparency forces experts to explain their reasoning to non-experts. But expert reasons are, by their nature, often inaccessible to non-experts. So the demand for transparency can pressure experts to act only in those ways for which they can offer public justification. Transparency, it turns out, is a form of surveillance. By forcing reasoning into the explicit and public sphere, transparency roots out corruption — but it also inhibits the full application of expert skill, sensitivity, and subtle shared understandings. The difficulty here arises from the basic fact that human knowledge vastly outstrips any individual’s capacities. We need both trust and transparency, but they are in essential tension. This is a deep practical dilemma; it admits of no neat resolution, but only painful compromise.  
 
 &nbsp;
 &nbsp;
@@ -105,16 +105,42 @@ In her BBC Reith Lectures on Trust, Onora O’Neill offers a short, but biting, 
 ### Why don't we share data and code?
 **July 11th, 15:00 AEST (GMT +10)**
 
-In support of research transparency and reproducibility we need to make our analytical code and data available, not only our results. A description of our methods is often not enough for others to be able to use and reuse our analysis and test our results, in particular when the code produced is an integral part of the research presented. The digital environment in which we live has rapidly developed our computational accessibility, storage options and online collaborations. Subsequently, the need to upskill digital literacy, in all fields of study, has increased. Learning to present, publish and cite data and the underlying analysis code is part of scientific integrity now more than ever. 
+In support of research transparency and reproducibility we need to make our analytical code and data available, not only our results. A description of our methods is often not enough for others to be able to use and reuse our analysis and test our results, in particular when the code produced is an integral part of the research presented. The digital environment in which we live has rapidly developed our computational accessibility, storage options and online collaborations. Subsequently, the need to upskill digital literacy, in all fields of study, has increased. Learning to present, publish and cite data and the underlying analysis code is part of scientific integrity now more than ever.  
 
-Paula Andrea Martinez is the Software Project Coordinator of the Australian Research Data Commons (ARDC) and Research Software Alliance (ReSA) Community Manager. She is leading projects of the Software Program to See, Shape and Sustain research software. She is a co-chair of the international FAIR4RS working group, co-host of the Visible Research Software interest group, and Steering Committee member of the Research Software Engineers RSE-AUNZ association. She has developed strategic planning and work packages to lead change in the recognition of research software as a first-class scholarly output of research. After completing a PhD in applied bioinformatics she transitioned from being a research software engineer to a trainer, then she became an advocate of research best practices, and now working on incentivising policy implementation to recognise authors of research software.
+Paula Andrea Martinez is the Software Project Coordinator of the [Australian Research Data Commons](https://ardc.edu.au/) (ARDC) and [Research Software Alliance](https://www.researchsoft.org/) (ReSA) Community Manager. She is leading projects of the Software Program to See, Shape and Sustain research software. She is a co-chair of the international [FAIR4RS](https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg) working group, co-host of the [Visible Research Software](https://sites.google.com/ardc.edu.au/visible-research-software) interest group, and Steering Committee member of the [Research Software Engineers RSE-AUNZ association](https://rse-aunz.github.io/). She has developed strategic planning and work packages to lead change in the recognition of research software as a first-class scholarly output of research. After completing a PhD in applied bioinformatics she transitioned from being a research software engineer to a trainer, then she became an advocate of research best practices, and now working on incentivising policy implementation to recognise authors of research software.  
 
 &nbsp;
 
-## Martin Westgate
-**July 13th, 13:00 AEST (GMT +10)**
 
-*Information upcoming*
+![Martin Westgate](/blog/images/Martin_Westgate.png)
+
+## Martin Westgate  
+### Twelve years of open science infrastructure: Lessons from the Atlas of Living Australia
+**July 13th, 13:00 AEST (GMT +10)**  
+
+[The Atlas of Living Australia](https://www.ala.org.au/) (ALA) has been serving open biodiversity data since 2010, and now contains over 100 million observations of plants, animals and fungi. Preserving and enhancing the usefulness of this data requires tradeoffs between technologies with contrasting strengths and weaknesses; manual vs automated solutions to common problems; and the challenges of providing novel innovations simultaneously with consistent and reliable services. In this talk, I will discuss some recent case studies of how the ALA has managed these tradeoffs to better support the global biodiversity informatics community, and highlight what lessons they hold for emerging projects.  
+
+Martin Westgate is head of science and decision support for the Atlas of Living Australia, Australia’s largest database of biodiversity observations. He holds a doctorate in landscape ecology and conservation biology from the Australian National University.  
+&nbsp;
+
+
+![Tshiamo Motshegwa](/blog/images/Tshiamo_Motshegwa.png)  
+
+## Tshiamo Motshegwa  
+### Developments in African Cyber-infrastructure to Support Open Science  
+**July 12th, 13:00 CAT (GMT +2)**  
+
+Globally there is movement in the trajectory of developing a Global Open Science Cloud (GOSC) aimed at supporting research collaborations across continents to assist in addressing global science challenges - for example UN Sustainable Development Goals (SDGs), climate change, infectious diseases, and coordination of global disaster risk reduction. Continents, regions, and countries are also actively developing Open Science platforms and investing in underlying cyberinfrastructures to advance their Research Science Technology and Innovation (RSTI) ecosystems, enhance collaboration and increase their competitiveness and critically, use RSTI as a driver for national and continental priorities.  
+
+This talk highlights the movement toward developing a Pan African cyberinfrastructure to support advancement of the continent's science enterprise through open science and open data. Furthermore, the cyberinfrastructure will promote collaboration and support addressing higher-level African priority areas and challenges through leveraging the medium of research, science, technology and innovation, and thereby contribute to African advancement and integration to help deliver on the African vision -  Agenda 2063 - The Africa We Want.  
+
+To this end, a discussion of the African Open Science Platform (AOSP) is given. AOSP pilot study conducted an audit and provided frameworks to guide countries in the development of requisite policies, infrastructure, incentives, and human capital to facilitate leveraging of open science and open data amidst the digital revolution – with all the challenges and opportunities presented.
+Furthermore, African regional blocks also have initiatives aligned with AOSP - for example, the Southern African Development Community Cyberinfrastructure Framework – (SADC CI) has been approved by Governments. It is currently supporting some regional projects and was consulted in the AOSP pilot project.  The SADC CI facilitates a regional collaborative ecosystem for research, innovation, and teaching by creating a shared commons for data, computational platforms and human capital development over a fabric of high-speed connectivity afforded by National Education and Research networks (NRENs).  
+
+The development of these cyberinfrastructures provides a basis, bedrock and capacity for African participation and contribution to the wider global science enterprise and endeavour – this especially given ongoing and upcoming projects of consequence in the continent such as the Square Kilometer Array (SKA), H3Africa -Human Heredity and Genomics, Weather and Climate Change projects and others.  
+
+Dr Tshiamo Motshegwa is the inaugural Director of the African Open Science Platform (AOSP) with the strategic portfolio to direct and support the AOSP based at the Strategy, Planning and Partnerships (SPP) at the National Research Foundation, South Africa. AOSP aims to position African scientists at the cutting edge of data intensive science by stimulating interactivity and creating opportunity through the development of efficiencies of scale, building critical mass through shared capacities, amplifying impact through a commonality of purpose and voice, and to engage in Global Commons to address continental and global challenges through joint action.  
+
 
 &nbsp;
 &nbsp;
