@@ -1,7 +1,7 @@
 ---
 banner: img/banners/banner-Ana_Benítez_Lopez.png
 date: "2022-07-04"
-slug: 2022_sortee_member_Ana_Benítez_Lopez
+slug: 2022_sortee_member_Ana_Benitez_Lopez
 author: SORTEE
 categories:
 - blog
