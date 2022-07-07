@@ -12,8 +12,17 @@ title: Upcoming events
 ### Virtual, world-wide, 11th - 13th of July*
 
 ---
-**Final program** 
-[Download file](/static/img/SORTEE_2022_Schedule.pdf)
+**Final program**  [Download file](/img/SORTEE_2022_Schedule.pdf)
+
+&nbsp;
+2.
+{{< Download file src="/img/SORTEE_2022_Schedule.pdf" alt="infographics_nr1" width="1200px" >}}
+
+&nbsp;
+3.
+<a href="/img/SORTEE_2022_Schedule.pdf" download>Click to Download</a>
+
+&nbsp;
 
 ### [Register now](https://www.eventbrite.com/e/sortee-conference-2022-registration-328068480657) to attend the 2022 SORTEE Conference!    
 
