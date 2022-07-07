@@ -15,10 +15,6 @@ title: Upcoming events
 **Final program**  [Download file](/img/SORTEE_2022_Schedule.pdf)
 
 &nbsp;
-2.
-{{< Download file src="/img/SORTEE_2022_Schedule.pdf">}}
-
-&nbsp;
 
 
 ### [Register now](https://www.eventbrite.com/e/sortee-conference-2022-registration-328068480657) to attend the 2022 SORTEE Conference!    
