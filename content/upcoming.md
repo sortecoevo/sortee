@@ -16,7 +16,7 @@ title: Upcoming events
 
 &nbsp;
 2.
-{{< Download file src="/img/SORTEE_2022_Schedule.pdf" alt="infographics_nr1" width="1200px" >}}
+{{< Download file src="/img/SORTEE_2022_Schedule.pdf">}}
 
 &nbsp;
 
