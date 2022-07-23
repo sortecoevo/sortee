@@ -46,12 +46,15 @@ We want to facilitate lively exchanges of ideas, and so the following three part
 **Short Presentations**:    
 We also invite you to propose a presentation to share your experience with issues of openness, reliability, and transparency in scientific research that are relevant to people working in fields related to ecology and evolutionary biology. For example, you could reflect on failures in your own work and what they taught you, present tools or methods that can help others make their research more open, reliable, and transparent, present plans for an upcoming project, or present research that integrates open science practices in an inspiring way.
 
+&nbsp;
 
----
+**We strongly encourage proposals for all contribution types from people at a wide range of career stages and from members of underrepresented groups.**
 
-We strongly encourage proposals for all contribution types from people at a wide range of career stages and from members of underrepresented groups.
+&nbsp;
 
 For facilitated sessions (Workshops, Unconferences, and Hackathons), we welcome proposals from small teams (as well as individuals). We encourage teams to include diverse perspectives, for instance with facilitators from different countries and balanced in terms of gender and career stage. Facilitation by early career researchers (students or early career postdocs) is warmly encouraged.
+
+&nbsp;
 
 We encourage people with any questions about accessibility in the submission process or the events themselves to contact us via [sorteeconf2022@gmail.com](mailto:sorteeconf2022@gmail.com). Similarly, please feel free to contact us if you would like guidance as you prepare your proposals and submissions.
 
