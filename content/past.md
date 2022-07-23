@@ -10,11 +10,8 @@ title: Past events
 ## SORTEE Conference 2022   
 
 &nbsp;
---------------------------------------------------------------------------------------------------------------------
 
-^  *The conference was run continuously from 11 July to 13 July covering all timezones.*     
-
---------------------------------------------------------------------------------------------------------------------
+*The conference was run continuously from 11 July to 13 July covering all timezones.*     
 
 &nbsp;
 
@@ -44,11 +41,8 @@ You can find video recordings of the talks on [this OSF Meetings page](https://o
 ## SORTEE Conference 2021   
 
 &nbsp;
---------------------------------------------------------------------------------------------------------------------
 
-^  *The conference was run continuously from 12 July to 14 July covering all timezones.*     
-
---------------------------------------------------------------------------------------------------------------------
+*The conference was run continuously from 12 July to 14 July covering all timezones.*     
 
 &nbsp;
 
