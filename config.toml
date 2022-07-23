@@ -238,7 +238,7 @@ paginate = 4
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.new_news]
-    enable = true #change to true to display
+    enable = false #change to true to display
     icon = "fas fa-globe"
     title = "2022 SORTEE conference news"
     subtitle = "Registrations now open!"
