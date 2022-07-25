@@ -28,7 +28,7 @@ You can find video recordings of the talks on [this OSF Meetings page](https://o
 
 * [C. Thi Nguyen](https://philpeople.org/profiles/c-thi-nguyen) (University of Utah, USA) - Presenting: "[Transparency is Surveillance](https://osf.io/s5jhc/)"    
 
-* [Paula Martinez](https://www.linkedin.com/in/pambio/?originalSubdomain=au) (Australian Research Data Commons, AU) - Presenting: "[Why don't we share data and code?](https://osf.io/a5m73/)"      
+* [Paula Martinez](https://www.stemwomen.org.au/profile/paula-andrea-martinez) (Australian Research Data Commons, AU) - Presenting: "[Why don't we share data and code?](https://osf.io/a5m73/)"      
 
 * [Martin Westgate](https://martinwestgate.com/) (Atlas of Living Australia, AU) - Presenting: "[Twelve years of open science infrastructure: Lessons from the Atlas of Living Australia](https://osf.io/svrz3/)"          
 
