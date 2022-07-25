@@ -24,13 +24,13 @@ You can find video recordings of the talks on [this OSF Meetings page](https://o
 
 **The plenary presenters for the 2022 SORTEE Conference were:**   
 
-* [Corina Logan](http://www.corinalogan.com/) (Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany) - Presenting: "How Peer Community in Registered Reports lets researchers take back control of the publishing process"       
+* [Corina Logan](http://www.corinalogan.com/) (Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany) - Presenting: "[How Peer Community in Registered Reports lets researchers take back control of the publishing process](https://osf.io/56mv9/)"       
 
-* [C. Thi Nguyen](https://philpeople.org/profiles/c-thi-nguyen) (University of Utah, USA) - Presenting: "Transparency is Surveillance"    
+* [C. Thi Nguyen](https://philpeople.org/profiles/c-thi-nguyen) (University of Utah, USA) - Presenting: "[Transparency is Surveillance](https://osf.io/s5jhc/)"    
 
-* [Paula Martinez](https://www.linkedin.com/in/pambio/?originalSubdomain=au) (Australian Research Data Commons, AU) - Presenting: "Why don't we share data and code?"      
+* [Paula Martinez](https://www.linkedin.com/in/pambio/?originalSubdomain=au) (Australian Research Data Commons, AU) - Presenting: "[Why don't we share data and code?](https://osf.io/a5m73/)"      
 
-* [Martin Westgate](https://martinwestgate.com/) (Atlas of Living Australia, AU) - Presenting: "Twelve years of open science infrastructure: Lessons from the Atlas of Living Australia"          
+* [Martin Westgate](https://martinwestgate.com/) (Atlas of Living Australia, AU) - Presenting: "[Twelve years of open science infrastructure: Lessons from the Atlas of Living Australia](https://osf.io/svrz3/)"          
 
 &nbsp; 
 
