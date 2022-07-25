@@ -1,6 +1,6 @@
 ---
 banner: img/banners/banner-Lauren_White.png
-date: "2022-25-07"
+date: "2022-07-25"
 slug: 2022_sortee_member_Lauren_White
 author: SORTEE
 categories:
