@@ -1,6 +1,6 @@
 ---
 banner: img/banners/banner-Marko_Bracic.png
-date: "2022-08-02"
+date: "2022-08-01"
 slug: 2022_sortee_member_Marko_Bracic
 author: SORTEE
 categories:
