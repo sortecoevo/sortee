@@ -20,6 +20,8 @@ You can download Final Schedule of the conference [Download file](/img/SORTEE_20
 
 You can find video recordings of the talks on [this OSF Meetings page](https://osf.io/meetings/SORTEE2022). This page includes English transcripts (and eventually will include transcripts translated to a few other languages).
 
+To watch recordings of plenary presentations with captions in any language, visit our [YouTube channel](https://www.youtube.com/channel/UClkqZ7VO08b6d-vpNFumNTA/playlists). 
+
 &nbsp;
 
 **The plenary presenters for the 2022 SORTEE Conference were:**   
@@ -28,7 +30,9 @@ You can find video recordings of the talks on [this OSF Meetings page](https://o
 
 * [C. Thi Nguyen](https://philpeople.org/profiles/c-thi-nguyen) (University of Utah, USA) - Presenting: "[Transparency is Surveillance](https://osf.io/s5jhc/)"    
 
-* [Paula Martinez](https://www.stemwomen.org.au/profile/paula-andrea-martinez) (Australian Research Data Commons, AU) - Presenting: "[Why don't we share data and code?](https://osf.io/a5m73/)"      
+* [Paula Martinez](https://www.stemwomen.org.au/profile/paula-andrea-martinez) (Australian Research Data Commons, AU) - Presenting: "[Why don't we share data and code?](https://osf.io/a5m73/)"   
+
+* [Tshiamo Motshegwa](https://codata.org/appointment-of-director-and-deputy-director-of-the-african-open-science-platform/) (Australian Research Data Commons, AU) - Presenting: "[Developments in African Cyber-infrastructure to Support Open Science](https://osf.io/mhxn6/)" 
 
 * [Martin Westgate](https://martinwestgate.com/) (Atlas of Living Australia, AU) - Presenting: "[Twelve years of open science infrastructure: Lessons from the Atlas of Living Australia](https://osf.io/svrz3/)"          
 
