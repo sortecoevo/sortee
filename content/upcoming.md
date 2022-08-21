@@ -2,8 +2,8 @@
 aliases:
 - upcoming-us
 author: ML
-date: "2022-04-25"
-description: Upcoming events by Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
+date: "2022-08-21"
+description: Upcoming conference by Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: Upcoming events
 ---
 
@@ -17,7 +17,7 @@ Look out for announcements in early 2023!
 
 &nbsp;
 
-Join SORTEE to recive our updates: 
+Join SORTEE to receive our updates: 
 [https://www.sortee.org/join/](https://www.sortee.org/join/)   
 
 ---
