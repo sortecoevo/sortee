@@ -2,25 +2,51 @@
 aliases:
 - other_events-us
 author: ML
-date: "2022-04-25"
+date: "2022-08-21"
 description: Other events by Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
-title: "SORTEE meet-ups at other conferences"
+title: "SORTEE workshops and webinars"
 ---
 
-SORTEE members attend many different in-person conferences in different disciplines all around the world. The purpose of this page is to help you meet up with other SORTEE members at these conferences and / or to spread the word about SORTEE 
-at these conferences.
+SORTEE members organise workshops and webinars. Details will be announced to SORTEE members closer to the events. 
 
 &nbsp;
 
-To find out what SORTEE meet-ups have already been scheduled at in-person conferences, [please click here](https://docs.google.com/spreadsheets/d/1QfzSdTNzRR-gbILW2BNqrQTpWIjduR-7Jtw2lataGbk/edit?usp=sharing).
+Join SORTEE to receive our updates: 
+[https://www.sortee.org/join/](https://www.sortee.org/join/)   
 
 &nbsp;
 
-Would you like to initiate a meet-up at an in-person conference in ecology, evolutionary biology, or a related field? [Please click here](https://forms.gle/rEXRYNoCXWBDFiLPA). 
+## Upcoming
+*Type:*: Workshop
+*Title:*	Authoring documents, websites, presentations, and more with Markdown	
+*Presenter:* Alexa Fredston	
+*Date and Time:* Sept 14 2022	at 1 pm  EDT 
+*Matching timezones:* Americas
+*Duration:* 2 hours	
+*Summary:* TBA
 
 &nbsp;
 
-Would you like to present a poster introducing people to SORTEE at an in-person conference in ecology, evolutionary biology, or a related field? [Please click here](https://forms.gle/rEXRYNoCXWBDFiLPA).
+## Planned 
+
+*Type:*: Workshop
+*Title:*	Creating reproducible workflows in R with the targets:: package
+*Presenter:* Elliot Gould
+*Month and year:* Oct 2022	
+*Matching timezones:* Australasia		
+&nbsp;
+*Type:*: Workshop
+*Title:*	Using and contributing open data to the Global Biodiversity Information Facility (GBIF)
+*Presenter:* Mélianie Raymond
+*Month and year:* Nov 2022	
+*Matching timezones:* TBA	
+&nbsp;
+
+## Solicitation 
+Would you like to present a workshop or webinar?   
+Or would you like to request a workshop or webinar on a specific topic?   
+We are open to suggestions - just get in touch via email or Slack!
+
 
 ---
 
