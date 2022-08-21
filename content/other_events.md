@@ -11,8 +11,7 @@ SORTEE members organise workshops and webinars. Details will be announced to SOR
 
 &nbsp;
 
-Join SORTEE to receive our updates:  
-[https://www.sortee.org/join/](https://www.sortee.org/join/)   
+Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.sortee.org/join/)   
 
 ---
 
