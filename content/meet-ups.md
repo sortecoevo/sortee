@@ -25,3 +25,21 @@ Would you like to present a poster introducing people to SORTEE at an in-person 
 ---
 
 &nbsp;
+
+## Past meet-ups   
+
+### ESA / CSEE in Montreal on 16 August 2022
+
+{{< figure src="/blog/images/ESA2022_catchup.JPG" alt="SORTEE meetup Montreal 2022" width="1200px" >}}
+
+&nbsp;  
+
+### ESEB in Prague on 18 August 2022
+
+{{< figure src="/blog/images/ESEB2022_catchup.JPG" alt="SORTEE meetup Prague 2022" width="1200px" >}}
+
+&nbsp;  
+
+---
+
+&nbsp;
