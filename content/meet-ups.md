@@ -22,11 +22,15 @@ Would you like to initiate a meet-up at an in-person conference in ecology, evol
 
 Would you like to present a poster introducing people to SORTEE at an in-person conference in ecology, evolutionary biology, or a related field? [Please click here](https://forms.gle/rEXRYNoCXWBDFiLPA).
 
+&nbsp;  
+
 ---
 
 &nbsp;
 
 ## Past meet-ups   
+
+&nbsp;  
 
 ### ESA / CSEE in Montreal on 16 August 2022
 
