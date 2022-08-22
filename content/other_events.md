@@ -9,25 +9,25 @@ title: "SORTEE workshops and webinars"
 
 SORTEE members organise workshops and webinars. Details will be announced to SORTEE members closer to the events.  
 
-&nbsp;
-
 Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.sortee.org/join/)   
+
+&nbsp;  
 
 ---
 
 &nbsp;
 
 ## September 2022  
-**Type:**: Workshop  
+**Type:** Workshop  
 **Title:**	Authoring documents, websites, presentations, and more with Markdown	 
 **Presenter:** Alexa Fredston	  
 **Date and Time:** Sept 14 2022	at 1 pm  EDT   
 **Timezone(s):** Americas  
 **Duration:** 2 hours	  
 **Summary:** Using Markdown, including from R, to generate well-formatted and easily readable notes, slides, reports, manuscripts, web pages, PDFs, etc. from code.   
-Objective 1: Understand Markdown and how it can be applied to generate visually appealing materials.   
-Objective 2: Build Markdown files with multiple content types (text, plots, images, etc).  
-Objective 3: Explore Markdown applications to various use cases.   
+   Objective 1: Understand Markdown and how it can be applied to generate visually appealing materials.   
+   Objective 2: Build Markdown files with multiple content types (text, plots, images, etc).  
+   Objective 3: Explore Markdown applications to various use cases.   
 **Registration:** register on [Eventbrite](https://www.eventbrite.com/e/authoring-documents-websites-and-more-with-rmarkdown-tickets-405267414747) 
 
 &nbsp;
@@ -56,7 +56,12 @@ Objective 3: Explore Markdown applications to various use cases.
 
 &nbsp;  
 
+---
+
+&nbsp;  
+
 ## Solicitation   
+
 Would you like to present a workshop or webinar?   
 Or would you like to request a workshop or webinar on a specific topic?   
 We are open to suggestions - just get in touch via email or Slack!   
