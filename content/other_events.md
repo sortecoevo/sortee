@@ -37,10 +37,18 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 **Type:**: Workshop  
 **Title:**	Creating reproducible workflows in R with the targets:: package   
 **Presenter:** Elliot Gould   
-**Date and Time:** TBA  
+**Date and Time:** Oct 20 2022 at 2:30pm AEST  
 **Timezone(s):** Australasia		 
 **Duration:** TBA  	  
-**Summary:** TBA  
+**Summary:** Using the targets R package to create reproducible data analysis pipelines.   
+Objective 1: Appreciate the need for establishing reproducible, make-like workflows and be aware of the basic components of setting up a reproducible analysis using the targets package.  
+Objective 2: Specify, run and query the outputs of a small data analysis pipeline using the targets infrastructure.   
+Objective 3: Scale up a targets pipeline to incorporate more complicated analysis pipelines by:    
+ - using the the outputs of a targets pipeline in literate programming documents,  
+ - incorporating literate programming documents into the targets pipeline, and  
+ - batching and iterating tasks using branching in targets  
+Objective 4: Troubleshoot and debug a targets pipeline so you can apply this knowledge to synthesise targets workflows for your own data analyses.   
+**Registration:** TBA   
 
 &nbsp;
 
