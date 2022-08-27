@@ -21,7 +21,7 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 **Type:** Workshop  
 **Title:**	Authoring documents, websites, presentations, and more with Markdown	 
 **Presenter:** Alexa Fredston	  
-**Date and Time:** Sept 14 2022	at 1 pm  EDT   
+**Date and Time:** Sept 14 2022	at 1:00 pm  EDT   
 **Timezone(s):** Americas  
 **Duration:** 2 hours	  
 **Summary:** Using Markdown, including from R, to generate well-formatted and easily readable notes, slides, reports, manuscripts, web pages, PDFs, etc. from code.   
@@ -37,7 +37,7 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 **Type:**: Workshop  
 **Title:**	Creating reproducible workflows in R with the targets:: package   
 **Presenter:** Elliot Gould   
-**Date and Time:** Oct 20 2022 at 2:30pm AEST  
+**Date and Time:** Oct 20 2022 at 2:30 pm AEST  
 **Timezone(s):** Australasia		 
 **Duration:** 2 hours  	  
 **Summary:** Using the targets R package to create reproducible data analysis pipelines.   
