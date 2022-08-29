@@ -2,12 +2,12 @@
 banner: img/banners/banner-Szymon_Drobniak.png
 date: "2022-08-29"
 slug: 2022_sortee_member_Szymon_Drobniak
-author: SORTEE
+author: SORTEE  
 categories:
 - blog
 tags:
 - member-voices
-title: "SORTEE member voices – Szymon Drobniak" 
+title: "SORTEE member voices - Szymon Drobniak"
 ---
 
 
@@ -24,7 +24,7 @@ title: "SORTEE member voices – Szymon Drobniak"
    _Position:_ Lecturer.   
 &nbsp;
 
-   _Research and/or work interests:_ Evolution and biostatistics..   
+   _Research and/or work interests:_ Evolution and biostatistics.    
 &nbsp;
 &nbsp;
 
@@ -34,14 +34,14 @@ Less reliability on classical null hypothesis testing.
 &nbsp;
 
 _Tell us about one of your hobbies._   
-I collect chemical elements.
+I collect chemical elements.  
 &nbsp;
 &nbsp;
 
 _Where to find you online?:_   
 [Szymekdrobniak.WordPress.com](https://szymekdrobniak.wordpress.com)   
 
-Twitter: [@SzymekD](https://twitter.com/szymekd?lang=en)
+Twitter: [@SzymekD](https://twitter.com/szymekd?lang=en)  
 &nbsp;
 &nbsp;
 
