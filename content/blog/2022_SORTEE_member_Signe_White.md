@@ -15,16 +15,16 @@ title: "SORTEE member voices – Signe White"
 &nbsp;
 &nbsp;
 
-   _Name:_ Signe White.   
+_Name:_ Signe White.   
 &nbsp;
 
-   _Date:_ 12 July 2021.   
+_Date:_ 12 July 2021.   
 &nbsp;
 
-   _Position:_ Postdoctoral Researcher.   
+_Position:_ Postdoctoral Researcher.   
 &nbsp;
 
-   _Research and/or work interests:_ My postdoctoral current work focuses on the beneficial effects of microbiomes of marine diatoms on adaptation to increasing ocean temperatures. My former work in graduate school was on how parasites evolved in response to host genetic heterogeneity. I'm also interested in biogeography and coevolution..   
+_Research and/or work interests:_ My postdoctoral current work focuses on the beneficial effects of microbiomes of marine diatoms on adaptation to increasing ocean temperatures. My former work in graduate school was on how parasites evolved in response to host genetic heterogeneity. I'm also interested in biogeography and coevolution..   
 &nbsp;
 &nbsp;
 
