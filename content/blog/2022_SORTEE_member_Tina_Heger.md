@@ -1,6 +1,6 @@
 ---
 banner: img/banners/banner-Tina_Heger.png
-date: "2022-07-12"
+date: "2022-09-12"
 slug: 2022_sortee_member_Tina_Heger
 author: SORTEE
 categories:
