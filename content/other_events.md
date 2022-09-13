@@ -19,7 +19,7 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 
 ## September 2022  
 **Type:** Workshop  
-**Title:**	Authoring documents, websites, presentations, and more with Markdown	 
+### **Title:**	*Authoring documents, websites, presentations, and more with Markdown*	 
 **Presenter:** Alexa Fredston	  
 **Date and Time:** Sept 14 2022	at 1:00 pm  EDT   
 **Timezone(s):** Americas  
@@ -35,9 +35,9 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 ## October 2022   
 
 **Type:**: Workshop  
-**Title:**	Creating reproducible workflows in R with the targets:: package   
+### **Title:**	*Creating reproducible workflows in R with the targets:: package*   
 **Presenter:** Elliot Gould   
-**Date and Time:** Oct 20 2022 at 2:30 pm AEST  
+**Date and Time:** Oct 20 2022 at 4:00 pm AEDT  
 **Timezone(s):** Australasia		 
 **Duration:** 2 hours  	  
 **Summary:** Using the targets R package to create reproducible data analysis pipelines.   
@@ -55,12 +55,28 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 ## November 2022    
 
 **Type:** Workshop   
-**Title:**	Using and contributing open data to the Global Biodiversity Information Facility (GBIF)   
-**Presenter:** Mélianie Raymond  
-**Month and year:** Nov 2022	 
-**Timezone(s):** TBA  	  
+### **Title:** *An Ecologist’s Introduction to Transitioning into Data Science*    
+**Presenter:** Alessandro Filazzola   
+**Month and year:** Nov 2022	  
+**Timezone(s):** Americas/Europe   	  
 **Duration:** TBA	  
-**Summary:** TBA  
+**Summary:** TBA   
+
+&nbsp;  
+
+## December 2022    
+
+**Type:** Workshop   
+### **Title:** *Open Educational Resources as a Tool for More Inclusive Teaching in E&E*    
+**Presenter:** Natasha Gownaris    
+**Month and year:** Dec 2022	  
+**Timezone(s):** Americas/Europe   	  
+**Duration:** 1 hour	  
+**Summary:** Motivation for using OER in E&E classes and how to find and implement these resources.
+Objective 1: Describe some of the benefits of implementing OER in E&E classes.
+Objective 2: Find OER resources, with a focus on open textbooks, of relevance to your courses. 
+Objective 3: Learn the basics of using Libretexts to remix OER and create content fine-tuned to your courses. 
+Objective 4: Learn how to use Hypothesis.io for community commenting on OER. 
 
 &nbsp;  
 
@@ -71,8 +87,13 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 ## Solicitation   
 
 Would you like to present a workshop or webinar?   
-Or would you like to request a workshop or webinar on a specific topic?   
-We are open to suggestions - just get in touch via email or Slack!   
+Or would you like to request a workshop or webinar on a specific topic?    
+We are open to suggestions - just get in touch via email [sorteeconf2022@gmail.com](mailto:sorteeconf2022@gmail.com), Slack (sortee.slack.com) or our [https://www.sortee.org/contact/](Contact page)!    
+
+&nbsp;
+
+Join SORTEE to receive our updates: 
+[https://www.sortee.org/join/](https://www.sortee.org/join/)   
 
 ---
 
