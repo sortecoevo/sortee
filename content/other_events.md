@@ -88,7 +88,7 @@ Objective 4: Learn how to use Hypothesis.io for community commenting on OER.
 
 Would you like to present a workshop or webinar?   
 Or would you like to request a workshop or webinar on a specific topic?    
-We are open to suggestions - just get in touch via email [sorteeconf2022@gmail.com](mailto:sorteeconf2022@gmail.com), [Slack] (sortee.slack.com) or our [Contact page](https://www.sortee.org/contact/)!    
+We are open to suggestions - just get in touch via email [sorteeconf2022@gmail.com](mailto:sorteeconf2022@gmail.com), [Slack] (https://www.sortee.slack.com) or our [Contact page](https://www.sortee.org/contact/)!    
 
 &nbsp;
 
