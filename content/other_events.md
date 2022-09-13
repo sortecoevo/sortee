@@ -18,9 +18,9 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 &nbsp;
 
 ## September 2022  
-**Type:** Workshop  
 ### **Title:**	*Authoring documents, websites, presentations, and more with Markdown*	 
 **Presenter:** Alexa Fredston	  
+**Type:** Workshop   
 **Date and Time:** Sept 14 2022	at 1:00 pm  EDT   
 **Timezone(s):** Americas  
 **Duration:** 2 hours	  
@@ -34,9 +34,9 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 
 ## October 2022   
 
-**Type:**: Workshop  
 ### **Title:**	*Creating reproducible workflows in R with the targets:: package*   
 **Presenter:** Elliot Gould   
+**Type:** Workshop   
 **Date and Time:** Oct 20 2022 at 4:00 pm AEDT  
 **Timezone(s):** Australasia		 
 **Duration:** 2 hours  	  
@@ -54,9 +54,9 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 
 ## November 2022    
 
-**Type:** Workshop   
 ### **Title:** *An Ecologist’s Introduction to Transitioning into Data Science*    
 **Presenter:** Alessandro Filazzola   
+**Type:** Workshop   
 **Month and year:** Nov 2022	  
 **Timezone(s):** Americas/Europe   	  
 **Duration:** TBA	  
@@ -66,9 +66,9 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 
 ## December 2022    
 
-**Type:** Workshop   
 ### **Title:** *Open Educational Resources as a Tool for More Inclusive Teaching in E&E*    
 **Presenter:** Natasha Gownaris    
+**Type:** Workshop   
 **Month and year:** Dec 2022	  
 **Timezone(s):** Americas/Europe   	  
 **Duration:** 1 hour	  
@@ -88,12 +88,9 @@ Objective 4: Learn how to use Hypothesis.io for community commenting on OER.
 
 Would you like to present a workshop or webinar?   
 Or would you like to request a workshop or webinar on a specific topic?    
-We are open to suggestions - just get in touch via email [sorteeconf2022@gmail.com](mailto:sorteeconf2022@gmail.com), Slack (sortee.slack.com) or our [Contact page](https://www.sortee.org/contact/)!    
+We are open to suggestions - just get in touch via email [sorteeconf2022@gmail.com](mailto:sorteeconf2022@gmail.com), [Slack] (sortee.slack.com) or our [Contact page](https://www.sortee.org/contact/)!    
 
 &nbsp;
-
-Join SORTEE to receive our updates: 
-[https://www.sortee.org/join/](https://www.sortee.org/join/)   
 
 ---
 
