@@ -72,11 +72,11 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 **Month and year:** Dec 2022	  
 **Timezone(s):** Americas/Europe   	  
 **Duration:** 1 hour	  
-**Summary:** Motivation for using OER in E&E classes and how to find and implement these resources.
-Objective 1: Describe some of the benefits of implementing OER in E&E classes.
-Objective 2: Find OER resources, with a focus on open textbooks, of relevance to your courses. 
-Objective 3: Learn the basics of using Libretexts to remix OER and create content fine-tuned to your courses. 
-Objective 4: Learn how to use Hypothesis.io for community commenting on OER. 
+**Summary:** Motivation for using OER in E&E classes and how to find and implement these resources.  
+Objective 1: Describe some of the benefits of implementing OER in E&E classes.  
+Objective 2: Find OER resources, with a focus on open textbooks, of relevance to your courses.   
+Objective 3: Learn the basics of using Libretexts to remix OER and create content fine-tuned to your courses.   
+Objective 4: Learn how to use Hypothesis.io for community commenting on OER.   
 
 &nbsp;  
 
@@ -88,7 +88,7 @@ Objective 4: Learn how to use Hypothesis.io for community commenting on OER.
 
 Would you like to present a workshop or webinar?   
 Or would you like to request a workshop or webinar on a specific topic?    
-We are open to suggestions - just get in touch via email [sorteeconf2022@gmail.com](mailto:sorteeconf2022@gmail.com), Slack (sortee.slack.com) or our [https://www.sortee.org/contact/](Contact page)!    
+We are open to suggestions - just get in touch via email [sorteeconf2022@gmail.com](mailto:sorteeconf2022@gmail.com), Slack (sortee.slack.com) or our [Contact page](https://www.sortee.org/contact/)!    
 
 &nbsp;
 
