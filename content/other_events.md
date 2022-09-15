@@ -28,7 +28,8 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
    Objective 1: Understand Markdown and how it can be applied to generate visually appealing materials.   
    Objective 2: Build Markdown files with multiple content types (text, plots, images, etc).  
    Objective 3: Explore Markdown applications to various use cases.   
-**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/authoring-documents-websites-and-more-with-rmarkdown-tickets-405267414747) 
+**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/authoring-documents-websites-and-more-with-rmarkdown-tickets-405267414747).   
+**Workshop materials:** [here](https://github.com/afredston/markdown-sortee)   
 
 &nbsp;
 
