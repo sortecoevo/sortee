@@ -48,19 +48,22 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
      - incorporating literate programming documents into the targets pipeline, and  
      - batching and iterating tasks using branching in targets  
   Objective 4: Troubleshoot and debug a targets pipeline so you can apply this knowledge to synthesise targets workflows for your own data analyses.   
-**Registration:** TBA   
+**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/419408912347)   
 
 &nbsp;
 
 ## November 2022    
 
 ### **Title:** *An Ecologist’s Introduction to Transitioning into Data Science*    
-**Presenter:** Alessandro Filazzola   
-**Type:** Workshop   
-**Month and year:** Nov 2022	  
-**Timezone(s):** Americas/Europe   	  
-**Duration:** TBA	  
-**Summary:** TBA   
+**Presenter:** Alessandro Filazzola and Sophie Breitbart    
+**Type:** Workshop    
+**Month and year:** Nov 2nd 2022 at 10:00 EDT   
+**Timezone(s):** Americas/Europe      	  
+**Duration:** 2 hours	  
+**Summary:** Ecological researchers have skills that are highly transferable, especially in data science. We provide suggestions on why data science may be a suitable alternative to a career in ecology and steps towards becoming a data scientist.    
+   Objective 1:  Contextualize data science for ecologists including defining what is data science, the overlaps with ecology, and what a career in data science may look like,    
+   Objective 2:  Provide a brief introduction to SQL, one of the most frequently used tools by data scientists,    
+   Objective 3:  Detail actions and strategies for transitioning into data science.    
 
 &nbsp;  
 
@@ -69,7 +72,7 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 ### **Title:** *Open Educational Resources as a Tool for More Inclusive Teaching in E&E*    
 **Presenter:** Natasha Gownaris    
 **Type:** Workshop   
-**Month and year:** Dec 2022	  
+**Month and year:** Dec 5 2022 at 9:00 EST	  
 **Timezone(s):** Americas/Europe   	  
 **Duration:** 1 hour	  
 **Summary:** Motivation for using OER in E&E classes and how to find and implement these resources.  
