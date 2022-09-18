@@ -18,9 +18,9 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 &nbsp;
 
 ## September 2022  
-**Type:** Workshop  
-**Title:**	Authoring documents, websites, presentations, and more with Markdown	 
+### **Title:**	*Authoring documents, websites, presentations, and more with Markdown*	 
 **Presenter:** Alexa Fredston	  
+**Type:** Workshop   
 **Date and Time:** Sept 14 2022	at 1:00 pm  EDT   
 **Timezone(s):** Americas  
 **Duration:** 2 hours	  
@@ -28,16 +28,17 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
    Objective 1: Understand Markdown and how it can be applied to generate visually appealing materials.   
    Objective 2: Build Markdown files with multiple content types (text, plots, images, etc).  
    Objective 3: Explore Markdown applications to various use cases.   
-**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/authoring-documents-websites-and-more-with-rmarkdown-tickets-405267414747) 
+**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/authoring-documents-websites-and-more-with-rmarkdown-tickets-405267414747).   
+**Workshop materials:** [here](https://github.com/afredston/markdown-sortee)   
 
 &nbsp;
 
 ## October 2022   
 
-**Type:**: Workshop  
-**Title:**	Creating reproducible workflows in R with the targets:: package   
+### **Title:**	*Creating reproducible workflows in R with the targets:: package*   
 **Presenter:** Elliot Gould   
-**Date and Time:** Oct 20 2022 at 2:30 pm AEST  
+**Type:** Workshop   
+**Date and Time:** Oct 20 2022 at 4:00 pm AEDT  
 **Timezone(s):** Australasia		 
 **Duration:** 2 hours  	  
 **Summary:** Using the targets R package to create reproducible data analysis pipelines.   
@@ -48,19 +49,38 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
      - incorporating literate programming documents into the targets pipeline, and  
      - batching and iterating tasks using branching in targets  
   Objective 4: Troubleshoot and debug a targets pipeline so you can apply this knowledge to synthesise targets workflows for your own data analyses.   
-**Registration:** TBA   
+**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/419408912347)   
 
 &nbsp;
 
 ## November 2022    
 
+### **Title:** *An Ecologist’s Introduction to Transitioning into Data Science*    
+**Presenter:** Alessandro Filazzola and Sophie Breitbart    
+**Type:** Workshop    
+**Month and year:** Nov 2nd 2022 at 10:00 EDT   
+**Timezone(s):** Americas/Europe      	  
+**Duration:** 2 hours	  
+**Summary:** Ecological researchers have skills that are highly transferable, especially in data science. We provide suggestions on why data science may be a suitable alternative to a career in ecology and steps towards becoming a data scientist.    
+   Objective 1:  Contextualize data science for ecologists including defining what is data science, the overlaps with ecology, and what a career in data science may look like,    
+   Objective 2:  Provide a brief introduction to SQL, one of the most frequently used tools by data scientists,    
+   Objective 3:  Detail actions and strategies for transitioning into data science.    
+
+&nbsp;  
+
+## December 2022    
+
+### **Title:** *Open Educational Resources as a Tool for More Inclusive Teaching in E&E*    
+**Presenter:** Natasha Gownaris    
 **Type:** Workshop   
-**Title:**	Using and contributing open data to the Global Biodiversity Information Facility (GBIF)   
-**Presenter:** Mélianie Raymond  
-**Month and year:** Nov 2022	 
-**Timezone(s):** TBA  	  
-**Duration:** TBA	  
-**Summary:** TBA  
+**Month and year:** Dec 5 2022 at 9:00 EST	  
+**Timezone(s):** Americas/Europe   	  
+**Duration:** 1 hour	  
+**Summary:** Motivation for using OER in E&E classes and how to find and implement these resources.  
+Objective 1: Describe some of the benefits of implementing OER in E&E classes.  
+Objective 2: Find OER resources, with a focus on open textbooks, of relevance to your courses.   
+Objective 3: Learn the basics of using Libretexts to remix OER and create content fine-tuned to your courses.   
+Objective 4: Learn how to use Hypothesis.io for community commenting on OER.   
 
 &nbsp;  
 
@@ -71,8 +91,10 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 ## Solicitation   
 
 Would you like to present a workshop or webinar?   
-Or would you like to request a workshop or webinar on a specific topic?   
-We are open to suggestions - just get in touch via email or Slack!   
+Or would you like to request a workshop or webinar on a specific topic?    
+We are open to suggestions - just get in touch via email [sorteeconf2022@gmail.com](mailto:sorteeconf2022@gmail.com), [Slack] (https://www.sortee.slack.com) or our [Contact page](https://www.sortee.org/contact/)!    
+
+&nbsp;
 
 ---
 
