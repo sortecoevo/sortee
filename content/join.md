@@ -43,7 +43,7 @@ The SORTEE committees are:
 
 **Membership Committee**: focuses on recruiting SORTEE members and determining conditions for and benefits of SORTEE membership.
 
-To nominate yourself for a leadership position on the Board of Directors and/or as a Committee Chair, please use this survey: [https://tinyurl.com/lead-SORTEE-2023](https://tinyurl.com/lead-SORTEE-2023)
+#### To nominate yourself for a leadership position on the Board of Directors and/or as a Committee Chair, please use this survey: [https://tinyurl.com/lead-SORTEE-2023](https://tinyurl.com/lead-SORTEE-2023)
 
 We warmly encourage applications from SORTEE members who identify with groups that have been historically marginalized in science (e.g. women, people of colour and/or from ethnic minority backgrounds, people with disabilities, members of the LGBTQ+ community, and members of other marginalized groups).
 
