@@ -18,7 +18,7 @@ title: Past events
 You can download Final Schedule of the conference [Download file](/img/SORTEE_2022_Schedule.pdf).
 &nbsp;
 
-You can find video recordings of the talks on [this OSF Meetings page](https://osf.io/meetings/SORTEE2022). This page includes English transcripts (and eventually will include transcripts translated to a few other languages).
+You can find video recordings of the talks on [this OSF Meetings page](https://osf.io/meetings/SORTEE2022). This page includes plenary recording files to download, along with **English transcripts and translations into Hindi, Spanish, Portuguese, and French**.
 
 To watch recordings of plenary presentations with captions in any language, visit our [YouTube channel](https://www.youtube.com/channel/UClkqZ7VO08b6d-vpNFumNTA/playlists). 
 
