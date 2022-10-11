@@ -38,7 +38,7 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 ### **Title:**	*Creating reproducible workflows in R with the targets:: package*   
 **Presenter:** Elliot Gould   
 **Type:** Workshop   
-**Date and Time:** Oct 20 2022 at 4:00 pm AEDT  
+**Date and Time:** Oct 20 2022 at 4:00 pm AEDT (UTC 05:00)  
 **Timezone(s):** Australasia		 
 **Duration:** 2 hours  	  
 **Summary:** Using the targets R package to create reproducible data analysis pipelines.   
@@ -58,7 +58,7 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 ### **Title:** *An Ecologist’s Introduction to Transitioning into Data Science*    
 **Presenter:** Alessandro Filazzola and Sophie Breitbart    
 **Type:** Workshop    
-**Month and year:** Nov 2nd 2022 at 10:00 EDT   
+**Month and year:** Nov 2nd 2022 at 10:00 EDT (UTC 14:00)   
 **Timezone(s):** Americas/Europe      	  
 **Duration:** 2 hours	  
 **Summary:** Ecological researchers have skills that are highly transferable, especially in data science. We provide suggestions on why data science may be a suitable alternative to a career in ecology and steps towards becoming a data scientist.    
@@ -73,7 +73,7 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 ### **Title:** *Open Educational Resources as a Tool for More Inclusive Teaching in E&E*    
 **Presenter:** Natasha Gownaris    
 **Type:** Workshop   
-**Month and year:** Dec 5 2022 at 9:00 EST	  
+**Month and year:** Dec 5 2022 at 9:00 EST (UTC 14:00)	  
 **Timezone(s):** Americas/Europe   	  
 **Duration:** 1 hour	  
 **Summary:** Motivation for using OER in E&E classes and how to find and implement these resources.  
