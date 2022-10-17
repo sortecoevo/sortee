@@ -16,7 +16,6 @@ title: "SORTEE member voices – Alfredo Sánchez-Tójar"
 &nbsp;
 
 _Name:_ Alfredo Sánchez-Tójar.   
-&nbsp;
 
 _Date:_ 06 September 2021.   
 &nbsp;
