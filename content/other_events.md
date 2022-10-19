@@ -66,6 +66,8 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
    Objective 2:  Provide a brief introduction to SQL, one of the most frequently used tools by data scientists,    
    Objective 3:  Detail actions and strategies for transitioning into data science.    
 
+**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/an-ecologists-introduction-to-transitioning-into-data-science-tickets-444256161137)
+
 &nbsp;  
 
 ## December 2022    
