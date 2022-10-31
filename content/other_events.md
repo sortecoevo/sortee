@@ -84,6 +84,8 @@ Objective 2: Find OER resources, with a focus on open textbooks, of relevance to
 Objective 3: Learn the basics of using Libretexts to remix OER and create content fine-tuned to your courses.   
 Objective 4: Learn how to use Hypothesis.io for community commenting on OER.   
 
+**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/open-educational-resources-as-a-tool-for-more-inclusive-teaching-in-ee-tickets-453859474907)
+
 &nbsp;  
 
 ---
