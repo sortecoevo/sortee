@@ -15,7 +15,58 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 
 ---
 
+&nbsp;  
+
+# Upcoming events    
+
 &nbsp;
+
+## November 2022    
+
+### **Title:** *An Ecologist’s Introduction to Transitioning into Data Science*    
+**Presenter:** Alessandro Filazzola and Sophie Breitbart    
+**Type:** Workshop    
+**Month and year:** Nov 2nd 2022 at 10:00 EDT (UTC 14:00)   
+**Timezone(s):** Americas/Europe      	  
+**Duration:** 2 hours	  
+**Summary:** Ecological researchers have skills that are highly transferable, especially in data science. We provide suggestions on why data science may be a suitable alternative to a career in ecology and steps towards becoming a data scientist.    
+   Objective 1:  Contextualize data science for ecologists including defining what is data science, the overlaps with ecology, and what a career in data science may look like,    
+   Objective 2:  Provide a brief introduction to SQL, one of the most frequently used tools by data scientists,    
+   Objective 3:  Detail actions and strategies for transitioning into data science.    
+
+**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/an-ecologists-introduction-to-transitioning-into-data-science-tickets-444256161137)  
+
+**Materials:** [DataSci_for_Ecologists](https://github.com/sbreitbart/DataSci_for_Ecologists) and [SQL_intro](https://sbreitbart.github.io/DataSci_for_Ecologists/SQL_intro/SQL_intro.html)  
+
+
+&nbsp;  
+
+
+## December 2022    
+
+### **Title:** *Open Educational Resources as a Tool for More Inclusive Teaching in E&E*    
+**Presenter:** Natasha Gownaris    
+**Type:** Workshop   
+**Month and year:** Dec 5 2022 at 9:00 EST (UTC 14:00)	  
+**Timezone(s):** Americas/Europe   	  
+**Duration:** 1 hour	  
+**Summary:** Motivation for using OER in E&E classes and how to find and implement these resources.  
+Objective 1: Describe some of the benefits of implementing OER in E&E classes.  
+Objective 2: Find OER resources, with a focus on open textbooks, of relevance to your courses.   
+Objective 3: Learn the basics of using Libretexts to remix OER and create content fine-tuned to your courses.   
+Objective 4: Learn how to use Hypothesis.io for community commenting on OER.   
+
+**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/open-educational-resources-as-a-tool-for-more-inclusive-teaching-in-ee-tickets-453859474907)
+
+&nbsp;  
+
+---
+
+&nbsp;  
+
+# Past events   
+
+&nbsp;  
 
 ## September 2022  
 ### **Title:**	*Authoring documents, websites, presentations, and more with Markdown*	 
@@ -53,46 +104,11 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 
 &nbsp;
 
-## November 2022    
-
-### **Title:** *An Ecologist’s Introduction to Transitioning into Data Science*    
-**Presenter:** Alessandro Filazzola and Sophie Breitbart    
-**Type:** Workshop    
-**Month and year:** Nov 2nd 2022 at 10:00 EDT (UTC 14:00)   
-**Timezone(s):** Americas/Europe      	  
-**Duration:** 2 hours	  
-**Summary:** Ecological researchers have skills that are highly transferable, especially in data science. We provide suggestions on why data science may be a suitable alternative to a career in ecology and steps towards becoming a data scientist.    
-   Objective 1:  Contextualize data science for ecologists including defining what is data science, the overlaps with ecology, and what a career in data science may look like,    
-   Objective 2:  Provide a brief introduction to SQL, one of the most frequently used tools by data scientists,    
-   Objective 3:  Detail actions and strategies for transitioning into data science.    
-
-**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/an-ecologists-introduction-to-transitioning-into-data-science-tickets-444256161137)
-
-&nbsp;  
-
-## December 2022    
-
-### **Title:** *Open Educational Resources as a Tool for More Inclusive Teaching in E&E*    
-**Presenter:** Natasha Gownaris    
-**Type:** Workshop   
-**Month and year:** Dec 5 2022 at 9:00 EST (UTC 14:00)	  
-**Timezone(s):** Americas/Europe   	  
-**Duration:** 1 hour	  
-**Summary:** Motivation for using OER in E&E classes and how to find and implement these resources.  
-Objective 1: Describe some of the benefits of implementing OER in E&E classes.  
-Objective 2: Find OER resources, with a focus on open textbooks, of relevance to your courses.   
-Objective 3: Learn the basics of using Libretexts to remix OER and create content fine-tuned to your courses.   
-Objective 4: Learn how to use Hypothesis.io for community commenting on OER.   
-
-**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/open-educational-resources-as-a-tool-for-more-inclusive-teaching-in-ee-tickets-453859474907)
-
-&nbsp;  
-
 ---
 
 &nbsp;  
 
-## Solicitation   
+# Solicitation   
 
 Would you like to present a workshop or webinar?   
 Or would you like to request a workshop or webinar on a specific topic?    
