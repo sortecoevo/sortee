@@ -12,7 +12,13 @@ This page hosts an assortment of resources ranging from societies and organizati
 
 &nbsp;
 
-While the resources below were published by other parties, in the future we would love to create  our own resources, tailored for ecology and evolution. For example, these may take form of slides, videos, or even one-page summaries of key concepts, workflows or tools. If you have specific requests, ideas or wish to contribute - please get in touch!    **If you know about any other relevant items, please contact [SORTEE]({{< ref "contact.md" >}}) or somebody from our [Education and Outreach]({{< ref "people.md#Education-and-outreach-committee" >}}) or [Media]({{< ref "people.md#media-committee" >}})  committees.**    
+While the resources below were mostly published by other parties, in the future we would love to create  our own resources, tailored for ecology and evolution. For example, these may take form of slides, videos, or even one-page summaries of key concepts, workflows or tools. If you have specific requests, ideas or wish to contribute - please get in touch!    **If you know about any other relevant items, please contact [SORTEE]({{< ref "contact.md" >}}) or somebody from our [Education and Outreach]({{< ref "people.md#Education-and-outreach-committee" >}}) or [Media]({{< ref "people.md#media-committee" >}})  committees.**    
+&nbsp;
+
+### ORTEE reviewers list   
+This i a Google Sheet created by SORTEE to help researchers find an ORTEE reviewers for their manuscripts.  
+You can add your name to this list if you would like to be a part of this SORTEE initiative.  
+[Find/Add an ORTEE Reviewer](https://docs.google.com/spreadsheets/d/13akCaEoyy-9XBOqEqaXXNRd9EXC4W7cVSjjisOdtJhk/edit?usp=sharing)  
 
 &nbsp;
 
