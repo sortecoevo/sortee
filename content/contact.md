@@ -17,7 +17,7 @@ social:
 
 &nbsp;
 
-Please contact us via email or reach out on [Twitter](https://twitter.com/sortecoevo) and/or [Mastodon](https://ecoevo.social/@sortee)".   
+Please contact us via email or reach out on [Twitter](https://twitter.com/sortecoevo) and/or [Mastodon](https://ecoevo.social/@sortee).   
 
 &nbsp;
 

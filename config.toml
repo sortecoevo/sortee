@@ -201,8 +201,8 @@ paginate = 4
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     address = """<p>Email: sortecoevo@gmail.com 
-        <br>Twitter: [@SORTEcoEvo](https://twitter.com/sortecoevo)
-        <br>Mastodon: [@SORTEE@ecoevo.social](https://ecoevo.social/@sortee)
+        <br>Twitter: @SORTEcoEvo
+        <br>Mastodon: @SORTEE@ecoevo.social
       </p>
       """
 
