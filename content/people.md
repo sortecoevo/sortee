@@ -32,14 +32,14 @@ title: People
 
 ---
 
-## Annual Reports on Committee Activities:    
+### Annual Reports on Committee Activities:    
 
 * [2021 Annual Report](https://osf.io/eb4ph)   
 * [2022 Annual Report](https://osf.io/va7eq)     
 
 &nbsp;
----   
 
+---
 
 ### Board of Directors      
 
