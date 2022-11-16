@@ -26,12 +26,18 @@ title: People
 * [Membership]({{< ref "people.md#membership-committee" >}})   
 * [Past Board and Committee Members]({{< ref "people.md#past-board-and-committee-members" >}})    
 
-
 &nbsp;
 &nbsp;
 &nbsp;
 
+---
 
+## Annual Reports on Committee Activities:    
+
+* [2021 Annual Report](https://osf.io/eb4ph)   
+* [2022 Annual Report](https://osf.io/va7eq)     
+
+&nbsp;
 ---   
 
 
