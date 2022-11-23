@@ -9,7 +9,7 @@ title: Upcoming events
 
 # SORTEE Conference 2023  
 
-### Virtual, world-wide, likely in July 2023
+### Virtual, world-wide, likely in November 2023
 
 &nbsp;
 
