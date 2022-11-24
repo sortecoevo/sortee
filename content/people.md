@@ -77,7 +77,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;
 
 ![Malika Ihle](/img/people/MalikaIhle.png)   
-[Malika Ihle](https://malikaihle.wordpress.com/) is the Reproducible Research Oxford coordinator, she holds a PhD in Evolutionary Behavioral Ecology.   
+[Malika Ihle](https://malikaihle.wordpress.com/) is the LMU Open Science Center coordinator. She previously was the Reproducible Research Oxford coordinator and holds a PhD in Evolutionary Behavioral Ecology.      
 &nbsp;
 
 **Members serving through 2023 are:**    
