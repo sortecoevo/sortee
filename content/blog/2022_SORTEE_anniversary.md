@@ -21,7 +21,7 @@ To celebrate SORTEE's 2-year anniversary in December 2022, we'd like to look bac
 
 [^1]: **Pool of questions to pick from in the first round of interviews:**
 
-    [*Open research questions:*]{.underline}
+    **Open research questions:**
 
     How did you become interested in open research?
 
@@ -56,7 +56,7 @@ To celebrate SORTEE's 2-year anniversary in December 2022, we'd like to look bac
     What do you see as the greatest challenge facing the open / reliable / transparent science movement at large or specifically in ecology and evolutionary biology?
     What is an open / reliable / transparent science practice that you admire but have not yet adopted in your own work?
 
-    [*Personal questions:*]{.underline}
+    **Personal questions:**
 
     Where were you born and raised?
 
@@ -90,6 +90,8 @@ To celebrate SORTEE's 2-year anniversary in December 2022, we'd like to look bac
     What was your most embarrassing coding moment?
 
     Tell us about a teacher who helped you enjoy learning Ask and answer your own question!
+    
+    *With thanks to 2021 SORTEE Committee Members for drafting these questions.*
 
 ### Who answered?
 
@@ -160,6 +162,8 @@ You can become a member here: <https://www.sortee.org/join/>.
 Find all our interviews at <https://www.sortee.org/tags/member-voices/>.
 
 ------------------------------------------------------------------------
+
+#### Acknowledgements 
 
 *Summary blog writer:* Malika Ihle
 
