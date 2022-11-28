@@ -21,26 +21,6 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 
 &nbsp;
 
-## November 2022    
-
-### **Title:** *An Ecologist’s Introduction to Transitioning into Data Science*    
-**Presenter:** Alessandro Filazzola and Sophie Breitbart    
-**Type:** Workshop    
-**Month and year:** Nov 2nd 2022 at 10:00 EDT (UTC 14:00)   
-**Timezone(s):** Americas/Europe      	  
-**Duration:** 2 hours	  
-**Summary:** Ecological researchers have skills that are highly transferable, especially in data science. We provide suggestions on why data science may be a suitable alternative to a career in ecology and steps towards becoming a data scientist.    
-   Objective 1:  Contextualize data science for ecologists including defining what is data science, the overlaps with ecology, and what a career in data science may look like,    
-   Objective 2:  Provide a brief introduction to SQL, one of the most frequently used tools by data scientists,    
-   Objective 3:  Detail actions and strategies for transitioning into data science.    
-
-**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/an-ecologists-introduction-to-transitioning-into-data-science-tickets-444256161137)  
-
-**Materials:** [DataSci_for_Ecologists](https://github.com/sbreitbart/DataSci_for_Ecologists) and [SQL_intro](https://sbreitbart.github.io/DataSci_for_Ecologists/SQL_intro/SQL_intro.html)  
-
-
-&nbsp;  
-
 
 ## December 2022    
 
@@ -65,6 +45,25 @@ Objective 4: Learn how to use Hypothesis.io for community commenting on OER.
 &nbsp;  
 
 # Past events   
+
+&nbsp;  
+
+## November 2022    
+
+### **Title:** *An Ecologist’s Introduction to Transitioning into Data Science*    
+**Presenter:** Alessandro Filazzola and Sophie Breitbart    
+**Type:** Workshop    
+**Month and year:** Nov 2nd 2022 at 10:00 EDT (UTC 14:00)   
+**Timezone(s):** Americas/Europe      	  
+**Duration:** 2 hours	  
+**Summary:** Ecological researchers have skills that are highly transferable, especially in data science. We provide suggestions on why data science may be a suitable alternative to a career in ecology and steps towards becoming a data scientist.    
+   Objective 1:  Contextualize data science for ecologists including defining what is data science, the overlaps with ecology, and what a career in data science may look like,    
+   Objective 2:  Provide a brief introduction to SQL, one of the most frequently used tools by data scientists,    
+   Objective 3:  Detail actions and strategies for transitioning into data science.    
+
+**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/an-ecologists-introduction-to-transitioning-into-data-science-tickets-444256161137)  
+
+**Materials:** [DataSci_for_Ecologists](https://github.com/sbreitbart/DataSci_for_Ecologists) and [SQL_intro](https://sbreitbart.github.io/DataSci_for_Ecologists/SQL_intro/SQL_intro.html)  
 
 &nbsp;  
 
