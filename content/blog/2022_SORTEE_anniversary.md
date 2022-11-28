@@ -1,6 +1,6 @@
 ---
 banner: img/banners/banner-SORTEEvoices_summary_2022.png
-date: "2022-11-28"
+date: "2022-12-05"
 slug: inaugural_SORTEEvoices
 author: SORTEE
 categories:
