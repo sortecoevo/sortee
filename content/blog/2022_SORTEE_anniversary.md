@@ -1,6 +1,6 @@
 ---
 banner: img/banners/banner-SORTEEvoices_summary_2022.png
-date: "2022-12-05"
+date: "2022-12-02"
 slug: inaugural_SORTEEvoices
 author: SORTEE
 categories:
@@ -13,7 +13,6 @@ editor_options:
     wrap: sentence
 ---
 
- 
 
 Between June and September 2021, we started the [#SORTEEvoices blog series](https://www.sortee.org/tags/member-voices/) by asking inaugural members to choose a few questions to answer from a list of 30 options (15 questions about open science, reproducibility, and transparency; 15 miscellaneous questions)[^1].
 Responses from sixty-four inaugural members were posted on our blog every week until October 2022.
