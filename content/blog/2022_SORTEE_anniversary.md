@@ -150,7 +150,7 @@ Again, with SORTEE's webinar and workshop series, we will strive to raise awaren
 
 This showcases some of the diversity of background within our community, an aspect we take pride in!
 
-![Where were you born and raised](/blog/images/SORTEEvoices_summary_2022.png)\
+![drawing of a flying bird (perhaps an albatross?) carrying all the names of the countries of origin of the members who contributed a blog post and answered that question. The size of the country's name defines its frequency; in order: UK, USA; then Chile, Colombia; then Australia, Brazil, Canada, Croatia, France, India, Iraq, Netherlands, Nigeria, Norway, South Africa, and Spain](/blog/images/SORTEEvoices_summary_2022.png)\
  
 
 Given the interest in these blog posts and personal stories, we are launching a second wave of 'interviews' with our newest members!
