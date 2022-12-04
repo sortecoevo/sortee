@@ -44,6 +44,14 @@ Would you like to present a poster introducing people to SORTEE at an in-person 
 
 &nbsp;  
 
+### SFE2-GfÖ-EEF in Metz on 21 November 2022
+
+{{< figure src="/blog/images/SFE2-GfO-EEF_catchup1.jpeg" alt="SORTEE meetup Metz 2022" width="600px" >}} 
+&nbsp; 
+{{< figure src="/blog/images/SFE2-GfO-EEF_catchup2.jpeg" alt="SORTEE meetup Metz 2022" width="600px" >}}
+
+&nbsp; 
+
 ---
 
 &nbsp;
