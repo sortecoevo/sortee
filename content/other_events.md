@@ -21,13 +21,31 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 
 &nbsp;
 
+## January 2023  
+
+### **Title:** *Using and contributing open data to the Global Biodiversity Information Facility (GBIF)*   
+**Presenter:** Carole Sinou  
+**Type:** Workshop  
+**Date and Time:** Jan 24 2023 at 10:00 EST (UTC 15:00)  
+**Timezone(s):** Americas/Europe  
+**Duration:** 1.5 hour  
+**Summary:** TBD  
+**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/using-and-contributing-open-data-to-gbif-tickets-481702594427)  
+
+---
+
+&nbsp;  
+
+# Past events   
+
+&nbsp;  
 
 ## December 2022    
 
 ### **Title:** *Open Educational Resources as a Tool for More Inclusive Teaching in E&E*    
 **Presenter:** Natasha Gownaris    
 **Type:** Workshop   
-**Month and year:** Dec 5 2022 at 9:00 EST (UTC 14:00)	  
+**Date and Time:** Dec 5 2022 at 9:00 EST (UTC 14:00)	  
 **Timezone(s):** Americas/Europe   	  
 **Duration:** 1 hour	  
 **Summary:** Motivation for using OER in E&E classes and how to find and implement these resources.  
@@ -38,13 +56,7 @@ Objective 4: Learn how to use Hypothesis.io for community commenting on OER.
 
 **Registration:** register on [Eventbrite](https://www.eventbrite.com/e/open-educational-resources-as-a-tool-for-more-inclusive-teaching-in-ee-tickets-453859474907)
 
-&nbsp;  
-
----
-
-&nbsp;  
-
-# Past events   
+**Materials:** [here](https://drive.google.com/drive/folders/1e-hFp3f8x9FjjG7zgDsFcvLAEnWaBJqk)
 
 &nbsp;  
 
@@ -53,7 +65,7 @@ Objective 4: Learn how to use Hypothesis.io for community commenting on OER.
 ### **Title:** *An Ecologist’s Introduction to Transitioning into Data Science*    
 **Presenter:** Alessandro Filazzola and Sophie Breitbart    
 **Type:** Workshop    
-**Month and year:** Nov 2nd 2022 at 10:00 EDT (UTC 14:00)   
+**Date and Time:** Nov 2nd 2022 at 10:00 EDT (UTC 14:00)   
 **Timezone(s):** Americas/Europe      	  
 **Duration:** 2 hours	  
 **Summary:** Ecological researchers have skills that are highly transferable, especially in data science. We provide suggestions on why data science may be a suitable alternative to a career in ecology and steps towards becoming a data scientist.    
@@ -66,22 +78,6 @@ Objective 4: Learn how to use Hypothesis.io for community commenting on OER.
 **Materials:** [DataSci_for_Ecologists](https://github.com/sbreitbart/DataSci_for_Ecologists) and [SQL_intro](https://sbreitbart.github.io/DataSci_for_Ecologists/SQL_intro/SQL_intro.html)  
 
 &nbsp;  
-
-## September 2022  
-### **Title:**	*Authoring documents, websites, presentations, and more with Markdown*	 
-**Presenter:** Alexa Fredston	  
-**Type:** Workshop   
-**Date and Time:** Sept 14 2022	at 1:00 pm  EDT   
-**Timezone(s):** Americas  
-**Duration:** 2 hours	  
-**Summary:** Using Markdown, including from R, to generate well-formatted and easily readable notes, slides, reports, manuscripts, web pages, PDFs, etc. from code.   
-   Objective 1: Understand Markdown and how it can be applied to generate visually appealing materials.   
-   Objective 2: Build Markdown files with multiple content types (text, plots, images, etc).  
-   Objective 3: Explore Markdown applications to various use cases.   
-**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/authoring-documents-websites-and-more-with-rmarkdown-tickets-405267414747).   
-**Workshop materials:** [here](https://github.com/afredston/markdown-sortee)   
-
-&nbsp;
 
 ## October 2022   
 
@@ -102,6 +98,23 @@ Objective 4: Learn how to use Hypothesis.io for community commenting on OER.
 **Registration:** register on [Eventbrite](https://www.eventbrite.com/e/419408912347)   
 
 &nbsp;
+
+## September 2022  
+### **Title:**	*Authoring documents, websites, presentations, and more with Markdown*	 
+**Presenter:** Alexa Fredston	  
+**Type:** Workshop   
+**Date and Time:** Sept 14 2022	at 1:00 pm  EDT   
+**Timezone(s):** Americas  
+**Duration:** 2 hours	  
+**Summary:** Using Markdown, including from R, to generate well-formatted and easily readable notes, slides, reports, manuscripts, web pages, PDFs, etc. from code.   
+   Objective 1: Understand Markdown and how it can be applied to generate visually appealing materials.   
+   Objective 2: Build Markdown files with multiple content types (text, plots, images, etc).  
+   Objective 3: Explore Markdown applications to various use cases.   
+**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/authoring-documents-websites-and-more-with-rmarkdown-tickets-405267414747).   
+**Workshop materials:** [here](https://github.com/afredston/markdown-sortee)   
+
+&nbsp;
+
 
 ---
 
