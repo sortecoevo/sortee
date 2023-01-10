@@ -28,7 +28,7 @@ paginate = 4
     name = "People"
     url = "/people/"
     weight = 20
-    
+
 [[menu.main]]
     identifier = "documents"
     name = "Documents"
@@ -39,12 +39,12 @@ paginate = 4
     parent = "documents"
     name = "Supporters"
     url = "/supporters/"
-    
+
 [[menu.main]]
     parent = "documents"
     name = "Awards"
     url = "/awards/"
-    
+
 [[menu.main]]
     parent = "documents"
     name = "Bylaws"
@@ -60,17 +60,17 @@ paginate = 4
     name = "Resources"
     url = "/resources/"
     weight = 50
-    
+
 [[menu.main]]
     parent = "resources"
     name = "Newsletters"
     url = "/newsletters/"
-    
+
 [[menu.main]]
     parent = "resources"
     name = "Infographics"
     url = "/infographics/"
-    
+
 [[menu.main]]
     parent = "resources"
     name = "Reading"
@@ -80,7 +80,7 @@ paginate = 4
     parent = "resources"
     name = "Other resources"
     url = "/other_resources/"
-    
+
 [[menu.main]]
     identifier = "events"
     name = "Events"
@@ -92,36 +92,36 @@ paginate = 4
     name = "SORTEE workshops and webinars"
     url = "/other_events/"
     weight = 110
-    
+
 [[menu.main]]
     parent = "events"
     name = "Upcoming SORTEE conference"
     url = "/upcoming/"
     weight = 120
-    
+
 [[menu.main]]
     parent = "events"
     name = "Past SORTEE conferences"
     url = "/past/"
     weight = 130
-    
+
 [[menu.main]]
     parent = "events"
     name = "SORTEE meet-ups at other conferences"
     url = "/meet-ups/"
-    weight = 140    
-    
+    weight = 140
+
 [[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/blog/"
     weight = 70
-    
+
 [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 80    
+    weight = 80
 # Top bar social links menu
 
 [[menu.topbar]]
@@ -147,7 +147,7 @@ paginate = 4
     name = "Linkedin"
     url = "https://www.linkedin.com/company/sortee/"
     pre = "<i class='fab fa-2x fa-linkedin'></i>"
-    
+
 [[menu.topbar]]
     weight = 4
     name = "Email"
@@ -193,14 +193,14 @@ paginate = 4
     # contact_form_ajax = false
 
     #about_us = "<p>SORTEE stands for society for Open Reliable Transparent Ecology and Evolutionary biology.</p>"
-    copyright = "Copyright (c) 2020, SORTEE; all rights reserved."
+    copyright = "Copyright (c) 2023, SORTEE; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
-    address = """<p>Email: sortecoevo@gmail.com 
+    address = """<p>Email: sortecoevo@gmail.com
         <br>Twitter: @SORTEcoEvo
         <br>Mastodon: @SORTEE@ecoevo.social
       </p>
@@ -251,7 +251,7 @@ paginate = 4
     subtitle = "Registrations now open!"
     link_url = "/upcoming"
     link_text = "Read more"
-    
+
 [params.see_more]
     enable = true
     icon = "fas fa-egg"
@@ -274,5 +274,5 @@ paginate = 4
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
 
 
-    
-    
+
+
