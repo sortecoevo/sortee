@@ -10,6 +10,7 @@ title: Newsletters
 This page hosts links to archived newsletters and notification emails produced by SORTEE.   
 
 &nbsp;
+## [Newsletter - October 2022](/pdf/newsletter-202210.pdf)    
 
 ## [Newsletter - April 2022](https://mailchi.mp/87ed7bf532dc/sortee-newsletter-april-2022)    
 
