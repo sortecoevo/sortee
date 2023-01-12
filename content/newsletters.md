@@ -12,7 +12,7 @@ This page hosts links to archived newsletters and notification emails produced b
 &nbsp;
 ## [Newsletter - October 2022](/pdf/newsletter-202210.pdf)    
 
-## [Newsletter - April 2022](https://mailchi.mp/87ed7bf532dc/sortee-newsletter-april-2022)    
+## [Newsletter - April 2022](/pdf/newsletter-202204.pdf)    
 
 ## [Notification - February 2022](https://mailchi.mp/a68234a4a81f/action-required-sortee-2022-membership)  
 
