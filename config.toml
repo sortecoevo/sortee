@@ -144,6 +144,12 @@ paginate = 4
 
 [[menu.topbar]]
     weight = 3
+    name = "Mastodon"
+    url = "https://ecoevo.social/@sortee"
+    pre = "<i class='fab fa-2x fa-mastodon'></i>"
+
+[[menu.topbar]]
+    weight = 3
     name = "Linkedin"
     url = "https://www.linkedin.com/company/sortee/"
     pre = "<i class='fab fa-2x fa-linkedin'></i>"
