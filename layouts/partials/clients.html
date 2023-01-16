@@ -1,0 +1,22 @@
+{{ if isset .Site.Params "clients" }}
+{{ if .Site.Params.clients.enable }}
+{{ if gt (len .Site.Data.clients) 0 }}
+<section class="bar background-gray no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+              <div class="heading text">
+                <h3 class="text-uppercase">{{ .Site.Params.clients.title | markdownify }}</h3>
+              </div>
+              <a href="https://ecoevorxiv.org" target="_blank">
+                <img src="img/rxiv-logo.png" alt="EcoEvoRxiv" class="img-responsive" width="300" />
+              </a>
+              <br>
+              <p class="lead">{{ .Site.Params.clients.subtitle | markdownify }}</p>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
