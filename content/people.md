@@ -23,7 +23,6 @@ title: People
 * [Education and Outreach]({{< ref "people.md#education-and-outreach-committee" >}})   
 * [Fundraising]({{< ref "people.md#fundraising-committee" >}})  
 * [Media]({{< ref "people.md#media-committee" >}})   
-* [Membership]({{< ref "people.md#membership-committee" >}})   
 * [Past Board and Committee Members]({{< ref "people.md#past-board-and-committee-members" >}})    
 
 &nbsp;
@@ -47,6 +46,23 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 
 &nbsp;   
 
+**Members serving from 2023 through 2025 are:**       
+
+&nbsp;  
+
+![Ed Ivimey-Cook](/img/people/EdIvimeyCook.png)  
+[Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(Secretary)** is a post-doctoral researcher at the University of Glasgow.   
+&nbsp;  
+
+![Patrice Pottier](/img/people/PatricePottier.png)  
+[Patrice Pottier](http://www.i-deel.org/patrice-pottier.html) is a PhD student at the University of New South Wales.  
+&nbsp;
+
+![Alfredo Sánchez Tójar](/img/people/AlfredoSanchezTojar.png)  
+[Alfredo Sánchez Tójar](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/evo_biology/team/tojar/) is a researcher the Bielefeld University.  
+
+&nbsp;   
+
 **Members serving from 2022 through 2024 are:**       
 
 &nbsp;   
@@ -56,43 +72,27 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;
 
 ![Alexa Fredston](/img/people/AlexaFredston.png)   
-[Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)** is a quantitative ecologist working as a Postdoctoral Associate at Rutgers University.   
+[Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)** is a quantitative ecologist and Assistant Professor at the University of California Santa Cruz.
 &nbsp;
 
 ![Esteban Fernandez-Juricic](/img/people/EstebanFernandezJuricic.png)   
-[Esteban Fernandez-Juricic](http://www.estebanfj.com) **(President-Elect, starting in 2023)** is a Professor of Biological Sciences at Purdue University (USA). His research is focused on behavioral ecology, visual ecology, and conservation ecology. He is interested in increasing computational reproducibility, particularly during the peer-review process.  
+[Esteban Fernandez-Juricic](http://www.estebanfj.com) **(President, 2023)** is a Professor of Biological Sciences at Purdue University (USA). His research is focused on behavioral ecology, visual ecology, and conservation ecology. He is interested in increasing computational reproducibility, particularly during the peer-review process.  
 
 &nbsp;   
-
-**Members serving through 2022 are:**    
-
-&nbsp;   
-
-![Antica Culina](/img/people/AnticaCulina.png)    
-[Antica Culina](https://nioo.knaw.nl/en/employees/antica-culina) works as a research scientist at the NIOO-KNAW, Netherlands. She is a co-founder and executive board member of [SPI-Birds](https://www.spibirds.org), and the advisory committee member of [FAIRsFAIR](https://www.fairsfair.eu/) and [Open Knowledge Maps](https://openknowledgemaps.org/).    
-&nbsp;   
-
-![Elliot Gould](/img/people/ElliotGould.png)   
-[Elliot Gould](https://orcid.org/0000-0002-6585-538X) is a PhD student studying the transparency and reproducibility of model-based research in applied ecology and conservation at the University of Melbourne.     
-&nbsp;
-
-![Malika Ihle](/img/people/MalikaIhle.png)   
-[Malika Ihle](https://malikaihle.wordpress.com/) is the LMU Open Science Center coordinator. She previously was the Reproducible Research Oxford coordinator and holds a PhD in Evolutionary Behavioral Ecology.      
-&nbsp;
 
 **Members serving through 2023 are:**    
 &nbsp;
 
 ![Dom Roche](/img/people/DomRoche.png)   
-[Dominique Roche](https://dominiqueroche.weebly.com/) **(President)** is a Marie Skłodowska-Curie Global Fellow at Carleton University, Canada. He studies how open data improve transparency, reproducibility, and collaboration in science.   
+[Dominique Roche](https://dominiqueroche.weebly.com/) **(Past-President)** is a Marie Skłodowska-Curie Global Fellow at Carleton University, Canada. He studies how open data improve transparency, reproducibility, and collaboration in science.   
 &nbsp;
 
 ![Rose O’Dea](/img/people/RoseODea.png)   
-[Rose O’Dea](https://www.roseodea.com/) **(Secretary)** is a postdoctoral researcher, currently based in the MetaMelb Research Group at The University of Melbourne.   
+[Rose O’Dea](https://www.roseodea.com/) **(President-Elect for 2024)** is a postdoctoral researcher, currently based in the MetaMelb Research Group at The University of Melbourne.   
 &nbsp;
 
 ![Tim Parker](/img/people/TimParker.png)   
-[Tim Parker](http://people.whitman.edu/~parkerth/) **(Past-President)** is a Professor of Biology at Whitman College and has interests in behavioral ecology, demography, community ecology, and meta-science.   
+[Tim Parker](http://people.whitman.edu/~parkerth/) is a Professor of Biology at Whitman College and has interests in behavioral ecology, demography, community ecology, and meta-science.   
 
 &nbsp;
 &nbsp;
@@ -101,16 +101,15 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 ---
 
 ### Executive Committee       
-As specified in the [SORTEE bylaws](https://www.sortee.org/bylaws/), the Executive Committee is chosen by the Board of Directors. 
-&nbsp;
+As specified in the [SORTEE bylaws](https://www.sortee.org/bylaws/), the Executive Committee is chosen by the Board of Directors.<br>  
 Current officers are:
 &nbsp;
 
-[Dominique Roche](https://dominiqueroche.weebly.com/) **(President)**     
-[Rose O’Dea](https://www.roseodea.com/) **(Secretary)**      
-[Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)**      
-[Esteban Fernandez-Juricic](http://www.estebanfj.com) **(President-Elect, starting in 2023)**        
-[Tim Parker](http://people.whitman.edu/~parkerth/) **(Past-President)**   
+[Esteban Fernandez-Juricic](http://www.estebanfj.com) **(President, 2023)**   
+[Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(Secretary)**  
+[Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)**    
+[Rose O’Dea](https://www.roseodea.com/) **(President-Elect for 2024)**  
+[Dominique Roche](https://dominiqueroche.weebly.com/) **(Past-President)**    
 
 &nbsp;
 &nbsp;
@@ -125,11 +124,11 @@ A new committee in 2022, the Advocacy committee follows two ‘Unconference’ s
 Current members are:   
 &nbsp;
 
-[Matt Grainger](mailto:matthew.grainger@nina.no)	**(Chair)**     
-Samantha Burke	(Membership consultant)     
-Cole Brookson	(Project drafter)     
-Dylan Gomes	(Policy drafter)     
-Kevin Bairos-Novak	(Researcher)     
+[Antica Culina](mailto:a.culina@yahoo.com)	**(Chair)**     
+Kevin Bairos-Novak	(Membership consultant)     
+Christina Buelow (Project & Policy drafter)     
+Shreya Dimri (Researcher)   
+Max Czapanskiy    
 
 &nbsp;
 &nbsp;
@@ -144,11 +143,8 @@ The Awards committee solicits nominations and selects winners for the existing S
 Current members are:   
 &nbsp;
 
-[Clint Kelly](mailto:kelly.clint@uqam.ca)	**(Chair)**     
-Sandra Hamel	(Committee coordinator)     
-Patrice Pottier	(Selection coordinator)     
-Jason Pither	     
-Hannah Dugdale	      
+[Daniel Noble](mailto:daniel.noble@anu.edu.au)	**(Chair)**     
+TBC      
 
 &nbsp;
 &nbsp;
@@ -158,12 +154,12 @@ Hannah Dugdale
 
 ### Conference Committee	 
 
-The Conference committee organizes the virtual SORTEE Conference, which is held in the second week of July. If you have the capacity to donate time and/or money to organising the conference, please email the Committee Chair [Edward Ivimey-Cook](mailto:e.ivimeycook@gmail.com). 
+The Conference committee organizes the virtual SORTEE Conference, which is held in the second week of July. If you have the capacity to donate time and/or money to organising the conference, please email the Committee Chair [Matthieu Paquet](mailto:matthieu.paquet@outlook.com). 
 &nbsp;
 Current members are:   
 &nbsp;
 
-[Edward Ivimey-Cook](mailto:e.ivimeycook@gmail.com)	**(Chair)**     
+[Matthieu Paquet](mailto:matthieu.paquet@outlook.com)	**(Chair)**     
 Tim Parker	(Past Chair)     
 Elina Takola	(Advertiser)     
 Matthieu Paquet	(Content submissions & selection)     
@@ -183,13 +179,17 @@ To promote diversity, equity, and inclusion within SORTEE’s activities and com
 Current members are:   
 &nbsp;
 
-[Malgorzata Lagisz](mailto:losialagisz@gmail.com)	**(Chair)**     
-Joseph Burant	(SORTEE member consultant)     
-Bawan Amin	(Consultant to the conference committee)     
-Cole Brookson	(Consultant to the membership committee)     
-Dylan Gomes	(Consultant to the Education & Outreach committee)     
-Patrice Pottier	(Consultant to the awards committee)     
-Cesar Herrera	(Consultant to the media committee)     
+[Bawan Amin](mailto:bawan.amin@ucdconnect.ie)	**(Chair)**     
+Joey Burant	(SORTEE member consultant)     
+Rachel Turba	(Consultant to the conference committee)   
+Malika Ihle	(Consultant to the education & outreach committee)     
+Joey Burant (Consultant to the fundraising committee)   
+Gabe Winter	(Consultant to the media committee)    
+Isa Elegbede  
+Félicie Dhellemmes  
+Coralie Williams  
+Easton White  
+Kevin Bairos-Novak  
 
 &nbsp;
 &nbsp;
@@ -204,11 +204,8 @@ The Education & Outreach committee develops plans to provide educational resourc
 Current members are:   
 &nbsp;
 
-[Dave Angelini](mailto:david.r.angelini@gmail.com)	**(Chair)** (Organization promotor)     
-Cesar Herrera	(Website resources curator)     
-Georgia Titcomb	(Website resources curator)     
-Matthieu Paquet	(Slack manager)     
-Szymek Drobniak	(Media coordinator)     
+[Natasha Gownaris](mailto:ngownaris@gmail.com)	**(Chair)**   
+TBC   
 
 &nbsp;
 &nbsp;
@@ -224,9 +221,8 @@ Current members are:
 &nbsp;
 
 [Dom Roche](mailto:dom.g.roche@gmail.com)	**(Chair)**     
-Amelia Hood	(Application writer)     
-Joey Burant	(Researcher / application writer)     
-Raphael Royaute	(Donation seeker / application writer)     
+Joey Burant	(Application writer / Researcher)   
+Raphaël Royauté	(Donation seeker)   
 
 &nbsp;
 &nbsp;
@@ -236,35 +232,19 @@ Raphael Royaute	(Donation seeker / application writer)
 
 ### Media Committee  		
 
-The Media committee develops content (for the website, Twitter, and newsletter), designs and maintains the website, and develops new ideas for spreading the word about SORTEE and open, reliable, and transparent science. 
+The Media committee develops content (for the website, social media, and newsletter), designs and maintains the website, and develops new ideas for spreading the word about SORTEE and open, reliable, and transparent science.
 &nbsp;
-Current members are:   
-&nbsp;
-
-[Szymek Drobniak](mailto:szymek.drobniak@gmail.com)	**(Chair)** (Newsletter editor)     
-Alfredo Sánchez-Tójar	(Twitter manager)     
-Malgorzata Lagisz	(Website maintainer)     
-Eleanor Jackson	(Website co-editor)     
-Rose O'Dea	(Member profiles editor)     
-Jithin V	(General content curator)     
-Rachael Blake	(General content curator)       
-
-&nbsp;
-&nbsp;
+Current members are:  
 &nbsp;
 
----
-
-### Membership Committee  		
-
-The Membership committee focuses on recruiting SORTEE members and determining conditions for and benefits of SORTEE membership. 
-&nbsp;
-Current members are:   
-&nbsp;
-
-[Lewis Bartlett](mailto:lewis.bartlett@uga.edu)	**(Chair)**     
-Kaija Gahm	(Membership consultant)     
-Gideon Deme Gywa	(Recruitment officer)     
+[Tim Parker](mailto:parkerth@whitman.edu)	**(Chair)**    
+Alfredo Sánchez-Tójar	(Twitter & Mastodon manager)   
+Gabe Winter (Twitter & Mastodon co-manager / DEI representative / Member profiles editor)   
+Malgorzata Lagisz	(Website co-maintainer)     
+Eleanor Jackson	(Website maintainer)  
+Rachael Blake (Blog editor)   
+Tuba Rizvi (Linkedin manager / Newsletter editor / General content curator)  
+Szymek Drobniak 
 
 &nbsp;
 &nbsp;
