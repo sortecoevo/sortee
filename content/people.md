@@ -17,9 +17,9 @@ title: People
 * [Board]({{< ref "people.md#board-of-directors" >}})   
 * [Executive Committee]({{< ref "people.md#executive-committee" >}})   
 * [Advocacy]({{< ref "people.md#advocacy-committee" >}})   
-* [Awards]({{< ref "people.md#awards-committee" >}})   
 * [Conference]({{< ref "people.md#conference-committee" >}})   
 * [Diversity, Equity, and Inclusion]({{< ref "people.md#diversity-equity-and-inclusion-committee" >}})   
+* [EcoEvoRxiv Committee]({{< ref "people.md#ecoevorxiv-committee" >}}) 
 * [Education and Outreach]({{< ref "people.md#education-and-outreach-committee" >}})   
 * [Fundraising]({{< ref "people.md#fundraising-committee" >}})  
 * [Media]({{< ref "people.md#media-committee" >}})   
@@ -136,22 +136,6 @@ Max Czapanskiy
 
 ---
 
-### Awards Committee	 
-
-The Awards committee solicits nominations and selects winners for the existing SORTEE awards. Awards are presented during the SORTEE conference. 
-&nbsp;
-Current members are:   
-&nbsp;
-
-[Daniel Noble](mailto:daniel.noble@anu.edu.au)	**(Chair)**     
-TBC      
-
-&nbsp;
-&nbsp;
-&nbsp;
-
----
-
 ### Conference Committee	 
 
 The Conference committee organizes the virtual SORTEE Conference, which is held in the second week of July. If you have the capacity to donate time and/or money to organising the conference, please email the Committee Chair [Matthieu Paquet](mailto:matthieu.paquet@outlook.com). 
@@ -179,8 +163,7 @@ To promote diversity, equity, and inclusion within SORTEE’s activities and com
 Current members are:   
 &nbsp;
 
-[Bawan Amin](mailto:bawan.amin@ucdconnect.ie)	**(Chair)**     
-Joey Burant	(SORTEE member consultant)     
+[Bawan Amin](mailto:bawan.amin@ucdconnect.ie)	(**Chair** / SORTEE member consultant)     
 Rachel Turba	(Consultant to the conference committee)   
 Malika Ihle	(Consultant to the education & outreach committee)     
 Joey Burant (Consultant to the fundraising committee)   
@@ -190,6 +173,22 @@ Félicie Dhellemmes
 Coralie Williams  
 Easton White  
 Kevin Bairos-Novak  
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+### EcoEvoRxiv Committee
+&nbsp;
+Current members are:   
+&nbsp;
+
+[Daniel Noble](mailto:daniel.noble@anu.edu.au)	**(Chair)**    
+Noelle Schenk (Social media manager)  
+Jenna Braun (Editor)  
+Deme Gideon (Editor)  
 
 &nbsp;
 &nbsp;
