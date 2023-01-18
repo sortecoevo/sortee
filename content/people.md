@@ -160,11 +160,11 @@ Current members are:
 &nbsp;
 
 [Matthieu Paquet](mailto:matthieu.paquet@outlook.com)	**(Chair)**     
-Tim Parker	(Past Chair)     
-Elina Takola	(Advertiser)     
-Matthieu Paquet	(Content submissions & selection)     
-Rachel Turba de Paula	(Plenary organizer)     
-Katie Spooner	(Program manager)      
+Edward Ivimey-Cook	(Past Chair)     
+Rachel Turba	(Advertiser)     
+Elina Takola	(Content submissions & selection)     
+Marija Purgar	(Registration & messaging)     
+Juliette Tariel-Adam	(Program manager)      
 
 &nbsp;
 &nbsp;
