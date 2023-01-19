@@ -37,6 +37,18 @@ You will also discover how you can use GBIF mediated data in your own research a
 
 **Registration:** register on [Eventbrite](https://www.eventbrite.com/e/using-and-contributing-open-data-to-gbif-tickets-481702594427)  
 
+&nbsp;
+
+## Febuary 2023  
+
+### **Title:** *Equitability in data reuse in microbial ecology*   
+**Presenter:** Dr. Stephanie Jurburg  
+**Type:** Webinar   
+**Date and Time:** Feb 20 2023 at 14:00 UTC   
+**Timezone(s):** Americas/Europe  
+**Duration:** 1 hour  
+**Summary:** Data collection, management, and reuse are increasingly important in ecology and biodiversity research. In microbial ecology, sequencing has altered our relationship to the hidden microbial world and created massive amounts of reusable microbiome data. These data can now be used to integrate bacteria into macroecology and to fill major gaps in the field through synthesis. However, ~50% of archived sequence data is not reusable, and biodiversity blind spots remain, especially in regions where the lack of access to scientific resources precludes the generation, archiving, and reuse of sequence data. This webinar will explore the current limitations to sequence data reuse in microbial ecology, and explore how promoting equitability in research through dedicated database creation and outreach can overcome them. Though we will discuss these issues through the lens of microbial ecology, this webinar is relevant to anyone interested in issues of open data and equity.   
+
 ---
 
 &nbsp;  
