@@ -19,36 +19,35 @@ This page lists SORTEE's past Board members.
 &nbsp;   
 
 ![Antica Culina](/img/people/AnticaCulina.png)    
-2022    
+2020-2022    
 [Antica Culina](https://nioo.knaw.nl/en/employees/antica-culina) works as a research scientist at the NIOO-KNAW, Netherlands. She is a co-founder and executive board member of [SPI-Birds](https://www.spibirds.org), and the advisory committee member of [FAIRsFAIR](https://www.fairsfair.eu/) and [Open Knowledge Maps](https://openknowledgemaps.org/).    
 &nbsp;   
 
 ![Elliot Gould](/img/people/ElliotGould.png)    
-2022    
+2020-2022    
 [Elliot Gould](https://orcid.org/0000-0002-6585-538X) is a PhD student studying the transparency and reproducibility of model-based research in applied ecology and conservation at the University of Melbourne.     
 &nbsp;
 
 ![Malika Ihle](/img/people/MalikaIhle.png)    
-2022    
+2020-2022    
 [Malika Ihle](https://malikaihle.wordpress.com/) is the LMU Open Science Center coordinator. She previously was the Reproducible Research Oxford coordinator and holds a PhD in Evolutionary Behavioral Ecology.      
 
 &nbsp;   
 
 ![Bonnie Wintle](/img/people/BonnieWintle.png)    
-2021-2022      
-term 2021: [Bonnie Wintle](https://bonnieresearch.wordpress.com/about/) is a Senior Research Fellow in the School of BioSciences at Melbourne University, based in the interdisciplinary MetaMelb group.    
+2020-2021      
+[Bonnie Wintle](https://bonnieresearch.wordpress.com/about/) is a Senior Research Fellow in the School of BioSciences at Melbourne University, based in the interdisciplinary MetaMelb group.    
 
 &nbsp;
 
 ![Samantha Burke](/img/people/SamanthaBurke.png)    
-
-2021-2022     
-Term 2021: [Samantha Burke](http://www.i-deel.org/samantha-burke.html) is a student pursuing a PhD with the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
+2020-2021     
+[Samantha Burke](http://www.i-deel.org/samantha-burke.html) is a student pursuing a PhD with the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.   
 &nbsp;
 
 ![Clint Kelly](/img/people/ClintKelly.png)    
-2021-2022      
-Term 2021: [Clint Kelly](https://kellylab.weebly.com/) is an Associate Professor of Biology and Canada Research Chair in Behavioural Ecology at the Université du Québec à Montréal. Clint currently serves on the SORTEE Executive Committee.    
+2020-2021      
+[Clint Kelly](https://kellylab.weebly.com/) is an Associate Professor of Biology and Canada Research Chair in Behavioural Ecology at the Université du Québec à Montréal.     
 
 &nbsp;   
 &nbsp;   

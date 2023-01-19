@@ -23,7 +23,7 @@ title: People
 * [Education and Outreach]({{< ref "people.md#education-and-outreach-committee" >}})   
 * [Fundraising]({{< ref "people.md#fundraising-committee" >}})  
 * [Media]({{< ref "people.md#media-committee" >}})   
-* [Past Board and Committee Members]({{< ref "people.md#past-board-and-committee-members" >}})    
+* [Past Board Members]({{< ref "people.md#past-board-and-committee-members" >}})    
 
 &nbsp;
 &nbsp;
@@ -242,7 +242,7 @@ Gabe Winter (Twitter & Mastodon co-manager / DEI representative / Member profile
 Malgorzata Lagisz	(Website co-maintainer)     
 Eleanor Jackson	(Website maintainer)  
 Rachael Blake (Blog editor)   
-Tuba Rizvi (Linkedin manager / Newsletter editor / General content curator)  
+Tuba Rizvi (Linkedin manager)  
 Szymek Drobniak 
 
 &nbsp;
@@ -251,7 +251,7 @@ Szymek Drobniak
 
 ---
 
-### Past Board and Committee Members  
+### Past Board Members  
 
 Please see [this page]({{< ref "people_archive.md" >}}).   
 
