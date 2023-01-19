@@ -9,7 +9,7 @@ title: Upcoming events
 
 # SORTEE Conference 2023  
 
-### Virtual, world-wide, likely in October 2023
+### Virtual, world-wide, October 2023
 
 &nbsp;
 
@@ -32,7 +32,7 @@ Join SORTEE to receive our updates:
 
 &nbsp;
 
-We have traditional plenary and short talks, but also multiple participatory events organised by SORTEE members (you can submit a proposal a few months before the conference - watch out for content submission announcements).
+We will have multiple participatory events organised by SORTEE members (you can submit a proposal a few months before the conference - watch out for content submission announcements).
 
 &nbsp;
 
@@ -43,8 +43,6 @@ We want to facilitate lively exchanges of ideas, and so the following three part
 
 - **Workshops**: Facilitators will teach tools for implementing open, reliable, and transparent practices.    
 
-**Short Presentations**:    
-We also invite you to propose a presentation to share your experience with issues of openness, reliability, and transparency in scientific research that are relevant to people working in fields related to ecology and evolutionary biology. For example, you could reflect on failures in your own work and what they taught you, present tools or methods that can help others make their research more open, reliable, and transparent, present plans for an upcoming project, or present research that integrates open science practices in an inspiring way.
 
 &nbsp;
 

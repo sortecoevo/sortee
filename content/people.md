@@ -138,7 +138,7 @@ Max Czapanskiy
 
 ### Conference Committee	 
 
-The Conference committee organizes the virtual SORTEE Conference, which is held in the second week of July. If you have the capacity to donate time and/or money to organising the conference, please email the Committee Chair [Matthieu Paquet](mailto:matthieu.paquet@outlook.com). 
+The Conference committee organizes the virtual SORTEE Conference, which will be held in October. If you have the capacity to donate time and/or money to organising the conference, please email the Committee Chair [Matthieu Paquet](mailto:matthieu.paquet@outlook.com). 
 &nbsp;
 Current members are:   
 &nbsp;
