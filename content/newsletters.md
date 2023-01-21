@@ -7,7 +7,7 @@ description: newsletters of the Society for Open, Reliable, and Transparent Ecol
 title: Newsletters
 ---
 
-This page hosts links to archived newsletters and notification emails produced by SORTEE.   
+This page hosts links to archived newsletters produced by SORTEE.   
 
 &nbsp;
 ## [Newsletter - October 2022](/pdf/newsletter-202210.pdf)    
