@@ -33,9 +33,9 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 
 During this workshop, you will learn how you can contribute different types of data to GBIF, providing visibility to your institution/project and allowing others to use data you collected.
 
-You will also discover how you can use GBIF mediated data in your own research and projects. Filtering data from GBIF allows users to generate fit-for-purpose datasets that can then be used for different types of analyses, such as ecological niche modeling and species distributions. 
+You will also discover how you can use GBIF mediated data in your own research and projects. Filtering data from GBIF allows users to generate fit-for-purpose datasets that can then be used for different types of analyses, such as ecological niche modeling and species distributions.  
 
-**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/using-and-contributing-open-data-to-gbif-tickets-481702594427)  
+**Materials:** [here](https://docs.google.com/presentation/d/18xkf76c1b9zV4fwblZ0-0V6Xx2EiB2wUI1E1nerPQ50/edit?usp=share_link)  
 
 &nbsp;
 
