@@ -273,6 +273,7 @@ paginate = 4
     # For more informtion take a look at the README.
     title = "Submit a preprint"
     subtitle = "EcoEvoRxiv is the official preprint server of SORTEE"
+    title_2 = "Order a t-shirt"
 
 [params.recent_posts]
     enable = false
