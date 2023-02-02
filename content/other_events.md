@@ -21,24 +21,6 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 
 &nbsp;
 
-## January 2023  
-
-### **Title:** *Using and contributing open data to the Global Biodiversity Information Facility (GBIF)*   
-**Presenter:** Carole Sinou  
-**Type:** Workshop  
-**Date and Time:** Jan 24 2023 at 10:00 EST (UTC 15:00)  
-**Timezone(s):** Americas/Europe  
-**Duration:** 1.5 hour  
-**Summary:** GBIF is an international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth. Many countries and organizations have deployed infrastructures aimed at facilitating publication of biodiversity data on GBIF.
-
-During this workshop, you will learn how you can contribute different types of data to GBIF, providing visibility to your institution/project and allowing others to use data you collected.
-
-You will also discover how you can use GBIF mediated data in your own research and projects. Filtering data from GBIF allows users to generate fit-for-purpose datasets that can then be used for different types of analyses, such as ecological niche modeling and species distributions.  
-
-**Materials:** [here](https://docs.google.com/presentation/d/18xkf76c1b9zV4fwblZ0-0V6Xx2EiB2wUI1E1nerPQ50/edit?usp=share_link)  
-
-&nbsp;
-
 ## Febuary 2023  
 
 ### **Title:** *Equitability in data reuse in microbial ecology*   
@@ -58,6 +40,24 @@ You will also discover how you can use GBIF mediated data in your own research a
 &nbsp;  
 
 # Past events   
+
+&nbsp; 
+
+## January 2023  
+
+### **Title:** *Using and contributing open data to the Global Biodiversity Information Facility (GBIF)*   
+**Presenter:** Carole Sinou  
+**Type:** Workshop  
+**Date and Time:** Jan 24 2023 at 10:00 EST (UTC 15:00)  
+**Timezone(s):** Americas/Europe  
+**Duration:** 1.5 hour  
+**Summary:** GBIF is an international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth. Many countries and organizations have deployed infrastructures aimed at facilitating publication of biodiversity data on GBIF.
+
+During this workshop, you will learn how you can contribute different types of data to GBIF, providing visibility to your institution/project and allowing others to use data you collected.
+
+You will also discover how you can use GBIF mediated data in your own research and projects. Filtering data from GBIF allows users to generate fit-for-purpose datasets that can then be used for different types of analyses, such as ecological niche modeling and species distributions.  
+
+**Materials:** [here](https://docs.google.com/presentation/d/18xkf76c1b9zV4fwblZ0-0V6Xx2EiB2wUI1E1nerPQ50/edit?usp=share_link)  
 
 &nbsp;  
 
