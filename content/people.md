@@ -119,10 +119,9 @@ Current officers are:
 
 ### Advocacy Committee   
 
-A new committee in 2022, the Advocacy committee follows two ‘Unconference’ sessions at the 2021 SORTEE conference, asking whether this society should actively advocate for policy change. The Advocacy committee will develop policy statements and propose advocacy projects for improving the openness, reliability, and transparency of research in ecology and evolutionary biology. 
-&nbsp;
+A new committee in 2022, the Advocacy committee follows two ‘Unconference’ sessions at the 2021 SORTEE conference, asking whether this society should actively advocate for policy change. The Advocacy committee will develop policy statements and propose advocacy projects for improving the openness, reliability, and transparency of research in ecology and evolutionary biology.     
+
 Current members are:   
-&nbsp;
 
 [Antica Culina](mailto:a.culina@yahoo.com)	**(Chair)**     
 Kevin Bairos-Novak	(Membership consultant)     
@@ -138,10 +137,10 @@ Max Czapanskiy
 
 ### Conference Committee	 
 
-The Conference committee organizes the virtual SORTEE Conference, which will be held in October. If you have the capacity to donate time and/or money to organising the conference, please email the Committee Chair [Matthieu Paquet](mailto:matthieu.paquet@outlook.com). 
-&nbsp;
+The Conference committee organizes the virtual SORTEE Conference, which will be held in October. If you have the capacity to donate time and/or money to organising the conference, please email the Committee Chair [Matthieu Paquet](mailto:matthieu.paquet@outlook.com).    
+
 Current members are:   
-&nbsp;
+
 
 [Matthieu Paquet](mailto:matthieu.paquet@outlook.com)	**(Chair)**     
 Edward Ivimey-Cook	(Past Chair)     
@@ -158,10 +157,10 @@ Juliette Tariel-Adam	(Program manager)
 
 ### Diversity, Equity, and Inclusion Committee	 
 
-To promote diversity, equity, and inclusion within SORTEE’s activities and committees, the 2022 DEI committee will be working more closely with specific committees by having dedicated ‘committee consultants’ to the Conference, Membership, Education & Outreach, and Media committees. These consultants will attend meetings of their nominated committee and advise on DEI matters. There is also a DEI ‘member consultant’ who is available to SORTEE members for advice on improving DEI in their own practice. 
-&nbsp;
+To promote diversity, equity, and inclusion within SORTEE’s activities and committees, the 2022 DEI committee will be working more closely with specific committees by having dedicated ‘committee consultants’ to the Conference, Membership, Education & Outreach, and Media committees. These consultants will attend meetings of their nominated committee and advise on DEI matters. There is also a DEI ‘member consultant’ who is available to SORTEE members for advice on improving DEI in their own practice.    
+
 Current members are:   
-&nbsp;
+
 
 [Bawan Amin](mailto:bawan.amin@ucdconnect.ie)	(**Chair** / SORTEE member consultant)     
 Rachel Turba	(Consultant to the conference committee)   
@@ -181,9 +180,10 @@ Kevin Bairos-Novak
 ---
 
 ### EcoEvoRxiv Committee
-&nbsp;
+[EcoEvoRxiv](https://ecoevorxiv.org/) (EcoEvo“archive”) is a not-for-profit subject-matter specific research repository for works related to ecology, evolution and conservation. EcoEvoRxiv is an official preprint server of SORTEE.    
+
 Current members are:   
-&nbsp;
+
 
 [Daniel Noble](mailto:daniel.noble@anu.edu.au)	**(Chair)**    
 Noelle Schenk (Social media manager)  
@@ -198,13 +198,14 @@ Deme Gideon (Editor)
 
 ### Education and Outreach Committee   
 
-The Education & Outreach committee develops plans to provide educational resources to individuals and organizations interested in learning more about improving research by making it more open, reliable, and transparent. 
-&nbsp;
-Current members are:   
-&nbsp;
+The Education & Outreach committee develops plans to provide educational resources to individuals and organizations interested in learning more about improving research by making it more open, reliable, and transparent.    
 
-[Natasha Gownaris](mailto:ngownaris@gmail.com)	**(Chair)**   
-TBC   
+Current members are:   
+
+
+[Natasha Gownaris](mailto:ngownaris@gmail.com)	(**Chair**/ Slack manager)    
+Malika Ihle (Workshop & webinar advertiser)   
+Inês Silva (Primer & new resources reviewer)    
 
 &nbsp;
 &nbsp;
@@ -214,10 +215,10 @@ TBC
 
 ### Fundraising Committee	 
 
-The Fundraising committee develops and implements plans for raising funds to support SORTEE. 
-&nbsp;
+The Fundraising committee develops and implements plans for raising funds to support SORTEE.    
+
 Current members are:   
-&nbsp;
+
 
 [Dom Roche](mailto:dom.g.roche@gmail.com)	**(Chair)**     
 Joey Burant	(Application writer / Researcher)   
@@ -231,10 +232,10 @@ Raphaël Royauté	(Donation seeker)
 
 ### Media Committee  		
 
-The Media committee develops content (for the website, social media, and newsletter), designs and maintains the website, and develops new ideas for spreading the word about SORTEE and open, reliable, and transparent science.
-&nbsp;
+The Media committee develops content (for the website, social media, and newsletter), designs and maintains the website, and develops new ideas for spreading the word about SORTEE and open, reliable, and transparent science.    
+
 Current members are:  
-&nbsp;
+
 
 [Tim Parker](mailto:parkerth@whitman.edu)	**(Chair)**    
 Alfredo Sánchez-Tójar	(Twitter & Mastodon manager)   
