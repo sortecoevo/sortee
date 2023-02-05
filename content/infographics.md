@@ -65,6 +65,33 @@ CRediT (in alphabetical order by family name):
 **Norton, Luke** (University of the Witwatersrand, South Africa): Conceptualization, Visualization, Writing – original draft   
 **Pottier, Patrice** (University of New South Wales Sydney, Australia): Conceptualization, Visualization, Writing – original draft, Writing – review & editing    
 
+&nbsp;  
+
+### 2023   
+
+&nbsp;  
+
+### Infographic no. 3  
+
+{{< figure src="/img/research_whale_infogr_03.png" alt="infographics_nr3" width="1200px" >}}
+
+&nbsp;  
+Description: The research whale - from unacceptable science to ideal science - what is hidden and what is visible.   
+
+&nbsp; 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7606737.svg)](https://doi.org/10.5281/zenodo.7606737)   
+Files in other formats and resolution are available at [OSF](https://osf.io/p23h7) and [Zenodo](https://zenodo.org/record/7606737#.Y989quxBy84).    
+
+&nbsp;  
+
+CRediT:   
+
+&nbsp;  
+
+**Lagisz, Malgorzata** (University of New South Wales Sydney, Australia): Conceptualization, Visualization, Writing – original draft, Writing – review & editing  
+
+&nbsp;   
+
 &nbsp;   
 
 You can leave your feedback and contact the authors using this [survey form](https://forms.gle/QXqnNAxhzMjMJBa68).   
