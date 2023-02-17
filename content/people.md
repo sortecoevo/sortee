@@ -59,7 +59,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;
 
 ![Alfredo Sánchez Tójar](/img/people/AlfredoSanchezTojar.png)  
-[Alfredo Sánchez Tójar](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/evo_biology/team/tojar/) is a researcher the Bielefeld University.  
+[Alfredo Sánchez Tójar](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/evo_biology/team/tojar/) is a researcher at Bielefeld University, where he focuses on evidence synthesis and meta-research in ecology and evolution.
 
 &nbsp;   
 
