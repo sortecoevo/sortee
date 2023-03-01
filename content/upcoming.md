@@ -13,7 +13,7 @@ title: Upcoming events
 
 &nbsp;
 
-Look out for announcements in early 2023!
+The conference will run continuously from **17 October 0700 UTC** to **18 October 0700 UTC**, in order to cover all timezones.
 
 &nbsp;
 
@@ -54,7 +54,7 @@ For facilitated sessions (Workshops, Unconferences, and Hackathons), we welcome 
 
 &nbsp;
 
-We encourage people with any questions about accessibility in the submission process or the events themselves to contact us via [sorteeconf2022@gmail.com](mailto:sorteeconf2022@gmail.com). Similarly, please feel free to contact us if you would like guidance as you prepare your proposals and submissions.
+We encourage people with any questions about accessibility in the submission process or the events themselves to contact us via [conf.sortee@gmail.com](mailto:conf.sortee@gmail.com). Similarly, please feel free to contact us if you would like guidance as you prepare your proposals and submissions.
 
 &nbsp;
 
