@@ -94,7 +94,7 @@ CRediT:
 
 &nbsp;   
 
-You can leave your feedback and contact the authors using this [survey form](https://forms.gle/QXqnNAxhzMjMJBa68).   
+If you would like to suggest an idea for an infographic to our design team, please use [this form](https://forms.gle/eHxxnZGSgod2n45y8).
 
 &nbsp;   
 
