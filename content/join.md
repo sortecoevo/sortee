@@ -20,7 +20,7 @@ We kept the 2022 suggested membership fees the same for the 2023 calendar year (
 * Pay No Fees: Free
 * Pay What You Can: Minimum $0.50 (50 cents)
 
-Pay what you can: Besides the Pay No Fees option (no questions asked), we are offering everyone an option to enter a different payment amount. This option is intended for people who need to pay less (e.g. to account for exchange rates or personal financial difficulty), and for those who have the means to pay more and would like to make a larger donation to support SORTEE’s activities.
+**Pay What You Can:** Besides the Pay No Fees option (no questions asked), we are offering everyone an option to enter a different payment amount. This option is intended for people who need to pay less (e.g. to account for exchange rates or personal financial difficulty), and for those who have the means to pay more and would like to make a larger donation to support SORTEE’s activities.
 
 To join SORTEE or update your membership details, please go to: [https://www.joinit.org/o/sortee/](https://www.joinit.org/o/sortee/).
 
