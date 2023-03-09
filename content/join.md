@@ -11,33 +11,41 @@ title: Join
 
 [Become a SORTEE member in 2023](https://www.joinit.org/o/sortee/)
 
-In 2022 SORTEE introduced a **suggested membership fee** to support the society’s continued operation and growth (e.g., board insurance, website hosting, membership management software).
+Last year, we moved to a suggested membership fee model to support the society’s continued operation and growth (e.g., board insurance, website hosting, membership management software, stipends to monthly workshop and webinar speakers, legal and administrative fees, etc.). 
 
-The suggested membership fees for the 2023 calendar year are as follows (amounts are in U.S. dollars)    
+We kept the 2022 suggested membership fees the same for the 2023 calendar year (amounts are in US$):
+* Senior-career professionals: $40
+* Early-career professionals: $20
+* Students: $10
+* Pay No Fees: Free
+* Pay What You Can: Minimum $0.50 (50 cents)
 
-*	Students: $10    
-*	Early-career professionals: $20    
-*	Senior-career professionals: $40    
-
-**Flexible pricing and donations**: We are offering everyone an option to enter a different payment amount. This option is intended for people who need to pay less (e.g. to account for exchange rates or personal financial difficulty), and for those who have the means to pay more and would like to make a larger donation to support SORTEE’s activities. 
+**Pay What You Can:** Besides the Pay No Fees option (no questions asked), we are offering everyone an option to enter a different payment amount. This option is intended for people who need to pay less (e.g. to account for exchange rates or personal financial difficulty), and for those who have the means to pay more and would like to make a larger donation to support SORTEE’s activities.
 
 To join SORTEE or update your membership details, please go to: [https://www.joinit.org/o/sortee/](https://www.joinit.org/o/sortee/).
 
 ----
 
-### Why support SORTEE?  
+### There are plenty of benefits to becoming a SORTEE member:
 
-SORTEE is a network of people with shared interests, spread out across many disciplines/subdisciplines. Join us to engage with this exciting network, and learn how to improve your science.       
-
-SORTEE provides a forum to discuss and develop practices that promote open, reliable, and transparent science. Join to contribute to this discussion.   
-
-SORTEE members can [join committees, nominate for the Board](https://www.sortee.org/people/), and [vote](https://www.sortee.org/bylaws/) in the annual election. Join to shape the future of this young society. 
-
-SORTEE can best help science and the scientists in these disciplines if we are a diverse organization that fosters and amplifies diverse perspectives.
+* Join a community of people helping to improve research by making it more open, reliable, and transparent.
+* Network! Meet and forge connections with others interested in open, reliable, and transparent science.
+* Find new research collaborators.
+* Enjoy preferential access to SORTEE workshops and webinars.
+* Learn new skills related to making your research open, reliable, and transparent.
+* Develop and test new research practices (for instance during conference hackathons).
+* Contribute and shape ideas for improving the reliability of the science of ecology, evolutionary biology, and related disciplines.
+* Help bring cultural change to academia.
+* Gain eligibility for SORTEE open science awards.
+* Attend the SORTEE annual conference at reduced rates.
+* Receive SORTEE’s newsletter by email to stay tuned to new developments in open science, research transparency, and study reliability.
+* Vote for leadership positions to influence the direction of the Society.
+* Nominate colleagues (or yourself!) for SORTEE leadership positions.
+* Join SORTEE committees to make a difference [via this Link](https://www.sortee.org/people/).
 
 &nbsp;
 
-Please help us:   
+Please help us to:   
 
 * diversify across disciplines and subdisciplines   
 * diversify geographically  
