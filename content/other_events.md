@@ -23,12 +23,17 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 
 ## March 2023
 
-**Presenters:** Richard Ostler and Gabriela Lopez Gonzalez    
+### **Title:** *UK ambassadors for life sciences data stewardship*    
+**Presenters:** Gabriela Lopez-Gonzalez (University of Leeds), Richard Ostler (Rothamsted Research), Xenia Perez Sitja (University of Bradford/ELIXIR-UK)     
 **Type:** Webinar       
-**Date and Time:** Last week of March (exact date TBC)  
-**Timezone(s):**    
-**Duration:**     
-**Summary:** The webinar will focus on database management, collaboration, and network building   
+**Date and Time:** March 30 2023 at 16:00 UTC   
+**Timezone(s):** Americas/Europe    
+**Duration:** 1h 30 minutes (max)   
+**Summary:** Data Stewardship has grown over the last years as an emerging key role for high-performing research. Stewards are not only crucial to managing research data but also building capacity and advocating for institutional, national and international policy changes. Yet, steps need to be taken to professionalise this critical role of data stewards beyond the go-to person in a team who knows about data. 
+
+In 2021, ELIXIR-UK was granted a UKRI award for the [ELIXIR-UK Fellowship](https://elixiruknode.org/activities/elixir-dash-fellowship/), building capacity and professionalising data stewardship. It leverages local expertise with a community of Fellows from diverse research-performing organisations in the UK – creating a data management culture change from within the institutions.
+
+This webinar will explore the model of this Fellowship and its current outputs. Attendees will also hear first-hand experiences from two of the Fellows: Gabriela Lopez Gonzalez (long-term monitoring of peatland data, working with ecologists, conservation organisations and volunteers) and Richard Ostler (crop traits, soil chemistry and physics, environmental/sensor datasets, agroecological and agronomic data).
 
 &nbsp;
 
