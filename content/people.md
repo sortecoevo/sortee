@@ -125,7 +125,7 @@ Current members are:
 
 [Antica Culina](mailto:a.culina@yahoo.com)	**(Chair)**     
 Kevin Bairos-Novak	(Membership consultant)     
-Christina Buelow (Project & Policy drafter)     
+Christina Buelow (Project & policy drafter)     
 Shreya Dimri (Researcher)   
 Max Czapanskiy    
 
@@ -167,11 +167,11 @@ Rachel Turba	(Consultant to the conference committee)
 Malika Ihle	(Consultant to the education & outreach committee)     
 Joey Burant (Consultant to the fundraising committee)   
 Gabe Winter	(Consultant to the media committee)    
+Félicie Dhellemmes (Climate survey / data analyst)      
+Coralie Williams (Climate survey / data analyst)        
+Easton White (Training developer)   
+Kevin Bairos-Novak (Strategy researcher)    
 Isa Elegbede  
-Félicie Dhellemmes  
-Coralie Williams  
-Easton White  
-Kevin Bairos-Novak  
 
 &nbsp;
 &nbsp;
@@ -203,9 +203,12 @@ The Education & Outreach committee develops plans to provide educational resourc
 Current members are:   
 
 
-[Natasha Gownaris](mailto:ngownaris@gmail.com)	(**Chair**/ Slack manager)    
-Malika Ihle (Workshop & webinar advertiser)   
-Inês Silva (Primer & new resources reviewer)    
+[Natasha Gownaris](mailto:ngownaris@gmail.com)	**(Chair)**    
+Malika Ihle (Overall support and feedback)   
+Inês Silva (Website resource curator)    
+Pike Spector (Workshop scheduling and organization)   
+Isa Elegbede (Workshop scheduling and organization)   
+Kija Gahm (Zotero resource curator, Board liason & Interim coordinator for in-person meetups)    
 
 &nbsp;
 &nbsp;
@@ -244,7 +247,7 @@ Malgorzata Lagisz	(Website co-maintainer)
 Eleanor Jackson	(Website maintainer)  
 Rachael Blake (Blog editor)   
 Tuba Rizvi (Linkedin manager)  
-Szymek Drobniak 
+Szymek Drobniak (Visual designer)
 
 &nbsp;
 &nbsp;
