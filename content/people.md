@@ -167,11 +167,10 @@ Rachel Turba	(Consultant to the conference committee)
 Malika Ihle	(Consultant to the education & outreach committee)     
 Joey Burant (Consultant to the fundraising committee)   
 Gabe Winter	(Consultant to the media committee)    
-Félicie Dhellemmes (Climate survey / data analyst)      
-Coralie Williams (Climate survey / data analyst)        
+Félicie Dhellemmes (Data analyst)      
+Coralie Williams (Climate survey analyst)        
 Easton White (Training developer)   
 Kevin Bairos-Novak (Strategy researcher)    
-Isa Elegbede  
 
 &nbsp;
 &nbsp;
