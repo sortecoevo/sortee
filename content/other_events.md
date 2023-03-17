@@ -33,7 +33,9 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 
 In 2021, ELIXIR-UK was granted a UKRI award for the [ELIXIR-UK Fellowship](https://elixiruknode.org/activities/elixir-dash-fellowship/), building capacity and professionalising data stewardship. It leverages local expertise with a community of Fellows from diverse research-performing organisations in the UK – creating a data management culture change from within the institutions.
 
-This webinar will explore the model of this Fellowship and its current outputs. Attendees will also hear first-hand experiences from two of the Fellows: Gabriela Lopez Gonzalez (long-term monitoring of peatland data, working with ecologists, conservation organisations and volunteers) and Richard Ostler (crop traits, soil chemistry and physics, environmental/sensor datasets, agroecological and agronomic data).
+This webinar will explore the model of this Fellowship and its current outputs. Attendees will also hear first-hand experiences from two of the Fellows: Gabriela Lopez Gonzalez (long-term monitoring of peatland data, working with ecologists, conservation organisations and volunteers) and Richard Ostler (crop traits, soil chemistry and physics, environmental/sensor datasets, agroecological and agronomic data).    
+
+**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/uk-ambassadors-for-life-sciences-data-stewardship-tickets-583792157057)
 
 &nbsp;
 
@@ -54,8 +56,6 @@ This webinar will explore the model of this Fellowship and its current outputs. 
 **Timezone(s):** Americas/Europe  
 **Duration:** 1 hour  
 **Summary:** Data collection, management, and reuse are increasingly important in ecology and biodiversity research. In microbial ecology, sequencing has altered our relationship to the hidden microbial world and created massive amounts of reusable microbiome data. These data can now be used to integrate bacteria into macroecology and to fill major gaps in the field through synthesis. However, ~50% of archived sequence data is not reusable, and biodiversity blind spots remain, especially in regions where the lack of access to scientific resources precludes the generation, archiving, and reuse of sequence data. This webinar will explore the current limitations to sequence data reuse in microbial ecology, and explore how promoting equitability in research through dedicated database creation and outreach can overcome them. Though we will discuss these issues through the lens of microbial ecology, this webinar is relevant to anyone interested in issues of open data and equity.   
-
-**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/equitability-in-data-reuse-in-microbial-ecology-tickets-519724669477)  
 
 &nbsp;
 
@@ -91,8 +91,6 @@ Objective 2: Find OER resources, with a focus on open textbooks, of relevance to
 Objective 3: Learn the basics of using Libretexts to remix OER and create content fine-tuned to your courses.   
 Objective 4: Learn how to use Hypothesis.io for community commenting on OER.   
 
-**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/open-educational-resources-as-a-tool-for-more-inclusive-teaching-in-ee-tickets-453859474907)
-
 **Materials:** [here](https://drive.google.com/drive/folders/1e-hFp3f8x9FjjG7zgDsFcvLAEnWaBJqk)
 
 &nbsp;  
@@ -109,8 +107,6 @@ Objective 4: Learn how to use Hypothesis.io for community commenting on OER.
    Objective 1:  Contextualize data science for ecologists including defining what is data science, the overlaps with ecology, and what a career in data science may look like,    
    Objective 2:  Provide a brief introduction to SQL, one of the most frequently used tools by data scientists,    
    Objective 3:  Detail actions and strategies for transitioning into data science.    
-
-**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/an-ecologists-introduction-to-transitioning-into-data-science-tickets-444256161137)  
 
 **Materials:** [DataSci_for_Ecologists](https://github.com/sbreitbart/DataSci_for_Ecologists) and [SQL_intro](https://sbreitbart.github.io/DataSci_for_Ecologists/SQL_intro/SQL_intro.html)  
 
@@ -132,7 +128,6 @@ Objective 4: Learn how to use Hypothesis.io for community commenting on OER.
      - incorporating literate programming documents into the targets pipeline, and  
      - batching and iterating tasks using branching in targets  
   Objective 4: Troubleshoot and debug a targets pipeline so you can apply this knowledge to synthesise targets workflows for your own data analyses.   
-**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/419408912347)   
 
 &nbsp;
 
@@ -147,7 +142,6 @@ Objective 4: Learn how to use Hypothesis.io for community commenting on OER.
    Objective 1: Understand Markdown and how it can be applied to generate visually appealing materials.   
    Objective 2: Build Markdown files with multiple content types (text, plots, images, etc).  
    Objective 3: Explore Markdown applications to various use cases.   
-**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/authoring-documents-websites-and-more-with-rmarkdown-tickets-405267414747).   
 **Workshop materials:** [here](https://github.com/afredston/markdown-sortee)   
 
 &nbsp;
