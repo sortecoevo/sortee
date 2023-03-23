@@ -148,6 +148,7 @@ Rachel Turba	(Advertiser)
 Elina Takola	(Content submissions & selection)     
 Marija Purgar	(Registration & messaging)     
 Juliette Tariel-Adam	(Program manager)      
+Ineta Kačergytė (Platform manager)    
 
 &nbsp;
 &nbsp;

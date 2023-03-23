@@ -77,6 +77,8 @@ You can add your name to this list if you would like to be a part of this SORTEE
 
 * [McKiernan, E C 'Why Open Research'](http://whyopenresearch.org/index)   
 
+* [A database of academia friendly journals in Ecology and Evolution (DAFNEE)](https://dafnee.isem-evolution.fr/)    
+
 &nbsp;
 
 
