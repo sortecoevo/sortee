@@ -218,11 +218,6 @@ paginate = 4
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on: sortecoevo@gmail.com</p>
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="#" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
-      </p>
-      """
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -274,6 +269,8 @@ paginate = 4
     title = "Submit a preprint"
     subtitle = "EcoEvoRxiv is the official preprint server of SORTEE"
     title_2 = "Order a t-shirt"
+    title_3 = "SORTEE Conference 2023"
+    subtitle_3 = "Content submissions now open!"
 
 [params.recent_posts]
     enable = false
