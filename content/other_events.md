@@ -21,6 +21,31 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 
 &nbsp;
 
+## April 2023
+
+### **Title:** *The UNESCO Recommendation on Open Science*
+
+**Presenters:** [Ana Persic](https://www.wilsoncenter.org/person/ana-persic) (Chief of Science Policy and Partnerships, UNESCO), [Eleanor Haine](https://en.ccunesco.ca/about-ccunesco/our-team) (Canadian Commission for UNESCO)   
+**Type:** Webinar   
+**Date and Time:** April 27 2023 at 13:00 UTC   
+**Timezone(s):** Americas/Europe    
+**Duration:** 1h    
+**Summary:** In 2019, 193 Members States tasked UNESCO with the development of an international standard-setting instrument on Open Science. Two years later, the UNESCO Recommendation on Open Science was adopted. The Recommendation defines shared values and principles for Open Science, and identifies concrete measures on Open Access and Open Data, with proposals to bring citizens closer to science and commitments to facilitate the production and dissemination of scientific knowledge around the world.   
+
+This webinar will explore how the UNESCO Recommendation on Open Science provides an international framework for open science policy and practice, and an overview of how it is being used to support policymaking in a Canadian context.   
+
+**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/the-unesco-recommendation-on-open-science-tickets-613436594367)   
+
+&nbsp;
+
+---
+
+&nbsp;  
+
+# Past events   
+
+&nbsp;
+
 ## March 2023
 
 ### **Title:** *UK ambassadors for life sciences data stewardship*    
@@ -34,16 +59,6 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 In 2021, ELIXIR-UK was granted a UKRI award for the [ELIXIR-UK Fellowship](https://elixiruknode.org/activities/elixir-dash-fellowship/), building capacity and professionalising data stewardship. It leverages local expertise with a community of Fellows from diverse research-performing organisations in the UK – creating a data management culture change from within the institutions.
 
 This webinar will explore the model of this Fellowship and its current outputs. Attendees will also hear first-hand experiences from two of the Fellows: Gabriela Lopez Gonzalez (long-term monitoring of peatland data, working with ecologists, conservation organisations and volunteers) and Richard Ostler (crop traits, soil chemistry and physics, environmental/sensor datasets, agroecological and agronomic data).    
-
-**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/uk-ambassadors-for-life-sciences-data-stewardship-tickets-583792157057)
-
-&nbsp;
-
----
-
-&nbsp;  
-
-# Past events   
 
 &nbsp; 
 
