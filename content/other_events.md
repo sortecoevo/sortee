@@ -13,6 +13,14 @@ Join SORTEE to receive our updates: [https://www.sortee.org/join/](https://www.s
 
 &nbsp;  
 
+### Solicitation   
+
+To **propose a workshop or webinar**, please [click here](https://forms.gle/m1x5HbQMtgbrtctP7).
+
+To **request** a workshop or webinar on a particular topic, please [click here](https://forms.gle/2F8n2L7LnXFg1E6M9).
+
+&nbsp;
+
 ---
 
 &nbsp;  
@@ -161,22 +169,3 @@ Objective 4: Learn how to use Hypothesis.io for community commenting on OER.
 
 &nbsp;
 
-
----
-
-&nbsp;  
-
-# Solicitation   
-
-Would you like to present a workshop or webinar?   
-Or would you like to request a workshop or webinar on a specific topic?    
-
-To **propose a workshop or webinar**, please [click here](https://forms.gle/m1x5HbQMtgbrtctP7).
-
-To **request** a workshop or webinar on a particular topic, please [click here](https://forms.gle/2F8n2L7LnXFg1E6M9).
-
-
-&nbsp;
----
-
-&nbsp;
