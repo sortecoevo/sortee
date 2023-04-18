@@ -189,6 +189,13 @@ Current members are:
 Noelle Schenk (Social media manager)  
 Jenna Braun (Editor)  
 Deme Gideon (Editor)  
+Stefan Vriend   
+Pablo Recio-Santiago    
+Anna Nordberg   
+Félicie Dhellemmes    
+Dr. Elvira D'Bastiani     
+Dr. Marta Acácio    
+Mario A. Sandoval-Molina    
 
 &nbsp;
 &nbsp;
