@@ -29,6 +29,24 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 &nbsp;
 
+## May 2023
+
+### **Title:** *Integrating JavaScript libraries into R for Dynamic Visualizations*
+
+**Type:** Webinar   
+**Date and Time:** May 23 2023 at 16:00 UTC   
+**Timezone(s):** Americas/Europe    
+
+&nbsp;
+
+---
+
+&nbsp;  
+
+# Past events   
+
+&nbsp;
+
 ## April 2023
 
 ### **Title:** *The UNESCO Recommendation on Open Science*
@@ -41,16 +59,7 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 **Summary:** In 2019, 193 Members States tasked UNESCO with the development of an international standard-setting instrument on Open Science. Two years later, the UNESCO Recommendation on Open Science was adopted. The Recommendation defines shared values and principles for Open Science, and identifies concrete measures on Open Access and Open Data, with proposals to bring citizens closer to science and commitments to facilitate the production and dissemination of scientific knowledge around the world.   
 
 This webinar will explore how the UNESCO Recommendation on Open Science provides an international framework for open science policy and practice, and an overview of how it is being used to support policymaking in a Canadian context.   
-
-**Registration:** register on [Eventbrite](https://www.eventbrite.com/e/the-unesco-recommendation-on-open-science-tickets-613436594367)   
-
-&nbsp;
-
----
-
-&nbsp;  
-
-# Past events   
+**Recording:** A recording of the webinar is [available on OSF](https://osf.io/j92mx/)     
 
 &nbsp;
 
