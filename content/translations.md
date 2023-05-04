@@ -6,19 +6,19 @@ title: "SORTEE translations"
 
 - [English](#english)
 - [Español (Spanish)](#spanish)
-- [Français (French)](#français-(french))
-- [Português (Portuguese)](#português-(portuguese))
-- [Hrvatski (Croatian)](#hrvatski-(croatian))
-- [中国人 (Chinese)](#中国人-(chinese))
-- [عربي (Arabic)](#(arabic))
-- [日本 (Japanese)](#日本-(japanese))
-- [Polski (Polish)](#polski-(polish))
-- [Русский (Russian)](#pусский-(russian))
-- [हिंदी (Hindi)](#हिदी-(hindi))
-- [বাংলা (Bengali)](#বাংলা-(bengali))
-- [اردو (Urdu)](#(urdu))
-- [bahasa Indonesia (Indonesian)](#bahasa-indonesia-(indonesian))
-- [Deutsch (German)](#deutsch-(german))
+- [Français (French)](#french)
+- [Português (Portuguese)](#portuguese)
+- [Hrvatski (Croatian)](#croatian)
+- [中国人 (Chinese)](#chinese)
+- [عربي (Arabic)](#arabic)
+- [日本 (Japanese)](#japanese)
+- [Polski (Polish)](#polish)
+- [Русский (Russian)](#russian)
+- [हिंदी (Hindi)](#hindi)
+- [বাংলা (Bengali)](#bengali)
+- [اردو (Urdu)](#urdu)
+- [bahasa Indonesia (Indonesian)](#indonesian)
+- [Deutsch (German)](#german)
 
 &nbsp;
 
@@ -37,7 +37,8 @@ Additional keywords: Evolution, Open science, Reliability, Repeatable, Repeatabi
 
 &nbsp;
 
-# <a name="spanish">Español (Spanish)</a>
+# Español 
+### (Spanish)
 
 SORTEE - Sociedad para la ecología abierta, confiable y transparente y la biología evolutiva
 
@@ -54,7 +55,8 @@ Palabras clave adicionales: Evolución, Ciencia abierta, Fiabilidad, Repetible, 
 
 &nbsp;
 
-# Français (French)   
+# Français 
+### (French)   
 
 SORTEE - Société pour une écologie ouverte, fiable et transparente et une biologie évolutive    
 
@@ -70,7 +72,8 @@ Mots-clés supplémentaires : Évolution, Science ouverte, Fiabilité, Répétab
 
 &nbsp;
 
-# Português (Portuguese)    
+# Português 
+### (Portuguese)    
 
 SORTEE - Sociedade para Ecologia Aberta, Confiável e Transparente e Biologia Evolutiva    
 
@@ -86,7 +89,8 @@ Palavras-chave adicionais: Evolução, Ciência aberta, Confiabilidade, Repetív
 
 &nbsp;
 
-# Hrvatski (Croatian)   
+# Hrvatski 
+### (Croatian)   
 
 SORTEE - Društvo za otvorenu, pouzdanu i transparentnu ekologiju i evolucijsku biologiju    
 
@@ -103,7 +107,8 @@ Dodatne ključne riječi: Evolucija, Otvorena znanost, Pouzdanost, Ponovljivo, P
 
 &nbsp;
 
-# 中国人 (Chinese)    
+# 中国人 
+### (Chinese)    
 
 SORTEE - 开放、可靠和透明的生态学和进化生物学协会   
 
@@ -119,9 +124,9 @@ SORTEE 网站是英文的，但您可以使用翻译工具来阅读。 例如，
 
 &nbsp;
 
-# (Arabic)   
+# عربي
 
-عربي   
+### (Arabic)   
 
 SORTEE - جمعية علم البيئة والبيولوجيا التطورية المفتوحة والموثوقة والشفافة SORTEE هي منظمة خدمية تجمع بين الباحثين الذين يعملون على تحسين الموثوقية والشفافية من خلال التغييرات الثقافية والمؤسسية في علم البيئة وعلم الأحياء التطوري والمجالات ذات الصلة المحددة على نطاق واسع. نرحب بأي شخص مهتم بتحسين البحث في هذه التخصصات للانضمام ، بغض النظر عن الخبرة. المجتمع دولي في النطاق والعضوية والأهداف. موقع الويب SORTEE باللغة الإنجليزية ، ولكن يمكنك استخدام أداة الترجمة لقراءته. على سبيل المثال ، https://translate.google.com كلمات رئيسية إضافية: التطور ، العلم المفتوح ، الموثوقية ، التكرار ، التكرار ، النسخ المتماثل ، إمكانية التكرار ، البيانات ، الرمز ، سير العمل ، الطباعة المسبقة ، القابلية للتكاثر ، المساواة العلمية ، الثقافة العلمية ، ثقافة البحث
 
@@ -131,7 +136,8 @@ SORTEE - جمعية علم البيئة والبيولوجيا التطورية 
 
 &nbsp;
 
-# 日本 (Japanese)   
+# 日本 
+### (Japanese)   
 
 SORTEE - 開かれた、信頼できる、透明な生態学と進化生物学会   
 
@@ -147,7 +153,8 @@ SORTEE の Web サイトは英語ですが、翻訳ツールを使用して読�
 
 &nbsp;
 
-# Polski (Polish)   
+# Polski 
+### (Polish)   
 
 SORTEE - Towarzystwo Otwartej, Niezawodnej i Przejrzystej Ekologii i Biologii Ewolucyjnej   
 
@@ -163,7 +170,8 @@ Dodatkowe słowa kluczowe: Ewolucja, Otwarta nauka, Wiarygodność, Powtarzalno�
 
 &nbsp;
 
-# Русский (Russian)   
+# Русский 
+### (Russian)   
 
 SORTEE - Общество открытой, надежной и прозрачной экологии и эволюционной биологии    
 
@@ -179,7 +187,8 @@ SORTEE — это сервисная организация, которая об
 
 &nbsp;
 
-# हिंदी (Hindi)
+# हिंदी
+### (Hindi)
 
 SORTEE - सोसाइटी फॉर ओपन, रिलायबल, एंड ट्रांसपेरेंट इकोलॉजी एंड इवोल्यूशनरी बायोलॉजी    
 
@@ -195,7 +204,8 @@ SORTEE वेबसाइट अंग्रेज़ी में है, ल�
 
 &nbsp;
 
-# বাংলা (Bengali)   
+# বাংলা
+### (Bengali)   
 
 SORTEE - উন্মুক্ত, নির্ভরযোগ্য এবং স্বচ্ছ পরিবেশবিদ্যা এবং বিবর্তনীয় জীববিজ্ঞানের জন্য সোসাইটি 
 
@@ -211,8 +221,9 @@ SORTEE ওয়েবসাইটটি ইংরেজিতে, কিন্�
 
 &nbsp;
 
-# (Urdu)    
-اردو        
+# اردو
+### (Urdu)    
+      
  SORTEE - سوسائٹی برائے کھلی، قابل اعتماد، اور شفاف ماحولیات اور ارتقائی حیاتیات SORTEE ایک سروس آرگنائزیشن ہے جو ماحولیات، ارتقائی حیاتیات اور متعلقہ شعبوں میں ثقافتی اور ادارہ جاتی تبدیلیوں کے ذریعے وشوسنییتا اور شفافیت کو بہتر بنانے کے لیے کام کرنے والے محققین کو اکٹھا کرتی ہے۔ ان شعبوں میں تحقیق کو بہتر بنانے میں دلچسپی رکھنے والے کوئی بھی شخص تجربہ سے قطع نظر اس میں شامل ہونے کا خیرمقدم کرتا ہے۔ سوسائٹی دائرہ کار، رکنیت اور مقاصد میں بین الاقوامی ہے۔ SORTEE ویب سائٹ انگریزی میں ہے، لیکن آپ اسے پڑھنے کے لیے ترجمے کا ٹول استعمال کر سکتے ہیں۔ مثال کے طور پر، https://translate.google.com اضافی مطلوبہ الفاظ: ارتقاء، کھلی سائنس، قابل اعتماد، دوبارہ قابل تکرار، دہرائی جانے والی، نقل، نقل، ڈیٹا، کوڈ، ورک فلو، پری پرنٹ، تولیدی صلاحیت، سائنس ایکویٹی، سائنس کلچر، ریسرچ کلچر
 
 &nbsp;
@@ -221,7 +232,8 @@ SORTEE ওয়েবসাইটটি ইংরেজিতে, কিন্�
 
 &nbsp;
 
-# bahasa Indonesia (Indonesian)   
+# bahasa Indonesia 
+### (Indonesian)   
 
 SORTEE - Masyarakat untuk Ekologi dan Evolusi yang Terbuka, Andal, dan Transparan   
 
@@ -237,7 +249,8 @@ Kata kunci tambahan: Evolusi, Sains terbuka, Keandalan, Dapat Diulang, Pengulang
 
 &nbsp;
 
-# Deutsch (German)    
+# Deutsch 
+### (German)    
 
 SORTEE - Gesellschaft für offene, verlässliche und transparente Ökologie und Evolutionsbiologie   
 
