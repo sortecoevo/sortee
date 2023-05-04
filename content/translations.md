@@ -5,7 +5,7 @@ title: "SORTEE translations"
 ---
 
 - [English](#english)
-- [Español (Spanish)](#español-(spanish))
+- [Español (Spanish)](#spanish)
 - [Français (French)](#français-(french))
 - [Português (Portuguese)](#português-(portuguese))
 - [Hrvatski (Croatian)](#hrvatski-(croatian))
@@ -37,7 +37,7 @@ Additional keywords: Evolution, Open science, Reliability, Repeatable, Repeatabi
 
 &nbsp;
 
-# Español (Spanish)
+# Español (Spanish) <a name="spanish"></a>
 
 SORTEE - Sociedad para la ecología abierta, confiable y transparente y la biología evolutiva
 
