@@ -7,25 +7,32 @@ description: Supporters of the Society for Open, Reliable, and Transparent Ecolo
 title: Supporters
 ---
 
-## Sponsors   
-
-We are grateful for the financial support of these sponsor organisations!  
-
-- [The Company of Biologists](https://www.biologists.com/)  
-
-- [PeerJ](https://peerj.com/)  
-
-- [American Society of Naturalists](https://www.amnat.org/home.html)  
-
-- [NSERC CREATE Living Data Project (CIEE)](https://www.ciee-icee.ca/data.html)  
-
-- [eLife](https://elifesciences.org/)  
-
-![logos](/blog/images/supporters_220602.png)  
+We are grateful for the financial support of these sponsor organisations! 
 
 &nbsp;
 
-![](/blog/images/elife-full-color-horizontal-2020.png)  
+## 2023  institutional supporters
 
 &nbsp;
----   
+
+[![Canadian Science Publishing](../img/sponsors/canadian-science-publishing.png)](https://cdnsciencepub.com)
+[![Peer Community In](../img/sponsors/pci.jpg)](https://peercommunityin.org)
+[![American Society of Naturalists](../img/sponsors/asn.jpeg)](https://www.amnat.org)
+
+&nbsp;
+
+---  
+
+&nbsp;
+
+## 2022  institutional supporters 
+
+[![The Company of Biologists](../img/sponsors/cob.jpg)](https://www.biologists.com/)
+[![PeerJ](../img/sponsors/peerj.png)](https://peerj.com/)
+[![American Society of Naturalists](../img/sponsors/asn.jpeg)](https://www.amnat.org)
+[![Canadian Institute of Ecology and Evolution (CIEE)](../img/sponsors/ciee.jpeg)](https://www.ciee-icee.ca)
+[![eLife](../img/sponsors/elife.png)](https://elifesciences.org)
+
+
+
+ 
