@@ -46,6 +46,22 @@ In this hands-on live-coding workshop, we’ll explore the {DT}, {plotly}, and {
 
 &nbsp;
 
+## June 2023
+
+### **Title:** *How to prepare and publish research data in open access repositories*
+
+**Presenters:** [Dr Michael Oellermann](https://orcid.org/0000-0001-5392-6737)  
+**Type:** Webinar   
+**Date and Time:** June 21 2023 at 15:00 UTC   
+**Timezone(s):** Americas/Europe    
+**Duration:** 2 hrs  
+**Summary:** This webinar will cover the benefits of publishing your research data open-access. Attendees will learn about how to select suitable open-access data repositories to ensure their data are accessible, reusable, and citable. We will discuss best practices for preparing and submitting tabular data to repositories, including data collection templates, metadata requirements and how to ensure data is accessible, reusable, and citable. By the end of the webinar, attendees will have a clear understanding of how to publish their research data in open access repositories, which can increase the visibility and impact of their research.    
+**Logistics:** The webinar will take place online using Zoom (link provided after signup). Attendees will be able to use their camera and microphone to interact with the speaker and other attendees. Attendance will be capped at around 25 participants.   
+
+**[Register on Eventbright](https://www.eventbrite.com/e/how-to-prepare-and-publish-research-data-in-open-access-repositories-tickets-628678764107)**    
+
+&nbsp;
+
 ---
 
 &nbsp;  
