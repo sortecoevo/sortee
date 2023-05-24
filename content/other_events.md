@@ -27,22 +27,6 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 # Upcoming events    
 
-&nbsp;
-
-## May 2023
-
-### **Title:** *Integrating JavaScript libraries into R for Dynamic Visualizations*
-
-**Presenters:** Sam Csik and An Bui   
-**Type:** Webinar   
-**Date and Time:** May 23 2023 at 16:00 UTC   
-**Timezone(s):** Americas/Europe    
-**Duration:** 1.5hrs  
-**Summary:** JavaScript, a programming language used to create dynamic web page content, is becoming an increasingly popular data science tool for building interactive data visualizations. However, learning an entirely new programming language can be time prohibitive and unrealistic for many researchers. Lucky for R users, there’s an app (well, R packages) for that!   
-
-In this hands-on live-coding workshop, we’ll explore the {DT}, {plotly}, and {leaflet} packages, which make JavaScript libraries more accessible for R-users looking to infuse their static visualizations with interactivity. Together, we’ll build an interactive table, plot, and map, and demonstrate how these outputs can be shared using open data science communication tools, like RMarkdown and Quarto.      
-
-**[Register on Eventbright](https://www.eventbrite.com/e/integrating-javascript-libraries-into-r-for-dynamic-visualizations-tickets-615162927877)**    
 
 &nbsp;
 
@@ -67,6 +51,21 @@ In this hands-on live-coding workshop, we’ll explore the {DT}, {plotly}, and {
 &nbsp;  
 
 # Past events   
+
+&nbsp;
+
+## May 2023
+
+### **Title:** *Integrating JavaScript libraries into R for Dynamic Visualizations*
+
+**Presenters:** Sam Csik and An Bui   
+**Type:** Webinar   
+**Date and Time:** May 23 2023 at 16:00 UTC   
+**Timezone(s):** Americas/Europe    
+**Duration:** 1.5hrs  
+**Summary:** JavaScript, a programming language used to create dynamic web page content, is becoming an increasingly popular data science tool for building interactive data visualizations. However, learning an entirely new programming language can be time prohibitive and unrealistic for many researchers. Lucky for R users, there’s an app (well, R packages) for that!   
+
+In this hands-on live-coding workshop, we’ll explore the {DT}, {plotly}, and {leaflet} packages, which make JavaScript libraries more accessible for R-users looking to infuse their static visualizations with interactivity. Together, we’ll build an interactive table, plot, and map, and demonstrate how these outputs can be shared using open data science communication tools, like RMarkdown and Quarto.         
 
 &nbsp;
 
