@@ -128,6 +128,7 @@ Kevin Bairos-Novak	(Membership consultant)
 Christina Buelow (Project & policy drafter)     
 Shreya Dimri (Researcher)   
 Max Czapanskiy    
+Shinichi Nakagawa (Editorial Journal Liaison)   
 
 &nbsp;
 &nbsp;
