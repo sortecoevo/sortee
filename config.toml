@@ -65,21 +65,31 @@ paginate = 4
     parent = "resources"
     name = "Newsletters"
     url = "/newsletters/"
+    weight = 50
 
 [[menu.main]]
     parent = "resources"
     name = "Infographics"
     url = "/infographics/"
+    weight = 60
 
 [[menu.main]]
     parent = "resources"
     name = "Reading"
     url = "/reading/"
+    weight = 70
+
+[[menu.main]]
+    parent = "resources"
+    name = "Translations"
+    url = "/translations/"
+    weight = 80
 
 [[menu.main]]
     parent = "resources"
     name = "Other resources"
     url = "/other_resources/"
+    weight = 90
 
 [[menu.main]]
     identifier = "events"
