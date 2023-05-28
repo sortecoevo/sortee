@@ -18,6 +18,7 @@ We are grateful for the financial support of these sponsor organisations!
 [![Canadian Science Publishing](../img/sponsors/canadian-science-publishing.png)](https://cdnsciencepub.com)
 [![Peer Community In](../img/sponsors/pci.jpg)](https://peercommunityin.org)
 [![American Society of Naturalists](../img/sponsors/asn.jpeg)](https://www.amnat.org)
+[![Figshare](../img/sponsors/figshare.png)](https://figshare.com/)
 
 &nbsp;
 
