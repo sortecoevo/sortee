@@ -21,8 +21,6 @@ The conference will be **FREE** for SORTEE members. [Become a member!](https://w
 
 &nbsp;
 
-## Content submissions are open!   
-
 We want to facilitate lively exchanges of ideas, with three participatory event types:    
 - **Unconferences:** Facilitated discussions of ideas for how to make ecology, evolutionary biology, and related disciplines more open, reliable, and transparent. Facilitation involves moderating the conversation with ideas and examples, but there are no formal presentations    
 
@@ -32,18 +30,7 @@ We want to facilitate lively exchanges of ideas, with three participatory event 
 
 &nbsp;
 
-To submit your proposal, go to: https://forms.gle/mDLHhPmHDA1QERKZ7   
-
-&nbsp;
-
-**We strongly encourage proposals for all contribution types from people from a wide range of career stages and from members of underrepresented groups.**   
-
-We welcome proposals from small teams (as well as individuals). We encourage teams to include diverse perspectives, for instance with facilitators from different countries and balanced in terms of gender and career stage. Facilitation by early career researchers (students or early career postdocs) is warmly encouraged.   
+### Content submissions are now closed    
 
 We encourage people with any questions about accessibility in the submission process or the events themselves to contact us via conf.sortee@gmail.com. Similarly, please feel free to contact us if you would like guidance as you prepare your proposals and submissions.
 
-&nbsp;
-
-**Submissions will close on June 1st**
-
-&nbsp;
