@@ -9,8 +9,6 @@ title: Past events
 
 ## SORTEE Conference 2022   
 
-&nbsp;
-
 *The conference was run continuously from 11 July to 13 July covering all timezones.*     
 
 &nbsp;
@@ -44,15 +42,11 @@ To watch recordings of plenary presentations with captions in any language, visi
 
 ## SORTEE Conference 2021   
 
-&nbsp;
-
 *The conference was run continuously from 12 July to 14 July covering all timezones.*     
 
 &nbsp;
 
-You can find Conference Information Pack  [here ](https://docs.google.com/document/d/18TxM69XLGXUJKZFzN50FSjTb6wfctuyFhHc0NdRzbyE/edit)
-
-&nbsp;
+You can find Conference Information Pack  [here ](https://docs.google.com/document/d/18TxM69XLGXUJKZFzN50FSjTb6wfctuyFhHc0NdRzbyE/edit)   
 
 You can find video recordings of the talks on [this OSF Meetings page](https://osf.io/meetings/SORTEE2021/) 
 
@@ -68,5 +62,23 @@ You can find video recordings of the talks on [this OSF Meetings page](https://o
 * [Richard McElreath](https://xcelab.net/rm/) (Max Planck Institute for Evolutionary Anthropology, Germany) - [talk abstract and speaker bio]({{< ref "richard_mcelreath.md" >}})    
 * [Malvika Sharan](https://malvikasharan.github.io/) (Alan Turing Institute, UK) - [talk abstract and speaker bio]({{< ref "malvika_sharan.md" >}})  
 
+&nbsp; 
+
+---
 
 &nbsp;
+
+# SORTEE Conference products
+
+* Ivimey-Cook, E. R., Pick, J. L., Bairos-Novak, K., Culina, A., Gould, E., Grainger, M., ... & Windecker, S. (2023). [Implementing Code Review in the Scientific Workflow: Insights from Ecology and Evolutionary Biology.](https://doi.org/10.32942/X2CG64) EcoEvoRxiv.
+
+ 
+
+* Braga, P. H. P., Hébert, K., Hudgins, E. J., Scott, E. R., Edwards, B. P., Sánchez Reyes, L. L., ... & Crystal‐Ornelas, R. (2023). [Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution.](https://doi.org/10.1111/2041-210X.14108) Methods in Ecology and Evolution.
+
+ 
+
+* Nakagawa, S., Ivimey-Cook, E. R., Grainger, M. J., O’Dea, R. E., Burke, S., Drobniak, S. M., ... & Lagisz, M. (2023). [Method Reporting with Initials for Transparency (MeRIT) promotes more granularity and accountability for author contributions.](https://doi.org/10.1038/s41467-023-37039-1) Nature Communications, 14(1), 1788.
+
+ 
+* Gomes, D. G., Pottier, P., Crystal-Ornelas, R., Hudgins, E. J., Foroughirad, V., Sánchez-Reyes, L. L., ... & Gaynor, K. M. (2022). [Why don't we share data and code? Perceived barriers and benefits to public archiving practices.](https://doi.org/10.1098/rspb.2022.1113) Proceedings of the Royal Society B, 289(1987), 20221113.
