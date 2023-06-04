@@ -18,6 +18,11 @@
   font-size: 14px;
 }
 
+#top {
+  background: #ffffff;
+  color: #999999;
+}
+
 /* FONT SIZE - overriding style.default.css size 14 */
 /* scaffolding */
 body {
@@ -33,13 +38,17 @@ body {
 /* footer */
 .footer {
   position: relative;
-  max-height: 20px;
+  max-height: 5px;
   margin-bottom: 0;
   border-bottom: 1px solid transparent;
 }
 
 #footer {
   background: #ffffff;
-  padding: 50px 0;
+  padding: 30px 0;
   color: #999999;
+}
+
+#copyright {
+  padding: 20px 0;
 }
