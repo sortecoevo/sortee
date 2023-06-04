@@ -132,6 +132,12 @@ paginate = 4
     name = "Contact"
     url = "/contact/"
     weight = 80
+
+[[menu.main]]
+    identifier = "supporters"
+    name = "Supporters"
+    url = "/supporters/"
+    weight = 75
 # Top bar social links menu
 
 [[menu.topbar]]
