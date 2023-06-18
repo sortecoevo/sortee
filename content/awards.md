@@ -13,8 +13,9 @@ title: "SORTEE awards"
 
 ## 2023 Awards    
 
+
 **Nominations for the 2023 SORTEE are open now - submit your nominations via [GoogleForm](https://forms.gle/fez14JDVx2FcGWFp7). The nominations will close on 1 September 2022**.    
-The winners will be announced during the SORTEE2023 conference (17 October 0700 UTC to 18 October 0700 UTC) and then posted on the SORTEE website (sortee.org) and social media.   
+The winners will be announced during the SORTEE2023 conference (17 October 0700 UTC to 18 October 0700 UTC) and then posted on the [SORTEE website](www.sortee.org) and social media.   
 This year we have two (redesigned) award categories: 2023 Student Award and 2023 Researcher Award - for details please see the descriptions below.  
 
 &nbsp;    
@@ -59,7 +60,7 @@ The 2023 consists of Clint Kelly (Chair), Hanah Dugdale, Sandra Hamel, Kari Norm
 &nbsp;    
 
 **Contact**
-Inquiries may be directed to Clint Kelly at kelly.clint@uqam.ca (please note that the nominations should be submitted via links to online submission  forms, as provided below award descriptions).  
+Inquiries may be directed to Clint Kelly at kelly.clint AT uqam.ca (please note that the nominations should be submitted via links to online submission  forms, as provided below award descriptions).  
 
 &nbsp;    
 
