@@ -6,12 +6,12 @@ categories:
 - documents
 date: "2023-06-19"
 description: Awards of Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
-title: SORTEE awards
+title: "SORTEE awards"
 ---
 
 
 
-## 2023 Awards.    
+## 2023 Awards    
 
 **Nominations for the 2023 SORTEE are open now - submit your nominations via [GoogleForm](https://forms.gle/fez14JDVx2FcGWFp7). The nominations will close on 1 September 2022**.    
 The winners will be announced during the SORTEE2023 conference (17 October 0700 UTC to 18 October 0700 UTC) and then posted on the SORTEE website (sortee.org) and social media.   
@@ -86,6 +86,8 @@ This award aims to recognize and reward student researchers who have endeavoured
 4. A brief description (maximum 500 words) of other elements of ORT that you wish you (or your nominee) had applied to the research, but were limited by financial constraints, access to certain resources, bureaucratic restrictions, or any other barriers.  
 5. Upload of any relevant additional files, for example, an article you are particularly proud of, or relevant materials not available online. Please do not upload recommendation letters or CV.   
 6. Provide name, affiliation, and email of potential Referee 1 and Referee 2.  
+
+&nbsp;   
 
 **Applications**.  
 Please submit via [GoogleForm](https://forms.gle/fez14JDVx2FcGWFp7). 
