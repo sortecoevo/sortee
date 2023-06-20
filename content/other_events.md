@@ -30,13 +30,13 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 &nbsp;
 
-## June 2023
+## June 2023 - **POSTPONED**
 
 ### **Title:** *How to prepare and publish research data in open access repositories*
 
 **Presenters:** [Dr Michael Oellermann](https://orcid.org/0000-0001-5392-6737)  
 **Type:** Webinar   
-**Date and Time:** POSTPONED, new date TBC   
+**Date and Time:** new date TBC   
 **Timezone(s):** Americas/Europe    
 **Duration:** 2 hrs  
 **Summary:** This webinar will cover the benefits of publishing your research data open-access. Attendees will learn about how to select suitable open-access data repositories to ensure their data are accessible, reusable, and citable. We will discuss best practices for preparing and submitting tabular data to repositories, including data collection templates, metadata requirements and how to ensure data is accessible, reusable, and citable. By the end of the webinar, attendees will have a clear understanding of how to publish their research data in open access repositories, which can increase the visibility and impact of their research.    
