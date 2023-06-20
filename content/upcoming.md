@@ -13,11 +13,16 @@ title: Upcoming events
 
 &nbsp;
 
-The conference will run continuously from **17 October 0700 UTC** to **18 October 0700 UTC**, in order to cover all timezones.
+The conference will run continuously from **17 October 0700 UTC** to **18 October 0830 UTC**, in order to cover all timezones.
 
 &nbsp;
 
-The conference will be **FREE** for SORTEE members. [Become a member!](https://www.sortee.org/join/)
+## Registration is now open!
+Register here: https://events.humanitix.com/sortee-conference-2023-e8dqpa5c   
+
+&nbsp;
+
+The conference is **FREE** for SORTEE members. [Become a member!](https://www.sortee.org/join/)
 
 &nbsp;
 
@@ -30,7 +35,6 @@ We want to facilitate lively exchanges of ideas, with three participatory event 
 
 &nbsp;
 
-### Content submissions are now closed    
+## Preliminary Schedule available [here!](https://drive.google.com/file/d/11HxqtmxCniLtBrx86dmw7Eyqog5dvjxy/view?usp=sharing)
 
-We encourage people with any questions about accessibility in the submission process or the events themselves to contact us via conf.sortee@gmail.com. Similarly, please feel free to contact us if you would like guidance as you prepare your proposals and submissions.
-
+For more information on the conference, do not hesitate to contact us at  conf.sortee@gmail.com

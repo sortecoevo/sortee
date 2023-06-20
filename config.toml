@@ -286,8 +286,7 @@ paginate = 4
     subtitle = "EcoEvoRxiv is the official preprint server of SORTEE"
     title_2 = "Order a t-shirt"
     title_3 = "SORTEE Conference 2023"
-    subtitle_3 = "Content submissions now open!"
-    title_4 = "Our supporters"
+    subtitle_3 = "Registration now open!"
 
 [params.recent_posts]
     enable = false
