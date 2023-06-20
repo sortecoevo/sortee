@@ -37,13 +37,13 @@ SORTEE is committed to equal opportunity and fair assessment for all and seeks a
 
 **Selection process**   
 Nominations will be first reviewed for eligibility independently by two SORTEE Awards Committee members, with disagreements resolved via discussion with a third Committee member. Reviewers will be assigned so that they will not assess any nominations they may have a conflict of interest with (e.g., current or former students, recent collaborators, family members). Reviewers might consult additional publicly available material or ask referees to confirm eligibility or contributorship claims.  
-Nominations judged as eligible will be entered into a lottery draw with the winners chosen at random (stratified, so that winners are not all the same gender and do not all come from the same country). The Awards Committee will determine the eligibility threshold scores and number of winners based on the number and distribution of scores of the received nominations. Award winners will be publicly announced during the annual SORTEE conference and the winners will be also notified via email.  
+Nominations judged as eligible will be entered into a lottery that will be a stratified random draw (ensuring winners are not all the same gender and do not all come from the same country). The Awards Committee will determine the eligibility threshold scores and number of winners based on the number and distribution of scores of the received nominations. Award winners will be publicly announced during the annual SORTEE conference and the winners will be also notified via email.  
 
 &nbsp;    
 
 **Assessment criteria**        
 The criteria for judging submissions are partially based on [TOP journal guidelines](https://www.cos.io/initiatives/top-guidelines) (TOP = Transparency and Openness Promotion), modified for application to individual publications (the modified rubric is available at the bottom of the Awards page).   
-We emphasize that making publications Open Access is NOT a criterion for the awards, as this typically requires access to substantial funds. However, making a penultimate version of an officially accepted manuscript publicly available (e.g., on a preprint server, institutional repository) is a good practice, and is now permitted by almost all publishing outlets. When assigning the scores, reviewers will take into account available information on the barriers and difficulties to implementing ORT practices on the case-by-case basis to make assessment equitable.
+We emphasize that making publications Open Access is NOT a criterion for the awards, as this typically requires access to substantial funds. However, making a penultimate version of an officially accepted manuscript publicly available (e.g., on a preprint server, institutional repository) is a good practice, and is now permitted by almost all publishing outlets. When assigning the scores, reviewers will take into account available information on the barriers and difficulties to implementing ORT practices on the case-by-case basis to make assessment equitable.  
 All steps that are taken to improve the transparency and reproducibility of ecological or evolutionary research are valuable and appreciated. Achieving the “ideal” workflow in practice will, for many of us, be a life-long endeavour and learning experience!   
 We therefore encourage all eligible students and researchers to apply, regardless of how far along this path they are. For example, somebody may not have implemented many or any ORT best practices from the outset of their research career because they initially did not have access to the training and support necessary. Thus, their earlier work may be less transparent and reproducible than their later work. This is entirely expected, and should not discourage you from applying for this award.   
 
@@ -55,12 +55,12 @@ The winners must agree to have their full name, affiliation, photo (optional), s
 &nbsp;    
 
 **2023 Awards Committee**   
-The 2023 consists of Clint Kelly (Chair), Hanah Dugdale, Sandra Hamel, Kari Norman, Malgorzata Lagisz. The committee reserves the right to seek additional information on the nominated candidates and to decide on the eligibility threshold scores and the number of the winners per award category. Decisions of the Awards Committee are final. The Awards Committee may be able to provide some feedback on the unsuccessful applications after the announcement, at a reasonable request.  
+The 2023 consists of Clint Kelly (Chair), Hannah Dugdale, Sandra Hamel, Kari Norman, Malgorzata Lagisz. The committee reserves the right to seek additional information on the nominated candidates and to decide on the eligibility threshold scores and the number of the winners per award category. Decisions of the Awards Committee are final. The Awards Committee may be able to provide some feedback on the unsuccessful applications after the announcement, at a reasonable request.  
 
 &nbsp;    
 
 **Contact**
-Inquiries may be directed to Clint Kelly at kelly.clint AT uqam.ca (please note that the nominations should be submitted via links to online submission  forms, as provided below award descriptions).  
+Inquiries may be directed to Malgorzata lagisz Kelly at losialagisz@gmail.com (please note that the nominations should be submitted via links to online submission forms, as provided below award descriptions).  
 
 &nbsp;    
 
