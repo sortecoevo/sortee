@@ -22,7 +22,9 @@ title: People
 * [EcoEvoRxiv Committee]({{< ref "people.md#ecoevorxiv-committee" >}}) 
 * [Education and Outreach]({{< ref "people.md#education-and-outreach-committee" >}})   
 * [Fundraising]({{< ref "people.md#fundraising-committee" >}})  
-* [Media]({{< ref "people.md#media-committee" >}})   
+* [Media]({{< ref "people.md#media-committee" >}})
+* [Budget]({{< ref "people.md#budget-committee" >}})
+* [Awards]({{< ref "people.md#awards-committee" >}})   
 * [Past Board Members]({{< ref "people.md#past-board-and-committee-members" >}})    
 
 &nbsp;
@@ -256,6 +258,43 @@ Eleanor Jackson	(Website maintainer)
 Rachael Blake (Blog editor)   
 Tuba Rizvi (Linkedin manager)  
 Szymek Drobniak (Visual designer)
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+### Budget Committee  		
+
+The Budget Committee reviews and approves ama; expenditures fro SORTEE budget for our statutory activities.      
+
+Current members are:  
+
+
+[Tim Parker](mailto:parkerth@whitman.edu)	**(Chair)**    
+Alexa Fredston (Treasurer)   
+Malgorzata Lagisz
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+### Awards Committee  		
+
+The Awards Committee reviews awards scheme, solicits nominations and selects the award winners.        
+
+Current members are:   
+
+
+[Malgorzata Lagisz](mailto:losialagisz@gmail.com)	**(Chair)**     
+Clint Kelly     
+Malgorzata Lagisz   
+Hannah Dugdale   
+Sandra Hamel   
+Kari Norman   
 
 &nbsp;
 &nbsp;
