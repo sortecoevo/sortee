@@ -14,8 +14,15 @@ title: "SORTEE awards"
 ## 2023 Awards    
 
 
-**Nominations for the 2023 SORTEE are open now - submit your nominations via [GoogleForm](https://forms.gle/fez14JDVx2FcGWFp7). The nominations will close on 1 September 2023**.    
-The winners will be announced during the SORTEE2023 conference (17 October 0700 UTC to 18 October 0700 UTC) and then posted on the [SORTEE website](www.sortee.org) and social media.   
+**Nominations for the 2023 SORTEE are open now - submit your nominations via [GoogleForm](https://forms.gle/fez14JDVx2FcGWFp7).    
+The nominations will close on 1 September 2023**.       
+
+&nbsp;   
+
+The winners will be announced during the SORTEE2023 conference (17 October 0700 UTC to 18 October 0700 UTC) and then posted on the [SORTEE website](www.sortee.org) and social media.    
+
+&nbsp;   
+
 This year we have two (redesigned) award categories: 2023 Student Award and 2023 Researcher Award - for details please see the descriptions below.  
 
 &nbsp;    
@@ -55,11 +62,11 @@ The winners must agree to have their full name, affiliation, photo (optional), s
 &nbsp;    
 
 **2023 Awards Committee**   
-The 2023 consists of Clint Kelly (Chair), Hannah Dugdale, Sandra Hamel, Kari Norman, Malgorzata Lagisz. The committee reserves the right to seek additional information on the nominated candidates and to decide on the eligibility threshold scores and the number of the winners per award category. Decisions of the Awards Committee are final. The Awards Committee may be able to provide some feedback on the unsuccessful applications after the announcement, at a reasonable request.  
+The 2023 consists of Clint Kelly, Hannah Dugdale, Sandra Hamel, Kari Norman, Malgorzata Lagisz (Chair). The committee reserves the right to seek additional information on the nominated candidates and to decide on the eligibility threshold scores and the number of the winners per award category. Decisions of the Awards Committee are final. The Awards Committee may be able to provide some feedback on the unsuccessful applications after the announcement, at a reasonable request.  
 
 &nbsp;    
 
-**Contact**
+**Contact**   
 Inquiries may be directed to Malgorzata Lagisz at losialagisz@gmail.com (please note that the nominations should be submitted via links to online submission forms, as provided below award descriptions).  
 
 &nbsp;    
@@ -139,7 +146,6 @@ The information provided on this page is partially modeled on [AIMOS awards](htt
 Nominations for the 2022 SORTEE awards closed on 15 May 2022 (via email to [kelly.clint@uqam.ca](mailto:kelly.clint@uqam.ca)).  
 
 &nbsp;
-&nbsp;
 
 ### Open Science in Promotion   
 
@@ -179,20 +185,20 @@ Three separate awards are available each year: one for Masters students (current
 
 All steps that are taken to improve the transparency and reproducibility of research are valuable and appreciated, and achieving the “ideal” workflow in practice will, for many of us, be a life-long endeavour and learning experience! We therefore encourage all eligible researchers to apply, regardless of how far along this path they are. For example, a graduate student or postdoc may not have implemented many or any OS best practices from the outset of their research career because they initially did not have access to the training and support necessary. Thus, their earlier work may be less transparent and reproducible than their later work. This is entirely expected, and should not discourage you from applying for this award.
 
+&nbsp;
+
 **Application materials:**   
- &nbsp;
  (i) A letter (maximum 500 words) describing why you are deserving of this award, and referring to evidence and examples (accessible to adjudicators through URLs / DOIs) of how you have integrated OS best practices into your research workflow as a graduate student or postdoc.    
- &nbsp;
  (ii) An up-to-date resumé (maximum 2 pages).      
- &nbsp;
  (iii) A brief document (maximum 300 words) describing other elements of reproducibility or open science that you wish to have applied to your research, but were limited by financial constraints, access to certain resources, bureaucratic restrictions, or any other barrier.   
 
-**Criteria:**  
 &nbsp;
+
+**Criteria:**  
 The criteria for judging submissions are based on [TOP journal guidelines](https://www.cos.io/initiatives/top-guidelines) modified for application to individual publications. We emphasize that making publications Open Access is NOT a criterion for the awards, as this typically requires access to substantial funds. However, making a penultimate version of an officially accepted manuscript publicly available (e.g. on a preprint server, institutional repository, or personal webpage) is good practice, and is now permitted by almost all publishing outlets.
 
-&nbsp;
----
+&nbsp;   
+
 &nbsp;
 
 ## TOP Rubric for Publication Assessment   
