@@ -25,7 +25,7 @@ title: People
 * [Media]({{< ref "people.md#media-committee" >}})
 * [Budget]({{< ref "people.md#budget-committee" >}})
 * [Awards]({{< ref "people.md#awards-committee" >}})   
-* [Past Board Members]({{< ref "people.md#past-board-and-committee-members" >}})    
+* [Past Board Members]({{< ref "people.md#past-board-members" >}})    
 
 &nbsp;
 &nbsp;
