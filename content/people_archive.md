@@ -19,7 +19,8 @@ This page lists SORTEE's past Board members.
 &nbsp;  
 
 ![Esteban Fernandez-Juricic](/img/people/EstebanFernandezJuricic.png)   
-[Esteban Fernandez-Juricic](http://www.estebanfj.com) **(President, 2023)** is a Professor of Biological Sciences at Purdue University (USA). His research is focused on behavioral ecology, visual ecology, and conservation ecology. He is interested in increasing computational reproducibility, particularly during the peer-review process.
+2022-2023
+[Esteban Fernandez-Juricic](http://www.estebanfj.com) is a Professor of Biological Sciences at Purdue University (USA). His research is focused on behavioral ecology, visual ecology, and conservation ecology. He is interested in increasing computational reproducibility, particularly during the peer-review process.
 
 &nbsp;   
 
