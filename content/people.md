@@ -75,10 +75,6 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 
 ![Alexa Fredston](/img/people/AlexaFredston.png)   
 [Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)** is a quantitative ecologist and Assistant Professor at the University of California Santa Cruz.
-&nbsp;
-
-![Esteban Fernandez-Juricic](/img/people/EstebanFernandezJuricic.png)   
-[Esteban Fernandez-Juricic](http://www.estebanfj.com) **(President, 2023)** is a Professor of Biological Sciences at Purdue University (USA). His research is focused on behavioral ecology, visual ecology, and conservation ecology. He is interested in increasing computational reproducibility, particularly during the peer-review process.  
 
 &nbsp;   
 
@@ -90,7 +86,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;
 
 ![Rose O’Dea](/img/people/RoseODea.png)   
-[Rose O’Dea](https://www.roseodea.com/) **(President-Elect for 2024)** is a postdoctoral researcher, currently based in the MetaMelb Research Group at The University of Melbourne.   
+[Rose O’Dea](https://www.roseodea.com/) **(President)** is a postdoctoral researcher, currently based in the MetaMelb Research Group at The University of Melbourne.   
 &nbsp;
 
 ![Tim Parker](/img/people/TimParker.png)   
@@ -107,10 +103,9 @@ As specified in the [SORTEE bylaws](https://www.sortee.org/bylaws/), the Executi
 Current officers are:
 &nbsp;
 
-[Esteban Fernandez-Juricic](http://www.estebanfj.com) **(President, 2023)**   
+[Rose O’Dea](https://www.roseodea.com/) **(President)**  
 [Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(Secretary)**  
 [Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)**    
-[Rose O’Dea](https://www.roseodea.com/) **(President-Elect for 2024)**  
 [Dominique Roche](https://dominiqueroche.weebly.com/) **(Past-President)**    
 
 &nbsp;

@@ -16,6 +16,11 @@ This page lists SORTEE's past Board members.
 
 ### Former members of the Board of Directors
 
+&nbsp;  
+
+![Esteban Fernandez-Juricic](/img/people/EstebanFernandezJuricic.png)   
+[Esteban Fernandez-Juricic](http://www.estebanfj.com) **(President, 2023)** is a Professor of Biological Sciences at Purdue University (USA). His research is focused on behavioral ecology, visual ecology, and conservation ecology. He is interested in increasing computational reproducibility, particularly during the peer-review process.
+
 &nbsp;   
 
 ![Antica Culina](/img/people/AnticaCulina.png)    
@@ -27,6 +32,8 @@ This page lists SORTEE's past Board members.
 2020-2022    
 [Elliot Gould](https://orcid.org/0000-0002-6585-538X) is a PhD student studying the transparency and reproducibility of model-based research in applied ecology and conservation at the University of Melbourne.     
 &nbsp;
+
+&nbsp; 
 
 ![Malika Ihle](/img/people/MalikaIhle.png)    
 2020-2022    
