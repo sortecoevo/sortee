@@ -24,7 +24,23 @@ We kept the 2022 suggested membership fees the same for the 2023 calendar year (
 
 To join SORTEE or update your membership details, please go to: [https://www.joinit.org/o/sortee/](https://www.joinit.org/o/sortee/).
 
+&nbsp;
+
 ----
+
+&nbsp;
+
+### Diversity, Equity and Inclusion (DEI) at SORTEE   
+
+At SORTEE, we place great importance on DEI. We have a dedicated DEI committee to ensure that we keep making improvements on this topic. We thereby also seek the help of our members. You can help us by filling out our demographic survey, whenever you become a member or renew your membership. This survey informs us on what our members think of diversity and also on which directions we may need to take for the future.    
+
+Our goal is to be diverse and inclusive of people across disciplines, from various geographical locations, from under-represented groups and with various interests.   
+
+&nbsp;
+
+---
+
+&nbsp;
 
 ### There are plenty of benefits to becoming a SORTEE member:
 
@@ -36,8 +52,8 @@ To join SORTEE or update your membership details, please go to: [https://www.joi
 * Develop and test new research practices (for instance during conference hackathons).
 * Contribute and shape ideas for improving the reliability of the science of ecology, evolutionary biology, and related disciplines.
 * Help bring cultural change to academia.
-* Gain eligibility for SORTEE open science awards.
-* Attend the SORTEE annual conference at reduced rates.
+* Gain eligibility for SORTEE awards.
+* Free attendance of the SORTEE annual conference.
 * Receive SORTEE’s newsletter by email to stay tuned to new developments in open science, research transparency, and study reliability.
 * Vote for leadership positions to influence the direction of the Society.
 * Nominate colleagues (or yourself!) for SORTEE leadership positions.
