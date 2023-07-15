@@ -35,6 +35,8 @@ We want to facilitate lively exchanges of ideas, with three participatory event 
 
 &nbsp;
 
-## Preliminary Schedule available [here!](https://drive.google.com/file/d/11HxqtmxCniLtBrx86dmw7Eyqog5dvjxy/view?usp=sharing)
+## Preliminary Schedule available [here!](https://drive.google.com/file/d/11HxqtmxCniLtBrx86dmw7Eyqog5dvjxy/view?usp=sharing)   
 
-For more information on the conference, do not hesitate to contact us at  conf.sortee@gmail.com
+You can access the events' details and convert the program into your local timezone using [our shiny app](https://sortee2023.shinyapps.io/program-app/).   
+
+For more information on the conference, do not hesitate to contact us at  conf.sortee@gmail.com   
