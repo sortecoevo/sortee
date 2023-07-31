@@ -285,8 +285,6 @@ Current members are:
 
 
 [Malgorzata Lagisz](mailto:losialagisz@gmail.com)	**(Chair)**     
-Clint Kelly     
-Malgorzata Lagisz   
 Hannah Dugdale   
 Sandra Hamel   
 Kari Norman   
