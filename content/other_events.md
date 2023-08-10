@@ -27,22 +27,42 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 # Upcoming events    
 
+&nbsp;
+
+## September 2023     
+
+### **Title:** *Dashboards: Using R to Create Actionable Science*
+
+**Presenters:** TBD   
+**Type:** Webinar   
+**Date and Time:** September 28 2023 at 15:00 UTC     
+**Timezone(s):** Americas/Europe    
+**Duration:** 2 hrs  
+**Summary:** The Shiny R package is now ten years old and is a popular tool to create immersive, web-based content. Although many researchers have experience with R, expertise in dashboards is uncommon. This workshop will include a mix of instructor-led demonstrations, discussion, and exercises that will empower attendees to create their own Shiny applications. We will begin by showing what’s possible with the Quarto publishing system and Shiny by demoing existing applications from the Marine Biological Observation Network and the National Estuary Program. We will then transition to instructional material on the fundamentals of reactive programming with Shiny. Recent additions and improvements to Shiny (e.g., drag and drop user interface development, Python integration) will also be demonstrated. The remainder of the workshop will involve hands-on exercises that will allow attendees to develop their own applications using data from the examples above.
+
+Anyone interested in learning how to expand existing R skills for dashboard development will benefit from this workshop. This includes students, early career, and advanced professionals from any employment sector and field of expertise.
+
+Please visit the [setup page](https://tbep-tech.github.io/shiny-workshop/setup.html) for instructions on preparing for this workshop. You will be required to install R, RStudio, and Quarto prior to the workshop.      
+
+**[Register on Eventbright](https://www.eventbrite.com/e/dashboards-using-r-to-create-actionable-science-tickets-640806147437)**    
 
 &nbsp;
 
-## June 2023 - **POSTPONED**
+## November 2023     
 
 ### **Title:** *How to prepare and publish research data in open access repositories*
 
 **Presenters:** [Dr Michael Oellermann](https://orcid.org/0000-0001-5392-6737)  
 **Type:** Webinar   
-**Date and Time:** new date TBC   
+**Date and Time:** November 28 2023 at 16:00 UTC       
 **Timezone(s):** Americas/Europe    
 **Duration:** 2 hrs  
 **Summary:** This webinar will cover the benefits of publishing your research data open-access. Attendees will learn about how to select suitable open-access data repositories to ensure their data are accessible, reusable, and citable. We will discuss best practices for preparing and submitting tabular data to repositories, including data collection templates, metadata requirements and how to ensure data is accessible, reusable, and citable. By the end of the webinar, attendees will have a clear understanding of how to publish their research data in open access repositories, which can increase the visibility and impact of their research.    
 **Logistics:** The webinar will take place online using Zoom (link provided after signup). Attendees will be able to use their camera and microphone to interact with the speaker and other attendees. Attendance will be capped at around 25 participants.   
 
-**[Register on Eventbright](https://www.eventbrite.com/e/how-to-prepare-and-publish-research-data-in-open-access-repositories-tickets-628678764107)**    
+Note this webinar was originally scheduled for June, but has since been moved to November. Attendees who signed up for the June event will need to re-signup to this event to secure their attendance.   
+
+**[Register on Eventbright](https://www.eventbrite.com/e/how-to-prepare-and-publish-research-data-in-open-access-repositories-tickets-678403070847)**    
 
 &nbsp;
 
