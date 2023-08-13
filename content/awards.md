@@ -207,7 +207,7 @@ The information provided on this page is partially modeled on [AIMOS awards](htt
 &nbsp;   
 
 **2021 Open Science in Practice PhD Student Award**   
-![Nicole Torres-Tamayo](/img/people/ NicoleTT.png)   
+![Nicole Torres-Tamayo](/img/people/NicoleTT.png)   
 ### *Name*:   Nicole Torres-Tamayo   
 *Pronouns*:   she/her/hers   
 *Affiliation*:    School of Life and Health Sciences, University of Roehampton, London, United Kingdom     
