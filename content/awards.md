@@ -166,8 +166,8 @@ The information provided on this page is partially modeled on [AIMOS awards](htt
 ## 2022    
 
 **2022 Open Science in Practice PhD Student Award**   
-*Photo*:   ![Patrice Pottier](/img/people/PatricePottier.png)   
-*Name*:   Patrice Pottier  
+![Patrice Pottier](/img/people/PatricePottier.png)   
+### *Name*:   Patrice Pottier  
 *Pronouns*:   he/him/his   
 *Twitter*:   @PatriceEcoEvo   
 *Website*:   [patricepottier.owlstown.net](patricepottier.owlstown.net)   
@@ -177,8 +177,8 @@ The information provided on this page is partially modeled on [AIMOS awards](htt
 &nbsp;   
 
 **2022 Open Science in Practice Postdoctoral Award**   
-*Photo*:   ![Korryn Bodner](/img/people/KorrynBodner.png)   
-*Name*:   Korryn Bodner   
+![Korryn Bodner](/img/people/KorrynBodner.png)   
+### *Name*:   Korryn Bodner   
 *Pronouns*:   she/her/hers   
 *Affiliation*:    Unity Health Toronto, Canada   
 *Twitter*:   @KorrynBodner   
@@ -187,8 +187,8 @@ The information provided on this page is partially modeled on [AIMOS awards](htt
 &nbsp;    
 
 **2022 Promotion of Open Science Award**   
-*Photo*:   ![Silas Bossert](/img/people/SilasBossert.png)   
-*Name*:   Silas Bossert   
+![Silas Bossert](/img/people/SilasBossert.png)   
+### *Name*:   Silas Bossert   
 *Affiliation*:    Research Entomologist at Washington State University   
 *Profile*:    I am an evolutionary biologist studying the phylogeny and evolutionary history of bees. I am fascinated by the parallel evolution of bees and plants over the past 125 million years and by the many ways bees live. Through the phylogenetic lens, I strive to understand the natural history of bee-plant interactions, their antiquity, and the evolution of parasitism in bees. We know of over 20,000 described species of bees and many more await to be discovered. [from (and more at): https://peerj.com/blog/post/115284886214/peerj-award-winners-sortee-2022/]   
 
@@ -198,8 +198,8 @@ The information provided on this page is partially modeled on [AIMOS awards](htt
 ## 2021    
 
 **2021 Open Science in Practice Masters Student Award**   
-*Photo*:   ![Shivani](/img/people/Shivani.png)   
-*Name*:   Shivani   
+![Shivani](/img/people/Shivani.png)   
+### *Name*:   Shivani   
 *Pronouns*:   she/her/hers   
 *Affiliation*:    University of Göttingen, Germany   
 *Profile*:    My broad research interests are in Behavioral Ecology and Evolutionary Biology. Mainly, I work with Primates and try to understand the different forces that shape their behavior. I am keen on using interdisciplinary approaches to understand the behavior of different life forms and aim to keep my research as open and transparent as possible. Currently, for my PhD research, I look at the social and ecological drivers of female fitness in a wild population of Assamese macaques.   
@@ -207,8 +207,8 @@ The information provided on this page is partially modeled on [AIMOS awards](htt
 &nbsp;   
 
 **2021 Open Science in Practice PhD Student Award**   
-*Photo*:  ![Nicole Torres-Tamayo](/img/people/ NicoleTT.png)   
-*Name*:   Nicole Torres-Tamayo   
+![Nicole Torres-Tamayo](/img/people/ NicoleTT.png)   
+### *Name*:   Nicole Torres-Tamayo   
 *Pronouns*:   she/her/hers   
 *Affiliation*:    School of Life and Health Sciences, University of Roehampton, London, United Kingdom     
 *Twitter*:   @Paleonicole   
@@ -217,14 +217,15 @@ The information provided on this page is partially modeled on [AIMOS awards](htt
 &nbsp;   
 
 **2021 Open Science in Practice Postdoctoral Award**   
-*Photo*:   ![Benjamin H. Paffhausen](/img/people/Benjamin_H_Paffhausen.png)   
-*Name*:   Benjamin H. Paffhausen   
+![Benjamin H. Paffhausen](/img/people/Benjamin_H_Paffhausen.png)   
+### *Name*:   Benjamin H. Paffhausen   
 *Affiliation*:    Centre de Recherches sur la Cognition Animale, Centre de Biologie Intégrative (CBI), University of Toulouse, CNRS, UPS, Toulouse, France   
 *Profile*:    I want to understand the social communication in the honey bees brain during waggle dance. I started when the open source microcontroller Arduino was becoming popular. The code copying mindset got me and I immediately understood that sharing openly is the only way forward. I investigated color vision in honey bees with an Arduino driven illumination arm. This gave us great data sets that were sufficiently repetitive to analyse across animals. I took the servo-motor library and wrote a bit of code for the machine to scan along. Inaccessible for me before open source, but with it: a joy. Later we put a bee on a quad-copter while we recorded brain activity to investigate the animal's navigation. The electrical engineers of reddit shared with me how to design the electronics board. Earlier I recorded bees' brain activity in their hive to investigate free and motivated social behaviour, impossible without the collaborative work that was done on the Raspberry Pi to monitor my bees. Those and other projects of mine focus on the peculiar behaviour of the honey bee and quickly accessing them by taking useful snippets from others. All works were acknowledged and given back.   
 
 &nbsp;   
 &nbsp;   
 
+---   
 
 # Past Awards Descriptions   
 
