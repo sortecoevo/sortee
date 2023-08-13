@@ -161,22 +161,70 @@ The information provided on this page is partially modeled on [AIMOS awards](htt
 
 # Past Awards Winners
 
-
 &nbsp;
 
 ## 2022   
 
+**2022 Open Science in Practice PhD Student Award**
+*Photo*:   ![Patrice Pottier](/img/people/PatricePottier.png)
+*Name*:   Patrice Pottier
+*Pronouns*:   he/him/his
+*Twitter*:   @PatriceEcoEvo
+*Website*:   [patricepottier.owlstown.net](patricepottier.owlstown.net)
+*Affiliation*:    The University of New South Wales, Sydney, Australia
+*Profile*:    I am a Ph.D. Candidate in the Evolution & Ecology Research Centre at UNSW Sydney. While my interests are broad, I am primarily interested in the responses of animals to rapid environmental change. Particularly, I strive to understand what drives the variation in plasticity and adaptation to changing temperatures. My research is question-driven rather than organism-driven, and I enjoy working with a broad range of organisms. I use a combination of data synthesis, meta-analysis, and laboratory experiments to address my questions in various species. I am also an advocate for Open Science and a member of the board of directors of The Society for Open, Reproducible, and Transparent Ecology and Evolutionary Biology (SORTEE). Outside of academia, I love surfing, traveling, and eating all the vegan food the world has to offer. [more at: https://peerj.com/blog/post/115284886214/peerj-award-winners-sortee-2022/]
+
+&nbsp;
+
+**2022 Open Science in Practice Postdoctoral Award** 
+*Photo*:   ![Korryn Bodner](/img/people/KorrynBodner.png)
+*Name*:   Korryn Bodner
+*Pronouns*:   she/her/hers
+*Affiliation*:    Unity Health Toronto, Canada
+*Twitter*:   @KorrynBodner
+*Profile*:    My main research focus is on the epidemiology of infectious diseases. I primarily study emerging SARS-CoV-2 Variants of Concern (VOCs) and how heterogeneities in contact patterns and vaccination strategies can affect transmission dynamics.  Through this work, I have also become engaged in studying the effects of different types of biases that can undermine the results of our mathematical and statistical models. As an example, recently I have explored how unknown and underlying differences in contact and testing patterns between vaccinated and unvaccinated individuals can lead to an underestimate of the benefits of a given vaccine.
+More broadly, I am also interested in developing strategies to increase reproducibility and to better connect scientific research with decision-making. This area of focus is particularly rewarding as its utility extends beyond any particular model, ecological scale, or specific research purpose. [from (and more at): https://peerj.com/blog/post/115284886214/peerj-award-winners-sortee-2022/]
+
+&nbsp;
+
+**2022 Promotion of Open Science Award**
+*Photo*:   ![Silas Bossert](/img/people/SilasBossert.png)
+*Name*:   Silas Bossert
+*Affiliation*:    Research Entomologist at Washington State University
+*Profile*:    I am an evolutionary biologist studying the phylogeny and evolutionary history of bees. I am fascinated by the parallel evolution of bees and plants over the past 125 million years and by the many ways bees live. Through the phylogenetic lens, I strive to understand the natural history of bee-plant interactions, their antiquity, and the evolution of parasitism in bees. We know of over 20,000 described species of bees and many more await to be discovered. [from (and more at): https://peerj.com/blog/post/115284886214/peerj-award-winners-sortee-2022/]
+
+&nbsp;
 &nbsp;
 
 ## 2021   
 
-* Masters student award: [Shivani](https://twitter.com/shivanim675)   
+**2021 Open Science in Practice Masters Student Award**
+*Photo*:   ![Shivani](/img/people/Shivani.png)
+*Name*:   Shivani 
+*Pronouns*:   she/her/hers
+*Affiliation*:    University of Göttingen, Germany
+*Profile*:    My broad research interests are in Behavioral Ecology and Evolutionary Biology. Mainly, I work with Primates and try to understand the different forces that shape their behavior. I am keen on using interdisciplinary approaches to understand the behavior of different life forms and aim to keep my research as open and transparent as possible. Currently, for my PhD research, I look at the social and ecological drivers of female fitness in a wild population of Assamese macaques.
 
-* PhD student award: [Nicole Torres-Tamayo](https://twitter.com/PaleoNicole)   
+&nbsp;
 
-* Postdoctoral research associate award: [Benjamin Paffhausen](https://scholar.google.com/citations?user=PBBBWjEAAAAJ&hl=de)  
+**2021 Open Science in Practice PhD Student Award**
+*Photo*:  ![Nicole Torres-Tamayo](/img/people/ NicoleTT.png)
+*Name*:   Nicole Torres-Tamayo
+*Pronouns*:   she/her/hers
+*Affiliation*:    School of Life and Health Sciences, University of Roehampton, London, United Kingdom
+*Twitter*:   @Paleonicole
+*Profile*:    Nicole Torres-Tamayo is a post-doctoral researcher at the School of Life and Health Sciences of the University of Roehampton (London, United Kingdom). She investigates the evolution of human childbirth by studying the pelvis morphology of extant primates. She also has a background in Paleoanthropology and she is currently working on the reconstruction of the fragmentary fossil pelvis of H. erectus and H. neanderthalensis using 3D virtual techniques. During her early career and with her PhD impacted by the COVID-19 pandemic, Nicole became aware of the importance of data sharing and open science in research. This is paramount in the field of Paleoanthropology, where there are too few fossils from which people draw too many conclusions, sometimes without allowing others to check the actual remains. Her next step as a post-doctoral researcher is the Institute of Evolutionary Medicine of the University of Zurich, where she will continue actively working on promoting transparency and reproducibility in science. 
 
-&nbsp;  
+&nbsp;
+
+**2021 Open Science in Practice Postdoctoral Award**
+*Photo*:   ![Benjamin H. Paffhausen](/img/people/Benjamin_H_Paffhausen.png)
+*Name*:   Benjamin H. Paffhausen
+*Affiliation*:    Centre de Recherches sur la Cognition Animale, Centre de Biologie Intégrative (CBI), University of Toulouse, CNRS, UPS, Toulouse,France
+*Profile*:    I want to understand the social communication in the honey bees brain during waggle dance. I started when the open source microcontroller Arduino was becoming popular. The code copying mindset got me and I immediately understood that sharing openly is the only way forward. I investigated color vision in honey bees with an Arduino driven illumination arm. This gave us great data sets that were sufficiently repetitive to analyse across animals. I took the servo-motor library and wrote a bit of code for the machine to scan along. Inaccessible for me before open source, but with it: a joy. Later we put a bee on a quad-copter while we recorded brain activity to investigate the animal's navigation. The electrical engineers of reddit shared with me how to design the electronics board. Earlier I recorded bees' brain activity in their hive to investigate free and motivated social behaviour, impossible without the collaborative work that was done on the Raspberry Pi to monitor my bees. Those and other projects of mine focus on the peculiar behaviour of the honey bee and quickly accessing them by taking useful snippets from others. All works were acknowledged and given back.
+
+&nbsp;
+&nbsp;
 
 
 # Past Awards Descriptions
