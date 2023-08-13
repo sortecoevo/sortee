@@ -4,12 +4,25 @@ aliases:
 author: SORTEE
 categories:
 - documents
-date: "2023-06-19"
+date: "2023-08-12"
 description: Awards of Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: "SORTEE awards"
 ---
 
+* [Current Awards]({{< ref "awards.md#current-awards" >}})   
+* [past Awards]({{< ref "awards.md#past-awards" >}})   
 
+&nbsp;
+&nbsp;
+
+---
+
+&nbsp;
+
+
+## Current Awards
+
+&nbsp;
 
 ## 2023 Awards    
 
@@ -33,7 +46,7 @@ The awards provide recognition for open and transparent work in ecology and evol
 &nbsp;    
 
 **Prizes**    
-We do not offer monetary prizes. The winners will receive a digital award certificate and their profile will be highlighted on the SORTEE website and social media.    
+We do not offer monetary prizes. The winners will receive a digital award certificate and their profile will be highlighted on the SORTEE website and social media. We may offer some other benefits, for example waivers of publication fees, depending on the generosity of our sponsors.       
 
 &nbsp;    
 
@@ -137,17 +150,24 @@ Please submit via [GoogleForm](https://forms.gle/fez14JDVx2FcGWFp7).
 **2023 Disclaimers / Acknowledgements**    
 The information provided on this page is partially modeled on [AIMOS awards](https://aimos.community) and other publicly available research awards descriptions.  
 
+&nbsp; 
+&nbsp; 
+
+---
+
 &nbsp;    
-&nbsp;    
 
-
-## 2022 Awards  
-
-Nominations for the 2022 SORTEE awards closed on 15 May 2022 (via email to [kelly.clint@uqam.ca](mailto:kelly.clint@uqam.ca)).  
+## Past Awards
 
 &nbsp;
 
-### Open Science in Promotion   
+### 2022
+
+Nominations for the 2022 SORTEE awards closed on 15 May 2022.  
+
+&nbsp;
+
+### 2022 Open Science in Promotion   
 
 #### Award Description    
 
@@ -163,11 +183,11 @@ Two separate awards were available in 2022: one for early career (5 or fewer yea
 
 &nbsp;
 
-### Open Science in Practice    
+### 2022 Open Science in Practice    
 
-#### Past winners    
+  
 
-##### 2021   
+### 2021   
 
 * Masters student award: [Shivani](https://twitter.com/shivanim675)   
 
