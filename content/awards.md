@@ -10,7 +10,9 @@ title: "SORTEE awards"
 ---
 
 * [Current Awards]({{< ref "awards.md#current-awards" >}})   
-* [past Awards]({{< ref "awards.md#past-awards" >}})   
+* [Past Awards Winners]({{< ref "awards.md#past-awards-winners" >}})
+* [Past Awards Descriptions]({{< ref "awards.md#past-awards-descriptions" >}})
+* [TOP Publication Assessment Rubric]({{< ref "awards.md#top-rubric-for-publication-assessment" >}})    
 
 &nbsp;
 &nbsp;
@@ -20,7 +22,7 @@ title: "SORTEE awards"
 &nbsp;
 
 
-## Current Awards
+# Current Awards
 
 &nbsp;
 
@@ -157,17 +159,31 @@ The information provided on this page is partially modeled on [AIMOS awards](htt
 
 &nbsp;    
 
-## Past Awards
+# Past Awards Winners
+
 
 &nbsp;
 
-### 2022
-
-Nominations for the 2022 SORTEE awards closed on 15 May 2022.  
+## 2022   
 
 &nbsp;
 
-### 2022 Open Science in Promotion   
+## 2021   
+
+* Masters student award: [Shivani](https://twitter.com/shivanim675)   
+
+* PhD student award: [Nicole Torres-Tamayo](https://twitter.com/PaleoNicole)   
+
+* Postdoctoral research associate award: [Benjamin Paffhausen](https://scholar.google.com/citations?user=PBBBWjEAAAAJ&hl=de)  
+
+&nbsp;  
+
+
+# Past Awards Descriptions
+
+## 2021 - 2022 Open Science in Promotion   
+
+&nbsp;
 
 #### Award Description    
 
@@ -183,19 +199,7 @@ Two separate awards were available in 2022: one for early career (5 or fewer yea
 
 &nbsp;
 
-### 2022 Open Science in Practice    
-
-  
-
-### 2021   
-
-* Masters student award: [Shivani](https://twitter.com/shivanim675)   
-
-* PhD student award: [Nicole Torres-Tamayo](https://twitter.com/PaleoNicole)   
-
-* Postdoctoral research associate award: [Benjamin Paffhausen](https://scholar.google.com/citations?user=PBBBWjEAAAAJ&hl=de)  
-
-&nbsp;    
+### 2021 - 2022 Open Science in Practice      
 
 #### Award Description    
 
@@ -221,7 +225,8 @@ The criteria for judging submissions are based on [TOP journal guidelines](https
 
 &nbsp;
 
-## TOP Rubric for Publication Assessment   
+
+# TOP Rubric for Publication Assessment   
  *(1 point for each checkbox)*     
 
 1. Data, Analytical Methods, Code, and Research Materials Transparency   
