@@ -26,11 +26,11 @@ title: "SORTEE awards"
 
 &nbsp;
 
-## 2023 Awards    
+## 2023 Awards [ !!! UPDATED DEADLINE !!! ]     
 
 
 **Nominations for the 2023 SORTEE are open now - submit your nominations via [GoogleForm](https://forms.gle/fez14JDVx2FcGWFp7).    
-The nominations will close on 1 September 2023**.       
+The nominations will close on 1 October 2023 [ !!! UPDATED DEADLINE !!! ]**.        
 
 &nbsp;   
 
