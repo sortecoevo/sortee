@@ -56,7 +56,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 [Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(Secretary)** is a post-doctoral researcher at the University of Glasgow.   
 &nbsp;  
 
-![Patrice Pottier](/img/people/PatricePottier.png)  
+![Patrice Pottier](/img/people/PatricePottier_smaller.png)  
 [Patrice Pottier](http://www.i-deel.org/patrice-pottier.html) is a PhD student at the University of New South Wales.  
 &nbsp;
 
@@ -213,7 +213,7 @@ Malika Ihle (Overall support and feedback)
 Inês Silva (Website resource curator)    
 Pike Spector (Workshop scheduling and organization)   
 Isa Elegbede (Workshop scheduling and organization)   
-Kija Gahm (Zotero resource curator, Board liason & Interim coordinator for in-person meetups)    
+Kaija Gahm (Zotero resource curator, Board liason & Interim coordinator for in-person meetups)    
 
 &nbsp;
 &nbsp;
