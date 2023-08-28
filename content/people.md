@@ -86,7 +86,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;
 
 ![Rose O’Dea](/img/people/RoseODea.png)   
-[Rose O’Dea](https://www.roseodea.com/) **(President)** is a postdoctoral researcher, currently based in the MetaMelb Research Group at The University of Melbourne.   
+[Rose O’Dea](https://www.roseodea.com/) **(President)** **(President-Elect)** is a postdoctoral researcher, currently based in the MetaMelb Research Group at The University of Melbourne.   
 &nbsp;
 
 ![Tim Parker](/img/people/TimParker.png)   
@@ -103,7 +103,7 @@ As specified in the [SORTEE bylaws](https://www.sortee.org/bylaws/), the Executi
 Current officers are:
 &nbsp;
 
-[Rose O’Dea](https://www.roseodea.com/) **(President)**  
+[Rose O’Dea](https://www.roseodea.com/) **(President and President-Elect)**   
 [Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(Secretary)**  
 [Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)**    
 [Dominique Roche](https://dominiqueroche.weebly.com/) **(Past-President)**    
