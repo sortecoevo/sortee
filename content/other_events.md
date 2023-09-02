@@ -79,7 +79,7 @@ Note this webinar was originally scheduled for June, but has since been moved to
 ### **Title:** *Integrating JavaScript libraries into R for Dynamic Visualizations*
 
 **Presenters:** Sam Csik and An Bui   
-**Type:** Webinar   
+**Type:** Workshop   
 **Date and Time:** May 23 2023 at 16:00 UTC   
 **Timezone(s):** Americas/Europe    
 **Duration:** 1.5hrs  
