@@ -34,7 +34,7 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 ### **Title:** *Dashboards: Using R to Create Actionable Science*
 
 **Presenters:** TBD   
-**Type:** Webinar   
+**Type:** Workshop   
 **Date and Time:** September 28 2023 at 15:00 UTC     
 **Timezone(s):** Americas/Europe    
 **Duration:** 2 hrs  
