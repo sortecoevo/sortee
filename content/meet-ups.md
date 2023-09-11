@@ -73,8 +73,8 @@ As described in the [Code of Conduct](https://www.sortee.org/codeofconduct/), th
 | {{< figure src="/blog/images/ESA2022_catchup.JPG"  width="300px" >}} |{{< figure src="/blog/images/ESEB2022_catchup.JPG" alt="SORTEE meetup Prague 2022" width="300px" >}} |
 | ESA / CSEE in Montreal, August 2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ESEB in Prague, August 2022 |
 | &nbsp; | &nbsp; |
-| {{< figure src="/blog/images/SFE2-GfO-EEF_catchup1.jpeg"  width="300px" >}} |{{< figure src="/blog/images/SFE2-GfO-EEF_catchup2.jpeg" width="300px" >}} |
-| SFE2-GfÖ-EEF in Metz, November 2022 | &nbsp; |
+| {{< figure src="/blog/images/SFE2-GfO-EEF_catchup1.jpeg"  width="300px" >}} | {{< figure src="/blog/images/Behaviour_Bielefeld.jpg"  width="300px" >}} |
+| SFE2-GfÖ-EEF in Metz, November 2022 | Behaviour in Bielefeld, August 2023 |
 | &nbsp; | &nbsp; |
-| {{< figure src="/blog/images/Behaviour_Bielefeld.jpg"  width="300px" >}} |{{< figure src="/blog/images/ESA2023.jpg" alt="SORTEE meetup Prague 2022" width="300px" >}} |
-| Behaviour in Bielefeld, August 2023 | ESA in Portland, August 2023 |
+| {{< figure src="/blog/images/ESA2023.jpg" alt="SORTEE meetup Prague 2022" width="300px" >}} | |
+| ESA in Portland, August 2023 | |
