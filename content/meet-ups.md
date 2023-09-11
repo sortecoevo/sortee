@@ -5,6 +5,10 @@ author: ML
 date: "2022-08-21"
 description: Other events by Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: "SORTEE meet-ups at other conferences"
+markup:
+  goldmark:
+   renderer:
+     unsafe: true
 ---
 
 SORTEE members attend many different (in-person, hybrid, or online) conferences in different disciplines all around the world. The purpose of this page is to help you meet up with other SORTEE members at these conferences and / or to spread the word about SORTEE at these conferences.    
@@ -60,30 +64,17 @@ As described in the [Code of Conduct](https://www.sortee.org/codeofconduct/), th
 
 &nbsp;
 
-## Past meet-ups   
-
-&nbsp;  
-
-### ESA / CSEE in Montreal on 16 August 2022
-
-{{< figure src="/blog/images/ESA2022_catchup.JPG" alt="SORTEE meetup Montreal 2022" width="600px" >}}
-
-&nbsp;  
-
-### ESEB in Prague on 18 August 2022
-
-{{< figure src="/blog/images/ESEB2022_catchup.JPG" alt="SORTEE meetup Prague 2022" width="600px" >}}
-
-&nbsp;  
-
-### SFE2-GfÖ-EEF in Metz on 21 November 2022
-
-{{< figure src="/blog/images/SFE2-GfO-EEF_catchup1.jpeg" alt="SORTEE meetup Metz 2022" width="300px" >}} 
-&nbsp; 
-{{< figure src="/blog/images/SFE2-GfO-EEF_catchup2.jpeg" alt="SORTEE meetup Metz 2022" width="300px" >}}
-
-&nbsp; 
-
----
+## Photos from some SORTEE meet-ups and outreach events at in-person conferences 
 
 &nbsp;
+
+|  |  |
+|---|---|
+| {{< figure src="/blog/images/ESA2022_catchup.JPG"  width="300px" >}} |{{< figure src="/blog/images/ESEB2022_catchup.JPG" alt="SORTEE meetup Prague 2022" width="300px" >}} |
+| ESA / CSEE in Montreal, August 2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ESEB in Prague, August 2022 |
+| &nbsp; | &nbsp; |
+| {{< figure src="/blog/images/SFE2-GfO-EEF_catchup1.jpeg"  width="300px" >}} |{{< figure src="/blog/images/SFE2-GfO-EEF_catchup2.jpeg" width="300px" >}} |
+| SFE2-GfÖ-EEF in Metz, November 2022 | &nbsp; |
+| &nbsp; | &nbsp; |
+| {{< figure src="/blog/images/Behaviour_Bielefeld.jpg"  width="300px" >}} |{{< figure src="/blog/images/ESA2023.jpg" alt="SORTEE meetup Prague 2022" width="300px" >}} |
+| Behaviour in Bielefeld, August 2023 | ESA in Portland, August 2023 |
