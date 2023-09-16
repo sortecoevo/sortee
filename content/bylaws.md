@@ -9,6 +9,9 @@ description: Bylaws of Society for Open, Reliable, and Transparent Ecology and E
 title: Bylaws
 ---
 
+_The SORTEE policy document can be found [here](https://docs.google.com/document/d/1BUVO9JAiyV4Fw90jHS-HpaDmKPSxGyuBwVzVbC13PFU/edit)._      
+
+&nbsp;
 
 #### Article 1. Corporate Name and Offices  
  
