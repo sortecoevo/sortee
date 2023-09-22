@@ -37,11 +37,6 @@ paginate = 4
 
 [[menu.main]]
     parent = "documents"
-    name = "Supporters"
-    url = "/supporters/"
-
-[[menu.main]]
-    parent = "documents"
     name = "Awards"
     url = "/awards/"
 
