@@ -138,6 +138,7 @@ paginate = 4
     name = "Supporters"
     url = "/supporters/"
     weight = 75
+
 # Top bar social links menu
 
 [[menu.topbar]]
@@ -286,7 +287,9 @@ paginate = 4
     subtitle = "EcoEvoRxiv is the official preprint server of SORTEE"
     title_2 = "Order a t-shirt"
     title_3 = "SORTEE Conference 2023"
-    subtitle_3 = "Registration now open!"
+    subtitle_3 = "17th - 18th October, register here!"
+    title_4 = "Volunteer for SORTEE"
+    subtitle_4 = "Join a committee or our board of directors in 2024"
 
 [params.recent_posts]
     enable = false
