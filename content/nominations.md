@@ -12,7 +12,7 @@ title: "Nominations for SORTEE volunteers"
 &nbsp;
 
 ### Board of Directors:
-Directors are elected by SORTEE members each November and serve three-year terms. The seats available in 2024 are:
+Directors are elected by SORTEE members each November and serve three-year terms. All candidates nominated for board positions will receive a SORTEE t-shirt as a thank-you for running in the election. The seats available in 2024 are:
 
 __Early-career seat__ any SORTEE member with <10 years working in a professional capacity at the time of election is eligible
 
