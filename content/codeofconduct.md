@@ -10,7 +10,7 @@ title: Code of Conduct
 ---
 
 
-The Society for Open Reliable Transparent Ecology and Evolutionary biology (SORTEE) holds professional conferences and other events to enable its members to work to improve methods and practices in ecology, evolutionary biology, and related disciplines, build professional networks, and receive continuing education. SORTEE is dedicated to providing a harassment-free event experience for everyone, regardless of gender, race, ethnicity, sexual orientation, gender identity, gender expression, disability, age, appearance, religion, or other group status. We do not tolerate harassment of event participants in any form. Event participants violating these rules may be sanctioned or expelled without a refund at the discretion of the SORTEE Executive Committee or event organizers.  
+The Society for Open Reliable Transparent Ecology and Evolutionary biology (SORTEE) holds professional conferences and other events to enable its members to work to improve methods and practices in ecology, evolutionary biology, and related disciplines, build professional networks, and receive continuing education. SORTEE is dedicated to providing a harassment-free event experience for everyone, regardless of gender, race, ethnicity, sexual orientation, gender identity, gender expression, disability, age, appearance, religion, or other group status. We do not tolerate harassment of event participants in any form. Event participants violating these rules may be sanctioned or expelled without a refund at the discretion of the SORTEE Board of Directors or event organizers.  
 
 SORTEE is dedicated to diversity, equity, inclusion, and the free expression of ideas. SORTEE seeks to provide an environment in which diverse participants may learn, network, and enjoy the company of colleagues in an environment of mutual respect. We recognize a shared responsibility to create and hold that environment for the benefit of all. Some behaviors, therefore, are specifically prohibited:  
 
@@ -38,9 +38,9 @@ We expect participants to follow these rules at all events and event-related soc
 
 ### Reporting
 
-If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to any member of the SORTEE Executive Committee or event organizers. Alternatively, you may [report your concerns electronically](https://forms.gle/31LhHvGfu9bbUMa2A), with the option to remain anonymous.  
+If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to any member of the SORTEE Board of Directors or event organizers. Alternatively, you may [report your concerns electronically](https://forms.gle/31LhHvGfu9bbUMa2A), with the option to remain anonymous.  
 
-All Executive Committee members and event organizers are required to pass along all reports to the SORTEE President (or if the President may have a conflict of interest, to at least 3 uninvolved members of the SORTEE Executive Committee).  
+All members of the Board of Directors and event organizers are required to pass along all reports to the SORTEE President (or if the President may have a conflict of interest, to at least 3 uninvolved members of the SORTEE Board of Directors).  
 
 
 ### References  
