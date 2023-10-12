@@ -50,7 +50,9 @@ SORTEE is thankful for the University of New Hampshire for providing us with Ame
 
 -   U7: Diversity and inclusion in big data ecology
 
--   W4: Data validation for small and medium sized datasets in ecology and evolution W5: Creating reproducible workflows in R with the targets::package
+-   W4: Data validation for small and medium sized datasets in ecology and evolution
+
+-   W5: Creating reproducible workflows in R with the targets::package
 
 This comes as a request from attendees. Please, feel free to make use of these resources as well if you need to, and encourage people to always reach out with their needs when registering for the conference. We will do our best to accommodate requests!
 
