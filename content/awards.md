@@ -29,16 +29,29 @@ title: "SORTEE awards"
 ## 2023 Awards     
 
 
-**Nominations for the 2023 SORTEE are open now - submit your nominations via [GoogleForm](https://forms.gle/fez14JDVx2FcGWFp7).    
-The nominations will close on 1 October 2023 [  UPDATED DEADLINE!  ]**.        
+**Nominations for the 2023 SORTEE are closed now - see below for the award winners and process summary**.        
 
 &nbsp;   
 
-The winners will be announced during the SORTEE2023 conference (17 October 0700 UTC to 18 October 0700 UTC) and then posted on the [SORTEE website](www.sortee.org) and social media.    
+The 2023 SORTEE Awards was delighted to receive 7 applications for the ‘Student Award’ and 17 applications for the ‘Researcher Award’. Each application was judged by two selection committee members who had no conflict of interest with the candidate. 7 applicants were judged eligible for the ‘Student Award’ and 15 applicants were judged eligible for the ‘Researcher Award’. These eligible candidates were entered as finalists into a lottery to select the winner for each award. The lottery was run using a random ‘spin the wheel’ program, requiring one re-spin to ensure fulfilment of SORTEE Diversity, Equity and Inclusion policy.   
 
 &nbsp;   
 
-This year we have two (redesigned) award categories: 2023 Student Award and 2023 Researcher Award - for details please see the descriptions below.  
+**The winner of the ‘Student Award’ is: Euan Young**.     
+Euan is a third-year PhD student at the University of Groningen in the Netherlands. He has demonstrated Open Science practices by publishing his first PhD chapter as a pre-print and making the associated data and R code freely available.   
+
+&nbsp;   
+
+**The winner of the ‘Researcher Award’ is: Birgit Szabo**.    
+Birgit is a post-doc at the University of Bern in Switzerland. They have been dedicated to Open Science throughout their career, for example by making the raw data, meta-data and fully annotated R code from all of their publications openly available.   
+
+&nbsp;   
+
+The SORTEE Awards Committee would like thank all of the finalists for their applications. In particular, the committee wishes to highlight that they received a couple of outstanding applications, which they feel are deserving of a career award, that the current lottery system does not allow recognition of. The SORTEE awards committee will look in to establishing a new career award to fill this gap.       
+
+&nbsp;    
+
+This year we had two (redesigned) award categories: 2023 Student Award and 2023 Researcher Award - for details please see the descriptions below.  
 
 &nbsp;    
 
