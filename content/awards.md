@@ -126,7 +126,7 @@ This award aims to recognize and reward student researchers who have endeavoured
 &nbsp;   
 
 **Applications**.  
-Please submit via [GoogleForm](https://forms.gle/fez14JDVx2FcGWFp7). 
+Nominations are now closed for 2023.      
 
 &nbsp;    
 
@@ -158,7 +158,7 @@ This award aims to recognize and reward researchers who have made consistent and
 &nbsp;    
 
 **Applications**  
-Please submit via [GoogleForm](https://forms.gle/fez14JDVx2FcGWFp7).   
+Nominations are now closed for 2023.    
 
 &nbsp;      
 
