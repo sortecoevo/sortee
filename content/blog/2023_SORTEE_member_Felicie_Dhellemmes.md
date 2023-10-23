@@ -1,4 +1,5 @@
 ---
+banner: ../img/logo.png
 date: "2023-07-13"
 slug: 2023_sortee_member_Felicie_Dhellemmes
 author: SORTEE
