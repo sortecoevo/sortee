@@ -21,7 +21,7 @@ The name of this Corporation shall be SORTEE (Society for Open, Reliable, and Tr
 
 #### Article 2. Purpose   
 
-SORTEE is a service organization which brings together researchers working to improve reliability and transparency through cultural and institutional changes in ecology, evolutionary biology, and related fields broadly defined. Anyone interested in improving research in these disciplines is welcome to join, regardless of experience. The society is international in scope, membership, and objectives.
+SORTEE is a research and educational organization within the meaning of Section 501(c)(3) of the Internal Revenue Code that brings together researchers working to improve reliability and transparency through cultural and institutional changes in ecology, evolutionary biology, and related fields broadly defined. Anyone interested in improving research in these disciplines is welcome to join, regardless of experience. The society is international in scope, membership, and objectives.
  
 &nbsp;  
 

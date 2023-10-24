@@ -269,7 +269,7 @@ paginate = 4
     enable = true
     icon = "fas fa-egg"
     title = "Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)"
-    subtitle = "SORTEE is a service organization which brings together researchers working to improve reliability and transparency through cultural and institutional changes in ecology, evolutionary biology, and related fields broadly defined. Anyone interested in improving research in these disciplines is welcome to join, regardless of experience. The society is international in scope, membership, and objectives."
+    subtitle = "SORTEE is a service organization that brings together researchers working to improve reliability and transparency through cultural and institutional changes in ecology, evolutionary biology, and related fields broadly defined. Anyone interested in improving research in these disciplines is welcome to join, regardless of experience. The society is international in scope, membership, and objectives."
     link_url = "/join"
     link_text = "Join"
 
