@@ -281,8 +281,6 @@ paginate = 4
     title = "Submit a preprint"
     subtitle = "EcoEvoRxiv is the official preprint server of SORTEE"
     title_2 = "Order a t-shirt"
-    title_4 = "Volunteer for SORTEE"
-    subtitle_4 = "Join a committee or our board of directors in 2024"
 
 [params.recent_posts]
     enable = false
