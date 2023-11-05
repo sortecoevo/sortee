@@ -37,13 +37,17 @@ The 2023 SORTEE Awards was delighted to receive 7 applications for the ‘Studen
 
 &nbsp;   
 
-**The winner of the ‘Student Award’ is: Euan Young**.     
-Euan is a third-year PhD student at the University of Groningen in the Netherlands. He has demonstrated Open Science practices by publishing his first PhD chapter as a pre-print and making the associated data and R code freely available.   
+**The winner of the ‘Student Award’ is: Euan Young**     
+Euan is a third-year PhD student at the University of Groningen in the Netherlands. He has demonstrated Open Science practices by publishing his first PhD chapter as a pre-print and making the associated data and R code freely available.    
+
+*See [Past Awards Winners]({{< ref "awards.md#past-awards-winners" >}}) section for a full winner profile!*   
 
 &nbsp;   
 
-**The winner of the ‘Researcher Award’ is: Birgit Szabo**.    
+**The winner of the ‘Researcher Award’ is: Birgit Szabo**    
 Birgit is a post-doc at the University of Bern in Switzerland. They have been dedicated to Open Science throughout their career, for example by making the raw data, meta-data and fully annotated R code from all of their publications openly available.   
+
+*See [Past Awards Winners]({{< ref "awards.md#past-awards-winners" >}}) section for a full winner profile!*   
 
 &nbsp;   
 
@@ -51,7 +55,7 @@ The SORTEE Awards Committee would like thank all of the finalists for their appl
 
 &nbsp;    
 
-This year we had two (redesigned) award categories: 2023 Student Award and 2023 Researcher Award - for details please see the descriptions below.  
+This year we had two (redesigned) award categories: 2023 Student Award and 2023 Researcher Award - for details please see the descriptions below.     
 
 &nbsp;    
 
@@ -175,6 +179,30 @@ The information provided on this page is partially modeled on [AIMOS awards](htt
 # Past Awards Winners   
 
 &nbsp;   
+
+## 2023    
+
+**2023 Open Science Student Award**   
+![Euan Angus Young](/img/people/EuanYoung.png)    
+### *Name*:   Euan Angus Young    
+*Pronouns*:   he/him    
+*Affiliation*:    University of Groningen, The Netherlands   
+*Twitter*:   @euantheyoung   
+*Profile*:    I am interested in how an evolutionary perspective can inform our understanding of human health and disease, and how humans themselves can be used as a model for understanding evolutionary processes. To these ends, I use a data-driven approach that exploits both historical and contemporary sources. When embarking upon such research, you become aware of how many decisions must be made after data collection, but before results are reported and it is vital that we are transparent with this process of data handling and analysis. Of course, these details would be included in any published article, but with the sharing of code and data we can allow the verification of these steps with more transparency. This gives others the opportunity to check our work directly and replicate, if desired, making open science practises an essential tool for increasing the transparency and robustness of scientific findings.   
+
+&nbsp;    
+
+
+**2023 Open Science Researcher Award**    
+![Birgit Szabo](/img/people/BigitSzabo.png)    
+### *Name*:   Birgit Szabo    
+*Pronouns*:   they/them    
+*Twitter*:   @birgit_szabo    
+*Affiliation*:    Division of Behavioural Ecology, Institute of Ecology and Evolution, University of Bern, Switzerland   
+*Profile*:    I consider myself a cognitive ecologist studying the link between ecology, cognition and behaviour in my chosen model system - lizards. I use lizards as models because they express diverse ecology including sociality. By studying the consequences of social life on cognition, social behaviour and stress coping we can better understand how social life influences these traits that might help individuals strive in a social environment. In my research, I am dedicated to research integrity which makes open science an integral part of my work. I have incorporated open science practices into my workflow so I can publish preprints, data and code without much additional effort, which is key in the busy schedule of research. I have also been luck to publish much of my work open access. Even though I put much effort into open science practices, I want to continue improving hopefully with my first preregistration in the near future. As a supervisor and mentor I also strive to help students and colleagues understand the importance of open science making some progress in changing people’s minds about open science. I am convinced that open science will help us produce better science in the future.       
+
+&nbsp;   
+&nbsp;    
 
 ## 2022    
 
