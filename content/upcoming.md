@@ -34,4 +34,4 @@ We strongly encourage proposals for all contribution types from people at a wide
 
 For facilitated sessions (Workshops, Unconferences, and Hackathons), we welcome proposals from small teams (as well as individuals). We encourage teams to include diverse perspectives, for instance with facilitators from different countries and balanced in terms of gender and career stage. Facilitation by early career researchers (students or early career postdocs) is warmly encouraged.
 
-We encourage people with any questions about accessibility in the submission process or the events themselves to contact us via [sorteeconf2022@gmail.com](mailto:sorteeconf2022@gmail.com). Similarly, please feel free to contact us if you would like guidance as you prepare your proposals and submissions.
+We encourage people with any questions about accessibility in the submission process or the events themselves to contact us via [conf.sortee@gmail.com](mailto:conf.sortee@gmail.com). Similarly, please feel free to contact us if you would like guidance as you prepare your proposals and submissions.
