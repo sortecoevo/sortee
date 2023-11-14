@@ -48,6 +48,25 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 
 &nbsp;   
 
+**Members serving from 2024 through 2026 are:**       
+
+&nbsp;  
+
+![Saeed Shafiei Sabet](/img/people/SaeedShafieiSabet.png)  
+[Saeed Shafiei Sabet](https://www.researchgate.net/profile/Saeed_Shafiei_Sabet) is an Assistant Professor and reader in Animal Behaviour at University of Guilan, Iran, interested in anthropogenic noise impacts, bioacoustics, animal welfare and open science.   
+
+&nbsp;  
+
+![Matthieu Paquet](/img/people/MatthieuPaquet.png)  
+[Matthieu Paquet](https://sete-moulis-cnrs.fr/en/recherches/change/equipe/item/1169-paquet-matthieu) is a researcher working on behavioural ecology and population dynamics at the Theoretical and Experimental Ecology Station (SETE,CNRS).  
+
+&nbsp;
+
+![Malgorzata (Losia) Lagisz](/img/people/LosiaLagisz.png)  
+[Malgorzata (Losia) Lagisz](https://mlagisz.weebly.com/) is a Research Fellow at the University of New South Wales Sydney, where she works on meta-research and evidence synthesis.
+
+&nbsp;  
+
 **Members serving from 2023 through 2025 are:**       
 
 &nbsp;  
