@@ -15,7 +15,7 @@ SORTEE members attend many different (in-person, hybrid, or online) conferences 
 
 [Find out what SORTEE meet-ups have already been scheduled at in-person conferences.](https://docs.google.com/spreadsheets/d/1QfzSdTNzRR-gbILW2BNqrQTpWIjduR-7Jtw2lataGbk/edit?usp=sharing)     
 
-[Let us know you intend to represent SORTEE at a conference (and possibly apply for funds for in-person meet-up or request access to promotional material).](https://forms.gle/rEXRYNoCXWBDFiLPA)
+[Let us know you want to represent SORTEE at a conference.](https://forms.gle/rEXRYNoCXWBDFiLPA)
 
 &nbsp;
 
@@ -30,9 +30,9 @@ SORTEE members attend many different (in-person, hybrid, or online) conferences 
 ### In-person meet ups at conferences 
 As a SORTEE member attending the in-person part of a conference, we may be able to support you financially (funds may be limited) to organise an in-person meet-up. At meet-ups, SORTEE members and potential members gather in an informal setting to discuss open, reliable and transparent methods in general, and SORTEE specifically. These meet-ups develop community, attract new members,  and provide learning opportunities. Please consider also presenting promotional material at this conference (e.g. a poster, a short presentation, or an information booth) by checking out the next section.
 
-We will fund no more than one meet-up per conference, so please do register your interest through our form so we can put interested parties in touch to collaborate on organizing that meet-up. Interested parties are expected to liaise with the conference organisers (where feasible) to advertise their event, perhaps include it in the official conference programme, etc. SORTEE will advertise the meet-ups through our social media and Slack workspace.
-
-When funds are available, we can provide support for food, drinks (no more than one alcoholic drink per person), SORTEE T-Shirts, and SORTEE hex stickers. We are only able to reimburse costs that are pre-approved and after receiving the receipts at treasurer.sortee@gmail.com.
+We will fund no more than one meet-up per conference, so please register your interest in two ways:
+1. Please complete [the form to declare your intent to host a meet-up](https://forms.gle/rEXRYNoCXWBDFiLPA) at a given conference  
+2. Also, please complete [the form to request funds](https://forms.gle/ZSMXphg8QT7aAfL59) to support the meet-up, for instance for food, drinks, SORTEE T-shirts, SORTEE stickers, etc. We are only able to reimburse costs that are pre-approved and after receiving the receipts at [treasurer.sortee@gmail.com](mailto:treasurer.sortee@gmail.com)
 
 We request that you choose a location that is accessible, safe, and inclusive for all conference attendees, e.g. an accessible space within the conference venue, or e.g. an outdoor cafe/bar/restaurant in a safe neighborhood (with consideration to gender, sexual identities, ethnicities, and disabilities) and that doesn’t exclusively serve alcohol. Please liaise with the local conference organisers if you need advice with this.  
 
@@ -49,8 +49,11 @@ To grant you access, we request that you 1) are a current SORTEE member, and 2) 
 
 &nbsp;
 
-### Application form
-[Apply for funds for in-person meet-up or request access to promotional material.](https://forms.gle/rEXRYNoCXWBDFiLPA)
+### Application forms
+
+1. [Apply to host an in-person meet-up or represent SORTEE at a conference](https://forms.gle/rEXRYNoCXWBDFiLPA)
+
+2. [Apply for funds to support an in-person meet-up](https://forms.gle/ZSMXphg8QT7aAfL59)
 
 &nbsp;
 
