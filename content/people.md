@@ -141,7 +141,7 @@ Current officers are:
 
 ### Advocacy Committee   
 
-A new committee in 2022, the Advocacy committee follows two ‘Unconference’ sessions at the 2021 SORTEE conference, asking whether this society should actively advocate for policy change. The Advocacy committee will develop policy statements and propose advocacy projects for improving the openness, reliability, and transparency of research in ecology and evolutionary biology.     
+The Advocacy committee follows two ‘Unconference’ sessions at the 2021 SORTEE conference, asking whether this society should actively advocate for policy change. The Advocacy committee will develop policy statements and propose advocacy projects for improving the openness, reliability, and transparency of research in ecology and evolutionary biology.     
 
 Current members are:   
 
@@ -160,7 +160,7 @@ Shinichi Nakagawa (Editorial Journal Liaison)
 
 ### Conference Committee	 
 
-The Conference committee organizes the virtual SORTEE Conference, which will be held in October. If you have the capacity to donate time and/or money to organising the conference, please email the Committee Chair [Matthieu Paquet](mailto:matthieu.paquet@outlook.com).    
+The Conference committee organizes the virtual SORTEE Conference, held in October. If you have the capacity to donate time and/or money to organising the conference, please email the Committee Chair [Matthieu Paquet](mailto:matthieu.paquet@outlook.com).    
 
 Current members are:   
 
@@ -181,7 +181,7 @@ Ineta Kačergytė (Platform manager)
 
 ### Diversity, Equity, and Inclusion Committee	 
 
-To promote diversity, equity, and inclusion within SORTEE’s activities and committees, the 2022 DEI committee will be working more closely with specific committees by having dedicated ‘committee consultants’ to the Conference, Membership, Education & Outreach, and Media committees. These consultants will attend meetings of their nominated committee and advise on DEI matters. There is also a DEI ‘member consultant’ who is available to SORTEE members for advice on improving DEI in their own practice.    
+The Diversity, Equity, and Inclusion Committee promotes diversity, equity, and inclusion within SORTEE’s activities and committees.    
 
 Current members are:   
 
@@ -228,7 +228,7 @@ Mario A. Sandoval-Molina
 
 ### Education and Outreach Committee   
 
-The Education & Outreach committee develops plans to provide educational resources to individuals and organizations interested in learning more about improving research by making it more open, reliable, and transparent.    
+The Education & Outreach committee provides educational resources to individuals and organizations interested in learning more about improving research by making it more open, reliable, and transparent.    
 
 Current members are:   
 
@@ -287,7 +287,7 @@ Szymek Drobniak (Visual designer)
 
 ### Budget Committee  		
 
-The Budget Committee reviews and approves ama; expenditures fro SORTEE budget for our statutory activities.      
+The Budget Committee reviews and approves proposed expenditures.      
 
 Current members are:  
 
