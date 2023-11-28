@@ -4,22 +4,15 @@ aliases:
 author: ML
 date: "2022-02-12"
 description: People of Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
-title: People
+title: Previous Board Members
 ---
-
-This page lists SORTEE's past Board members.
-
-&nbsp;
-
----   
-
 
 ### Former members of the Board of Directors
 
 &nbsp;  
 
 ![Esteban Fernandez-Juricic](/img/people/EstebanFernandezJuricic.png)   
-2022-2023
+2022-2023   
 [Esteban Fernandez-Juricic](http://www.estebanfj.com) is a Professor of Biological Sciences at Purdue University (USA). His research is focused on behavioral ecology, visual ecology, and conservation ecology. He is interested in increasing computational reproducibility, particularly during the peer-review process.
 
 &nbsp;   
@@ -56,17 +49,21 @@ This page lists SORTEE's past Board members.
 ![Clint Kelly](/img/people/ClintKelly.png)    
 2020-2021      
 [Clint Kelly](https://kellylab.weebly.com/) is an Associate Professor of Biology and Canada Research Chair in Behavioural Ecology at the Université du Québec à Montréal.     
+&nbsp; 
 
-&nbsp;   
-&nbsp;   
+![Rob Lanfear](/img/people/RobLanfear.png)  
+2023    
+[Rob Lanfear](https://researchers.anu.edu.au/researchers/lanfear-rm) is a Professor at the Australian National University.
+
 &nbsp;   
 
 ---
 
+&nbsp;  
+
 ### Founding Members   
 
 Members who contributed to the establishment of the Society in 2020 were:   
-&nbsp;
 
 [Alfredo Sánchez-Tojar](https://www.uni-bielefeld.de/(en)/biologie/Evolutionsbiologie/mitarbeiter/tojar.html)   
 [Allyson O’Brien](https://allysonobrien.com/home/)   

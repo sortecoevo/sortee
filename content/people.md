@@ -85,10 +85,6 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 
 &nbsp;  
 
-![Rob Lanfear](/img/people/RobLanfear.png)  
-[Rob Lanfear](https://researchers.anu.edu.au/researchers/lanfear-rm) is a Professor at the Australian National University.
-
-&nbsp; 
 
 **Members serving from 2022 through 2024 are:**       
 
