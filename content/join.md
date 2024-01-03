@@ -7,13 +7,13 @@ description: Join Society for Open, Reliable, and Transparent Ecology and Evolut
 title: Join
 ---
 
-### 2023 Membership   
+### 2024 Membership   
 
-[Become a SORTEE member in 2023](https://www.joinit.org/o/sortee/)
+[Become a SORTEE member in 2024](https://www.joinit.org/o/sortee/)
 
-Last year, we moved to a suggested membership fee model to support the society’s continued operation and growth (e.g., board insurance, website hosting, membership management software, stipends to monthly workshop and webinar speakers, legal and administrative fees, etc.). 
+In 2022, we moved to a suggested membership fee model to support the society’s continued operation and growth (e.g., board insurance, website hosting, membership management software, stipends to monthly workshop and webinar speakers, legal and administrative fees, etc.). 
 
-We kept the 2022 suggested membership fees the same for the 2023 calendar year (amounts are in US$):
+We kept the 2022 suggested membership fees the same for 2023 and 2024 (amounts are in US$):
 * Senior-career professionals: $40
 * Early-career professionals: $20
 * Students: $10
