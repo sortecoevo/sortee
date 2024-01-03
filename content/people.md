@@ -73,7 +73,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;  
 
 ![Ed Ivimey-Cook](/img/people/EdIvimeyCook.png)  
-[Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(Secretary)** is a post-doctoral researcher at the University of Glasgow.   
+[Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(President-Elect)** is a post-doctoral researcher at the University of Glasgow.   
 &nbsp;  
 
 ![Patrice Pottier](/img/people/PatricePottier_smaller.png)  
@@ -91,7 +91,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;   
 
 ![Kaija Gahm](/img/people/KaijaGahm.png)   
-[Kaija Gahm](http://kaijagahm.netlify.app/) is a PhD student at UCLA, studying spatiotemporal dynamics of vulture social networks in the Pinter-Wollman lab.   
+[Kaija Gahm](http://kaijagahm.netlify.app/) **(Secretary)** is a PhD student at UCLA, studying spatiotemporal dynamics of vulture social networks in the Pinter-Wollman lab.   
 &nbsp;
 
 ![Alexa Fredston](/img/people/AlexaFredston.png)   
@@ -103,11 +103,11 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;
 
 ![Dom Roche](/img/people/DomRoche.png)   
-[Dominique Roche](https://dominiqueroche.weebly.com/) **(Past-President)** is a Marie Skłodowska-Curie Global Fellow at Carleton University, Canada. He studies how open data improve transparency, reproducibility, and collaboration in science.   
+[Dominique Roche](https://dominiqueroche.weebly.com/) is a Marie Skłodowska-Curie Global Fellow at Carleton University, Canada. He studies how open data improve transparency, reproducibility, and collaboration in science.   
 &nbsp;
 
 ![Rose O’Dea](/img/people/RoseODea.png)   
-[Rose O’Dea](https://www.roseodea.com/) **(President)** **(President-Elect)** is a postdoctoral researcher, currently based in the MetaMelb Research Group at The University of Melbourne.   
+[Rose O’Dea](https://www.roseodea.com/) **(President)** is a postdoctoral researcher, currently based in the MetaMelb Research Group at The University of Melbourne.   
 &nbsp;
 
 ![Tim Parker](/img/people/TimParker.png)   
@@ -124,10 +124,9 @@ As specified in the [SORTEE bylaws](https://www.sortee.org/bylaws/), the Executi
 Current officers are:
 &nbsp;
 
-[Rose O’Dea](https://www.roseodea.com/) **(President and President-Elect)**   
-[Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(Secretary)**  
-[Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)**    
-[Dominique Roche](https://dominiqueroche.weebly.com/) **(Past-President)**    
+[Rose O’Dea](https://www.roseodea.com/) **(President)**   
+[Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(President-Elect)**  
+[Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)**      
 
 &nbsp;
 &nbsp;
