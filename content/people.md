@@ -126,7 +126,8 @@ Current officers are:
 
 [Rose O’Dea](https://www.roseodea.com/) **(President)**   
 [Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(President-Elect)**  
-[Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)**      
+[Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)**  
+[Kaija Gahm](http://kaijagahm.netlify.app/) **(Secretary)**   
 
 &nbsp;
 &nbsp;
@@ -140,12 +141,14 @@ The Advocacy committee follows two ‘Unconference’ sessions at the 2021 SORTE
 
 Current members are:   
 
-[Antica Culina](mailto:a.culina@yahoo.com)	**(Chair)**     
-Kevin Bairos-Novak	(Membership consultant)     
-Christina Buelow (Project & policy drafter)     
-Shreya Dimri (Researcher)   
-Max Czapanskiy    
-Shinichi Nakagawa (Editorial Journal Liaison)   
+[Joel Pick](mailto:joel.l.pick@gmail.com)	**(Chair)**     
+Daniel Morillo Cuadrado   
+Edward Ivimey-Cook    
+Elina Takola    
+Jake Williams   
+Julia Sharapi   
+Kevin Bairos-Novak    
+Shinichi Nakagawa   
 
 &nbsp;
 &nbsp;
@@ -160,13 +163,15 @@ The Conference committee organizes the virtual SORTEE Conference, held in Octobe
 Current members are:   
 
 
-[Matthieu Paquet](mailto:matthieu.paquet@outlook.com)	**(Chair)**     
-Edward Ivimey-Cook	(Past Chair)     
-Rachel Turba	(Advertiser)     
-Elina Takola	(Content submissions & selection)     
-Marija Purgar	(Registration & messaging)     
-Juliette Tariel-Adam	(Program manager)      
-Ineta Kačergytė (Platform manager)    
+[Marija Purgar](mailto:mpurgar@irb.hr)	**(Chair)**     
+Giulia Masoero    
+Ineta Kaƒçergytƒó   
+Juliette Tariel-Adam    
+Marija Purgar   
+Matthieu Paquet   
+Ramakrishnan Vasudeva   
+Sofia Paraskevopoulou   
+Stephanie Flaman    
 
 &nbsp;
 &nbsp;
@@ -181,15 +186,15 @@ The Diversity, Equity, and Inclusion Committee promotes diversity, equity, and i
 Current members are:   
 
 
-[Bawan Amin](mailto:bawan.amin@ucdconnect.ie)	(**Chair** / SORTEE member consultant)     
-Rachel Turba	(Consultant to the conference committee)   
-Malika Ihle	(Consultant to the education & outreach committee)     
-Joey Burant (Consultant to the fundraising committee)   
-Gabe Winter	(Consultant to the media committee)    
-Félicie Dhellemmes (Data analyst)      
-Coralie Williams (Climate survey analyst)        
-Easton White (Training developer)   
-Kevin Bairos-Novak (Strategy researcher)    
+[Brooke Long-Fox](mailto:brooke.long-fox@sdsmt.edu)	(**Chair**)     
+Bawan Amin     
+Coralie Williams    
+Easton White    
+Gabe Winter   
+Julia Sharapi   
+Malika Ihle   
+Michael Remke   
+Suz Everingham    
 
 &nbsp;
 &nbsp;
@@ -204,16 +209,21 @@ Current members are:
 
 
 [Daniel Noble](mailto:daniel.noble@anu.edu.au)	**(Chair)**    
-Noelle Schenk (Social media manager)  
-Jenna Braun (Editor)  
-Deme Gideon (Editor)  
-Stefan Vriend   
-Pablo Recio-Santiago    
-Anna Nordberg   
-Félicie Dhellemmes    
-Dr. Elvira D'Bastiani     
-Dr. Marta Acácio    
-Mario A. Sandoval-Molina    
+Birgit Szabo (Editor)   
+Brooke Long-Fox (Editor)
+Elvira D'Bastiani	(Editor)    
+Félicie Dhellemmes (Editor)    
+Gideon Deme	(Editor)    
+Jenna Braun	(Editor)    
+Katie Florko (Editor)    
+Melina de Souza Leite	(Portuguese Editor)   
+Noëlle Schenk (Editor)    
+Stefan Vriend (Editor/Co-chair Europe)    
+Matthieu Paquet (French Editor)   
+Yseult Héjja-Brichard (French Editor)   
+Marta Acácio (Portuguese Editor)   
+Mario A. Sandoval-Molina (Spanish Editor)    
+Pablo Recio-Santiago (Spanish Editor)       
 
 &nbsp;
 &nbsp;
@@ -228,12 +238,14 @@ The Education & Outreach committee provides educational resources to individuals
 Current members are:   
 
 
-[Natasha Gownaris](mailto:ngownaris@gmail.com)	**(Chair)**    
-Malika Ihle (Overall support and feedback)   
-Inês Silva (Website resource curator)    
-Pike Spector (Workshop scheduling and organization)   
-Isa Elegbede (Workshop scheduling and organization)   
-Kaija Gahm (Zotero resource curator, Board liason & Interim coordinator for in-person meetups)    
+[Iain Moodie](mailto:iain.moodie@biol.lu.se)	**(Chair)**    
+Arman Pili    
+Elizabeth Hrycyna   
+Max Czapanskiy    
+Michael Remke   
+Natasha Gownaris    
+Rachel Turba    
+Saeed Shafiei Sabet   
 
 &nbsp;
 &nbsp;
@@ -249,8 +261,11 @@ Current members are:
 
 
 [Dom Roche](mailto:dom.g.roche@gmail.com)	**(Chair)**     
-Joey Burant	(Application writer / Researcher)   
-Raphaël Royauté	(Donation seeker)   
+Barbara Class   
+Daniel Hoops    
+Natasha Tay   
+Raphael Royaute   
+Samuel Gascoigne    
 
 &nbsp;
 &nbsp;
@@ -266,13 +281,12 @@ Current members are:
 
 
 [Tim Parker](mailto:parkerth@whitman.edu)	**(Chair)**    
-Alfredo Sánchez-Tójar	(Twitter & Mastodon manager)   
-Gabe Winter (Twitter & Mastodon co-manager / DEI representative / Member profiles editor)   
-Malgorzata Lagisz	(Website co-maintainer)     
-Eleanor Jackson	(Website maintainer)  
-Rachael Blake (Blog editor)   
-Tuba Rizvi (Linkedin manager)  
-Szymek Drobniak (Visual designer)
+Alfredo Sánchez-Tójar   
+Caleb Onoja Akogwu    
+Eleanor Jackson   
+Gabe Winter   
+Malgorzata (Losia) Lagisz   
+Swastika Issar    
 
 &nbsp;
 &nbsp;
@@ -289,7 +303,8 @@ Current members are:
 
 [Tim Parker](mailto:parkerth@whitman.edu)	**(Chair)**    
 Alexa Fredston (Treasurer)   
-Malgorzata Lagisz
+Malgorzata Lagisz   
+Kaija Gahm   
 
 &nbsp;
 &nbsp;
@@ -297,17 +312,17 @@ Malgorzata Lagisz
 
 ---
 
-### Awards Committee  		
-
-The Awards Committee reviews awards scheme, solicits nominations and selects the award winners.        
+### Member Engagment Committee  		
 
 Current members are:   
 
 
-[Malgorzata Lagisz](mailto:losialagisz@gmail.com)	**(Chair)**     
-Hannah Dugdale   
-Sandra Hamel   
-Kari Norman   
+[Rose O'Dea](mailto:rose.eleanor.o.dea@gmail.com)	**(Chair)**     
+Charlotte Recapet   
+Malika Ihle   
+Matthieu Paquet   
+Natalie van Dis   
+Romy Zeiss    
 
 &nbsp;
 &nbsp;
