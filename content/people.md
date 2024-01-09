@@ -24,7 +24,7 @@ title: People
 * [Fundraising]({{< ref "people.md#fundraising-committee" >}})  
 * [Media]({{< ref "people.md#media-committee" >}})
 * [Budget]({{< ref "people.md#budget-committee" >}})
-* [Awards]({{< ref "people.md#awards-committee" >}})   
+* [Member Engagement Committee]({{< ref "people.md#member-engagement-committee" >}})   
 * [Past Board Members]({{< ref "people.md#past-board-members" >}})    
 
 &nbsp;
@@ -164,14 +164,13 @@ Current members are:
 
 
 [Marija Purgar](mailto:mpurgar@irb.hr)	**(Chair)**     
-Giulia Masoero    
-Ineta Kaƒçergytƒó   
-Juliette Tariel-Adam    
-Marija Purgar   
-Matthieu Paquet   
-Ramakrishnan Vasudeva   
-Sofia Paraskevopoulou   
-Stephanie Flaman    
+Giulia Masoero (Events coordinator)    
+Ineta Kačergytė (Platform manager)   
+Juliette Tariel-Adam (Program manager)  
+Matthieu Paquet (Past Chair)   
+Ramakrishnan Vasudeva (Advertiser)   
+Sofia Paraskevopoulou (Content submissions & selection)   
+Stephanie Flaman (Registration & messaging)    
 
 &nbsp;
 &nbsp;
@@ -312,7 +311,7 @@ Kaija Gahm
 
 ---
 
-### Member Engagment Committee  		
+### Member Engagement Committee  		
 
 Current members are:   
 
