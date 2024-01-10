@@ -9,7 +9,27 @@ title: Previous Board Members
 
 ### Former members of the Board of Directors
 
+![Dom Roche](/img/people/DomRoche.png)   
+2021-2023   
+[Dominique Roche](https://dominiqueroche.weebly.com/) is a Marie Skłodowska-Curie Global Fellow at Carleton University, Canada. He studies how open data improve transparency, reproducibility, and collaboration in science.   
+&nbsp;
+
+![Rose O’Dea](/img/people/RoseODea.png)  
+2021-2023   
+[Rose O’Dea](https://www.roseodea.com/) is a postdoctoral researcher, currently based in the MetaMelb Research Group at The University of Melbourne.   
+&nbsp;
+
+![Tim Parker](/img/people/TimParker.png) 
+2021-2023   
+[Tim Parker](http://people.whitman.edu/~parkerth/) is a Professor of Biology at Whitman College and has interests in behavioral ecology, demography, community ecology, and meta-science.  
+
 &nbsp;  
+
+![Rob Lanfear](/img/people/RobLanfear.png)  
+2023    
+[Rob Lanfear](https://researchers.anu.edu.au/researchers/lanfear-rm) is a Professor at the Australian National University.
+
+&nbsp;   
 
 ![Esteban Fernandez-Juricic](/img/people/EstebanFernandezJuricic.png)   
 2022-2023   
@@ -50,12 +70,6 @@ title: Previous Board Members
 2020-2021      
 [Clint Kelly](https://kellylab.weebly.com/) is an Associate Professor of Biology and Canada Research Chair in Behavioural Ecology at the Université du Québec à Montréal.     
 &nbsp; 
-
-![Rob Lanfear](/img/people/RobLanfear.png)  
-2023    
-[Rob Lanfear](https://researchers.anu.edu.au/researchers/lanfear-rm) is a Professor at the Australian National University.
-
-&nbsp;   
 
 ---
 

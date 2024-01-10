@@ -95,23 +95,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;
 
 ![Alexa Fredston](/img/people/AlexaFredston.png)   
-[Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)** is a quantitative ecologist and Assistant Professor at the University of California Santa Cruz.
-
-&nbsp;   
-
-**Members serving through 2023 are:**    
-&nbsp;
-
-![Dom Roche](/img/people/DomRoche.png)   
-[Dominique Roche](https://dominiqueroche.weebly.com/) is a Marie Skłodowska-Curie Global Fellow at Carleton University, Canada. He studies how open data improve transparency, reproducibility, and collaboration in science.   
-&nbsp;
-
-![Rose O’Dea](/img/people/RoseODea.png)   
-[Rose O’Dea](https://www.roseodea.com/) **(President)** is a postdoctoral researcher, currently based in the MetaMelb Research Group at The University of Melbourne.   
-&nbsp;
-
-![Tim Parker](/img/people/TimParker.png)   
-[Tim Parker](http://people.whitman.edu/~parkerth/) is a Professor of Biology at Whitman College and has interests in behavioral ecology, demography, community ecology, and meta-science.   
+[Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)** is a quantitative ecologist and Assistant Professor at the University of California Santa Cruz.   
 
 &nbsp;
 &nbsp;
@@ -126,6 +110,7 @@ Current officers are:
 
 [Rose O’Dea](https://www.roseodea.com/) **(President)**   
 [Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(President-Elect)**  
+[Dominique Roche](https://dominiqueroche.weebly.com/) **(Past President)**    
 [Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)**  
 [Kaija Gahm](http://kaijagahm.netlify.app/) **(Secretary)**   
 
@@ -158,7 +143,7 @@ Shinichi Nakagawa
 
 ### Conference Committee	 
 
-The Conference committee organizes the virtual SORTEE Conference, held in October. If you have the capacity to donate time and/or money to organising the conference, please email the Committee Chair [Matthieu Paquet](mailto:matthieu.paquet@outlook.com).    
+The Conference committee organizes the virtual SORTEE Conference, held in October.    
 
 Current members are:   
 
@@ -259,11 +244,11 @@ The Fundraising committee develops and implements plans for raising funds to sup
 Current members are:   
 
 
-[Dom Roche](mailto:dom.g.roche@gmail.com)	**(Chair)**     
+[Dominique Roche](https://dominiqueroche.weebly.com)	**(Chair)**     
 Barbara Class   
 Daniel Hoops    
 Natasha Tay   
-Raphael Royaute   
+Raphaël Royauté   
 Samuel Gascoigne    
 
 &nbsp;
