@@ -28,7 +28,30 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 # Upcoming events    
 
 &nbsp;
+## January 2024   
 
+### **Title:** *A Panel Discussion with Data Editors*   
+
+**Panelists:** Paula Lemos-Costa (American Naturalist), Sebastian Lequime (Journal of Evolutionary Biology), 3rd panelist TBC   
+**Type:** Panel Discussion     
+**Date and Time:** 25th January 2024, 17:00 UTC   
+**Timezone(s):** Americas/Europe  
+**Duration:** 1 hr    
+**Summary:** In recent years, a handful of journals within Ecology, Evolutionary Biology and related fields have been trialing a “Data Editor” role within the peer-review process. Data editors focus their review on the data associated with a potential publication, with the goal to improve the reliability and transparency of publications. But how does/should the data review process work? Has it been a success? Should all journals adopt such a step in their peer-review process? What should authors do to ensure their data passes a data review? To explore these questions and more, we have invited three data editors from three different evo/eco journals to take part in a panel discussion. We aim to facilitate a lively discussion that draws on the experience of the panel, and the interest and questions from the audience.    
+
+The event is open to all, and will be of value to scientists across career stages (students to academics) globally. It will be held via Zoom. The link is emailed after registration.   
+
+[**Register here**](https://events.humanitix.com/sortee-panel-discussion-with-data-editors)   
+
+&nbsp;
+
+---
+
+&nbsp;  
+
+# Past events  
+
+&nbsp;
 ## November 2023     
 
 ### **Title:** *How to prepare and publish research data in open access repositories*
@@ -40,18 +63,6 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 **Duration:** 2 hrs  
 **Summary:** This webinar will cover the benefits of publishing your research data open-access. Attendees will learn about how to select suitable open-access data repositories to ensure their data are accessible, reusable, and citable. We will discuss best practices for preparing and submitting tabular data to repositories, including data collection templates, metadata requirements and how to ensure data is accessible, reusable, and citable. By the end of the webinar, attendees will have a clear understanding of how to publish their research data in open access repositories, which can increase the visibility and impact of their research.    
 **Logistics:** The webinar will take place online using Zoom (link provided after signup). Attendees will be able to use their camera and microphone to interact with the speaker and other attendees. Attendance will be capped at around 25 participants.   
-
-Note this webinar was originally scheduled for June, but has since been moved to November. Attendees who signed up for the June event will need to re-signup to this event to secure their attendance.   
-
-**[Register on Eventbright](https://www.eventbrite.com/e/how-to-prepare-and-publish-research-data-in-open-access-repositories-tickets-678403070847)**    
-
-&nbsp;
-
----
-
-&nbsp;  
-
-# Past events  
 
 &nbsp;
 
