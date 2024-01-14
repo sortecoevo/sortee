@@ -2,7 +2,7 @@
 aliases:
 - people-us
 author: ML
-date: "2022-02-12"
+date: "2024-01-14"
 description: People of the Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE)
 title: People
 ---
@@ -17,13 +17,13 @@ title: People
 * [Board]({{< ref "people.md#board-of-directors" >}})   
 * [Executive Committee]({{< ref "people.md#executive-committee" >}})   
 * [Advocacy]({{< ref "people.md#advocacy-committee" >}})   
+* [Budget]({{< ref "people.md#budget-committee" >}})   
 * [Conference]({{< ref "people.md#conference-committee" >}})   
 * [Diversity, Equity, and Inclusion]({{< ref "people.md#diversity-equity-and-inclusion-committee" >}})   
 * [EcoEvoRxiv Committee]({{< ref "people.md#ecoevorxiv-committee" >}}) 
 * [Education and Outreach]({{< ref "people.md#education-and-outreach-committee" >}})   
 * [Fundraising]({{< ref "people.md#fundraising-committee" >}})  
-* [Media]({{< ref "people.md#media-committee" >}})
-* [Budget]({{< ref "people.md#budget-committee" >}})
+* [Media]({{< ref "people.md#media-committee" >}})   
 * [Member Engagement Committee]({{< ref "people.md#member-engagement-committee" >}})   
 * [Past Board Members]({{< ref "people.md#past-board-members" >}})    
 
@@ -134,6 +134,25 @@ Jake Williams
 Julia Sharapi   
 Kevin Bairos-Novak    
 Shinichi Nakagawa   
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+### Budget Committee  		
+
+The Budget Committee reviews and approves [funding
+requests](https://docs.google.com/forms/d/e/1FAIpQLSdY7gi-pNRSJPZaFnV9WpS4L28ZNgHQ3zwLh43YG7-WHUL87g/viewform).  
+
+Current members are:  
+
+Alexa Fredston (Treasurer)   
+Kaija Gahm   
+Tim Parker      
+Ed Ivimey-Cook   
+Malgorzata Lagisz   
 
 &nbsp;
 &nbsp;
@@ -276,23 +295,7 @@ Swastika Issar
 &nbsp;
 &nbsp;
 
----
 
-### Budget Committee  		
-
-The Budget Committee reviews and approves proposed expenditures.      
-
-Current members are:  
-
-
-[Tim Parker](mailto:parkerth@whitman.edu)	**(Chair)**    
-Alexa Fredston (Treasurer)   
-Malgorzata Lagisz   
-Kaija Gahm   
-
-&nbsp;
-&nbsp;
-&nbsp;
 
 ---
 
@@ -307,6 +310,7 @@ Malika Ihle
 Matthieu Paquet   
 Natalie van Dis   
 Romy Zeiss    
+Tom Ratz    
 
 &nbsp;
 &nbsp;
