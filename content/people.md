@@ -168,13 +168,13 @@ Current members are:
 
 
 [Marija Purgar](mailto:mpurgar@irb.hr)	**(Chair)**     
-Giulia Masoero (Events coordinator)    
-Ineta Kačergytė (Platform manager)   
-Juliette Tariel-Adam (Program manager)  
-Matthieu Paquet (Past Chair)   
-Ramakrishnan Vasudeva (Advertiser)   
-Sofia Paraskevopoulou (Content submissions & selection)   
-Stephanie Flaman (Registration & messaging)    
+Giulia Masoero     
+Ineta Kačergytė    
+Juliette Tariel-Adam   
+Matthieu Paquet    
+Ramakrishnan Vasudeva    
+Sofia Paraskevopoulou    
+Stephanie Flaman     
 
 &nbsp;
 &nbsp;
@@ -212,21 +212,21 @@ Current members are:
 
 
 [Daniel Noble](mailto:daniel.noble@anu.edu.au)	**(Chair)**    
-Birgit Szabo (Editor)   
-Brooke Long-Fox (Editor)
-Elvira D'Bastiani	(Editor)    
-Félicie Dhellemmes (Editor)    
-Gideon Deme	(Editor)    
-Jenna Braun	(Editor)    
-Katie Florko (Editor)    
-Melina de Souza Leite	(Portuguese Editor)   
-Noëlle Schenk (Editor)    
-Stefan Vriend (Editor/Co-chair Europe)    
-Matthieu Paquet (French Editor)   
-Yseult Héjja-Brichard (French Editor)   
-Marta Acácio (Portuguese Editor)   
-Mario A. Sandoval-Molina (Spanish Editor)    
-Pablo Recio-Santiago (Spanish Editor)       
+[Stefan Vriend](mailto:svriend@gmail.com)	**(co-Chair)**       
+Birgit Szabo     
+Brooke Long-Fox      
+Elvira D'Bastiani	     
+Félicie Dhellemmes      
+Gideon Deme	     
+Jenna Braun	    
+Katie Florko     
+Melina de Souza Leite	   
+Noëlle Schenk     
+Matthieu Paquet    
+Yseult Héjja-Brichard    
+Marta Acácio    
+Mario A. Sandoval-Molina    
+Pablo Recio-Santiago  
 
 &nbsp;
 &nbsp;
