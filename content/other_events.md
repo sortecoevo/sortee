@@ -32,7 +32,7 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 ### **Title:** *A Panel Discussion with Data Editors*   
 
-**Panelists:** Paula Lemos-Costa (American Naturalist), Sebastian Lequime (Journal of Evolutionary Biology), 3rd panelist TBC   
+**Panelists:** Paula Lemos-Costa (American Naturalist), Sebastian Lequime (Journal of Evolutionary Biology) & Tad Dallas (Ecology Letters)   
 **Type:** Panel Discussion     
 **Date and Time:** 25th January 2024, 16:00 UTC   
 **Timezone(s):** Americas/Europe  
