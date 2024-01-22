@@ -11,6 +11,19 @@ We are grateful for the financial support of these sponsor organisations!
 
 &nbsp;
 
+## 2024  institutional supporters
+
+&nbsp;
+
+[![Dryad](../img/sponsors/dryad.png)](https://datadryad.org/)
+[![Ecological Asociation of Terrestrial Ecology](../img/sponsors/aeet.png)](https://www.aeet.org/es/english/)
+
+&nbsp;
+
+---  
+
+&nbsp;
+
 ## 2023  institutional supporters
 
 &nbsp;
