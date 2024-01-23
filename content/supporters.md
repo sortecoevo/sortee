@@ -11,6 +11,19 @@ We are grateful for the financial support of these sponsor organisations!
 
 &nbsp;
 
+## 2024  institutional supporters
+
+&nbsp;
+
+[![Dryad](../img/sponsors/dryad.png)](https://datadryad.org/)
+[![Ecological Asociation of Terrestrial Ecology](../img/sponsors/aeet.png)](https://www.aeet.org/es/english/)
+
+&nbsp;
+
+---  
+
+&nbsp;
+
 ## 2023  institutional supporters
 
 &nbsp;
@@ -19,7 +32,7 @@ We are grateful for the financial support of these sponsor organisations!
 [![Peer Community In](../img/sponsors/pci.jpg)](https://peercommunityin.org)
 [![American Society of Naturalists](../img/sponsors/asn.jpeg)](https://www.amnat.org)
 [![Figshare](../img/sponsors/figshare.png)](https://figshare.com/)
-[![Canadian Institute of Ecology and Evolution (CIEE)](../img/sponsors/ciee.jpeg)](https://www.ciee-icee.ca)
+[![The Living Data Project](../img/sponsors/living-data.jpeg)](https://www.ciee-icee.ca)
 
 &nbsp;
 
@@ -32,7 +45,7 @@ We are grateful for the financial support of these sponsor organisations!
 [![The Company of Biologists](../img/sponsors/cob.jpg)](https://www.biologists.com/)
 [![PeerJ](../img/sponsors/peerj.png)](https://peerj.com/)
 [![American Society of Naturalists](../img/sponsors/asn.jpeg)](https://www.amnat.org)
-[![Canadian Institute of Ecology and Evolution (CIEE)](../img/sponsors/ciee.jpeg)](https://www.ciee-icee.ca)
+[![The Living Data Project](../img/sponsors/living-data.jpeg)](https://www.ciee-icee.ca)
 [![eLife](../img/sponsors/elife.png)](https://elifesciences.org)
 
 

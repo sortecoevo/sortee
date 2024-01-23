@@ -53,11 +53,6 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 
 &nbsp;  
 
-![Saeed Shafiei Sabet](/img/people/SaeedShafieiSabet.png)  
-[Saeed Shafiei Sabet](https://www.researchgate.net/profile/Saeed_Shafiei_Sabet) is an Assistant Professor and reader in Animal Behaviour at University of Guilan, Iran, interested in anthropogenic noise impacts, bioacoustics, animal welfare and open science.   
-
-&nbsp;  
-
 ![Matthieu Paquet](/img/people/MatthieuPaquet.png)  
 [Matthieu Paquet](https://sete-moulis-cnrs.fr/en/recherches/change/equipe/item/1169-paquet-matthieu) is a researcher working on behavioural ecology and population dynamics at the Theoretical and Experimental Ecology Station (SETE,CNRS).  
 
@@ -248,7 +243,6 @@ Max Czapanskiy
 Michael Remke   
 Natasha Gownaris    
 Rachel Turba    
-Saeed Shafiei Sabet   
 
 &nbsp;
 &nbsp;
