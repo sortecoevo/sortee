@@ -9,8 +9,9 @@ description: Bylaws of Society for Open, Reliable, and Transparent Ecology and E
 title: Bylaws
 ---
 
-_Other SORTEE policies can be found [here](https://docs.google.com/document/d/1BUVO9JAiyV4Fw90jHS-HpaDmKPSxGyuBwVzVbC13PFU/edit)._
-&nbsp;
+_Other SORTEE policies can be found [here](https://docs.google.com/document/d/1BUVO9JAiyV4Fw90jHS-HpaDmKPSxGyuBwVzVbC13PFU/edit)._   
+&nbsp;   
+ 
 _The Terms of Reference for the Senior Advisory Board can be found [here](https://docs.google.com/document/d/1vCXOde3pGuBl6CJC3LQQ7mehboeb_2SSF-ABTuXxd0M/)._
 
 
