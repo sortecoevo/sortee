@@ -20,10 +20,10 @@ While the resources below were mostly published by other parties, in the future 
 
 &nbsp;
 
-### ORTEE reviewers list   
-This is a Google Sheet created by SORTEE to help researchers find ORTEE reviewers for their manuscripts.  
-You can add your name to this list if you would like to be a part of this SORTEE initiative.  
-[Find/Add an ORTEE Reviewer](https://docs.google.com/spreadsheets/d/13akCaEoyy-9XBOqEqaXXNRd9EXC4W7cVSjjisOdtJhk/edit?usp=sharing)  
+### List of reviewers expert in Open, Reliable, or Transparent Ecology and Evolutionary bio (ORTEE)   
+This is a Google Sheet created by SORTEE to help researchers find reviewers expert in ORTEE for their manuscripts. You can add your name to this list if you would like to be a part of this SORTEE initiative.    
+
+* [Find/Add an ORTEE Reviewer](https://docs.google.com/spreadsheets/d/13akCaEoyy-9XBOqEqaXXNRd9EXC4W7cVSjjisOdtJhk/edit?usp=sharing)  
 
 &nbsp;
 
