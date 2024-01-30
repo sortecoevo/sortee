@@ -149,13 +149,13 @@ paginate = 4
 #    pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
-    weight = 3
+    weight = 1
     name = "Twitter"
     url = "https://twitter.com/sortecoevo"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
-    weight = 3
+    weight = 2
     name = "Mastodon"
     url = "https://ecoevo.social/@sortee"
     pre = "<i class='fab fa-2x fa-mastodon'></i>"
@@ -191,7 +191,7 @@ paginate = 4
     #latitude = "-12.043333"
     #longitude = "-77.028333"
 
-    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    #Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "green"
 
     # Since this template is static, the contact form uses www.formspree.io as a
