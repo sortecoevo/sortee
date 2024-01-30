@@ -12,7 +12,7 @@ description: Contact Society for Open, Reliable, and Transparent Ecology and Evo
 
 &nbsp;
 
-Please contact us via [email](mailto:sortecoevo@gmail.com) or reach out on [Twitter](https://twitter.com/sortecoevo) or [Mastodon](https://ecoevo.social/@sortee).   
+You can contact us via [email](mailto:sortecoevo@gmail.com), or check [our linktr.ee](https://linktr.ee/sortecoevo) for a full list of our social media accounts and online presences.    
 
 &nbsp;
 
