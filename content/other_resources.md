@@ -31,23 +31,26 @@ This is a Google Sheet created by SORTEE to help researchers find reviewers expe
 
 * [AIMOS: Association for Interdisciplinary Meta-research and Open Science](https://aimos.community/)  
 
+* [African Reproducibility Network](https://africanrn.org)  
+
 * [Center for Open Science](https://cos.io/)  
+
+* [COSN: Chinese Open Science Network](https://open-sci.cn)  
+
+* [Center for Reproducible Science at the Unviersity of Zurich](https://www.crs.uzh.ch/en.html)  
+
+* [Open Science Center - LMU Munich](https://www.osc.uni-muenchen.de/index.html)  
 
 * [SIPS: Society for the Improvement of Psychological Science](https://improvingpsych.org/)  
 
 * [UKRN: UK Reproducibility Network](https://www.ukrn.org/)  
 
-* [Open Science Center - LMU Munich](https://www.osc.uni-muenchen.de/index.html)  
-
-* [Center for Reproducible Science at the Unviersity of Zurich](https://www.crs.uzh.ch/en.html)  
 
 &nbsp;
 
-### Online materials, including guidelines, tools, courses, projects, platforms and mailing lists
+### Online materials, including guidelines, tools, courses, projects, platforms and mailing lists   
 
-* E-mail list (Google Group) Transparency in EcoEvo; request to join [here](https://groups.google.com/forum/#!forum/transparency_in_ecoevo/join) (if you don't have a Gmail account you may have to email parkerth [at] whitman [dot] edu directly)
-
-* [Transparency and Openness Promotion guidelines](https://cos.io/our-services/top-guidelines/)
+* [Transparency and Openness Promotion guidelines](https://cos.io/our-services/top-guidelines/)  
 
 * [Center for Open Science](https://cos.io/)   
 
