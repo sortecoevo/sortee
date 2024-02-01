@@ -17,6 +17,7 @@ title: People
 * [Board]({{< ref "people.md#board-of-directors" >}})   
 * [Executive Committee]({{< ref "people.md#executive-committee" >}})   
 * [Advocacy]({{< ref "people.md#advocacy-committee" >}})   
+* [Awards]({{< ref "people.md#awards-committee" >}})   
 * [Budget]({{< ref "people.md#budget-committee" >}})   
 * [Conference]({{< ref "people.md#conference-committee" >}})   
 * [Diversity, Equity, and Inclusion]({{< ref "people.md#diversity-equity-and-inclusion-committee" >}})   
@@ -129,6 +130,22 @@ Jake Williams
 Julia Sharapi   
 Kevin Bairos-Novak    
 Shinichi Nakagawa   
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
+### Awards Committee  
+
+The awards committee is responsible for managing the SORTEE awards program (http://www.sortee.org/awards/).  
+
+Current members are:  
+
+[Hannah Dugdale](mailto:h.l.dugdale@rug.nl)	**(Chair)**  
+Malgorzata (Losia) Lagisz  
+Sandra Hamel 
 
 &nbsp;
 &nbsp;
