@@ -17,6 +17,9 @@ We are grateful for the financial support of these sponsor organisations!
 
 [![Dryad](../img/sponsors/dryad.png)](https://datadryad.org/)
 [![Ecological Asociation of Terrestrial Ecology](../img/sponsors/aeet.png)](https://www.aeet.org/es/english/)
+[![Peer Community In](../img/sponsors/pci.jpg)](https://peercommunityin.org)
+[![American Society of Naturalists](../img/sponsors/asn.jpeg)](https://www.amnat.org)
+[![Canadian Science Publishing](../img/sponsors/canadian-science-publishing.png)](https://cdnsciencepub.com)
 
 &nbsp;
 
