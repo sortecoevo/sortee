@@ -15,11 +15,11 @@ We are grateful for the financial support of these sponsor organisations!
 
 &nbsp;
 
-[![Dryad](../img/sponsors/dryad.png)](https://datadryad.org/)
 [![Ecological Asociation of Terrestrial Ecology](../img/sponsors/aeet.png)](https://www.aeet.org/es/english/)
-[![Peer Community In](../img/sponsors/pci.jpg)](https://peercommunityin.org)
 [![American Society of Naturalists](../img/sponsors/asn.jpeg)](https://www.amnat.org)
 [![Canadian Science Publishing](../img/sponsors/canadian-science-publishing.png)](https://cdnsciencepub.com)
+[![Dryad](../img/sponsors/dryad.png)](https://datadryad.org/)
+[![Peer Community In](../img/sponsors/pci.jpg)](https://peercommunityin.org)
 
 &nbsp;
 
@@ -31,11 +31,12 @@ We are grateful for the financial support of these sponsor organisations!
 
 &nbsp;
 
-[![Canadian Science Publishing](../img/sponsors/canadian-science-publishing.png)](https://cdnsciencepub.com)
-[![Peer Community In](../img/sponsors/pci.jpg)](https://peercommunityin.org)
 [![American Society of Naturalists](../img/sponsors/asn.jpeg)](https://www.amnat.org)
+[![Canadian Science Publishing](../img/sponsors/canadian-science-publishing.png)](https://cdnsciencepub.com)
 [![Figshare](../img/sponsors/figshare.png)](https://figshare.com/)
 [![The Living Data Project](../img/sponsors/living-data.jpeg)](https://www.ciee-icee.ca)
+[![Peer Community In](../img/sponsors/pci.jpg)](https://peercommunityin.org)
+[![PeerJ](../img/sponsors/peerj.png)](https://peerj.com/)
 
 &nbsp;
 
@@ -45,11 +46,14 @@ We are grateful for the financial support of these sponsor organisations!
 
 ## 2022  institutional supporters 
 
-[![The Company of Biologists](../img/sponsors/cob.jpg)](https://www.biologists.com/)
-[![PeerJ](../img/sponsors/peerj.png)](https://peerj.com/)
 [![American Society of Naturalists](../img/sponsors/asn.jpeg)](https://www.amnat.org)
-[![The Living Data Project](../img/sponsors/living-data.jpeg)](https://www.ciee-icee.ca)
+[![The Company of Biologists](../img/sponsors/cob.jpg)](https://www.biologists.com/)
 [![eLife](../img/sponsors/elife.png)](https://elifesciences.org)
+[![The Living Data Project](../img/sponsors/living-data.jpeg)](https://www.ciee-icee.ca)
+[![PeerJ](../img/sponsors/peerj.png)](https://peerj.com/)
+
+
+
 
 
 
