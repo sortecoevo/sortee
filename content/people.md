@@ -26,6 +26,7 @@ title: People
 * [Fundraising]({{< ref "people.md#fundraising-committee" >}})  
 * [Media]({{< ref "people.md#media-committee" >}})   
 * [Member Engagement Committee]({{< ref "people.md#member-engagement-committee" >}})   
+* [Senior Advisory Board]({{< ref "people.md#senior-advisory-board" >}})   
 * [Past Board Members]({{< ref "people.md#past-board-members" >}})    
 
 &nbsp;
@@ -313,8 +314,9 @@ Swastika Issar
 
 ### Member Engagement Committee  		
 
-Current members are:   
+A new addition in 2024, the Member Engagement Committee oversees opportunities for SORTEE members to interact throughout the year. The motivation behind starting this committee is to increase the benefits of SORTEE membership (e.g., camaraderie, opportunity to join collaborative projects).   
 
+Current members are:   
 
 [Rose O'Dea](mailto:rose.eleanor.o.dea@gmail.com)	**(Chair)**     
 Charlotte Recapet   
@@ -329,6 +331,31 @@ Tom Ratz
 &nbsp;
 
 ---
+
+### Senior Advisory Board   		
+
+The purpose of the SAB is to provide senior counsel and advice to SORTEE leadership (Officers, Directors, and Chairs), and to facilitate strategic connections with related organizations and individuals. The Terms of Reference for the Senior Advisory Board can be found [here](https://docs.google.com/document/d/1vCXOde3pGuBl6CJC3LQQ7mehboeb_2SSF-ABTuXxd0M/). 
+
+Current members are:   
+
+Bob Montgomerie     
+Bob Wong     
+Fiona Fiddler     
+Julia Koricheva     
+Klaus Reinhold     
+Loeske Kruuk     
+Mark Burgman     
+Michael Jennions     
+Nicolas Galtier     
+Richard McElreath     
+Tracey Chapman     
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
+
 
 ### Past Board Members  
 
