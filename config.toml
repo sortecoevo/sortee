@@ -168,6 +168,24 @@ paginate = 4
 
 [[menu.topbar]]
     weight = 4
+    name = "Bluesky"
+    url = "https://bsky.app/profile/sortee.bsky.social"
+    pre = "<i class='fa fa-2x fa-square'></i>"
+
+[[menu.topbar]]
+    weight = 5
+    name = "Instagram"
+    url = "https://www.instagram.com/sortecoevo"
+    pre = "<i class='fab fa-2x fa-instagram'></i>"
+
+[[menu.topbar]]
+    weight = 6
+    name = "Youtube"
+    url = "https://www.youtube.com/@SORTEcoEvo"
+    pre = "<i class='fab fa-2x fa-youtube'></i>"
+
+[[menu.topbar]]
+    weight = 7
     name = "Email"
     url = "mailto:sortecoevo@gmail.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
