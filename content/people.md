@@ -338,6 +338,8 @@ The purpose of the SAB is to provide senior counsel and advice to SORTEE leaders
 
 Current members are:   
 
+Allen Moore  
+Ben Sheldon   
 Bob Montgomerie     
 Bob Wong     
 Fiona Fiddler     
