@@ -342,7 +342,7 @@ Allen Moore
 Ben Sheldon   
 Bob Montgomerie     
 Bob Wong     
-Fiona Fiddler     
+Fiona Fidler     
 Julia Koricheva     
 Klaus Reinhold     
 Loeske Kruuk     
