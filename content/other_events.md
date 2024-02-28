@@ -26,6 +26,36 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 &nbsp;  
 
 # Upcoming events    
+&nbsp;
+
+## March 2024 
+
+### **Title:** *Integrating SQL into R analytical workflows using dbplyr*   
+
+**Panelists:** Julien Brun and Greg Janée (University of California, Santa Barbara)       
+**Type:** Workshop     
+**Date and Time:** 7th Mar 2024, 17:00:18:30 UTC       
+**Timezone(s):** Americas/Europe  
+**Duration:** 1.5 hrs   
+**Summary:** In this workshop, we will discuss why you might consider a relational database to store environmental data. We will go over how to insert data in and retrieve data from a database using R and duckDB. We will focus on how to use the R dbplyr package to integrate databases into tidyverse focused analytical workflows.   
+
+This workshop will cover these main points:   
+
+1.	Introduce concepts of a database and discuss why you might want to have/want to use one
+2.	How to integrate the use of a database into an R analytical workflow
+3.	Hands-on exercise using dbplyr and how it can be used to learn some SQL basics    
+
+The event is open to all, and will be of value to scientists across career stages working with large databases. It will be held via Zoom. The link is emailed after registration.
+
+[Register here](https://events.humanitix.com/integrating-sql-into-r-analytical-workflows-using-dbplyr)
+
+&nbsp;
+
+---
+
+&nbsp;  
+
+# Past events  
 
 &nbsp;
 ## January 2024   
@@ -37,21 +67,9 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 **Date and Time:** 25th January 2024, 16:00 UTC   
 **Timezone(s):** Americas/Europe  
 **Duration:** 1 hr    
-**Summary:** In recent years, a handful of journals within Ecology, Evolutionary Biology and related fields have been trialing a “Data Editor” role within the peer-review process. Data editors focus their review on the data associated with a potential publication, with the goal to improve the reliability and transparency of publications. But how does/should the data review process work? Has it been a success? Should all journals adopt such a step in their peer-review process? What should authors do to ensure their data passes a data review? To explore these questions and more, we have invited three data editors from three different evo/eco journals to take part in a panel discussion. We aim to facilitate a lively discussion that draws on the experience of the panel, and the interest and questions from the audience.    
-
-The event is open to all, and will be of value to scientists across career stages (students to academics) globally. It will be held via Zoom. The link is emailed after registration.   
-
-[**Register here**](https://events.humanitix.com/sortee-panel-discussion-with-data-editors)   
-
+**Summary:** In recent years, a handful of journals within Ecology, Evolutionary Biology and related fields have been trialing a “Data Editor” role within the peer-review process. Data editors focus their review on the data associated with a potential publication, with the goal to improve the reliability and transparency of publications. But how does/should the data review process work? Has it been a success? Should all journals adopt such a step in their peer-review process? What should authors do to ensure their data passes a data review? To explore these questions and more, we have invited three data editors from three different evo/eco journals to take part in a panel discussion. We aim to facilitate a lively discussion that draws on the experience of the panel, and the interest and questions from the audience.
 &nbsp;
 
----
-
-&nbsp;  
-
-# Past events  
-
-&nbsp;
 ## November 2023     
 
 ### **Title:** *How to prepare and publish research data in open access repositories*
