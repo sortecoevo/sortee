@@ -15,7 +15,9 @@ SORTEE members attend many different (in-person, hybrid, or online) conferences 
 
 [Find out what SORTEE meet-ups have already been scheduled at in-person conferences.](https://docs.google.com/spreadsheets/d/1QfzSdTNzRR-gbILW2BNqrQTpWIjduR-7Jtw2lataGbk/edit?usp=sharing)     
 
-[Let us know you want to represent SORTEE at a conference.](https://forms.gle/rEXRYNoCXWBDFiLPA)
+Would you like to schedule a meet-up with other SORTEE members (or people interested in SORTEE) at the conference? We can then coordinate with you to advertise this meet-up on the SORTEE website and on social media. [Please let us know that you want to organise a SORTEE meet-up here!](https://forms.gle/rEXRYNoCXWBDFiLPA)   
+
+You are of course welcome to meet with SORTEE members at conferences without having to inform us, but if you want us to announce the meet-up and to support you (e.g. with stickers and posters), please let us know in the form above.   
 
 &nbsp;
 
