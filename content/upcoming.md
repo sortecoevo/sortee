@@ -12,6 +12,10 @@ title: Upcoming events
 #### *Virtual & world-wide!*  
 &nbsp;
 
+The conference will run continuously from **15 October** to **16 October** to cover different time zones.
+
+Content submissions will soon open on this page!
+
 Look out for announcements and [join SORTEE](https://www.sortee.org/join/) to receive our updates. 
 
 &nbsp;
