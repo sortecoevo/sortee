@@ -26,6 +26,7 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 &nbsp;  
 
 # Upcoming events    
+
 &nbsp;
 
 ## March 2024 
@@ -48,6 +49,19 @@ This workshop will cover these main points:
 The event is open to all, and will be of value to scientists across career stages working with large databases. It will be held via Zoom. The link is emailed after registration.
 
 [Register here](https://events.humanitix.com/integrating-sql-into-r-analytical-workflows-using-dbplyr)
+
+&nbsp;
+
+### **Title:** *So you want to do a replication study? Lessons learned from the Brazilian Reproducibility Initiative*   
+
+**Presenters:** Olavo Amaral (Federal University of Rio de Janeiro (UFRJ), Leopoldo de Meis Institute of Medical Biochemistry)        
+**Type:** Webinar        
+**Date and Time:** 26 March, 16:00 UTC       
+**Timezone(s):** Americas/Europe  
+**Duration:** 1 hr   
+**Summary:** To address growing concerns over research reproducibility, performing and publishing experimental replications has become an important issue in many research fields. That said, as simple as "do the same thing" may sound, replicating an experiment is actually fraught with conceptual and methodological issues that must be solved to provide useful knowledge. Based on our experience with the Brazilian Reproducibility Initiative, a multicenter effort to replicate 60 experiments from Brazilian biomedical science in multiple labs, we offer some advice for researchers planning to perform experimental replications, which should be applicable to most scientific fields.
+
+[Register here](https://events.humanitix.com/copy-of-sortee-webinar-and-workshop-draft-event)   
 
 &nbsp;
 
