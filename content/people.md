@@ -204,7 +204,6 @@ Current members are:
 
 
 [Brooke Long-Fox](mailto:brooke.long-fox@sdsmt.edu)	(**Chair**)     
-Bawan Amin     
 Coralie Williams    
 Easton White    
 Gabe Winter   
