@@ -29,6 +29,19 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 &nbsp;
 
+## March 2024 
+
+### **Title:** *So you want to do a replication study? Lessons learned from the Brazilian Reproducibility Initiative*   
+
+**Presenters:** Olavo Amaral (Federal University of Rio de Janeiro (UFRJ), Leopoldo de Meis Institute of Medical Biochemistry)        
+**Type:** Webinar        
+**Date and Time:** 26 March, 16:00 UTC       
+**Timezone(s):** Americas/Europe  
+**Duration:** 1 hr   
+**Summary:** To address growing concerns over research reproducibility, performing and publishing experimental replications has become an important issue in many research fields. That said, as simple as "do the same thing" may sound, replicating an experiment is actually fraught with conceptual and methodological issues that must be solved to provide useful knowledge. Based on our experience with the Brazilian Reproducibility Initiative, a multicenter effort to replicate 60 experiments from Brazilian biomedical science in multiple labs, we offer some advice for researchers planning to perform experimental replications, which should be applicable to most scientific fields.
+
+&nbsp;
+
 ## April 2024 
 
 ### **Title:** *Is it Really Working? Monitoring and Understanding Open Science Practices*   
@@ -41,19 +54,6 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 **Summary:** Policies and practices related to open science have been increasing steadily, but in order to understand what effect they may be having we need reliable data to monitor them. This talk explores how Open Science can be monitored and assessed, the challenges remaining, and why this is important for advancing scholarly practices. This webinar will be co-hosted with the Global Young Academy's Open Science First Fridays.   
 
 [Register here](https://events.humanitix.com/sortee-webinar-april5)  
-
-&nbsp;
-
-## March 2024 
-
-### **Title:** *So you want to do a replication study? Lessons learned from the Brazilian Reproducibility Initiative*   
-
-**Presenters:** Olavo Amaral (Federal University of Rio de Janeiro (UFRJ), Leopoldo de Meis Institute of Medical Biochemistry)        
-**Type:** Webinar        
-**Date and Time:** 26 March, 16:00 UTC       
-**Timezone(s):** Americas/Europe  
-**Duration:** 1 hr   
-**Summary:** To address growing concerns over research reproducibility, performing and publishing experimental replications has become an important issue in many research fields. That said, as simple as "do the same thing" may sound, replicating an experiment is actually fraught with conceptual and methodological issues that must be solved to provide useful knowledge. Based on our experience with the Brazilian Reproducibility Initiative, a multicenter effort to replicate 60 experiments from Brazilian biomedical science in multiple labs, we offer some advice for researchers planning to perform experimental replications, which should be applicable to most scientific fields.
 
 &nbsp;
 
