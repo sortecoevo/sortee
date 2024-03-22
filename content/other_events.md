@@ -40,6 +40,8 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 **Duration:** 1 hr   
 **Summary:** To address growing concerns over research reproducibility, performing and publishing experimental replications has become an important issue in many research fields. That said, as simple as "do the same thing" may sound, replicating an experiment is actually fraught with conceptual and methodological issues that must be solved to provide useful knowledge. Based on our experience with the Brazilian Reproducibility Initiative, a multicenter effort to replicate 60 experiments from Brazilian biomedical science in multiple labs, we offer some advice for researchers planning to perform experimental replications, which should be applicable to most scientific fields.
 
+[Register here](https://events.humanitix.com/sortee-webinar-brazilian-reproducibility-initiative)  
+
 &nbsp;
 
 ## April 2024 
