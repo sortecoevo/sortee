@@ -44,13 +44,6 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 &nbsp;
 
----
-
-&nbsp;  
-
-# Past events  
-
-&nbsp;
 ## March 2024 
 
 ### **Title:** *So you want to do a replication study? Lessons learned from the Brazilian Reproducibility Initiative*   
@@ -63,6 +56,16 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 **Summary:** To address growing concerns over research reproducibility, performing and publishing experimental replications has become an important issue in many research fields. That said, as simple as "do the same thing" may sound, replicating an experiment is actually fraught with conceptual and methodological issues that must be solved to provide useful knowledge. Based on our experience with the Brazilian Reproducibility Initiative, a multicenter effort to replicate 60 experiments from Brazilian biomedical science in multiple labs, we offer some advice for researchers planning to perform experimental replications, which should be applicable to most scientific fields.
 
 &nbsp;
+
+---
+
+&nbsp;  
+
+# Past events  
+
+&nbsp;
+
+## March 2024 
 
 ### **Title:** *Integrating SQL into R analytical workflows using dbplyr*   
 
