@@ -117,6 +117,12 @@ paginate = 4
     weight = 140
 
 [[menu.main]]
+    parent = "events"
+    name = "Online social mixers"
+    url = "/mixers/"
+    weight = 150
+
+[[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/blog/"
