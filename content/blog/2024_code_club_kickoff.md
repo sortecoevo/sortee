@@ -1,7 +1,7 @@
 ---
 banner: /blog/images/code_review.jpeg
 date: "2024-03-06"
-author: SORTEE
+author: Natalie van Dis
 categories:
 - blog
 tags: 
