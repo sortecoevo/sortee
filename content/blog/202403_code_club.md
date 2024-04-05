@@ -46,7 +46,7 @@ One of the coding mistakes shared among peers was about using the `mean()` funct
 
 **What’s next?**
 
-The next Code Club meeting will be a **Training session on Tuesday April 16 at 9-10h UTC +00:00** (zoom link will be posted on [SORTEE’s Slack](https://sortee.org/join)). We will discuss the development of a code review checklist for Ecology and Evolution.
+The next Code Club meeting will be a **Training session on Tuesday April 16 at 8-9h UTC +00:00** (zoom link will be posted on [SORTEE’s Slack](https://sortee.org/join)). We will discuss the development of a code review checklist for Ecology and Evolution.
 
 Stefan Vriend, Joey Burant and Freddy Hillemann have turned the 4 R’s into a code review checklist for Ecology and Evolution. They will host a workshop where we will use this checklist to code review published papers, followed by a discussion on how it can be improved. 
 
