@@ -25,7 +25,7 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 &nbsp;  
 
-# Upcoming events    
+# Past events  
 
 &nbsp;
 
@@ -39,16 +39,6 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 **Timezone(s):** Americas/Europe  
 **Duration:** 1 hr   
 **Summary:** Policies and practices related to open science have been increasing steadily, but in order to understand what effect they may be having we need reliable data to monitor them. This talk explores how Open Science can be monitored and assessed, the challenges remaining, and why this is important for advancing scholarly practices. This webinar will be co-hosted with the Global Young Academy's Open Science First Fridays.   
-
-[Register here](https://events.humanitix.com/sortee-webinar-april5)  
-
-&nbsp;
-
----
-
-&nbsp;  
-
-# Past events  
 
 &nbsp;
 
