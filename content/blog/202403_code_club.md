@@ -23,7 +23,7 @@ In this month’s Hacky Hour, 9 participants shared their code mistakes, startin
 
 **Sharing code mistakes, problems, tips & tricks**
 
-The Hacky Hour revolved around the 4 R’s of Code review - **R**eported, **R**un, **R**eliable, and **R**eproducible - that we learnt about in [the previous Code Club meeting.](https://www.sortee.org/blog/2024/03/06/2024_code_club_kickoff/) Participants shared their code mistakes, problems, tips and tricks in a collaborative document, practising with Markdown language at the same time.
+The Hacky Hour revolved around the 4 R’s of Code review - **R**eported, **R**un, **R**eliable, and **R**eproducible - that we learnt about in [the previous Code Club meeting.](https://www.sortee.org/blog/2024/03/06/2024_code_club_kickoff/) Participants shared their code mistakes, problems, tips and tricks in a collaborative document, practising with (Markdown language)[https://www.markdownguide.org/basic-syntax/] at the same time.
 
 We learnt how to say ‘computer’ in 8 different languages as an icebreaker, followed by the opportunity to request a code review. We then discussed the best way to report software versions (**R**eported), how to use Quarto (**R**eported) and easy ways to keep track of memory and CPU usage in R (**R**un). You can read back what we discussed in [this HackMD document](https://hackmd.io/Pj5KsJSzQduk4zEYmlmkmg).
 
