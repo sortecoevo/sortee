@@ -9,21 +9,18 @@ title: Upcoming events
 
 # SORTEE Conference 2024
 
-#### *Virtual & world-wide!*  
-&nbsp;
+#### *Virtual & world-wide!*
+
+ 
 
 The conference will run continuously from **15 October** to **16 October** to cover different time zones.
 
-Content submissions will soon open on this page!
-
-Look out for announcements and [join SORTEE](https://www.sortee.org/join/) to receive our updates. 
-
-&nbsp;
+**Content submissions are now OPEN. Submit here: <https://forms.gle/V8aKjCn7DJLNM4T17>**
 
 ## About SORTEE conferences
 
 *Our conferences are informative, fun and low-cost*  
-&nbsp;
+ 
 
 We want to facilitate lively exchanges of ideas, with three participatory event types:  
 - **Unconferences:** Facilitated discussions of ideas for how to make ecology, evolutionary biology, and related disciplines more open, reliable, and transparent. Facilitation involves moderating the conversation with ideas and examples, but there are no formal presentations.
@@ -32,7 +29,7 @@ We want to facilitate lively exchanges of ideas, with three participatory event 
 
 -   **Workshops:** Facilitators will teach tools to implement open, reliable, and transparent practices
 
-&nbsp;
+ 
 
 We strongly encourage proposals for all contribution types from people at a wide range of career stages and from members of under-represented groups.
 
