@@ -255,11 +255,12 @@ Current members are:
 
 
 [Iain Moodie](mailto:iain.moodie@biol.lu.se)	**(Chair)**    
-Arman Pili    
+Kaija Gahm  
 Elizabeth Hrycyna   
 Max Czapanskiy    
 Michael Remke   
-Natasha Gownaris    
+Natasha Gownaris   
+Laura Super    
 Rachel Turba    
 
 &nbsp;
