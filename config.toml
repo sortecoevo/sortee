@@ -123,6 +123,12 @@ paginate = 4
     weight = 150
 
 [[menu.main]]
+    parent = "events"
+    name = "Code club"
+    url = "/code_club/"
+    weight = 160
+
+[[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/blog/"

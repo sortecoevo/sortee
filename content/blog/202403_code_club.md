@@ -7,6 +7,7 @@ categories:
 tags: 
 - open-code
 - reproducibility
+- code-club
 title: "Debrief of SORTEE Code Club: Hacky Hour - Tuesday March 19" 
 ---
 &nbsp;

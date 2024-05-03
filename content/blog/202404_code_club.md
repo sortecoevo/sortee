@@ -8,6 +8,7 @@ categories:
 tags: 
 - open-code
 - reproducibility
+- code-club
 title: "Debrief of SORTEE Code Club: Code Review Checklist for Ecology and Evolution - Tuesday April 16" 
 ---
 &nbsp;
