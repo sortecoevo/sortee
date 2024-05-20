@@ -31,14 +31,14 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 **Presenters:** [Dr Joel L. Pick (University of Edinburgh)](https://joelpick.github.io/)      
 **Type:** Webinar        
-**Date and Time:** (2 hours) on 30th May, 08:00-10:00 UTC       
+**Date and Time:** 30th May, 08:00-10:00 UTC       
 **Timezone(s):** Americas/Europe  
 **Duration:** 2 hrs   
 **Summary:** The use of simulations in study design can directly help address several issues in ecology and evolutionary biology, including research waste, p-hacking and HARKing. However, simulations are infrequently used in a standard workflow, in part because of the perception that they are too complex for the average empiricist. The aim of this workshop is to challenge this perception and provide tools for empiricists to start simulating.    
 
 The workshop will assume an understanding of basic statistics including linear regression. A working knowledge of R will be required to take parts in the practical parts of the workshop.    
 
-(Register here!)[https://events.humanitix.com/sortee-workshop-simulation-for-study-design]
+[Register here!](https://events.humanitix.com/sortee-workshop-simulation-for-study-design)
 
 &nbsp;  
 
