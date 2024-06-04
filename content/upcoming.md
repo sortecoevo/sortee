@@ -15,7 +15,9 @@ title: Upcoming events
 
 The conference will run continuously from **15 October** to **16 October** to cover different time zones.
 
-**Content submissions are now OPEN. Submit here: <https://forms.gle/V8aKjCn7DJLNM4T17>**
+Content submissions are currently being evaluated. The Conference Program will be available on this page soon.
+
+**Registrations are now OPEN via Humanitix. [Register here!](https://events.humanitix.com/sortee-conference-2024)**
 
 ## About SORTEE conferences
 
