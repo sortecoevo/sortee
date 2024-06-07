@@ -22,7 +22,7 @@ For the code exercise, participants were split into pairs and exchanged their co
 
 &nbsp;
 
-[![checklist](/blog/images/202404codeclub.png)](https://osf.io/kncw6/wiki/home/)
+[![checklist](/blog/images/202405codeclub.png)](https://osf.io/kncw6/wiki/home/)
 
 &nbsp;
 
