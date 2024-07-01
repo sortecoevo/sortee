@@ -14,7 +14,7 @@ title: "Debrief of SORTEE Code Club: Workshop “Code your own website” - Tues
 
 *The Member Engagement Committee runs Code Club every third Tuesday of the month. Time can vary depending on the host and will be announced at least two weeks in advance on [SORTEE’s Slack](https://sortee.org/join). For more information, see [SORTEE’s Code Club page.](https://www.sortee.org/code_club/)*   
 
-In June’s Code Club session, [Steffi LaZerte](https://steffilazerte.ca/) hosted a workshop on how to code our own website. By walking participants through the code underlying her own website, she showed us how to use Markdown and Quarto to create and host a website on GitHub.   
+In June’s Code Club session, [Steffi LaZerte](https://steffilazerte.ca/) hosted a workshop on how to code our own website. By walking participants through the code underlying her own website, she showed us how to use Markdown and Quarto to create and host a website on GitHub.    
 
 ### Three steps to creating a website
 Steffi boiled down making your own website to three steps: 
