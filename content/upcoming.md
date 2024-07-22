@@ -27,7 +27,7 @@ Content submissions are currently being evaluated. The Conference Program will b
 
 - *Dr. Kate Laskowski* will discuss "What to Do When You Don't Trust Your Data Anymore."
 
-Abstracts for their talks are now available through the SORTEE [OSF page](https://github.com/sortecoevo/sortee). Join us in October to be part of the discussion!
+Abstracts for their talks are now available through the SORTEE [OSF page](https://osf.io/meetings/SORTEE2024/). Join us in October to be part of the discussion!
 
 &nbsp;  
 
