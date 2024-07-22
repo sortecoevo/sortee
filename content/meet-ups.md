@@ -59,9 +59,9 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 
 |  |  |
 |---|---|
-| {{< figure src="/blog/images/ESA2022_catchup.JPG"  width="300px" >}} | | {{< figure src="/blog/images/ESEB2022_catchup.JPG" width="300px" >}} |
+| {{< figure src="/blog/images/ESA2022_catchup.JPG"  width="300px" >}} || {{< figure src="/blog/images/ESEB2022_catchup.JPG" width="300px" >}} |
 | ESA/CSEE | ESEB |
-| in Montreal, August 2022 | in Prague, August 2022 |
+| in Montreal, August 2022 | in Prague, August 2022 || 
 | {{< figure src="/blog/images/SFE2-GfO-EEF_catchup1.jpeg"  width="300px" >}} | {{< figure src="/blog/images/Behaviour_Bielefeld.jpg"  width="300px" >}} |
 | SFE2-GfÖ-EEF | Behaviour |
 | in Metz, November 2022 | in Bielefeld, August 2023 |
