@@ -56,7 +56,7 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 ## Photos from some SORTEE meet-ups and outreach events at in-person conferences 
 
 &nbsp;
-<center>
+
 |		|
 |	:---:	|
 | {{< figure src="/blog/images/ESA2022_catchup.JPG"  width="300px" >}}	|
@@ -89,4 +89,3 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 |	{{< figure src="/blog/images/ISEC2024.JPEG" width="300px" >}}	|
 |	ISEC Swansea (July 2024)	|
 
-</center>
