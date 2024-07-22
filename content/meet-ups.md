@@ -69,7 +69,10 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 | ESA in Portland, August 2023 | The promises and pitfalls of |
 | &nbsp; | preregistration in London, March 2024 |
 | {{< figure src="/blog/images/fledglings2024.jpg" alt="EOU Fledglings Meeting in Prague, March 2024" width="300px" >}} | {{< figure src="/blog/images/SwissReproConf2024.jpg" alt="Swiss Reproducibility Conference in Zurich, June 2024" width="300px" >}} ||
-|EOU Fledglings Meeting | Swiss Reproducibility Conference ||
-|in Prague, March 2024| in Zurich, June 2024 ||
+| EOU Fledglings Meeting | Swiss Reproducibility Conference ||
+| in Prague, March 2024| in Zurich, June 2024 ||
+| {{< figure src="/blog/images/IndianWildlife2024.jpg" alt="Indian Wildlife Ecology Conference in Bengaluru, June 2024" width="300px" >}} | {{< figure src="/blog/images/ISEC2024.jpg" alt="International Statistical Ecology Conference in Swansea, July 2024" width="300px" >}} ||
+| Indian Wildlife Ecology Conference | International Statistical Ecology Conference ||
+| in Bengaluru, June 2024| in Swansea, July 2024 ||
 
 
