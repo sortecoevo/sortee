@@ -60,8 +60,8 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 |		|
 |	:---:	|
 | {{< figure src="/blog/images/ESA2022_catchup.JPG"  width="300px" >}}	|
-|	ESA/CSEE Montreal (August 2022) |	
-|&nbsp;|
+|	ESA/CSEE |	
+|Montreal (August 2022) |
 |	{{< figure src="/blog/images/ESEB2022_catchup.JPG" width="300px" >}}	|
 |	ESEB Prague (August 2022)	|
 |&nbsp;|
