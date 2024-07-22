@@ -61,31 +61,42 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 |	:---:	|
 | {{< figure src="/blog/images/ESA2022_catchup.JPG"  width="300px" >}}	|
 |	ESA/CSEE |	
-|Montreal (August 2022) |
+| Montreal (August 2022)|
+|&nbsp;|
 |	{{< figure src="/blog/images/ESEB2022_catchup.JPG" width="300px" >}}	|
-|	ESEB Prague (August 2022)	|
+|	ESEB |
+|Prague (August 2022)	|
 |&nbsp;|
 |	{{< figure src="/blog/images/SFE2-GfO-EEF_catchup1.jpeg"  width="300px" >}}	|
-|	SFE2-GfÖ-EEF Metz (November 2022) |
+|	SFE2-GfÖ-EEF  |
+|Metz (November 2022)|
 |&nbsp;|
 |	{{< figure src="/blog/images/Behaviour_Bielefeld.jpg"  width="300px" >}}	|
-|	Behaviour Bielefeld (August 2023)	|
+|	Behaviour |
+|Bielefeld (August 2023)	|
 |&nbsp;|
 |	{{< figure src="/blog/images/ESA2023.jpg" width="300px" >}}	|
-|	ESA Portland (August 2023) |
+|	ESA |
+|Portland (August 2023) |
 |&nbsp;|
 |	{{< figure src="/blog/images/london2024.png" width="300px" >}}	|
-|	The promises and pitfalls of preregistration London (March 2024) |	
+|	The promises and pitfalls of preregistration |	
+|London (March 2024)|
 |&nbsp;|
 |	{{< figure src="/blog/images/fledglings2024.jpg" width="300px" >}}	|
-|	EOU Fledglings Meeting Prague (March 2024)	|
+|	EOU Fledglings Meeting 	|
+|Prague (March 2024)|
 |&nbsp;|
 |	{{< figure src="/blog/images/SwissReproConf2024.jpg" width="300px" >}}	|
-|	Swiss Reproducibility Conference Zurich (June 2024)	|
+|	Swiss Reproducibility Conference 	|
+|Zurich (June 2024)|
 |&nbsp;|
 |	{{< figure src="/blog/images/IndianWildlife2024.jpeg" width="300px" >}}	|
-|	IWEC Bengaluru (June 2024)	|
+|	IWEC 	|
+|Bengaluru (June 2024)|
 |&nbsp;|
 |	{{< figure src="/blog/images/ISEC2024.JPEG" width="300px" >}}	|
-|	ISEC Swansea (July 2024)	|
+|	ISEC 	|
+|Swansea (July 2024)|
+|&nbsp;|
 
