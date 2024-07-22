@@ -20,6 +20,8 @@ We are grateful for the financial support of these sponsor organisations!
 [![Canadian Science Publishing](../img/sponsors/canadian-science-publishing.png)](https://cdnsciencepub.com)
 [![Dryad](../img/sponsors/dryad.png)](https://datadryad.org/)
 [![Peer Community In](../img/sponsors/pci.jpg)](https://peercommunityin.org)
+[![Royal Society Publishing](../img/sponsors/RoySoc_logo.jpg)](https://royalsociety.org/)
+[![Society for the Study of Evolution](../img/sponsors/SSE_logo.jpg)](https://www.evolutionsociety.org/)
 
 &nbsp;
 
