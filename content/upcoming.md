@@ -19,6 +19,16 @@ Content submissions are currently being evaluated. The Conference Program will b
 
 **Registrations are now OPEN via Humanitix. [Register here!](https://events.humanitix.com/sortee-conference-2024)**
 
+
+
+### We are excited to announce our plenary presenters for the 2024 SORTEE Conference:
+
+- *Dr. Hu Chuan-Peng* will talk about "Promoting Open Science via Grassroots Networks in a Developing Country."
+
+- *Dr. Kate Laskowski* will discuss "What to Do When You Don't Trust Your Data Anymore."
+
+Abstracts for their talks are now available through the SORTEE OSF page. Join us in October to be part of the discussion!
+
 ## About SORTEE conferences
 
 *Our conferences are informative, fun and low-cost*  
