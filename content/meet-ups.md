@@ -68,6 +68,8 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 | {{< figure src="/blog/images/ESA2023.jpg" alt="SORTEE meetup Prague 2022" width="300px" >}} | {{< figure src="/blog/images/london2024.png" alt="The promises and pitfalls of preregistration in London, March 2024" width="300px" >}} |
 | ESA in Portland, August 2023 | The promises and pitfalls of |
 | &nbsp; | preregistration in London, March 2024 |
-| {{< figure src="/blog/images/fledglings2024.jpg" alt="EOU Fledglings Meeting in Prague, March 2024" width="300px" >}} ||
-|EOU Fledglings Meeting ||
-|in Prague, March 2024||
+| {{< figure src="/blog/images/fledglings2024.jpg" alt="EOU Fledglings Meeting in Prague, March 2024" width="300px" >}} | {{< figure src="/blog/images/SwissReproConf2024.jpg" alt="Swiss Reproducibility Conference in Zurich, June 2024" width="300px" >}} ||
+|EOU Fledglings Meeting | Swiss Reproducibility Conference ||
+|in Prague, March 2024| in Zurich, June 2024 ||
+
+
