@@ -59,15 +59,15 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 
 |		|		|
 |	---	|	---	|
-|	ESA/CSEE<br/> Montreal (August 2022)	|	{{< figure src="/blog/images/ESA2022_catchup.JPG"  width="300px" >}}	|
-|	ESEB<br/> Prague (August 2022)	|	{{< figure src="/blog/images/ESEB2022_catchup.JPG" width="300px" >}}	|
-|	SFE2-GfÖ-EEF<br/> Metz (November 2022)	|	{{< figure src="/blog/images/SFE2-GfO-EEF_catchup1.jpeg"  width="300px" >}}	|
-|	Behaviour<br/> Bielefeld (August 2023)	|	{{< figure src="/blog/images/Behaviour_Bielefeld.jpg"  width="300px" >}}	|
-|	ESA<br/> Portland (August 2023)	|	{{< figure src="/blog/images/ESA2023.jpg" width="300px" >}}	|
-|	The promises and pitfalls of preregistration<br/> London (March 2024)	|	{{< figure src="/blog/images/london2024.png" width="300px" >}}	|
-|	EOU Fledglings Meeting<br/> Prague (March 2024)	|	{{< figure src="/blog/images/fledglings2024.jpg" width="300px" >}}	|
-|	Swiss Reproducibility Conference<br/> Zurich (June 2024)	|	{{< figure src="/blog/images/SwissReproConf2024.jpg" width="300px" >}}	|
-|	IWEC<br/> Bengaluru (June 2024)	|	{{< figure src="/blog/images/IndianWildlife2024.jpeg" width="300px" >}}	|
-|	ISEC<br/> Swansea (July 2024)	|	{{< figure src="/blog/images/ISEC2024.JPEG" width="300px" >}}	|
+|	ESA/CSEE\n Montreal (August 2022)	|	{{< figure src="/blog/images/ESA2022_catchup.JPG"  width="300px" >}}	|
+|	ESEB\n Prague (August 2022)	|	{{< figure src="/blog/images/ESEB2022_catchup.JPG" width="300px" >}}	|
+|	SFE2-GfÖ-EEF\n Metz (November 2022)	|	{{< figure src="/blog/images/SFE2-GfO-EEF_catchup1.jpeg"  width="300px" >}}	|
+|	Behaviour\n Bielefeld (August 2023)	|	{{< figure src="/blog/images/Behaviour_Bielefeld.jpg"  width="300px" >}}	|
+|	ESA\n Portland (August 2023)	|	{{< figure src="/blog/images/ESA2023.jpg" width="300px" >}}	|
+|	The promises and pitfalls of preregistration\n London (March 2024)	|	{{< figure src="/blog/images/london2024.png" width="300px" >}}	|
+|	EOU Fledglings Meeting\n Prague (March 2024)	|	{{< figure src="/blog/images/fledglings2024.jpg" width="300px" >}}	|
+|	Swiss Reproducibility Conference\n Zurich (June 2024)	|	{{< figure src="/blog/images/SwissReproConf2024.jpg" width="300px" >}}	|
+|	IWEC\n Bengaluru (June 2024)	|	{{< figure src="/blog/images/IndianWildlife2024.jpeg" width="300px" >}}	|
+|	ISEC\n Swansea (July 2024)	|	{{< figure src="/blog/images/ISEC2024.JPEG" width="300px" >}}	|
 
 
