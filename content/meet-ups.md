@@ -59,20 +59,20 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 
 |  |  |
 |---|---|
-| {{< figure src="/blog/images/ESA2022_catchup.JPG"  width="300px" >}} |{{< figure src="/blog/images/ESEB2022_catchup.JPG" alt="SORTEE meetup Prague 2022" width="300px" >}} |
-| ESA / CSEE in Montreal, August 2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ESEB in Prague, August 2022 |
-| &nbsp; | &nbsp; |
+| {{< figure src="/blog/images/ESA2022_catchup.JPG"  width="300px" >}} | {{< figure src="/blog/images/ESEB2022_catchup.JPG" width="300px" >}} |
+| ESA/CSEE | ESEB |
+| in Montreal, August 2022 | in Prague, August 2022 |
 | {{< figure src="/blog/images/SFE2-GfO-EEF_catchup1.jpeg"  width="300px" >}} | {{< figure src="/blog/images/Behaviour_Bielefeld.jpg"  width="300px" >}} |
-| SFE2-GfÖ-EEF in Metz, November 2022 | Behaviour in Bielefeld, August 2023 |
-| &nbsp; | &nbsp; |
-| {{< figure src="/blog/images/ESA2023.jpg" alt="SORTEE meetup Prague 2022" width="300px" >}} | {{< figure src="/blog/images/london2024.png" alt="The promises and pitfalls of preregistration in London, March 2024" width="300px" >}} |
-| ESA in Portland, August 2023 | The promises and pitfalls of |
-| &nbsp; | preregistration in London, March 2024 |
-| {{< figure src="/blog/images/fledglings2024.jpg" alt="EOU Fledglings Meeting in Prague, March 2024" width="300px" >}} | {{< figure src="/blog/images/SwissReproConf2024.jpg" alt="Swiss Reproducibility Conference in Zurich, June 2024" width="300px" >}} |
+| SFE2-GfÖ-EEF | Behaviour |
+| in Metz, November 2022 | in Bielefeld, August 2023 |
+| {{< figure src="/blog/images/ESA2023.jpg" width="300px" >}} | {{< figure src="/blog/images/london2024.png" width="300px" >}} |
+| ESA | The promises and pitfalls of preregistration |
+| in Portland, August 2023 | in London, March 2024 |
+| {{< figure src="/blog/images/fledglings2024.jpg" width="300px" >}} | {{< figure src="/blog/images/SwissReproConf2024.jpg" width="300px" >}} |
 | EOU Fledglings Meeting | Swiss Reproducibility Conference |
-| in Prague, March 2024| in Zurich, June 2024 |
-| {{< figure src="/blog/images/IndianWildlife2024.jpeg" alt="Indian Wildlife Ecology Conference in Bengaluru, June 2024" width="300px" >}} | {{< figure src="/blog/images/ISEC2024.JPEG" alt="International Statistical Ecology Conference in Swansea, July 2024" width="300px" >}} |
-| Indian Wildlife Ecology Conference | International Statistical Ecology Conference |
+| in Prague, March 2024 | in Zurich, June 2024 |
+| {{< figure src="/blog/images/IndianWildlife2024.jpeg" width="300px" >}} | {{< figure src="/blog/images/ISEC2024.JPEG" width="300px" >}} |
+| IWEC | ISEC |
 | in Bengaluru, June 2024| in Swansea, July 2024 |
 
 
