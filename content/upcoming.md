@@ -19,7 +19,7 @@ Content submissions are currently being evaluated. The Conference Program will b
 
 **Registrations are now OPEN via Humanitix. [Register here!](https://events.humanitix.com/sortee-conference-2024)**
 
-
+&nbsp;  
 
 ### We are excited to announce our plenary presenters for the 2024 SORTEE Conference:
 
@@ -28,6 +28,8 @@ Content submissions are currently being evaluated. The Conference Program will b
 - *Dr. Kate Laskowski* will discuss "What to Do When You Don't Trust Your Data Anymore."
 
 Abstracts for their talks are now available through the SORTEE OSF page. Join us in October to be part of the discussion!
+
+&nbsp;  
 
 ## About SORTEE conferences
 
