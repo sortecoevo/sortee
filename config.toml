@@ -136,7 +136,7 @@ paginate = 4
 
 [[menu.main]]
     identifier = "aboutus"
-    name = "About Us"
+    name = "About us"
     url = "/aboutus/"
     weight = 80
 
