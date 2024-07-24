@@ -127,7 +127,6 @@ Current members are:
 Daniel Morillo Cuadrado   
 Edward Ivimey-Cook    
 Elina Takola    
-Jake Williams   
 Julia Sharapi   
 Kevin Bairos-Novak    
 Shinichi Nakagawa   
