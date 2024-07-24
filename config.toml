@@ -162,7 +162,7 @@ paginate = 4
 
 [[menu.topbar]]
     weight = 1
-    name = "Twitter"
+    name = "X"
     url = "https://twitter.com/sortecoevo"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 
