@@ -135,9 +135,9 @@ paginate = 4
     weight = 70
 
 [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
+    identifier = "about"
+    name = "About Us"
+    url = "/about/"
     weight = 80
 
 [[menu.main]]
