@@ -12,7 +12,7 @@ This page hosts an assortment of resources ranging from societies and organizati
 
 &nbsp;
 
-While the resources below were mostly published by other parties, in the future we would love to create  our own resources, tailored for ecology and evolution. For example, these may take form of slides, videos, or even one-page summaries of key concepts, workflows or tools. If you have specific requests, ideas or wish to contribute - please get in touch!    **If you know about any other relevant items, please contact [SORTEE]({{< ref "contact.md" >}}) or somebody from our [Education and Outreach]({{< ref "people.md#Education-and-outreach-committee" >}}) or [Media]({{< ref "people.md#media-committee" >}})  committees.**    
+While the resources below were mostly published by other parties, in the future we would love to create  our own resources, tailored for ecology and evolution. For example, these may take form of slides, videos, or even one-page summaries of key concepts, workflows or tools. If you have specific requests, ideas or wish to contribute - please get in touch!    **If you know about any other relevant items, please contact [SORTEE]({{< ref "about.md" >}}) or somebody from our [Education and Outreach]({{< ref "people.md#Education-and-outreach-committee" >}}) or [Media]({{< ref "people.md#media-committee" >}})  committees.**    
 &nbsp;
 
 ### SORTEE preprint server
