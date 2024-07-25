@@ -152,6 +152,6 @@ This page hosts a list of reading materials on the topics related to the goals o
 
 &nbsp;
 
-**If you know about any items relevant to our newsletters (e.g. events, publications, announcements, ideas) or would like to contribute collating the newsletter, please contact us at [SORTEE]({{< ref "contact.md" >}}). (We do not advertise commercial services or products)**    
+**If you know about any items relevant to our newsletters (e.g. events, publications, announcements, ideas) or would like to contribute collating the newsletter, please contact us at [SORTEE]({{< ref "about.md" >}}). (We do not advertise commercial services or products)**    
 
 &nbsp;
