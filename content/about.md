@@ -1,6 +1,6 @@
 ---
 aliases:
-- aboutus-us
+- about-us
 author: ML
 date: "2020-09-14"
 description: About the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
