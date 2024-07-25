@@ -34,6 +34,6 @@ If you are a registered SORTEE member and did not receive the latest newsletter/
 
 &nbsp;
 
-**If you know about any items relevant to our newsletters (e.g. events, publications, announcements, ideas) or would like to contribute collating the newsletter, please contact us at [SORTEE]({{< ref "contact.md" >}}). (We do not advertise commercial services or products)**     
+**If you know about any items relevant to our newsletters (e.g. events, publications, announcements, ideas) or would like to contribute collating the newsletter, please contact us at [SORTEE]({{< ref "about.md" >}}). (We do not advertise commercial services or products)**     
 
 &nbsp;
