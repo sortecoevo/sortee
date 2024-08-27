@@ -17,7 +17,7 @@ The conference will run continuously from **15 October** to **16 October** to co
 
 The Conference Program is now available online via the [SORTEE Shiny app](https://conf-sortee.shinyapps.io/program-app/).
 
-**Registrations are now OPEN via Humanitix. [Register here!](https://events.humanitix.com/sortee-conference-2024)**
+**Registrations are still OPEN via Humanitix. [Register here!](https://events.humanitix.com/sortee-conference-2024)**
 
 &nbsp;  
 
