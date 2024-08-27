@@ -15,7 +15,7 @@ title: Upcoming events
 
 The conference will run continuously from **15 October** to **16 October** to cover different time zones.
 
-Content submissions are currently being evaluated. The Conference Program will be available on this page soon.
+The Conference Program is now available online via the [SORTEE Shiny app](https://conf-sortee.shinyapps.io/program-app/).
 
 **Registrations are now OPEN via Humanitix. [Register here!](https://events.humanitix.com/sortee-conference-2024)**
 
