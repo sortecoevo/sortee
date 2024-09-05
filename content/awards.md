@@ -26,155 +26,64 @@ title: "SORTEE awards"
 
 &nbsp;
 
-## 2023 Awards     
+## SORTEE Commendation Awards   
 
+&nbsp;    
 
-**Nominations for the 2023 SORTEE are closed now - see below for the award winners and process summary**.        
+#### Award Description      
+
+* The SORTEE Commendation Awards aim to highlight projects that align with the **aims and values of the society.** 
+* A Project is defined as **any work** that is an initiative benefiting the Eco-Evo community by fostering Open Science values or practices (e.g., journal clubs, workshops, seminar series, websites, repositories, tools, educational materials, public talks, podcasts, etc.).
+* The SORTEE Commendation Awards recognise that Projects are often team efforts. As such, the contributions of all project members, rather than individuals, will be highlighted. Note, however, that projects from single individuals can also be nominated.
+* We warmly encourage **diverse nominations** in terms of team membership (e.g., country, gender, professional background) and content (see eligibility criteria below). We will also value projects with any scale of impact -  from local (e.g., within a single research group or institution) to global (e.g., publicly accessible websites or repositories).
+* There is **no limit** on the number of SORTEE Commendation awards given by the society per year. Any nominated Projects meeting the eligibility criteria listed below will be awarded a Commendation.
+
+&nbsp;    
+
+#### Eligibility    
+
+1. Projects must contribute to fostering Open Science values or practices such as transparency, robustness of research, or improvement of the scientific system/practice in general, going beyond simply implementing current practices or processes, with actual impact on any scale.
+2. Projects should be related at least remotely to the fields of ecology and/or evolutionary biology or closely related fields.
+3. Evidence of the project has to be provided, e.g., by photos, websites, teaching/outreach materials, screenshots of news or social posts, recommendation letters, repositories, preprints.
+4. The person nominating the project, or at least one project member, must be a current SORTEE member (newly joined members are eligible).
+5. Current SORTEE Awards Committee members, SORTEE Awards DEI Representative, members of the Board of Directors and Executive Officers ([the secretary, treasurer, past president, president, president-elect](sortee.org/people)) are not eligible to nominate a Project, or be a member of a nominated Project.
+ 
+
+&nbsp;    
+
+#### Nomination process 
+
+Project nominations can be submitted year-round until **two months before the SORTEE conference.** This two-month time period allows for assessing nominations by the Awards Committee and approval by the Board of Directors. Submissions made within this period will be transferred to the pool of submissions for the following round.
+
+Projects may be self-nominated by project members, or nominated by individuals who were not project members. Project nominations must be submitted through an online [SORTEE Project Award nomination form](https://forms.gle/gFM47pAYe6mjECUU9) and a [document upload template.](https://docs.google.com/document/d/19R1tAcS_fNoXbxKvx3eaFYMhXJI7hvau/edit?usp=sharing&ouid=110356474356884735091&rtpof=true&sd=true) The nomination form requires the following information:
+
+1. Name of the nominated Project
+2. Name and email address of the person nominating the Project, and information on whether it is a self-nomination (from a project member) or not (from a person who is not a project member).
+3. Name of one member of the nominated Project, or the name of the nominating person, who is a current SORTEE member (there is no time limit between joining SORTEE and submitting an award nomination), for eligibility purposes.
+4. One completed nomination document (using the document upload template), containing the name of the nominated project and the following 3 sections:
+    - Names, email addresses, primary institutional affiliations (where appropriate), and contributions of all project members in a structured format as an attached document (file). We remind the nominator to ensure all under-represented groups are given appropriate credit for their contributions.
+    - Description (maximum 500 words) of why the Project is deserving of a SORTEE Commendation Award. This section may include showing how the project goes beyond simply implementing current scientific practices or processes, and its actual impact on any scale.
+    - Evidence supporting the project (maximum 2 pages). This section can contain copies of photos, websites, teaching/outreach materials, news and social posts, recommendation letters, repositories,  preprints, or links (accessible to adjudicators through URLs / DOIs) to any additional documents evidencing the project.
+
 
 &nbsp;   
 
-The 2023 SORTEE Awards was delighted to receive 7 applications for the ‘Student Award’ and 17 applications for the ‘Researcher Award’. Each application was judged by two selection committee members who had no conflict of interest with the candidate. 7 applicants were judged eligible for the ‘Student Award’ and 15 applicants were judged eligible for the ‘Researcher Award’. These eligible candidates were entered as finalists into a lottery to select the winner for each award. The lottery was run using a random ‘spin the wheel’ program, requiring one re-spin to ensure fulfilment of SORTEE Diversity, Equity and Inclusion policy.   
+#### Assessment process  
+
+* The SORTEE Awards Committee will assess whether applications meet the SORTEE Commendation Awards eligibility criteria, as listed above. 
+* Eligible Projects will then be proposed by the SORTEE Awards Committee to the SORTEE Board of Directors who will vote on the final approval. 
+* We will inform the nominating person and project members about the assessment outcome using the contact details provided on the nomination form.
+* Awards will be announced during the SORTEE annual virtual conference and then posted on the [SORTEE website](http://www.sortee.org) and social media (currently: Mastodon, X, Facebook, LinkedIn).      
+
+&nbsp;    
+
+**[NOMINATION DOCUMENT TEMPLATE](https://docs.google.com/document/d/19R1tAcS_fNoXbxKvx3eaFYMhXJI7hvau/edit?usp=sharing&ouid=110356474356884735091&rtpof=true&sd=true) (to be downloaded, filled in and provided as an attachment with the online submission form)**
 
 &nbsp;   
 
-**The winner of the ‘Student Award’ is: Euan Young**     
-Euan is a third-year PhD student at the University of Groningen in the Netherlands. He has demonstrated Open Science practices by publishing his first PhD chapter as a pre-print and making the associated data and R code freely available.    
-
-*See [Past Awards Winners]({{< ref "awards.md#past-awards-winners" >}}) section for a full winner profile!*   
-
-&nbsp;   
-
-**The winner of the ‘Researcher Award’ is: Birgit Szabo**    
-Birgit is a post-doc at the University of Bern in Switzerland. They have been dedicated to Open Science throughout their career, for example by making the raw data, meta-data and fully annotated R code from all of their publications openly available.   
-
-*See [Past Awards Winners]({{< ref "awards.md#past-awards-winners" >}}) section for a full winner profile!*   
-
-&nbsp;   
-
-The SORTEE Awards Committee would like thank all of the finalists for their applications. In particular, the committee wishes to highlight that they received a couple of outstanding applications, which they feel are deserving of a career award, that the current lottery system does not allow recognition of. The SORTEE awards committee will look in to establishing a new career award to fill this gap.       
+--- 
 
 &nbsp;    
-
-This year we had two (redesigned) award categories: 2023 Student Award and 2023 Researcher Award - for details please see the descriptions below.     
-
-&nbsp;    
-
-**Aim**   
-The awards provide recognition for open and transparent work in ecology and evolution. The intent of these awards is to facilitate uptake and promotion of Open, Reliable, and Transparent (ORT) science by students and researchers in ecology and evolution.   
-
-&nbsp;    
-
-**Prizes**    
-We do not offer monetary prizes. The winners will receive a digital award certificate and their profile will be highlighted on the SORTEE website and social media. We may offer some other benefits, for example waivers of publication fees, depending on the generosity of our sponsors.       
-
-&nbsp;    
-
-**Nominations and Diversity Equity and Inclusion**    
-SORTEE is committed to equal opportunity and fair assessment for all and seeks as diverse a pool of award nominations as possible. We warmly encourage nominations from historically marginalised or underrepresented groups (e.g., women, racial or ethnic minorities, people with disabilities or caring responsibilities). We allow self-nominations and nominations by others. After reading award descriptions please consider nominating yourself or nominate somebody you know.  
-
-&nbsp;    
-
-**Selection process**   
-Nominations will be first reviewed for eligibility independently by two SORTEE Awards Committee members, with disagreements resolved via discussion with a third Committee member. Reviewers will be assigned so that they will not assess any nominations they may have a conflict of interest with (e.g., current or former students, recent collaborators, family members). Reviewers might consult additional publicly available material or ask referees to confirm eligibility or contributorship claims.  
-Nominations judged as eligible will be entered into a lottery that will be a stratified random draw (ensuring winners are not all the same gender and do not all come from the same country). The Awards Committee will determine the eligibility threshold scores and number of winners based on the number and distribution of scores of the received nominations. Award winners will be publicly announced during the annual SORTEE conference and the winners will be also notified via email.  
-
-&nbsp;    
-
-**Assessment criteria**        
-The criteria for judging submissions are partially based on [TOP journal guidelines](https://www.cos.io/initiatives/top-guidelines) (TOP = Transparency and Openness Promotion), modified for application to individual publications (the modified rubric is available at the bottom of the Awards page).   
-We emphasize that making publications Open Access is NOT a criterion for the awards, as this typically requires access to substantial funds. However, making a penultimate version of an officially accepted manuscript publicly available (e.g., on a preprint server, institutional repository) is a good practice, and is now permitted by almost all publishing outlets. When assigning the scores, reviewers will take into account available information on the barriers and difficulties to implementing ORT practices on the case-by-case basis to make assessment equitable.  
-All steps that are taken to improve the transparency and reproducibility of ecological or evolutionary research are valuable and appreciated. Achieving the “ideal” workflow in practice will, for many of us, be a life-long endeavour and learning experience!   
-We therefore encourage all eligible students and researchers to apply, regardless of how far along this path they are. For example, somebody may not have implemented many or any ORT best practices from the outset of their research career because they initially did not have access to the training and support necessary. Thus, their earlier work may be less transparent and reproducible than their later work. This is entirely expected, and should not discourage you from applying for this award.   
-
-&nbsp;    
-
-**Expectations of the winning nominees**   
-The winners must agree to have their full name, affiliation, photo (optional), short bio (optional), and a link to relevant information about the contribution/activity placed on the SORTEE website (they can also contribute a blog post to SORTEE website). All award winners are expected to meet the commonly held standards of professional ethics and scientific integrity, a breach of these standards may result in cancellation of the award at the discretion of the Awards Committee.  
-
-&nbsp;    
-
-**2023 Awards Committee**   
-The 2023 consists of Clint Kelly, Hannah Dugdale, Sandra Hamel, Kari Norman, Malgorzata Lagisz (Chair). The committee reserves the right to seek additional information on the nominated candidates and to decide on the eligibility threshold scores and the number of the winners per award category. Decisions of the Awards Committee are final. The Awards Committee may be able to provide some feedback on the unsuccessful applications after the announcement, at a reasonable request.  
-
-&nbsp;    
-
-**Contact**   
-Inquiries may be directed to Malgorzata Lagisz at losialagisz@gmail.com (please note that the nominations should be submitted via links to online submission forms, as provided below award descriptions).  
-
-&nbsp;    
-
-### 2023 Student Award   
-
-&nbsp;    
-
-**Award Description**.      
-This award aims to recognize and reward student researchers who have endeavoured to implement best (Open, Reliable, and Transparent = ORT) practices within their research workflow, thereby increasing the transparency and reproducibility of their research activities in broadly defined fields of ecology and evolutionary biology.  
-
-&nbsp;    
-
-**Eligibility**   
-1. Applicants must be currently registered as students (any level) in a legitimate educational institution. They can be enrolled either full-time or part-time, with or without a scholarship.  
-2. Applicants must be members of SORTEE at the time of application (note that there is a membership fee waiver for potential members who cannot afford the membership fee).  
-3. Applicants’ nominated research must be primarily in the fields of ecology or evolutionary biology.  
-
-&nbsp;    
-
-**Application materials**   
-1. Personal information: full name, affiliation, gender, preferred pronouns (optional), country of residence, country of origin (self-defined).  
-2. Link to a personal or institutional webpage (optional).  
-3. A brief description (maximum 500 words) of why you (or your nominee)  are deserving of this award, and referring to evidence and examples (accessible through URLs / DOIs) of how you have integrated ORT practices into your research workflow as a student researcher. Also mention how your work is relevant to ecology or evolutionary biology. You should primarily highlight your own (or your nominee’s) ORT contributions while clearly identifying contributions from supervisors and collaborators.   
-4. A brief description (maximum 500 words) of other elements of ORT that you wish you (or your nominee) had applied to the research, but were limited by financial constraints, access to certain resources, bureaucratic restrictions, or any other barriers.  
-5. Upload of any relevant additional files, for example, an article you are particularly proud of, or relevant materials not available online. Please do not upload recommendation letters or CV.   
-6. Provide name, affiliation, and email of potential Referee 1 and Referee 2.  
-
-&nbsp;   
-
-**Applications**.  
-Nominations are now closed for 2023.      
-
-&nbsp;    
-
-
-### 2023 Researcher Award   
-
-&nbsp;    
-
-**Award Description**   
-This award aims to recognize and reward researchers who have made consistent and long term contributions to open science in various forms including publications, preregistration, data or software sharing, and outreach (e.g. the presentation of seminars and workshops), benefitting broadly defined ecology and evolutionary biology.   
-
-&nbsp;    
-
-**Eligibility**.    
-1. Applicants must NOT be currently registered as students (any level) in a legitimate educational institution. Except this, researchers (self-defined) from any legitimate institution and at any career stage are eligible to apply.  
-2. Applicants must be members of SORTEE at the time of application (note that there is a membership fee waiver for potential members who cannot afford the membership fee).   
-3. Applicants’ research must be primarily in the fields of ecology or evolutionary biology.  
-
-&nbsp;    
-
-**Application materials**    
-1. Personal information: full name, affiliation, gender, preferred pronouns (optional), country of residence, country of origin (self-defined).  
-2. Link to a personal or institutional webpage (optional).  
-3. A brief description  (maximum 500 words) of why you (or your nominee)  are deserving of this award, and referring to evidence and examples (accessible through URLs / DOIs) of how you have integrated ORT best practices into your research workflow as a non-student researcher and your contributions to open science in general. Also mention how your work is relevant to ecology or evolutionary biology. Your letter should primarily highlight your own (or your nominee’s) contributions while clearly identifying contributions from supervisors and collaborators.   
-4. A brief description (maximum 500 words) of other elements of reproducibility or open science that you wish you (or your nominee) had applied to the research, but were limited by financial constraints, access to certain resources, bureaucratic restrictions, or any other barriers.  
-5. Upload of any relevant additional files, for example, an article you are particularly proud of, or relevant materials not available online.  Please do not upload recommendation letters or CV.   
-6. Provide name, affiliation, and email of potential Referee 1 and Referee 2.  
-
-&nbsp;    
-
-**Applications**  
-Nominations are now closed for 2023.    
-
-&nbsp;      
-
-**2023 Disclaimers / Acknowledgements**    
-The information provided on this page is partially modeled on [AIMOS awards](https://aimos.community) and other publicly available research awards descriptions.   
-
-&nbsp;   
-&nbsp;   
-
----
-
-&nbsp;     
 
 # Past Awards Winners   
 
@@ -264,11 +173,24 @@ The information provided on this page is partially modeled on [AIMOS awards](htt
 *Profile*:    I want to understand the social communication in the honey bees brain during waggle dance. I started when the open source microcontroller Arduino was becoming popular. The code copying mindset got me and I immediately understood that sharing openly is the only way forward. I investigated color vision in honey bees with an Arduino driven illumination arm. This gave us great data sets that were sufficiently repetitive to analyse across animals. I took the servo-motor library and wrote a bit of code for the machine to scan along. Inaccessible for me before open source, but with it: a joy. Later we put a bee on a quad-copter while we recorded brain activity to investigate the animal's navigation. The electrical engineers of reddit shared with me how to design the electronics board. Earlier I recorded bees' brain activity in their hive to investigate free and motivated social behaviour, impossible without the collaborative work that was done on the Raspberry Pi to monitor my bees. Those and other projects of mine focus on the peculiar behaviour of the honey bee and quickly accessing them by taking useful snippets from others. All works were acknowledged and given back.   
 
 &nbsp;   
-&nbsp;   
 
----   
+--- 
+
+&nbsp; 
 
 # Past Awards Descriptions   
+
+## 2023 Open Science Student and Open Science Researcher
+
+This award aims to recognize and reward researchers who have made consistent and long term contributions to open science in various forms including publications, preregistration, data or software sharing, and outreach (e.g. the presentation of seminars and workshops), benefitting broadly defined ecology and evolutionary biology.
+
+Two separate awards were available in 2023: one for currently registered students, and one for researchers NOT currently registered as students.
+
+**Application materials:**
+1. A brief description (maximum 500 words) of why you (or your nominee) are deserving of this award, and referring to evidence and examples (accessible through URLs / DOIs) of how you have integrated ORT practices into your research workflow as a student researcher. Also mention how your work is relevant to ecology or evolutionary biology. You should primarily highlight your own (or your nominee’s) ORT contributions while clearly identifying contributions from supervisors and collaborators.
+2. A brief description (maximum 500 words) of other elements of ORT that you wish you (or your nominee) had applied to the research, but were limited by financial constraints, access to certain resources, bureaucratic restrictions, or any other barriers.
+3. Upload of any relevant additional files, for example, an article you are particularly proud of, or relevant materials not available online. Please do not upload recommendation letters or CV.
+4. Provide name, affiliation, and email of potential Referee 1 and Referee 2.
 
 &nbsp;   
 
@@ -278,15 +200,14 @@ This award aims to recognize and reward researchers who have made consistent and
 
 Two separate awards were available in 2022: one for early career (5 or fewer years post-PhD) and one for established (>5 years post-PhD) researchers. 
 
-**Application materials:** 
- &nbsp;    
+**Application materials:**    
 (i) A letter (maximum 500 words) describing why you are deserving of this award, and referring to evidence and examples (accessible to adjudicators through URLs / DOIs) of how your publication and the work that went into it exemplifies Open Science best practices and the promotion of Open Science.    
 (ii) An up-to-date resumé (maximum 2 pages as a .pdf)    
 (iii) A list with explanations of open science contributions    
 
 &nbsp;
 
-### 2021 - 2022 Open Science in Practice      
+## 2021 - 2022 Open Science in Practice      
  
 This award aims to recognize and reward researchers who have endeavoured to implement best practices in Open Science (OS) within their research workflow, thereby increasing the transparency and reproducibility of their research activities.
 
@@ -294,22 +215,19 @@ Three separate awards are available each year: one for Masters students (current
 
 All steps that are taken to improve the transparency and reproducibility of research are valuable and appreciated, and achieving the “ideal” workflow in practice will, for many of us, be a life-long endeavour and learning experience! We therefore encourage all eligible researchers to apply, regardless of how far along this path they are. For example, a graduate student or postdoc may not have implemented many or any OS best practices from the outset of their research career because they initially did not have access to the training and support necessary. Thus, their earlier work may be less transparent and reproducible than their later work. This is entirely expected, and should not discourage you from applying for this award.
 
-&nbsp;
-
 **Application materials:**   
  (i) A letter (maximum 500 words) describing why you are deserving of this award, and referring to evidence and examples (accessible to adjudicators through URLs / DOIs) of how you have integrated OS best practices into your research workflow as a graduate student or postdoc.    
  (ii) An up-to-date resumé (maximum 2 pages).      
  (iii) A brief document (maximum 300 words) describing other elements of reproducibility or open science that you wish to have applied to your research, but were limited by financial constraints, access to certain resources, bureaucratic restrictions, or any other barrier.   
-
-&nbsp;
 
 **Criteria:**  
 The criteria for judging submissions are based on [TOP journal guidelines](https://www.cos.io/initiatives/top-guidelines) modified for application to individual publications. We emphasize that making publications Open Access is NOT a criterion for the awards, as this typically requires access to substantial funds. However, making a penultimate version of an officially accepted manuscript publicly available (e.g. on a preprint server, institutional repository, or personal webpage) is good practice, and is now permitted by almost all publishing outlets.
 
 &nbsp;   
 
-&nbsp;
+--- 
 
+&nbsp;
 
 # TOP Rubric for Publication Assessment    
  *(1 point for each checkbox)*     
