@@ -22,6 +22,7 @@ We are grateful for the financial support of these sponsor organisations!
 [![Peer Community In](../img/sponsors/pci.jpg)](https://peercommunityin.org)
 [![Royal Society Publishing](../img/sponsors/RoySoc_logo.png)](https://royalsociety.org/)
 [![Society for the Study of Evolution](../img/sponsors/SSE_logo.png)](https://www.evolutionsociety.org/)
+[![Center for Open Science](../img/sponsors/cos.png)](https://www.cos.io)
 
 &nbsp;
 
