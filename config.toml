@@ -296,8 +296,6 @@ paginate = 6
     link_text = "Read more"
     title = "Become a SORTEE volunteer!"
     subtitle = "Nominations close October 30th"
-    link_url = "https://tinyurl.com/volunteerSORTEE2025"
-    link_text = "https://tinyurl.com/volunteerSORTEE2025"
 
 [params.see_more]
     enable = true
