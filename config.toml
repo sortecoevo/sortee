@@ -292,8 +292,7 @@ paginate = 4
     icon = "fas fa-globe"
     title = "Become a SORTEE volunteer!"
     subtitle = "Nominations close October 30th"
-    link_url = "https://tinyurl.com/volunteerSORTEE2025"
-    link_text = "https://tinyurl.com/volunteerSORTEE2025"
+
 
 [params.new_news]
     enable = true #change to true to display
