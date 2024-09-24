@@ -267,7 +267,7 @@ paginate = 6
     tags = true
     search = true
 
-[params.volunteer]
+[params.testimonials]
     enable = true #change to true to display
     icon = "fas fa-globe"
     title = "Become a SORTEE volunteer!"
