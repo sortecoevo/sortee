@@ -11,7 +11,7 @@ googleAnalytics = ""
 
 
 # Define the number of posts per page
-paginate = 5
+paginate = 6
 
 [menu]
 
@@ -296,7 +296,7 @@ paginate = 5
 [params.new_news]
     enable = true #change to true to display
     icon = "fas fa-globe"
-    title = "2024 SORTEE conference 15-16 October"
+    title = "2024 SORTEE conference 15-16th October"
     subtitle = "Registrations open and program online!"
     link_url = "/upcoming"
     link_text = "Read more"
