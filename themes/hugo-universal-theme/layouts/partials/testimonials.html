@@ -1,19 +1,19 @@
-{{ if isset .Site.Params "volunteer" }}
-{{ if .Site.Params.volunteer.enable }}
+{{ if isset .Site.Params "testimonials" }}
+{{ if .Site.Params.testimonials.enable }}
 <section class="bar background-image-fixed-1 no-mb color-green text-center">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="text-uppercase">{{ .Site.Params.volunteer.title | markdownify }}</h3>
-                <p class="lead">{{ .Site.Params.volunteer.subtitle | markdownify }}</p>
+                <h3 class="text-uppercase">{{ .Site.Params.testimonials.title | markdownify }}</h3>
+                <p class="lead">{{ .Site.Params.testimonials.subtitle | markdownify }}</p>
                 <p class="text-center">
-                    {{ with .Site.Params.volunteer.link_url }}
+                    {{ with .Site.Params.testimonials.link_url }}
                     <a href="{{ . }}" class="btn btn-template-transparent-black btn-lg">
                     {{ end }}
-                        {{ with .Site.Params.volunteer.link_text }}
+                        {{ with .Site.Params.testimonials.link_text }}
                         {{ . | markdownify }}
                         {{ end }}
-                    {{ with .Site.Params.volunteer.link_url }}
+                    {{ with .Site.Params.testimonials.link_url }}
                     </a>
                     {{ end }}
                 </p>
