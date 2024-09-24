@@ -287,6 +287,14 @@ paginate = 4
     title = "Testimonials"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
+[params.new_news2]
+    enable = true #change to true to display
+    icon = "fas fa-globe"
+    title = "Become a SORTEE volunteer!"
+    subtitle = "Nominations close October 30th"
+    link_url = "https://tinyurl.com/volunteerSORTEE2025"
+    link_text = "https://tinyurl.com/volunteerSORTEE2025"
+
 [params.new_news]
     enable = true #change to true to display
     icon = "fas fa-globe"
