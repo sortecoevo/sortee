@@ -266,26 +266,6 @@ paginate = 6
     categories = true
     tags = true
     search = true
-
-[params.carousel]
-    enable = false
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
-    # For more informtion take a look at the README.
-
-[params.features]
-    enable = false
-    # All features are defined in their own files. You can find example items
-    # at 'exampleSite/data/features'.
-    # For more informtion take a look at the README.
-
-[params.testimonials]
-    enable = true
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
-    # For more informtion take a look at the README.
-    title = "Become a SORTEE volunteer!"
-    subtitle = "Nominations close October 30th"
     
 [params.new_news]
     enable = true #change to true to display
