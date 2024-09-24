@@ -1,0 +1,25 @@
+{{ if isset .Site.Params "volunteer" }}
+{{ if .Site.Params.volunteer.enable }}
+<section class="bar background-image-fixed-1 no-mb color-green text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="text-uppercase">{{ .Site.Params.volunteer.title | markdownify }}</h3>
+                <p class="lead">{{ .Site.Params.volunteer.subtitle | markdownify }}</p>
+                <p class="text-center">
+                    {{ with .Site.Params.volunteer.link_url }}
+                    <a href="{{ . }}" class="btn btn-template-transparent-black btn-lg">
+                    {{ end }}
+                        {{ with .Site.Params.volunteer.link_text }}
+                        {{ . | markdownify }}
+                        {{ end }}
+                    {{ with .Site.Params.volunteer.link_url }}
+                    </a>
+                    {{ end }}
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
