@@ -10,6 +10,8 @@ title: Newsletters
 This page hosts links to archived newsletters produced by SORTEE.   
 
 &nbsp;
+## [Newsletter - September 2024](/pdf/newsletter-202409.pdf)  
+
 ## [Newsletter - June 2024](/pdf/newsletter-202406.pdf)  
 
 ## [Newsletter - March 2024](/pdf/newsletter-202403.pdf)  
