@@ -208,7 +208,6 @@ Easton White
 Gabe Winter   
 Julia Sharapi   
 Malika Ihle   
-Michael Remke   
 Suz Everingham    
 Friederike (Freddy) Hillemann
 
@@ -258,7 +257,6 @@ Current members are:
 Kaija Gahm  
 Elizabeth Hrycyna   
 Max Czapanskiy    
-Michael Remke   
 Natasha Gownaris   
 Laura Super    
 Rachel Turba    
