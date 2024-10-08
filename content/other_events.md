@@ -27,6 +27,8 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 ## November 2024 
 
+### **Title:** *In Defense of Depth: Slow Science for Sustainable Progress in Ecology and Evolution*   
+
 **Presenter:** [Dr. Yseult Héjja-Brichard (University of Veterinary Medicine, Vienna)](https://yseulthb.github.io/)      
 **Type:** Webinar        
 **Date and Time:** Tuesday, 26 November 2024 16:00 UTC     
@@ -34,11 +36,14 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 **Duration:** 1 hr   
 **Summary:** In a time when scientific output is often measured by speed and quantity, the ecological and evolutionary sciences face growing pressure to deliver rapid results. However, the complexities of ecosystems and evolutionary processes demand more than quick conclusions—they require depth, patience, and long-term commitment. This talk advocates for the principles of slow science, a movement that emphasizes careful, deliberate research as the foundation for sustainable progress in our understanding of the natural world.    
 
+[**Register here!**](https://events.humanitix.com/sortee-webinar-in-defense-of-depth-slow-science-for-sustainable-progress-in-ecology-and-evolution)
+
 &nbsp;  
 
-# Past events  
-
+---
 &nbsp;
+
+# Past events  
 
 &nbsp;
 
