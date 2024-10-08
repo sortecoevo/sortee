@@ -25,6 +25,23 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 &nbsp;
 
+## November 2024 
+
+**Presenter:** [Dr. Yseult Héjja-Brichard (University of Veterinary Medicine, Vienna)](https://yseulthb.github.io/)      
+**Type:** Webinar        
+**Date and Time:** Tuesday, 26 November 2024 16:00 UTC     
+**Timezone(s):** Americas/Europe  
+**Duration:** 1 hr   
+**Summary:** In a time when scientific output is often measured by speed and quantity, the ecological and evolutionary sciences face growing pressure to deliver rapid results. However, the complexities of ecosystems and evolutionary processes demand more than quick conclusions—they require depth, patience, and long-term commitment. This talk advocates for the principles of slow science, a movement that emphasizes careful, deliberate research as the foundation for sustainable progress in our understanding of the natural world.    
+
+&nbsp;  
+
+# Past events  
+
+&nbsp;
+
+&nbsp;
+
 ## May 2024 
 
 ### **Title:** *An introduction to using simulations for study design and pre-registration*   
@@ -36,15 +53,7 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 **Duration:** 2 hrs   
 **Summary:** The use of simulations in study design can directly help address several issues in ecology and evolutionary biology, including research waste, p-hacking and HARKing. However, simulations are infrequently used in a standard workflow, in part because of the perception that they are too complex for the average empiricist. The aim of this workshop is to challenge this perception and provide tools for empiricists to start simulating.    
 
-The workshop will assume an understanding of basic statistics including linear regression. A working knowledge of R will be required to take parts in the practical parts of the workshop.    
-
-[Register here!](https://events.humanitix.com/sortee-workshop-simulation-for-study-design)
-
-&nbsp;  
-
-# Past events  
-
-&nbsp;
+&nbsp; 
 
 ## April 2024 
 
