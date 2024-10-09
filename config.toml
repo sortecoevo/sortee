@@ -51,6 +51,11 @@ paginate = 6
     url = "/codeofconduct/"
 
 [[menu.main]]
+    parent = "documents"
+    name = "Position Statements"
+    url = "/positionstatements/"
+
+[[menu.main]]
     identifier = "resources"
     name = "Resources"
     url = "/resources/"
