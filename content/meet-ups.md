@@ -62,12 +62,15 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 |	{{< figure src="/blog/images/ISBE2024.JPEG" width="300px" >}}	|
 |	ISBE	|
 |Melbourne (October 2024)|
+|&nbsp;|
 |	{{< figure src="/blog/images/ESA2024.JPEG" width="300px" >}}	|
 |	ESA	|
 |California (August 2024)|
+|&nbsp;|
 |	{{< figure src="/blog/images/ESEB2024.JPEG" width="300px" >}}	|
 |	ESEB	|
 |Montreal (July 2024)|
+|&nbsp;|
 |	{{< figure src="/blog/images/ISEC2024.JPEG" width="300px" >}}	|
 |	ISEC 	|
 |Swansea (July 2024)|
