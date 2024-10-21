@@ -65,7 +65,7 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 |&nbsp;|
 |	{{< figure src="/blog/images/ESA2024.JPEG" width="300px" >}}	|
 |	ESA	|
-|California (August 2024)|
+|Long Beach (CA) (August 2024)|
 |&nbsp;|
 |	{{< figure src="/blog/images/ESEB2024.JPEG" width="300px" >}}	|
 |	ESEB	|
