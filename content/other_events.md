@@ -27,14 +27,14 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 ## November 2024
 
-### **Title:** *Your Perspectives on Open Science Monitoring: An Idea-a-thon to Inform UNESCO’s Draft Principles*   
+### **Title:** *Your Perspectives on Open Science Monitoring: An Idea-a-thon to Inform UNESCO’s Draft Principles (co-hosted by GYA and PLOS)*   
 
 **Presenter:** Agata Morka (Regional Director, Publishing Development (Europe) at PLOS)      
 **Type:** Workshop        
 **Date and Time:** Friday, 15 November 2024 12:00 UTC     
 **Timezone(s):** Americas/Europe  
 **Duration:** 2 hr   
-**Summary:** Through their Open Science Monitoring Initiative, and following an event held in December 2023, UNESCO is in the process of developing their Principles of Open Science Monitoring. They are soliciting feedback on this document through November 2024, and we would like to support our open science communities in providing feedback. During this two-hour event, co-hosted by SORTEE, the Global Young Academy, and PLOS, we will provide background on these initiatives and structured break-out sessions in which participants will discuss: 1) how they wish to be evaluated and monitored in their open science activities, 2) strengths and weaknesses of current monitoring solutions, and 3) the alignment of the UNESCO principles with their needs. The outcome will be a collective written response to UNESCO, signed by all participants who wish to be included. Participants do not need to have any pre-requisite knowledge on open science monitoring frameworks; the event is open to anyone interested in how open science is monitored.     
+**Summary:** Through their Open Science Monitoring Initiative, and following an event held in December 2023, UNESCO is in the process of developing their [Principles of Open Science Monitoring](https://docs.google.com/document/d/1eepqGt62NTdgy22jGp-nEsVC8zIvFZvexyIAVj3RdNA/edit?tab=t.0#heading=h.yzcbfhb49wsk). They are soliciting feedback on this document through November 2024, and we would like to support our open science communities in providing feedback. During this two-hour event, co-hosted by SORTEE, the Global Young Academy, and PLOS, we will provide background on these initiatives and structured break-out sessions in which participants will discuss: 1) how they wish to be evaluated and monitored in their open science activities, 2) strengths and weaknesses of current monitoring solutions, and 3) the alignment of the UNESCO principles with their needs. The outcome will be a collective written response to UNESCO, signed by all participants who wish to be included. Participants do not need to have any pre-requisite knowledge on open science monitoring frameworks; the event is open to anyone interested in how open science is monitored. Speakers include Agata Morka (PLOS, Regional Director of Publishing Development), Ismael Ràfols (UNESCO, Chair on Diversity and Inclusion in Global Science), and Ana Persic (UNESCO, Programme Specialist for Science Technology and Innovation Policies and Open Science).     
 
 [**Register here!**](https://events.humanitix.com/sortee-workshop-perspectives-on-open-science-monitoring-idea-a-thon)
 
