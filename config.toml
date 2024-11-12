@@ -273,7 +273,7 @@ paginate = 6
     search = true
 
 [params.testimonials]
-    enable = true #change to true to display
+    enable = false #change to true to display
     icon = "fas fa-globe"
     title = "Become a SORTEE volunteer!"
     subtitle = "Nominations close October 30th"
