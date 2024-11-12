@@ -168,8 +168,8 @@ paginate = 6
 [[menu.topbar]]
     weight = 1
     name = "X"
-    url = "https://twitter.com/sortecoevo"
-    pre = "<i class='fab fa-2x fa-twitter'></i>"
+    url = "https://x.com/sortecoevo"
+    pre = "<i class='fab fa-2x fa-x-twitter'></i>"
 
 [[menu.topbar]]
     weight = 2
@@ -187,7 +187,7 @@ paginate = 6
     weight = 4
     name = "Bluesky"
     url = "https://bsky.app/profile/sortee.bsky.social"
-    pre = "<i class='fa fa-2x fa-square'></i>"
+    pre = "<i class='fab fa-2x fa-bluesky'></i>"
 
 [[menu.topbar]]
     weight = 5
