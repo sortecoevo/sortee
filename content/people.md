@@ -57,17 +57,17 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 
 &nbsp;  
 
-![Michael Bertram](/img/people/MichaelBertram.png)  
+![Michael Bertram](MichaelBertram.png)  
 [Michael Bertram](https://www.michaelbertramlab.org) is an Assistant Professor at the Swedish University of Agricultural Sciences, where he investigates the impacts of human-induced environmental change on wildlife populations.
 
 &nbsp;  
 
-![Stephanie Flaman](/img/people/StephanieFlaman.png)  
+![Stephanie Flaman](StephanieFlaman.png)  
 [Stephanie Flaman]() Stephanie Flaman is MSc student at the University of Regina in conjunction with Agriculture and Agri-Food Canada.  
 
 &nbsp;  
 
-![Marija Purgar](/img/people/MarijaPurgar.png)  
+![Marija Purgar](MarijaPurgar.png)  
 [Marija Purgar]((https://www.irb.hr/eng/About-RBI/People/Marija-Purgar-Filjak) is a PhD student in Oceanology at the Faculty of Science and a research assistant at the Ruđer Bošković Institute, Zagreb.  
 
 &nbsp;   
