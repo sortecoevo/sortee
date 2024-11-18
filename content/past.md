@@ -6,6 +6,15 @@ date: "2021-08-28"
 description: Past events by Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: Past events
 ---
+## SORTEE Conference 2024   
+
+*The conference was run continuously from 15 to 16 October covering all timezones.*     
+
+
+&nbsp;
+
+---
+
 ## SORTEE Conference 2023   
 
 *The conference was run continuously from 17 to 18 October covering all timezones.*     
