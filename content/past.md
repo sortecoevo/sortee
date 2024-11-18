@@ -10,7 +10,6 @@ title: Past events
 
 *The SORTEE 2024 Conference took place virtually from 15th to 16th October.*
 
-&nbsp;
 
 Conference recordings, including the introductory and closing remarks by SORTEE President Dr. Rose O'Dea, as well as plenary presentations by:
 
