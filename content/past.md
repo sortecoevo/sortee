@@ -8,7 +8,11 @@ title: Past events
 ---
 ## SORTEE Conference 2024   
 
-The SORTEE 2024 Conference took place virtually from 15th to 16th October. Conference recordings, including the introductory and closing remarks by SORTEE President Dr. Rose O'Dea, as well as plenary presentations by Dr. Hu Chuan-Peng, "Promoting Open Science via Grassroots Networks in a Developing Country," and Dr. Kate Laskowski, "What to Do When You Don’t Trust Your Data Anymore," are available to [(re)watch here](https://www.youtube.com/@SORTEcoEvo/videos). 
+*The SORTEE 2024 Conference took place virtually from 15th to 16th October.*
+
+&nbsp;
+
+Conference recordings, including the introductory and closing remarks by SORTEE President Dr. Rose O'Dea, as well as plenary presentations by **Dr. Hu Chuan-Peng**, *"Promoting Open Science via Grassroots Networks in a Developing Country,"* and **Dr. Kate Laskowski**, *"What to Do When You Don’t Trust Your Data Anymore,"* are available to [(re)watch here](https://www.youtube.com/@SORTEcoEvo/videos). 
 
 &nbsp;
 
