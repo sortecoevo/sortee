@@ -7,7 +7,7 @@ description: Upcoming conference by Society for Open, Reliable, and Transparent 
 title: Upcoming events
 ---
 
-Stay tuned for the 2025 conference details!
+## Stay tuned for the 2025 conference details! ##
 
 &nbsp;  
 
