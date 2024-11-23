@@ -24,6 +24,8 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 ---
 &nbsp;
 
+## December 2024
+
 ### **Title:** *Boosting SORTEE relationships with supporters to advance open, reliable and transparent research practices*
 
 **Moderator:** Dominique Roche
