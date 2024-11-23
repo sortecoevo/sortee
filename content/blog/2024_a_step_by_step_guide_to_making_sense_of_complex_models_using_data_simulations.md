@@ -1,3 +1,17 @@
+---
+banner:/blog/images/2024_Figure_1.png
+date: "2024-23-11"
+author: Graziella V. DiRenzo, Ephraim M. Hanks & David A. W. Miller
+categories:
+- blog
+tags: 
+- simulation
+- models
+- validation
+title: "A step-by-step guide to making sense of complex models using data simulations" 
+---
+&nbsp;
+
 ## Title: A step-by-step guide to making sense of complex models using data simulations
 
 
