@@ -13,21 +13,6 @@ title: "A step-by-step guide to making sense of complex models using data simula
 ---
 &nbsp;
 
-
-Graziella V. DiRenzo ⌃1⌃, Ephraim M. Hanks<sup>2</sup>, & David A. W. Miller<sup>3</sup>
-
-^1 U. S. Geological Survey, Massachusetts Cooperative Fish and Wildlife Research Unit, University of Massachusetts, Amherst, MA 01003, USA
-
-<sup>2</sup> Department of Statistics, Pennsylvania State University, 411 Forest Resources Building, University Park, PA 16802, USA
-
-<sup>3</sup> Department of Ecosystem Science and Management, Pennsylvania State University, 411 Forest Resources Building, University Park, PA 16802, USA
-
-
-*Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.*
-
-
-&nbsp;
-
 Simulation studies are well-known and used often throughout scientific literature, but what is meant by the term “simulation study” is very context specific. For example, simulations can range from simple population models to complex individual-based models (IBMs) or agent-based models (ABMs), and simulations can be used to explore the statistical properties of models, to validate and compare computational methods, to understand possible future scenarios, and the list goes on and on. In May 2020, Ephraim Hanks, David Miller, and I realized that there was no easy resource available to biologists that provided a taxonomy of simulation studies. We also realized that the increasing use of hierarchical modeling by biologists makes simulations an important tool for assessing how sound a given hierarchical model and the associated computing approach are.  
 
 We noticed that it is common during peer-review of a manuscript featuring a novel hierarchical model for reviewers to request that the authors conduct a simulation study. Reasons reviewers may ask for simulations are to assess the identifiability of model parameters, to evaluate the coverage and accuracy of confidence intervals, to test the model's ability to recover true underlying parameters from synthetic data, or to compare the performance of the novel model to existing approaches. However, it was often not perfectly clear what the reviewers mean by “simulation study”, given the diversity of purposes simulations serve.  
@@ -73,6 +58,8 @@ Ephraim Hanks
 David Miller
 -	Dr. Miller is a Professor of Wildlife Population Ecology in the Department of Ecosystem Science and Management at Penn State University. His research focuses on the application of hierarchical statistical approaches to estimate parameters and dynamics of ecological systems using empirical data. Recent work includes developing data integration methods for species distribution models, estimating host-pathogen dynamics for latent disease state data, and quantifying patterns of life history evolution and aging in amphibians and reptiles. 
 -	You can learn more about David at his website: http://www.appliedpopeco.com/
+
+*Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.*
 
 &nbsp;
 
