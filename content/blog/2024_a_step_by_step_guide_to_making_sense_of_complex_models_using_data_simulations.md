@@ -25,7 +25,7 @@ In our recent paper (DiRenzo et al. 2023, Methods in Ecology & Evolution https:/
 
 &nbsp;
 
-![The 4 R’s of code review](/blog/images/Figure .jpeg)
+![Graphical illustration of steps for each type of simulation study (6 total)](/blog/images/2024_Figure_1.png)
 
 &nbsp;
 
