@@ -28,11 +28,11 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 ### **Title:** *Boosting SORTEE relationships with supporters to advance open, reliable and transparent research practices*
 
-**Moderator:** Dominique Roche
-**Type:** Panel discussion
-**Date and Time:** December 10, 15:00-16:00 CET
-**Timezone(s)**: Europe/Americas
-**Duration:** 60 min
+**Moderator:** Dominique Roche\
+**Type:** Panel discussion\
+**Date and Time:** December 10, 15:00-16:00 CET\
+**Timezone(s)**: Europe/Americas\
+**Duration:** 60 min\
 **Summary:** SORTEE is supported by several organizations undertaking activities that align with the Society’s mission of promoting open, reliable and transparent (ORT) research practices. In 2024, eight such organizations supported SORTEE activities including the annual conference and the workshop and webinar series, among others (see [https://www.sortee.org/supporters](https://www.sortee.org/supporters). This panel discussion will be an opportunity for SORTEE supporters to present initiatives promoting ORT practices at their organization, connect with SORTEE’s members and leadership, and explore ways of strengthening the benefits of these associations both for SORTEE and for supporters. Representatives of supporting organizations will be invited to introduce themselves, highlight internal work or initiatives promoting ORT practices, and brainstorm potential avenues of collaborative work with SORTEE and other supporters. Attendees will be invited to ask questions and share suggestions during a Q&A period.
 
 **Panelists:**
