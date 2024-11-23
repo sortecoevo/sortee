@@ -13,10 +13,6 @@ title: "A step-by-step guide to making sense of complex models using data simula
 ---
 &nbsp;
 
-
-## Title: A step-by-step guide to making sense of complex models using data simulations
-
-
 Graziella V. DiRenzo<sup>1</sup>, Ephraim M. Hanks<sup>2</sup>, & David A. W. Miller<sup>3</sup>
 
 <sup>1</sup> U. S. Geological Survey, Massachusetts Cooperative Fish and Wildlife Research Unit, University of Massachusetts, Amherst, MA 01003, USA
@@ -29,7 +25,7 @@ Graziella V. DiRenzo<sup>1</sup>, Ephraim M. Hanks<sup>2</sup>, & David A. W. Mi
 *Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.*
 
 
-**Blog text:**
+&nbsp;
 
 Simulation studies are well-known and used often throughout scientific literature, but what is meant by the term “simulation study” is very context specific. For example, simulations can range from simple population models to complex individual-based models (IBMs) or agent-based models (ABMs), and simulations can be used to explore the statistical properties of models, to validate and compare computational methods, to understand possible future scenarios, and the list goes on and on. In May 2020, Ephraim Hanks, David Miller, and I realized that there was no easy resource available to biologists that provided a taxonomy of simulation studies. We also realized that the increasing use of hierarchical modeling by biologists makes simulations an important tool for assessing how sound a given hierarchical model and the associated computing approach are.  
 
