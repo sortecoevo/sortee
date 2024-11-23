@@ -2,6 +2,7 @@
 banner: /blog/images/2024_Figure_1.png
 date: "2024-11-23"
 author: Graziella V. DiRenzo, Ephraim M. Hanks & David A. W. Miller
+summary: The authors provide a step-by-step guide to make sense of complex models using data simulations and discuss their recent paper.
 categories:
 - blog
 tags: 
