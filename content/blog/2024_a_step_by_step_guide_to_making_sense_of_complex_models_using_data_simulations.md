@@ -13,9 +13,10 @@ title: "A step-by-step guide to making sense of complex models using data simula
 ---
 &nbsp;
 
-Graziella V. DiRenzo<sup>1</sup>, Ephraim M. Hanks<sup>2</sup>, & David A. W. Miller<sup>3</sup>
 
-<sup>1</sup> U. S. Geological Survey, Massachusetts Cooperative Fish and Wildlife Research Unit, University of Massachusetts, Amherst, MA 01003, USA
+Graziella V. DiRenzo ⌃1⌃, Ephraim M. Hanks<sup>2</sup>, & David A. W. Miller<sup>3</sup>
+
+^1 U. S. Geological Survey, Massachusetts Cooperative Fish and Wildlife Research Unit, University of Massachusetts, Amherst, MA 01003, USA
 
 <sup>2</sup> Department of Statistics, Pennsylvania State University, 411 Forest Resources Building, University Park, PA 16802, USA
 
