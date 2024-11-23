@@ -43,10 +43,9 @@ In our recent paper (DiRenzo et al. 2023, Methods in Ecology & Evolution https:/
 
 ![Graphical illustration of steps for each type of simulation study (6 total)](/blog/images/2024_Figure_1.png)
 
-&nbsp;
-
-
 Figure 1. Graphical illustration of steps for each type of simulation study (6 total). Blue boxes are data-related steps, peach boxes are model-fitting steps, and green boxes are comparison steps. 
+
+&nbsp;
 
 Our paper offers a guide for biologists on how to use simulations effectively (Figure 1). We divide simulation studies into two main types:
 1.	**Study-specific simulations:** These are focused on one particular analysis or dataset. For example, if you’re studying a specific forest, you would simulate data based on what you know about that forest and test if your model can accurately predict what’s happening there.  Some study-specific simulation studies include:
