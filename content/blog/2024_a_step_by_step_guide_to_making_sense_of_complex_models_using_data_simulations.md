@@ -23,7 +23,7 @@ One challenge we face in biological science is that we often don’t know the �
 
 In our recent paper (DiRenzo et al. 2023, Methods in Ecology & Evolution https://doi.org/10.1111/2041-210X.14030), we laid out a taxonomy of the various analyses that can be called “simulation studies”. We then suggest a simple framework for how simulation studies can be used for model validation in biological research using hierarchical models. Validation, in simple terms, means asking: "Can we trust the results this model gives us?" This involves everything from making sure the code that runs the model is free from bugs to checking if the model can still provide good estimates when we don’t know everything about the system we’re studying or when new data come in.
 
-![ Graphical illustration of steps for each type of simulation study (6 total)](/blog/images/Figure 1.png)
+![Graphical illustration of steps for each type of simulation study](/blog/images/Figure 1.png)
 
 Figure 1. Graphical illustration of steps for each type of simulation study (6 total). Blue boxes are data-related steps, peach boxes are model-fitting steps, and green boxes are comparison steps. 
 
