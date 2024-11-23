@@ -73,8 +73,9 @@ David Miller
 -	Dr. Miller is a Professor of Wildlife Population Ecology in the Department of Ecosystem Science and Management at Penn State University. His research focuses on the application of hierarchical statistical approaches to estimate parameters and dynamics of ecological systems using empirical data. Recent work includes developing data integration methods for species distribution models, estimating host-pathogen dynamics for latent disease state data, and quantifying patterns of life history evolution and aging in amphibians and reptiles. 
 -	You can learn more about David at his website: http://www.appliedpopeco.com/
 
+&nbsp;
 
-Social Links: 
+**Social Links:** 
 
 [@usgs](https://x.com/USGS)\
 [@Direnzola](https://x.com/DiRenzoLab)\
