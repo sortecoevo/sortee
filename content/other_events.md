@@ -42,6 +42,8 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 - Michael Donaldson, Canadian Science Publishing
 - Maria Guerreiro, Dryad
 
+[**Register here!**](https://events.humanitix.com/sortee-webinar-boosting-sortee-relationships?_gl=1*s66sy8*_gcl_aw*R0NMLjE3MzI0MDQzMDcuQ2p3S0NBaUFsNGE2QmhCcUVpd0FxdnJxdXBXUnJINGtIbnlaV3B6TndUNXNaLUhqVWc0aTQzWDlCcGlLOWw1N1lEOU83b3JsaGJoaXNCb0NWOEVRQXZEX0J3RQ..*_gcl_au*NTI4NTc2ODgyLjE3Mjg5Mzc1OTI.*_ga*MTQ4MzIzMDgzMi4xNzA1MDA0MzQ1*_ga_LHKW5FR9N6*MTczMjQwNDMwNi4xMi4xLjE3MzI0MDUyNzMuNS4wLjA)
+
 &nbsp;
 
 ## November 2024
