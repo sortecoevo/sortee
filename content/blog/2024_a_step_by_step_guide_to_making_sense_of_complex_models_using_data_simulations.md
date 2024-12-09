@@ -9,7 +9,8 @@ tags:
 - simulation
 - models
 - validation
-title: "A step-by-step guide to making sense of complex models using data simulations" 
+- journal-club
+title: "Journal Club: A step-by-step guide to making sense of complex models using data simulations" 
 ---
 &nbsp;
 
