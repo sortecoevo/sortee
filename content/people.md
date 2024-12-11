@@ -160,7 +160,7 @@ Shinichi Nakagawa
 
 ### Awards Committee  
 
-The awards committee is responsible for managing the SORTEE awards program (http://www.sortee.org/awards/).  
+The awards committee is responsible for managing the SORTEE awards program [https://www.sortee.org/awards/](http://www.sortee.org/awards/).  
 
 Current members are:  
 
