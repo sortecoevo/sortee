@@ -8,7 +8,7 @@ categories:
 tags: 
 - open-code
 - code-club
-title: "Debrief of SORTEE Code Club: Hackathon ‘Creating a Code Standard’ - Wednesday October 16" 
+title: "Debrief of SORTEE Code Club Hackathon ‘Creating a Code Standard’" 
 ---
 &nbsp;
 
@@ -16,7 +16,6 @@ title: "Debrief of SORTEE Code Club: Hackathon ‘Creating a Code Standard’ - 
 
 &nbsp;
 
-### ‘Creating a Code Standard’
 Publishing our code and data is an important 
 Open, Reliable, and Transparent practice to ensure the reproducibility of research. 
 To facilitate the production and reviewing of code, 
