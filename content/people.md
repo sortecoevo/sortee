@@ -231,7 +231,8 @@ The Diversity, Equity, and Inclusion Committee promotes diversity, equity, and i
 Current members are:   
   
 ![Brooke Long-Fox](/img/people/B_Long-Fox.png)  
-**Chair:** [Brooke Long-Fox](mailto:blongfox@morphobank.org)   
+**Chair:** [Brooke Long-Fox](mailto:blongfox@morphobank.org)  
+  
 ![Friederike (Freddy) Hilleman](/img/people/F_Hillemann.png)  
 **Co-Chair:** [Friederike (Freddy) Hilleman](mailto:f.hillemann@web.de) ([Website](https://fhillemann.github.io/))  
   
@@ -256,7 +257,8 @@ Suz Everingham
 Current members are:   
   
 ![Daniel Noble](/img/people/D_Noble.png)  
-**Chair:** [Daniel Noble](mailto:daniel.noble@anu.edu.au) ([Website](https://nobledan.com))                
+**Chair:** [Daniel Noble](mailto:daniel.noble@anu.edu.au) ([Website](https://nobledan.com))  
+  
 ![Stefan Vriend](/img/people/S_Vriend.png)    
 **Co-Chair:** [Stefan Vriend](mailto:svriend@gmail.com) ([Website](https://nioo.knaw.nl/en/employees/stefan-vriend))  
   
