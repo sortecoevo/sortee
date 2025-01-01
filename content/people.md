@@ -325,7 +325,7 @@ The Media committee develops content (for the website, social media, and newslet
 Current members are:  
 
 ![Tim Parker](/img/people/T_Parker.png)   	
-[Tim Parker](mailto:mailto:parkerth@whitman.edu) **(Chair)**  [Website](https://www.whitman.edu/academics/majors-and-programs/biology/faculty-and-staff/tim-parker)     
+[Tim Parker](mailto:mailto:parkerth@whitman.edu) **(Chair)**  [Website](http://people.whitman.edu/~parkerth/)     
 Alfredo Sánchez-Tójar  
 Caleb Onoja Akogwu  
 Gabe Winter  
