@@ -144,8 +144,10 @@ The Advocacy committee will develop policy statements and propose advocacy proje
 
 Current members are: 
 
+**(Chair)**:
 ![Joel Pick](/img/people/J_Pick.png)
-[Joel Pick](mailto:joel.l.pick@gmail.com)	**(Chair)** ([Website](https://joelpick.github.io))        
+[Joel Pick](mailto:joel.l.pick@gmail.com)	([Website](https://joelpick.github.io))
+&nbsp;
 Christian John  
 Ed Ivimey-Cook  
 Julia Sharapi  
