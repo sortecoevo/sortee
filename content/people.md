@@ -169,8 +169,10 @@ The awards committee is responsible for managing the SORTEE awards program [http
 
 Current members are: 
 
-![Hannah Dugdale](/img/people/H_Dugdale.png)
-[Hannah Dugdale](mailto:h.l.dugdale@rug.nl)	**(Chair)** ([Website](https://hannahdugdale.wordpress.com/))        
+##### **Chair:**  
+![Hannah Dugdale](/img/people/H_Dugdale.png)  
+[Hannah Dugdale](mailto:h.l.dugdale@rug.nl)	([Website](https://hannahdugdale.wordpress.com/))  
+  
 Elina Takola  
 Malgorzata (Losia) Lagisz  
 Sandra Hamel  
@@ -205,8 +207,10 @@ The Conference committee organizes the virtual SORTEE Conference, held in Octobe
 
 Current members are:   
 
-![Juliette Tariel-Adam](/img/people/J_Tariel-Adam.png)
-[Juliette Tariel-Adam](mailto:juliette.tarieladam@gmail.com)	**(Chair)** ([Website](https://juliettetarieladam.com/))       
+##### **Chair:**  
+![Juliette Tariel-Adam](/img/people/J_Tariel-Adam.png)  
+[Juliette Tariel-Adam](mailto:juliette.tarieladam@gmail.com) ([Website](https://juliettetarieladam.com/))  
+  
 Anita Tarandek  
 Ineta Kačergytė  
 James Last Atalitsa Keyombe 
@@ -228,11 +232,12 @@ The Diversity, Equity, and Inclusion Committee promotes diversity, equity, and i
 
 Current members are:   
 
-
+##### **Chair(s):**   
 ![Brooke Long-Fox](/img/people/B_Long-Fox.png)
-[Brooke Long-Fox](mailto:blongfox@morphobank.org)	**(Chair)**   
-![Friederike (Freddy) Hilleman](/img/people/F_Hillemann.png)
-[Friederike (Freddy) Hilleman](mailto:f.hillemann@web.de)	**(Co-Chair)** ([Website](https://fhillemann.github.io/))     
+[Brooke Long-Fox](mailto:blongfox@morphobank.org)   
+![Friederike (Freddy) Hilleman](/img/people/F_Hillemann.png)  
+[Friederike (Freddy) Hilleman](mailto:f.hillemann@web.de)([Website](https://fhillemann.github.io/))  
+  
 Charlotte Recapet  
 Elvira D'Bastiani  
 Frigg Speelman  
@@ -253,10 +258,12 @@ Suz Everingham
 
 Current members are:   
 
+##### **Chair(s):**    
 ![Daniel Noble](/img/people/D_Noble.png)
-[Daniel Noble](mailto:daniel.noble@anu.edu.au)	**(Chair)**  ([Website](https://nobledan.com))               
-![Stefan Vriend](/img/people/S_Vriend.png)
-[Stefan Vriend](mailto:svriend@gmail.com)	**(Co-Chair)** ([Website](https://nioo.knaw.nl/en/employees/stefan-vriend))            
+[Daniel Noble](mailto:daniel.noble@anu.edu.au) ([Website](https://nobledan.com))                
+![Stefan Vriend](/img/people/S_Vriend.png)  
+[Stefan Vriend](mailto:svriend@gmail.com) ([Website](https://nioo.knaw.nl/en/employees/stefan-vriend))  
+  
 Birgit Szabo  
 Elvira D'Bastiani  
 Félicie Dhellemmes  
@@ -281,9 +288,10 @@ The Education & Outreach committee provides educational resources to individuals
 
 Current members are:   
 
-
-![Saoirse Kelleher](/img/people/S.Kelleher.png)
-[Saoirse Kelleher](mailto:saoirse.kelleher@student.unimelb.edu.au)	**(Chair)**  ([Website](saoirsekelleher.eco))          
+##### **Chair:**    
+![Saoirse Kelleher](/img/people/S.Kelleher.png)  
+[Saoirse Kelleher](mailto:saoirse.kelleher@student.unimelb.edu.au) ([Website](saoirsekelleher.eco))    
+  
 Elizabeth Hrycyna  
 Giulia Masoero  
 Iain Moodie  
@@ -305,8 +313,10 @@ The Fundraising committee develops and implements plans for raising funds to sup
 
 Current members are:   
 
-![Matthieu Paquet](/img/people/MatthieuPaquet.png)   	
-[Matthieu Paquet](mailto:matthieu.paquet@outlook.com) **(Chair)**  ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu))        
+##### **Chair:**  
+![Matthieu Paquet](/img/people/MatthieuPaquet.png)     	
+[Matthieu Paquet](mailto:matthieu.paquet@outlook.com) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu))  
+  
 Aidan Tan  
 Christopher Barker  
 Dominique Roche  
@@ -326,8 +336,10 @@ The Media committee develops content (for the website, social media, and newslet
 
 Current members are:  
 
+##### **Chair:**    
 ![Tim Parker](/img/people/T_Parker.png)   	
-[Tim Parker](mailto:mailto:parkerth@whitman.edu) **(Chair)**  ([Website](http://people.whitman.edu/~parkerth/))       
+[Tim Parker](mailto:mailto:parkerth@whitman.edu) ([Website](http://people.whitman.edu/~parkerth/))  
+  
 Alfredo Sánchez-Tójar  
 Caleb Onoja Akogwu  
 Gabe Winter  
@@ -350,8 +362,10 @@ A new addition in 2024, the Member Engagement Committee oversees opportunities f
 
 Current members are:   
 
-![Natalie van Dis](/img/people/N.VanDiss.png)   	
-[Natalie van Dis](mailto:natalie.vandis@helsinki.fi) **(Chair)** ([Website](https://scholar.google.com/citations?user=UTC6iJMAAAAJ&hl=en))    
+##### **Chair:**  
+![Natalie van Dis](/img/people/N.VanDiss.png)     	
+[Natalie van Dis](mailto:natalie.vandis@helsinki.fi) ([Website](https://scholar.google.com/citations?user=UTC6iJMAAAAJ&hl=en))  
+  
 Cecilia Baldoni  
 Charlotte Recapet  
 Corné de Groot  
