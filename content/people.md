@@ -144,9 +144,9 @@ The Advocacy committee will develop policy statements and propose advocacy proje
 
 Current members are: 
 
-##### **Chair:**  
+
 ![Joel Pick](/img/people/J_Pick.png)  
-[Joel Pick](mailto:joel.l.pick@gmail.com)	([Website](https://joelpick.github.io))  
+ **Chair:**  [Joel Pick](mailto:joel.l.pick@gmail.com)	([Website](https://joelpick.github.io))  
   
 Christian John  
 Ed Ivimey-Cook  
@@ -168,10 +168,9 @@ Shinichi Nakagawa
 The awards committee is responsible for managing the SORTEE awards program [https://www.sortee.org/awards/](http://www.sortee.org/awards/).  
 
 Current members are: 
-
-##### **Chair:**  
+ 
 ![Hannah Dugdale](/img/people/H_Dugdale.png)  
-[Hannah Dugdale](mailto:h.l.dugdale@rug.nl)	([Website](https://hannahdugdale.wordpress.com/))  
+ **Chair:**  [Hannah Dugdale](mailto:h.l.dugdale@rug.nl)	([Website](https://hannahdugdale.wordpress.com/))  
   
 Elina Takola  
 Malgorzata (Losia) Lagisz  
@@ -207,9 +206,8 @@ The Conference committee organizes the virtual SORTEE Conference, held in Octobe
 
 Current members are:   
 
-##### **Chair:**  
 ![Juliette Tariel-Adam](/img/people/J_Tariel-Adam.png)  
-[Juliette Tariel-Adam](mailto:juliette.tarieladam@gmail.com) ([Website](https://juliettetarieladam.com/))  
+ **Chair:**  [Juliette Tariel-Adam](mailto:juliette.tarieladam@gmail.com) ([Website](https://juliettetarieladam.com/))  
   
 Anita Tarandek  
 Ineta Kačergytė  
@@ -231,12 +229,11 @@ Stephanie Flaman
 The Diversity, Equity, and Inclusion Committee promotes diversity, equity, and inclusion within SORTEE’s activities and committees.    
 
 Current members are:   
-
-##### **Chair(s):**   
+  
 ![Brooke Long-Fox](/img/people/B_Long-Fox.png)
-[Brooke Long-Fox](mailto:blongfox@morphobank.org)   
+ **Chair:**  [Brooke Long-Fox](mailto:blongfox@morphobank.org)   
 ![Friederike (Freddy) Hilleman](/img/people/F_Hillemann.png)  
-[Friederike (Freddy) Hilleman](mailto:f.hillemann@web.de)([Website](https://fhillemann.github.io/))  
+ **Co-Chair:**  [Friederike (Freddy) Hilleman](mailto:f.hillemann@web.de)([Website](https://fhillemann.github.io/))  
   
 Charlotte Recapet  
 Elvira D'Bastiani  
@@ -257,12 +254,11 @@ Suz Everingham
 [EcoEvoRxiv](https://ecoevorxiv.org/) (EcoEvo“archive”) is a not-for-profit subject-matter specific research repository for works related to ecology, evolution and conservation and is the official preprint server of SORTEE.    
 
 Current members are:   
-
-##### **Chair(s):**    
+  
 ![Daniel Noble](/img/people/D_Noble.png)
-[Daniel Noble](mailto:daniel.noble@anu.edu.au) ([Website](https://nobledan.com))                
+ **Chair:**  [Daniel Noble](mailto:daniel.noble@anu.edu.au) ([Website](https://nobledan.com))                
 ![Stefan Vriend](/img/people/S_Vriend.png)  
-[Stefan Vriend](mailto:svriend@gmail.com) ([Website](https://nioo.knaw.nl/en/employees/stefan-vriend))  
+ **Co-Chair:**  [Stefan Vriend](mailto:svriend@gmail.com) ([Website](https://nioo.knaw.nl/en/employees/stefan-vriend))  
   
 Birgit Szabo  
 Elvira D'Bastiani  
@@ -287,10 +283,9 @@ Yseult Héjja-Brichard
 The Education & Outreach committee provides educational resources to individuals and organizations interested in learning more about improving research by making it more open, reliable, and transparent.    
 
 Current members are:   
-
-##### **Chair:**    
+    
 ![Saoirse Kelleher](/img/people/S.Kelleher.png)  
-[Saoirse Kelleher](mailto:saoirse.kelleher@student.unimelb.edu.au) ([Website](saoirsekelleher.eco))    
+ **Chair:**  [Saoirse Kelleher](mailto:saoirse.kelleher@student.unimelb.edu.au) ([Website](saoirsekelleher.eco))    
   
 Elizabeth Hrycyna  
 Giulia Masoero  
@@ -312,10 +307,9 @@ Zuzanna Zagrodzka
 The Fundraising committee develops and implements plans for raising funds to support SORTEE.    
 
 Current members are:   
-
-##### **Chair:**  
+ 
 ![Matthieu Paquet](/img/people/MatthieuPaquet.png)     	
-[Matthieu Paquet](mailto:matthieu.paquet@outlook.com) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu))  
+ **Chair:**  [Matthieu Paquet](mailto:matthieu.paquet@outlook.com) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu))  
   
 Aidan Tan  
 Christopher Barker  
@@ -335,10 +329,9 @@ Snata Chakraborty
 The Media committee develops content (for the website, social media, and newsletter), designs and maintains the website, and develops new ideas for spreading the word about SORTEE and open, reliable, and transparent science.    
 
 Current members are:  
-
-##### **Chair:**    
+ 
 ![Tim Parker](/img/people/T_Parker.png)   	
-[Tim Parker](mailto:mailto:parkerth@whitman.edu) ([Website](http://people.whitman.edu/~parkerth/))  
+ **Chair:**  [Tim Parker](mailto:mailto:parkerth@whitman.edu) ([Website](http://people.whitman.edu/~parkerth/))  
   
 Alfredo Sánchez-Tójar  
 Caleb Onoja Akogwu  
@@ -358,13 +351,12 @@ Swastika Issar
 
 ### Member Engagement Committee  		
 
-A new addition in 2024, the Member Engagement Committee oversees opportunities for SORTEE members to interact throughout the year. The motivation behind starting this committee is to increase the benefits of SORTEE membership (e.g., camaraderie, opportunity to join collaborative projects).   
+The Member Engagement Committee oversees opportunities for SORTEE members to interact throughout the year. The motivation behind starting this committee is to increase the benefits of SORTEE membership (e.g., camaraderie and the opportunity to join collaborative projects).   
 
 Current members are:   
 
-##### **Chair:**  
 ![Natalie van Dis](/img/people/N.VanDiss.png)     	
-[Natalie van Dis](mailto:natalie.vandis@helsinki.fi) ([Website](https://scholar.google.com/citations?user=UTC6iJMAAAAJ&hl=en))  
+ **Chair:**  [Natalie van Dis](mailto:natalie.vandis@helsinki.fi) ([Website](https://scholar.google.com/citations?user=UTC6iJMAAAAJ&hl=en))  
   
 Cecilia Baldoni  
 Charlotte Recapet  
