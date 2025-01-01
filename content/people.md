@@ -310,7 +310,8 @@ The Fundraising committee develops and implements plans for raising funds to sup
 
 Current members are:   
  
-![Matthieu Paquet](/img/people/MatthieuPaquet.png)         	
+![Matthieu Paquet](/img/people/MatthieuPaquet.png)  
+  
 **Chair:** [Matthieu Paquet](mailto:matthieu.paquet@outlook.com) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu))  
   
 Aidan Tan  
@@ -332,7 +333,8 @@ The Media committee develops content (for the website, social media, and newslet
 
 Current members are:  
  
-![Tim Parker](/img/people/T_Parker.png)       	
+![Tim Parker](/img/people/T_Parker.png)  
+  
 **Chair:** [Tim Parker](mailto:mailto:parkerth@whitman.edu) ([Website](http://people.whitman.edu/~parkerth/))  
   
 Alfredo Sánchez-Tójar  
@@ -357,7 +359,8 @@ The Member Engagement Committee oversees opportunities for SORTEE members to int
 
 Current members are:   
 
-![Natalie van Dis](/img/people/N.VanDiss.png)         	
+![Natalie van Dis](/img/people/N.VanDiss.png)  
+  
 **Chair:** [Natalie van Dis](mailto:natalie.vandis@helsinki.fi) ([Website](https://scholar.google.com/citations?user=UTC6iJMAAAAJ&hl=en))  
   
 Cecilia Baldoni  
