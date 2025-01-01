@@ -77,7 +77,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;  
 
 ![Matthieu Paquet](/img/people/MatthieuPaquet.png)  
-[Matthieu Paquet](https://sete-moulis-cnrs.fr/en/recherches/change/equipe/item/1169-paquet-matthieu) is a researcher working on behavioural ecology and population dynamics at the Theoretical and Experimental Ecology Station (SETE,CNRS).  
+[Matthieu Paquet](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu) is a researcher working on behavioural ecology and population dynamics at the Theoretical and Experimental Ecology Station (SETE,CNRS).  
 
 &nbsp;
 
