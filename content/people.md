@@ -294,13 +294,13 @@ The Fundraising committee develops and implements plans for raising funds to sup
 
 Current members are:   
 
-![Matthieu Paquet](/img/people/MatthieuPaquet.png)  [Matthieu Paquet](https://sete-moulis-cnrs.fr/en/recherches/change/equipe/item/1169-paquet-matthieu) 	**(Chair)**     
-Aidan Tan
-Christopher Barker
-Dominique Roche
-Michael Bertram
-Ruby Krasnow
-Snata Chakraborty
+![Matthieu Paquet](/img/people/MatthieuPaquet.png)  [Matthieu Paquet](https://sete-moulis-cnrs.fr/en/recherches/change/equipe/item/1169-paquet-matthieu) 	**(Chair)**  
+Aidan Tan  
+Christopher Barker  
+Dominique Roche  
+Michael Bertram  
+Ruby Krasnow  
+Snata Chakraborty  
 
 &nbsp;
 &nbsp;
