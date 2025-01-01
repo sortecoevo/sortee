@@ -9,9 +9,19 @@ title: Previous Board Members
 
 ### Former members of the Board of Directors
 
+![Kaija Gahm](/img/people/KaijaGahm.png)   
+2022-2024  
+[Kaija Gahm](http://kaijagahm.netlify.app/) is a PhD student at UCLA, studying spatiotemporal dynamics of vulture social networks in the Pinter-Wollman lab.   
+&nbsp;
+
+![Alexa Fredston](/img/people/AlexaFredston.png)   
+2022-2024
+[Alexa Fredston](https://www.alexafredston.com/) is a quantitative ecologist and Assistant Professor at the University of California Santa Cruz.   
+&nbsp;
+
 ![Dom Roche](/img/people/DomRoche.png)   
 2021-2023   
-[Dominique Roche](https://dominiqueroche.weebly.com/) is a Marie Skłodowska-Curie Global Fellow at Carleton University, Canada. He studies how open data improve transparency, reproducibility, and collaboration in science.   
+[Dominique Roche](https://dominiqueroche.weebly.com/) is a Marie Skłodowska-Curie Global Fellow at Carleton University, Canada. He studies how open data improves transparency, reproducibility, and collaboration in science.   
 &nbsp;
 
 ![Rose O’Dea](/img/people/RoseODea.png)  
