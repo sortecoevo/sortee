@@ -126,9 +126,9 @@ As specified in the [SORTEE bylaws](https://www.sortee.org/bylaws/), the Executi
 Current officers are:
 &nbsp;
 
-[Rose O’Dea](https://www.roseodea.com/) **(President)**   
-[Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(President-Elect)**  
-[Dominique Roche](https://dominiqueroche.weebly.com/) **(Past President)**    
+[Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(President)**   
+[Marija Purgar](https://www.irb.hr/eng/About-RBI/People/Marija-Purgar-Filjak) **(President-Elect)**  
+[Rose O’Dea](https://www.roseodea.com/) **(Past President)**    
 [Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)**  
 [Kaija Gahm](http://kaijagahm.netlify.app/) **(Secretary)**   
 
