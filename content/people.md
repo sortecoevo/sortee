@@ -53,7 +53,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 
 &nbsp;   
 
-**Members serving from 2025 through 2026 are:**  
+**Members serving from 2025 through 2027 are:**  
 
 &nbsp;  
 
@@ -294,7 +294,7 @@ The Fundraising committee develops and implements plans for raising funds to sup
 
 Current members are:   
 
-![Matthieu Paquet](/img/people/MatthieuPaquet.png)  [Matthieu Paquet](https://sete-moulis-cnrs.fr/en/recherches/change/equipe/item/1169-paquet-matthieu) 	**(Chair)**  
+[Matthieu Paquet](mailtomatthieu.paquet@outlook.com) ![Matthieu Paquet](/img/people/MatthieuPaquet.png) 	**(Chair)**  
 Aidan Tan  
 Christopher Barker  
 Dominique Roche  
