@@ -15,7 +15,7 @@ title: Previous Board Members
 &nbsp;
 
 ![Alexa Fredston](/img/people/AlexaFredston.png)   
-2022-2024
+2022-2024  
 [Alexa Fredston](https://www.alexafredston.com/) is a quantitative ecologist and Assistant Professor at the University of California Santa Cruz.   
 &nbsp;
 
