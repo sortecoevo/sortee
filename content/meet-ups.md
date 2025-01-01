@@ -59,6 +59,10 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 
 |		|
 |	:---:	|
+|	{{< figure src="/blog/images/ESA_Dec2024.jpg" width="300px" >}}	|
+|	ESAustralia	|
+|Melbourne (December 2024)|
+|&nbsp;|
 |	{{< figure src="/blog/images/ISBE2024.JPEG" width="300px" >}}	|
 |	ISBE	|
 |Melbourne (October 2024)|
