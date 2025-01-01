@@ -140,17 +140,20 @@ Current officers are:
 
 ### Advocacy Committee   
 
-The Advocacy committee follows two ‘Unconference’ sessions at the 2021 SORTEE conference, asking whether this society should actively advocate for policy change. The Advocacy committee will develop policy statements and propose advocacy projects for improving the openness, reliability, and transparency of research in ecology and evolutionary biology.     
+The Advocacy committee will develop policy statements and propose advocacy projects for improving the openness, reliability, and transparency of research in ecology and evolutionary biology.     
 
-Current members are:   
+Current members are: 
 
-[Joel Pick](mailto:joel.l.pick@gmail.com)	**(Chair)**     
-Daniel Morillo Cuadrado   
-Edward Ivimey-Cook    
-Elina Takola    
-Julia Sharapi   
-Kevin Bairos-Novak    
-Shinichi Nakagawa   
+![Joel Pick](img/people/J_Pick.png)
+[Joel Pick](mailto:joel.l.pick@gmail.com)	**(Chair)** [Website](https://joelpick.github.io)      
+Christian John  
+Ed Ivimey-Cook  
+Julia Sharapi  
+Kevin Bairos-Novak  
+Leyla Cabugos  
+Marija Purgar  
+Sarah Hasnain  
+Shinichi Nakagawa  
 
 &nbsp;
 &nbsp;
@@ -162,11 +165,13 @@ Shinichi Nakagawa
 
 The awards committee is responsible for managing the SORTEE awards program [https://www.sortee.org/awards/](http://www.sortee.org/awards/).  
 
-Current members are:  
+Current members are: 
 
-[Hannah Dugdale](mailto:h.l.dugdale@rug.nl)	**(Chair)**  
+![Hannah Dugdale](img/people/H_Dugdale.png)
+[Hannah Dugdale](mailto:h.l.dugdale@rug.nl)	**(Chair)** [Website](https://hannahdugdale.wordpress.com/)      
+Elina Takola  
 Malgorzata (Losia) Lagisz  
-Sandra Hamel 
+Sandra Hamel  
 
 &nbsp;
 &nbsp;
@@ -176,8 +181,7 @@ Sandra Hamel
 
 ### Budget Committee  		
 
-The Budget Committee reviews and approves [funding
-requests](https://docs.google.com/forms/d/e/1FAIpQLSdY7gi-pNRSJPZaFnV9WpS4L28ZNgHQ3zwLh43YG7-WHUL87g/viewform).  
+The Budget Committee reviews and approves [funding requests](https://docs.google.com/forms/d/e/1FAIpQLSdY7gi-pNRSJPZaFnV9WpS4L28ZNgHQ3zwLh43YG7-WHUL87g/viewform).  
 
 Current members are:  
 
@@ -199,16 +203,16 @@ The Conference committee organizes the virtual SORTEE Conference, held in Octobe
 
 Current members are:   
 
-
-[Marija Purgar](mailto:mpurgar@irb.hr)	**(Chair)**     
-Giulia Masoero     
-Ineta Kačergytė    
-Juliette Tariel-Adam   
-Matthieu Paquet    
-Ramakrishnan Vasudeva    
-Sofia Paraskevopoulou    
-Stephanie Flaman     
-Sissi Lozada Gobilard   
+![Juliette Tariel-Adam](img/people/J_Tariel-Adam.png)
+[Juliette Tariel-Adam](mailto:juliette.tarieladam@gmail.com)	**(Chair)** [Website](https://juliettetarieladam.com/)     
+Anita Tarandek  
+Ineta Kačergytė  
+James Last Atalitsa Keyombe 
+Magdalena Wutkowska  
+Marija Purgar  
+Sissi Lozada Gobilard 
+Sofia Paraskevopoulou  
+Stephanie Flaman    
 
 &nbsp;
 &nbsp;
@@ -223,14 +227,18 @@ The Diversity, Equity, and Inclusion Committee promotes diversity, equity, and i
 Current members are:   
 
 
-[Brooke Long-Fox](mailto:brooke.long-fox@sdsmt.edu)	(**Chair**)     
-Coralie Williams    
-Easton White    
-Gabe Winter   
-Julia Sharapi   
-Malika Ihle   
-Suz Everingham    
-Friederike (Freddy) Hillemann
+![Brooke Long-Fox](img/people/B_Long-Fox.png)
+[Brooke Long-Fox](mailto:blongfox@morphobank.org)	**(Chair)**   
+![Friederike (Freddy) Hilleman](img/people/F_Hillemann.png)
+[Friederike (Freddy) Hilleman](mailto:f.hillemann@web.de)	**(Co-Chair)** [Website](https://fhillemann.github.io/)   
+Charlotte Recapet  
+Elvira D'Bastiani  
+Frigg Speelman  
+Malika Ihle  
+Manasee Weerathunga  
+Sarah Hasnain  
+Sofia Paraskevopoulou  
+Suz Everingham  
 
 &nbsp;
 &nbsp;
@@ -239,27 +247,25 @@ Friederike (Freddy) Hillemann
 ---
 
 ### EcoEvoRxiv Committee
-[EcoEvoRxiv](https://ecoevorxiv.org/) (EcoEvo“archive”) is a not-for-profit subject-matter specific research repository for works related to ecology, evolution and conservation. EcoEvoRxiv is an official preprint server of SORTEE.    
+[EcoEvoRxiv](https://ecoevorxiv.org/) (EcoEvo“archive”) is a not-for-profit subject-matter specific research repository for works related to ecology, evolution and conservation and is the official preprint server of SORTEE.    
 
 Current members are:   
 
-
-[Daniel Noble](mailto:daniel.noble@anu.edu.au)	**(Chair)**    
-[Stefan Vriend](mailto:svriend@gmail.com)	**(co-Chair)**       
-Birgit Szabo     
-Brooke Long-Fox      
-Elvira D'Bastiani	     
-Félicie Dhellemmes      
-Gideon Deme	     
-Jenna Braun	    
-Katie Florko     
-Melina de Souza Leite	   
-Noëlle Schenk     
-Matthieu Paquet    
-Yseult Héjja-Brichard    
-Marta Acácio    
-Mario A. Sandoval-Molina    
-Pablo Recio-Santiago  
+![Daniel Noble](img/people/D_Noble.png)
+[Daniel Noble](mailto:daniel.noble@anu.edu.au)	**(Chair)**  [Website](https://nobledan.com)           
+![Stefan Vriend](img/people/S_Vriend.png)
+[Stefan Vriend](mailto:svriend@gmail.com)	**(Co-Chair)** [Website](https://nioo.knaw.nl/en/employees/stefan-vriend)          
+Birgit Szabo  
+Elvira D'Bastiani  
+Félicie Dhellemmes  
+Jenna Braun  
+Mark Young  
+Marta Acácio  
+Melina de Souza Leite  
+Nicholas Wu  
+Niladri Mondal  
+Pablo Recio Santiago  
+Yseult Héjja-Brichard   
 
 &nbsp;
 &nbsp;
@@ -274,13 +280,16 @@ The Education & Outreach committee provides educational resources to individuals
 Current members are:   
 
 
-[Iain Moodie](mailto:iain.moodie@biol.lu.se)	**(Chair)**    
-Kaija Gahm  
-Elizabeth Hrycyna   
-Max Czapanskiy    
-Natasha Gownaris   
-Laura Super    
-Rachel Turba    
+![Saoirse Kelleher](img/people/S.Kelleher.png)
+[Saoirse Kelleher](mailto:saoirse.kelleher@student.unimelb.edu.au)	**(Chair)**  [Website](saoirsekelleher.eco)        
+Elizabeth Hrycyna  
+Giulia Masoero  
+Iain Moodie  
+Leonardo Capitani  
+Leveda Cheng 
+Nusrath Jahan Emu  
+Philip Ogbevire  
+Zuzanna Zagrodzka     
 
 &nbsp;
 &nbsp;
@@ -295,7 +304,7 @@ The Fundraising committee develops and implements plans for raising funds to sup
 Current members are:   
 
 ![Matthieu Paquet](/img/people/MatthieuPaquet.png)   	
-[Matthieu Paquet](mailtomatthieu.paquet@outlook.com) **(Chair)**  
+[Matthieu Paquet](mailto:matthieu.paquet@outlook.com) **(Chair)**  [Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu)      
 Aidan Tan  
 Christopher Barker  
 Dominique Roche  
@@ -315,14 +324,15 @@ The Media committee develops content (for the website, social media, and newslet
 
 Current members are:  
 
-
-[Tim Parker](mailto:parkerth@whitman.edu)	**(Chair)**    
-Alfredo Sánchez-Tójar   
-Caleb Onoja Akogwu    
-Eleanor Jackson   
-Gabe Winter   
-Malgorzata (Losia) Lagisz   
-Swastika Issar    
+![Tim Parker](/img/people/T_Parker.png)   	
+[Tim Parker](mailto:mailto:parkerth@whitman.edu) **(Chair)**  [Website](https://www.whitman.edu/academics/majors-and-programs/biology/faculty-and-staff/tim-parker)     
+Alfredo Sánchez-Tójar  
+Caleb Onoja Akogwu  
+Gabe Winter  
+Malgorzata (Losia) Lagisz  
+Manasee Weerathunga  
+Oakleigh Wilson  
+Swastika Issar  
 
 &nbsp;
 &nbsp;
@@ -338,13 +348,14 @@ A new addition in 2024, the Member Engagement Committee oversees opportunities f
 
 Current members are:   
 
-[Rose O'Dea](mailto:rose.eleanor.o.dea@gmail.com)	**(Chair)**     
-Charlotte Recapet   
-Malika Ihle   
-Matthieu Paquet   
-Natalie van Dis   
-Romy Zeiss    
-Tom Ratz    
+![Natalie van Dis](/img/people/N.VanDiss.png)   	
+[Natalie van Dis](mailto:natalie.vandis@helsinki.fi) **(Chair)** [Website](https://scholar.google.com/citations?user=UTC6iJMAAAAJ&hl=en)  
+Cecilia Baldoni  
+Charlotte Recapet  
+Corné de Groot  
+Malgorzata (Losia) Lagisz  
+Michael Remke  
+Rachel Turba  
 
 &nbsp;
 &nbsp;
