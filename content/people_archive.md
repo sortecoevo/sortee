@@ -29,8 +29,8 @@ title: Previous Board Members
 [Rose O’Dea](https://www.roseodea.com/) is a postdoctoral researcher, currently based in the MetaMelb Research Group at The University of Melbourne.   
 &nbsp;
 
-![Tim Parker](/img/people/TimParker.png) 
-2021-2023   
+![Tim Parker](/img/people/TimParker.png)   
+2021-2023     
 [Tim Parker](http://people.whitman.edu/~parkerth/) is a Professor of Biology at Whitman College and has interests in behavioral ecology, demography, community ecology, and meta-science.  
 
 &nbsp;  
