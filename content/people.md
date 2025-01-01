@@ -182,7 +182,7 @@ requests](https://docs.google.com/forms/d/e/1FAIpQLSdY7gi-pNRSJPZaFnV9WpS4L28ZNg
 Current members are:  
 
 Alexa Fredston (Treasurer)   
-Kaija Gahm   
+Kaija Gahm  (Secretary) 
 Tim Parker      
 Ed Ivimey-Cook   
 Malgorzata Lagisz   
@@ -294,7 +294,8 @@ The Fundraising committee develops and implements plans for raising funds to sup
 
 Current members are:   
 
-[Matthieu Paquet](mailtomatthieu.paquet@outlook.com) ![Matthieu Paquet](/img/people/MatthieuPaquet.png) 	**(Chair)**  
+![Matthieu Paquet](/img/people/MatthieuPaquet.png)   	
+[Matthieu Paquet](mailtomatthieu.paquet@outlook.com) **(Chair)**  
 Aidan Tan  
 Christopher Barker  
 Dominique Roche  
