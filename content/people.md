@@ -272,7 +272,8 @@ Melina de Souza Leite
 Nicholas Wu  
 Niladri Mondal  
 Pablo Recio Santiago  
-Yseult Héjja-Brichard   
+Yseult Héjja-Brichard  
+Brooke Long-Fox  
 
 &nbsp;
 &nbsp;
@@ -320,6 +321,7 @@ Dominique Roche
 Michael Bertram  
 Ruby Krasnow  
 Snata Chakraborty  
+Barbara Class
 
 &nbsp;
 &nbsp;
