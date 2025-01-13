@@ -209,15 +209,15 @@ Current members are:
 ![Juliette Tariel-Adam](/img/people/J_Tariel-Adam.png)    
 **Chair:** [Juliette Tariel-Adam](mailto:juliette.tarieladam@gmail.com) ([Website](https://juliettetarieladam.com/))  
   
-Anita Tarandek    
-Ineta Kačergytė    
-James Last 
-Atalitsa Keyombe   
-Magdalena Wutkowska  
-Marija Purgar  
-Sissi Lozada Gobilard 
-Sofia Paraskevopoulou  
-Stephanie Flaman    
+Anita Tarandek      
+Ineta Kačergytė      
+James Last   
+Atalitsa Keyombe     
+Magdalena Wutkowska    
+Marija Purgar    
+Sissi Lozada Gobilard   
+Sofia Paraskevopoulou    
+Stephanie Flaman      
 
 &nbsp;
 &nbsp;
