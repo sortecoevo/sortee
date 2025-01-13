@@ -68,7 +68,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;  
 
 ![Marija Purgar](/img/people/MarijaPurgar.png)  
-[Marija Purgar](https://www.irb.hr/eng/About-RBI/People/Marija-Purgar-Filjak) is a PhD student in Oceanology at the Faculty of Science and a research assistant at the Ruđer Bošković Institute, Zagreb.  
+[Marija Purgar](https://www.irb.hr/eng/About-RBI/People/Marija-Purgar-Filjak) **(President-Elect)** is a PhD student in Oceanology at the Faculty of Science and a research assistant at the Ruđer Bošković Institute, Zagreb.  
 
 &nbsp;   
 
@@ -91,7 +91,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;  
 
 ![Ed Ivimey-Cook](/img/people/EdIvimeyCook.png)  
-[Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(President-Elect)** is a post-doctoral researcher at the University of Glasgow.   
+[Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(President)** is a post-doctoral researcher at the University of Glasgow.   
 &nbsp;  
 
 ![Patrice Pottier](/img/people/PatricePottier_smaller.png)  
