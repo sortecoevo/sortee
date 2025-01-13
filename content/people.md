@@ -188,11 +188,11 @@ The Budget Committee reviews and approves [funding requests](https://docs.google
 
 Current members are:  
 
-Alexa Fredston (Treasurer)   
-Kaija Gahm (Secretary) 
-Tim Parker      
-Ed Ivimey-Cook   
-Malgorzata Lagisz   
+Alexa Fredston  
+Kaija Gahm  
+Tim Parker          
+Ed Ivimey-Cook     
+Malgorzata Lagisz     
 
 &nbsp;
 &nbsp;
@@ -209,9 +209,10 @@ Current members are:
 ![Juliette Tariel-Adam](/img/people/J_Tariel-Adam.png)    
 **Chair:** [Juliette Tariel-Adam](mailto:juliette.tarieladam@gmail.com) ([Website](https://juliettetarieladam.com/))  
   
-Anita Tarandek  
-Ineta Kačergytė  
-James Last Atalitsa Keyombe 
+Anita Tarandek    
+Ineta Kačergytė    
+James Last 
+Atalitsa Keyombe   
 Magdalena Wutkowska  
 Marija Purgar  
 Sissi Lozada Gobilard 
@@ -294,8 +295,8 @@ Elizabeth Hrycyna
 Giulia Masoero  
 Iain Moodie  
 Leonardo Capitani  
-Leveda Cheng 
-Nusrath Jahan Emu  
+Leveda Cheng   
+Nusrath Jahan Emu   
 Philip Ogbevire  
 Zuzanna Zagrodzka     
 
@@ -321,7 +322,7 @@ Dominique Roche
 Michael Bertram  
 Ruby Krasnow  
 Snata Chakraborty  
-Barbara Class
+Barbara Class  
 
 &nbsp;
 &nbsp;
