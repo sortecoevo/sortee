@@ -211,8 +211,7 @@ Current members are:
   
 Anita Tarandek      
 Ineta Kačergytė      
-James Last   
-Atalitsa Keyombe     
+James Last  
 Magdalena Wutkowska    
 Marija Purgar    
 Sissi Lozada Gobilard   
