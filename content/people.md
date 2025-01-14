@@ -192,7 +192,7 @@ Alexa Fredston
 Kaija Gahm  
 Tim Parker          
 Ed Ivimey-Cook     
-Malgorzata Lagisz     
+Malgorzata (Losia) Lagisz     
 
 &nbsp;
 &nbsp;
