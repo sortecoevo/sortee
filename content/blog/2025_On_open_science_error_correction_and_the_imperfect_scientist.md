@@ -54,7 +54,7 @@ We believe open data and code to be invaluable for many reasons, even if their f
 
 **References:**  
 
-Chen, R.S., Berthelsen, A.L., Lamartinière, E.B. Sparrenburg, M., Schmoll, T. Recognizing and marshalling the pre-publication error correction potential of open data for more reproducible science. Nat Ecol Evol 7, 1597–1599 (2023). [https://doi.org/10.1038/s41559-023-02152-3](https://doi.org/10.1038/s41559-023-02152-3)  
+Chen, R.S., Berthelsen, A.L., Lamartinière, E.B. Spangenberg, M.C., Schmoll, T. Recognizing and marshalling the pre-publication error correction potential of open data for more reproducible science. Nat Ecol Evol 7, 1597–1599 (2023). [https://doi.org/10.1038/s41559-023-02152-3](https://doi.org/10.1038/s41559-023-02152-3)  
 
 Berberi, I., Roche, D.G. No evidence that mandatory open data policies increase error correction. Nat Ecol Evol 6, 1630–1633 (2022). [https://doi.org/10.1038/s41559-022-01879-9](https://doi.org/10.1038/s41559-022-01879-9)  
 
