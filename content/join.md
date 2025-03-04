@@ -24,7 +24,7 @@ We kept the 2022 suggested membership fees the same for 2023, 2024, and 2025 (am
 
 To join SORTEE or update your membership details, please go to: [https://www.joinit.org/o/sortee/](https://www.joinit.org/o/sortee/).  
 
-Note that this fee is an annual amount and memberships expire on the 31st December at the end of each calendar year. 
+Note that this fee covers an annual membership to SORTEE and expires on the 31st December at the end of each calendar year. 
 
 &nbsp;
 
