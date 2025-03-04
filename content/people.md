@@ -369,8 +369,7 @@ Current members are:
 Cecilia Baldoni  
 Charlotte Recapet  
 Corné de Groot  
-Malgorzata (Losia) Lagisz  
-Michael Remke  
+Malgorzata (Losia) Lagisz   
 Rachel Turba  
 
 &nbsp;
