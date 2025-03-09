@@ -9,7 +9,7 @@ tags:
 - code club
 - code
 - journal-club
-title: "SORTEE Code Club debrief: Kick-off meeting 2025 - Tuesday 02/25"
+title: "SORTEE Code Club debrief: Kick-off meeting 2025"
 
 ---
 &nbsp;
