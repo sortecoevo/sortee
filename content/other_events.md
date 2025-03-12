@@ -29,7 +29,7 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 ### **Title:** *Reproducible data analysis in R*
 
-**MPresenter:** Ed Ivimey-Cook\
+**MPresenter:** [Dr Edward Ivimey-Cook](https://eivimeycook.github.io)\
 **Type:** Workshop\
 **Date and Time:** March 27 2025 9:00UTC\
 **Timezone(s)**: Europe\
