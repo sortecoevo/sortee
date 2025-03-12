@@ -24,25 +24,26 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 ---
 &nbsp;
 
-## December 2024
 
-### **Title:** *Boosting SORTEE relationships with supporters to advance open, reliable and transparent research practices*
+## March 2025
 
-**Moderator:** Dominique Roche\
-**Type:** Panel discussion\
-**Date and Time:** December 10, 15:00-16:00 CET\
-**Timezone(s)**: Europe/Americas\
+### **Title:** *Reproducible data analysis in R*
+
+**MPresenter:** Ed Ivimey-Cook\
+**Type:** Workshop\
+**Date and Time:** March 27 2025 9:00UTC\
+**Timezone(s)**: Europe\
 **Duration:** 60 min\
-**Summary:** SORTEE is supported by several organizations undertaking activities that align with the Society’s mission of promoting open, reliable and transparent (ORT) research practices. In 2024, eight such organizations supported SORTEE activities including the annual conference and the workshop and webinar series, among others (see [https://www.sortee.org/supporters](https://www.sortee.org/supporters). This panel discussion will be an opportunity for SORTEE supporters to present initiatives promoting ORT practices at their organization, connect with SORTEE’s members and leadership, and explore ways of strengthening the benefits of these associations both for SORTEE and for supporters. Representatives of supporting organizations will be invited to introduce themselves, highlight internal work or initiatives promoting ORT practices, and brainstorm potential avenues of collaborative work with SORTEE and other supporters. Attendees will be invited to ask questions and share suggestions during a Q&A period.
+**Summary:** In this interactive workshop, Ed Ivimey-Cook will introduce the basics of reproducible project structure, data, and code. He'll also show you the basics of conducting a code review. This event is open to all - but is targeted at beginners.
 
-**Panelists:**
-- Denis Bourguet, Peer Community In
-- Thomas Guillemaud, Peer Community In
-- Nadja Oertelt, Center for Open Science
-- Michael Donaldson, Canadian Science Publishing
-- Maria Guerreiro, Dryad
+[**Register here!**](https://events.humanitix.com/sortee-workshop-reproducible-data-analysis-in-r)
 
-[**Register here!**](https://events.humanitix.com/sortee-webinar-boosting-sortee-relationships?_gl=1*s66sy8*_gcl_aw*R0NMLjE3MzI0MDQzMDcuQ2p3S0NBaUFsNGE2QmhCcUVpd0FxdnJxdXBXUnJINGtIbnlaV3B6TndUNXNaLUhqVWc0aTQzWDlCcGlLOWw1N1lEOU83b3JsaGJoaXNCb0NWOEVRQXZEX0J3RQ..*_gcl_au*NTI4NTc2ODgyLjE3Mjg5Mzc1OTI.*_ga*MTQ4MzIzMDgzMi4xNzA1MDA0MzQ1*_ga_LHKW5FR9N6*MTczMjQwNDMwNi4xMi4xLjE3MzI0MDUyNzMuNS4wLjA)
+&nbsp;
+
+---
+&nbsp;
+
+# Past events  
 
 &nbsp;
 
@@ -57,8 +58,6 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 **Duration:** 2 hr   
 **Summary:** Through their Open Science Monitoring Initiative, and following an event held in December 2023, UNESCO is in the process of developing their [Principles of Open Science Monitoring](https://docs.google.com/document/d/1eepqGt62NTdgy22jGp-nEsVC8zIvFZvexyIAVj3RdNA/edit?tab=t.0#heading=h.yzcbfhb49wsk). They are soliciting feedback on this document through November 2024, and we would like to support our open science communities in providing feedback. During this two-hour event, co-hosted by SORTEE, the Global Young Academy, and PLOS, we will provide background on these initiatives and structured break-out sessions in which participants will discuss: 1) how they wish to be evaluated and monitored in their open science activities, 2) strengths and weaknesses of current monitoring solutions, and 3) the alignment of the UNESCO principles with their needs. The outcome will be a collective written response to UNESCO, signed by all participants who wish to be included. Participants do not need to have any pre-requisite knowledge on open science monitoring frameworks; the event is open to anyone interested in how open science is monitored. Speakers include Agata Morka (PLOS, Regional Director of Publishing Development), Ismael Ràfols (UNESCO, Chair on Diversity and Inclusion in Global Science), and Ana Persic (UNESCO, Programme Specialist for Science Technology and Innovation Policies and Open Science).     
 
-[**Register here!**](https://events.humanitix.com/sortee-workshop-perspectives-on-open-science-monitoring-idea-a-thon)
-
 &nbsp;  
 
 
@@ -71,16 +70,7 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 **Duration:** 1 hr   
 **Summary:** In a time when scientific output is often measured by speed and quantity, the ecological and evolutionary sciences face growing pressure to deliver rapid results. However, the complexities of ecosystems and evolutionary processes demand more than quick conclusions—they require depth, patience, and long-term commitment. This talk advocates for the principles of slow science, a movement that emphasizes careful, deliberate research as the foundation for sustainable progress in our understanding of the natural world.    
 
-[**Register here!**](https://events.humanitix.com/sortee-webinar-in-defense-of-depth-slow-science-for-sustainable-progress-in-ecology-and-evolution)
-
 &nbsp;  
-
----
-&nbsp;
-
-# Past events  
-
-&nbsp;
 
 ## May 2024 
 
