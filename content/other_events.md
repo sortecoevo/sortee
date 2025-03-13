@@ -51,12 +51,12 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 ### **Title:** *Mothbox - Open Source Science Tools for Biodiversity Research and Conservation  
 
-**Presenter:** Andrew Quitmeyer
-**Type:** Webinar
-**Date and Time:** February 5th 2025, 17:00UTC
-**Timezone(s):** Americas
-**Duration:** 1 Hour
-**Summary:** Insects make up over half of all biodiversity of life, yet account for only about 4% of biodiversity research. We will share our research making and documenting DIY science tools like the new [Mothbox](https://digital-naturalism-laboratories.github.io/Mothbox/) for bringing impactful biodiversity tools into the hands of many.
+**Presenter:** Andrew Quitmeyer  
+**Type:** Webinar  
+**Date and Time:** February 5th 2025, 17:00UTC  
+**Timezone(s):** Americas  
+**Duration:** 1 Hour  
+**Summary:** Insects make up over half of all biodiversity of life, yet account for only about 4% of biodiversity research. We will share our research making and documenting DIY science tools like the new [Mothbox](https://digital-naturalism-laboratories.github.io/Mothbox/) for bringing impactful biodiversity tools into the hands of many.  
 
 
 &nbsp; 
@@ -65,12 +65,12 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 ### **Title:** *Catalyzing Environmental Insights from Open eDNA Results on CALeDNA and the eDNA Explorer*  
 
-**Presenter:** Dr. Rachel Meyer
-**Type:** Webinar
-**Date and Time:** January 15th, 2025, 16:00UTC
-**Timezone(s):** Americas
-**Duration:** 1 Hour
-**Summary:** Environmental DNA (eDNA) metabarcoding provides data on the order of hundreds to thousands of taxa at once, giving people a glimpse into the ecological community that supports habitat functions. While eDNA is still time consuming and costly to generate, sharing eDNA data in common web-based platforms can help you derive information without needing as many samples of your own. In this webinar, I'll present new tools from [CALeDNA](https://ucedna.com/) and the eDNA Explorer that help model community diversity and species distribution with responsible data sharing. With data integration at our fingertips, what can we learn about how the environment supports or stresses communities, and what their functions are? We'll also discuss reasons for sharing and ways to do this that abide by FAIR or CARE principles.
+**Presenter:** Dr. Rachel Meyer  
+**Type:** Webinar  
+**Date and Time:** January 15th, 2025, 16:00UTC  
+**Timezone(s):** Americas  
+**Duration:** 1 Hour  
+**Summary:** Environmental DNA (eDNA) metabarcoding provides data on the order of hundreds to thousands of taxa at once, giving people a glimpse into the ecological community that supports habitat functions. While eDNA is still time consuming and costly to generate, sharing eDNA data in common web-based platforms can help you derive information without needing as many samples of your own. In this webinar, I'll present new tools from [CALeDNA](https://ucedna.com/) and the eDNA Explorer that help model community diversity and species distribution with responsible data sharing. With data integration at our fingertips, what can we learn about how the environment supports or stresses communities, and what their functions are? We'll also discuss reasons for sharing and ways to do this that abide by FAIR or CARE principles.  
 
  &nbsp;
 
@@ -78,12 +78,12 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 ### **Title:** *Building SORTEE relationships with supporters to advance open, reliable, and transparent research practices*  
 
-**Moderator:** Dom Roche
-**Type:** Panel
-**Date and Time:** December 10th, 2024, 14:00 UTC
-**Timezone(s):** Americas/Europe
-**Duration:** 1 Hour
-**Summary:** SORTEE is supported by several organizations undertaking activities that align with the Society’s mission of promoting open, reliable and transparent (ORT) research practices. In 2024, eight such organizations supported SORTEE activities including the annual conference and the workshop and webinar series, among others (see [https://www.sortee.org/supporters](https://www.sortee.org/supporters))). This panel discussion will be an opportunity for SORTEE supporters to present initiatives promoting ORT practices at their organization, connect with SORTEE's members and leadership, and explore ways of strengthening the benefits of these associations both for SORTEE and for supporters. Representatives of supporting organizations will be invited to introduce themselves, highlight internal work or initiatives promoting ORT practices, and brainstorm potential avenues of collaborative work with SORTEE and other supporters.
+**Moderator:** Dom Roche  
+**Type:** Panel  
+**Date and Time:** December 10th, 2024, 14:00 UTC  
+**Timezone(s):** Americas/Europe  
+**Duration:** 1 Hour  
+**Summary:** SORTEE is supported by several organizations undertaking activities that align with the Society’s mission of promoting open, reliable and transparent (ORT) research practices. In 2024, eight such organizations supported SORTEE activities including the annual conference and the workshop and webinar series, among others (see [https://www.sortee.org/supporters](https://www.sortee.org/supporters))). This panel discussion will be an opportunity for SORTEE supporters to present initiatives promoting ORT practices at their organization, connect with SORTEE's members and leadership, and explore ways of strengthening the benefits of these associations both for SORTEE and for supporters. Representatives of supporting organizations will be invited to introduce themselves, highlight internal work or initiatives promoting ORT practices, and brainstorm potential avenues of collaborative work with SORTEE and other supporters.  
 
 &nbsp; 
 
