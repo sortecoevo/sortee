@@ -49,7 +49,7 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 ## February 2025  
 
-### **Title:** *Mothbox - Open Source Science Tools for Biodiversity Research and Conservation  
+### **Title:** *Mothbox - Open Source Science Tools for Biodiversity Research and Conservation*  
 
 **Presenter:** Andrew Quitmeyer  
 **Type:** Webinar  
