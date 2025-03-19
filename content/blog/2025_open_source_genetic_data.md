@@ -61,15 +61,15 @@ Finally, regardless of the dataset used, teams should always include taxonomic e
 &nbsp;  
 &nbsp;  
 
-**Tara A Pelletier**, Associate Professor [tpelletier@radford.edu](mailto:tpelletier@radford.edu)  
+**Tara A Pelletier**, Associate Professor [(tpelletier@radford.edu)](mailto:tpelletier@radford.edu)  
 Department of Biology, Radford University, Radford, VA 24142  
 &nbsp;  
-**Tara A Pelletier** is an Associate Professor of Biology at Radford University. She is broadly interested in the eco-evolutionary processes that have shaped current biodiversity patterns. Her lab works to integrate various types of data (genetic, geographic, environmental, life history, and morphological) to understand these complex processes, using methods from phylogeography, macrogenetics, and environmental DNA.  
+Tara A Pelletier is an Associate Professor of Biology at Radford University. She is broadly interested in the eco-evolutionary processes that have shaped current biodiversity patterns. Her lab works to integrate various types of data (genetic, geographic, environmental, life history, and morphological) to understand these complex processes, using methods from phylogeography, macrogenetics, and environmental DNA.  
 
 &nbsp;   
   
-**Camilo Andrés Calderón Acevedo**, Post-Doctoral Researcher [CalderonCA@si.edu](mailto:CalderonCA@si.edu)  
+**Camilo Andrés Calderón Acevedo**, Post-Doctoral Researcher [(CalderonCA@si.edu)](mailto:CalderonCA@si.edu)  
 Smithsonian Bat Lab, Smithsonian Tropical Research Institute, Apartado 0843-03092, Balboa, Ancón, Panamá  
 &nbsp;  
-**Camilo Andrés Calderón Acevedo** is a Colombian mammalogist, currently a researcher at the Smithsonian Tropical Research Institution, in Panamá. He is interested in mammal evolution with a particular interest in the cryptic diversity present in marsupials, bats and rodents. His research is focussed on the drivers of the different dimensions (phylogenetic, morphological and functional) of mammal diversity and the effects of climate change in their populations and landscape connectivity.
+Camilo Andrés Calderón Acevedo is a Colombian mammalogist, currently a researcher at the Smithsonian Tropical Research Institution, in Panamá. He is interested in mammal evolution with a particular interest in the cryptic diversity present in marsupials, bats and rodents. His research is focussed on the drivers of the different dimensions (phylogenetic, morphological and functional) of mammal diversity and the effects of climate change in their populations and landscape connectivity.
 
