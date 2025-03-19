@@ -1,5 +1,5 @@
 ---
-banner: /blog/images/2025_Fig_1.jpeg  
+banner: /blog/images/PhylogatRBarchart.jpg 
 date: "2025-03-18"  
 author: Tara A Pelletier & Camilo Andrés Calderón Acevedo  have to 
 summary: The authors discuss the potential for data and coding error correction during pre-submission and the actions that can be taken to embrace this potential.
