@@ -8,7 +8,7 @@ categories:
 tags: 
 - code club
 - code
-- journal-club
+- open science
 title: "SORTEE Code Club debrief: Kick-off meeting 2025"
 
 ---
