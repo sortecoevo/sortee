@@ -28,6 +28,7 @@ First, the automated pipeline discussed above was streamlined to retain more dat
 &nbsp;  
 
 <img src="blog/images/PhylogatRBarchart.jpg" alt="bar-chart" width="100" height="100">
+
 Figure 1. The number of species with georeferenced DNA sequence data on phylogatR. Image credit: [Sydney Decker](https://skdecker.wixsite.com/home/)  
 
 &nbsp;  
@@ -43,7 +44,9 @@ There are also differences in the availability and quality of the data across ta
 Recent [taxonomic studies](https://doi.org/10.1016/j.ympev.2021.107356) continue to generate large and open-source genomic datasets. This is particularly important for taxonomically problematic groups such as many understudied neotropical mammals. These studies, therefore not only help untangle relationships among taxa but provide open data for studies like ours. For the bat dataset, we used OTUs as units of analysis, bypassing the need for current taxonomy to match what has been uploaded in the past to open-source databases. Our goal was to explore [phylogenetic diversity](https://www.biorxiv.org/content/10.1101/2025.02.18.636314v1) in this group. Even though sampling can be biased (note ecoregions in white did not have sufficient data to include in our analyses), we found that phylogenetic diversity in bats is higher in the tropics (Southeast Asia, Central and South America, and Africa), and has been driven by temperature variables, especially changes in temperature over long timeframes.  
 
 &nbsp;  
+
 <img src="/blog/images/PD_ecoregions109_Landscape_3298.6x1360.6px.tiff" alt="global" width="100" height="100"> 
+
 Figure 2. Global map displaying COI sampling and estimates of phylogenetic diversity in bats. Modified from [Green et al](https://www.biorxiv.org/content/10.1101/2025.02.18.636314v1). Image credit: Camilo Andrés Calderón Acevedo  
 
 &nbsp;  
