@@ -26,7 +26,7 @@ This large scale work requires the use of DNA sequence data from open-source rep
 First, the automated pipeline discussed above was streamlined to retain more datasets and come up with a strict set of rules on how to keep and label the data. Data came from a combination of [GBIF](https://www.gbif.org/), [GenBank](https://www.ncbi.nlm.nih.gov/genbank/about/), and [BOLD](https://v4.boldsystems.org/). Steps were taken to minimize duplicates and taxonomic discrepancies in a database called [phylogatR](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13673), housing 87,000+ species and 102,000+ DNA sequence alignments (Figure 1).  
  
 &nbsp;  
-![bar-chart](/blog/images/PhylogatRBarchart.jpg){ width=300 height=300 }
+![bar-chart](/blog/images/PhylogatRBarchart.jpg){ width=100 height=100 }
 Figure 1. The number of species with georeferenced DNA sequence data on phylogatR. Image credit: [Sydney Decker](https://skdecker.wixsite.com/home/)  
 
 &nbsp;  
@@ -43,7 +43,7 @@ Recent [taxonomic studies](https://doi.org/10.1016/j.ympev.2021.107356) continue
 
 &nbsp;  
  
-![global](/blog/images/PD_ecoregions109_Landscape_3298.6x1360.6px.tiff){ width=300 height=300 }
+![global](/blog/images/PD_ecoregions109_Landscape_3298.6x1360.6px.tiff){ width=100 height=100 }
 Figure 2. Global map displaying COI sampling and estimates of phylogenetic diversity in bats. Modified from [Green et al](https://www.biorxiv.org/content/10.1101/2025.02.18.636314v1). Image credit: Camilo Andrés Calderón Acevedo  
 
 &nbsp;  
