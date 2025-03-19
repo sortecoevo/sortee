@@ -2,7 +2,7 @@
 banner: /blog/images/PhylogatRBarchart.jpg 
 date: "2025-03-18"  
 author: Tara A Pelletier & Camilo Andrés Calderón Acevedo  have to 
-summary: The authors discuss the potential for data and coding error correction during pre-submission and the actions that can be taken to embrace this potential.
+summary: The authors discuss the challenges and insights from using open-source georeferenced genetic data for large-scale biogeography
 categories:
 - blog
 tags: 
