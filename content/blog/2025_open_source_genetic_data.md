@@ -27,7 +27,7 @@ First, the automated pipeline discussed above was streamlined to retain more dat
  
 &nbsp;  
 
-<img src="blog/images/PhylogatRBarchart.jpg" alt="bar-chart" width="50%" height="50%">
+![](/blog/images/PhylogatRBarchart.jpg)
 
 Figure 1. The number of species with georeferenced DNA sequence data on phylogatR. Image credit: [Sydney Decker](https://skdecker.wixsite.com/home/)  
 
@@ -45,7 +45,7 @@ Recent [taxonomic studies](https://doi.org/10.1016/j.ympev.2021.107356) continue
 
 &nbsp;  
 
-<img src="/blog/images/PD_ecoregions109_Landscape_3298.6x1360.6px.tiff" alt="global" width="50%" height="50%"> 
+![](/blog/images/PD_ecoregions109_Landscape_3298.6x1360.6px.png)
 
 Figure 2. Global map displaying COI sampling and estimates of phylogenetic diversity in bats. Modified from [Green et al](https://www.biorxiv.org/content/10.1101/2025.02.18.636314v1). Image credit: Camilo Andrés Calderón Acevedo  
 
