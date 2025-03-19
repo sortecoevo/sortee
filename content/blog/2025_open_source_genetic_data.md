@@ -45,7 +45,7 @@ Recent [taxonomic studies](https://doi.org/10.1016/j.ympev.2021.107356) continue
 
 &nbsp;  
 
-![](/blog/images/PD_ecoregions109_Landscape_3298.6x1360.6px.png)
+![](/blog/images/PD_ecoregions109_Landscape_3298.6x1360.6px.jpg)
 
 Figure 2. Global map displaying COI sampling and estimates of phylogenetic diversity in bats. Modified from [Green et al](https://www.biorxiv.org/content/10.1101/2025.02.18.636314v1). Image credit: Camilo Andrés Calderón Acevedo  
 
