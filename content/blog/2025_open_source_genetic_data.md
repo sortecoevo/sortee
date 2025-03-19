@@ -61,9 +61,9 @@ Finally, regardless of the dataset used, teams should always include taxonomic e
 &nbsp;  
 &nbsp;  
 
-**Tara A Pelletier**, Associate Professor [tpelletier@radford.edu](mailto:tpelletier@radford.edu)
+**Tara A Pelletier**, Associate Professor [tpelletier@radford.edu](mailto:tpelletier@radford.edu)  
 Department of Biology, Radford University, Radford, VA 24142  
   
-**Camilo Andrés Calderón Acevedo**, Post-Doctoral Researcher [CalderonCA@si.edu](mailto:CalderonCA@si.edu)
+**Camilo Andrés Calderón Acevedo**, Post-Doctoral Researcher [CalderonCA@si.edu](mailto:CalderonCA@si.edu)  
 Smithsonian Bat Lab, Smithsonian Tropical Research Institute, Apartado 0843-03092, Balboa, Ancón, Panamá
 
