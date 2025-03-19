@@ -19,7 +19,7 @@ Biogeography explores species diversification and distribution over time and spa
 
 &nbsp;  
 
-This large scale work requires the use of DNA sequence data from open-source repositories that can be linked to geographic coordinates. Initially these types of datasets were curated by hand, limiting the amount of data that could be gathered. An [early attempt](https://royalsocietypublishing.org/doi/10.1098/rsbl.2017.0566) and  at collating global scale data using automated pipelines across 1000s of individuals resulted in DNA sequence alignments from over 8000 species of plants, animals, and fungi. Checks were made to assess the influence of noise in the data (e.g., mislabeled sequences or inverted GPS coordinates), and suggested that in some circumstances the noise was minimal and didn’t influence overall interpretations. However, this analysis took a conservative approach and dropped a lot of “bad” data. When zooming in on specific taxonomic groups (i.e., smaller datasets), things can become quite a bit messier.  
+This large scale work requires the use of DNA sequence data from open-source repositories that can be linked to geographic coordinates. Initially these types of datasets were curated by hand, limiting the amount of data that could be gathered. An [early attempt](https://royalsocietypublishing.org/doi/10.1098/rsbl.2017.0566) at collating global scale data using automated pipelines across 1000s of individuals resulted in DNA sequence alignments from over 8000 species of plants, animals, and fungi. Checks were made to assess the influence of noise in the data (e.g., mislabeled sequences or inverted GPS coordinates), and suggested that in some circumstances the noise was minimal and didn’t influence overall interpretations. However, this analysis took a conservative approach and dropped a lot of “bad” data. When zooming in on specific taxonomic groups (i.e., smaller datasets), things can become quite a bit messier.  
 
 &nbsp;  
  
@@ -63,7 +63,13 @@ Finally, regardless of the dataset used, teams should always include taxonomic e
 
 **Tara A Pelletier**, Associate Professor [tpelletier@radford.edu](mailto:tpelletier@radford.edu)  
 Department of Biology, Radford University, Radford, VA 24142  
+&nbsp;  
+**Tara A Pelletier** is an Associate Professor of Biology at Radford University. She is broadly interested in the eco-evolutionary processes that have shaped current biodiversity patterns. Her lab works to integrate various types of data (genetic, geographic, environmental, life history, and morphological) to understand these complex processes, using methods from phylogeography, macrogenetics, and environmental DNA.  
+
+&nbsp;   
   
 **Camilo Andrés Calderón Acevedo**, Post-Doctoral Researcher [CalderonCA@si.edu](mailto:CalderonCA@si.edu)  
-Smithsonian Bat Lab, Smithsonian Tropical Research Institute, Apartado 0843-03092, Balboa, Ancón, Panamá
+Smithsonian Bat Lab, Smithsonian Tropical Research Institute, Apartado 0843-03092, Balboa, Ancón, Panamá  
+&nbsp;  
+**Camilo Andrés Calderón Acevedo** is a Colombian mammalogist, currently a researcher at the Smithsonian Tropical Research Institution, in Panamá. He is interested in mammal evolution with a particular interest in the cryptic diversity present in marsupials, bats and rodents. His research is focussed on the drivers of the different dimensions (phylogenetic, morphological and functional) of mammal diversity and the effects of climate change in their populations and landscape connectivity.
 
