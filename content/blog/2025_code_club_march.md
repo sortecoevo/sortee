@@ -1,6 +1,6 @@
 ---
 banner: /blog/images/2025_Code_club.png
-date: "2025-03-24"  
+date: "2025-03-18"  
 author: Cecilia Baldoni & Corné de Groot
 summary: The authors debrief about the latest code club meeting, all to do with improving messy code!
 categories:
@@ -9,12 +9,14 @@ tags:
 - code club
 - code
 - open science
-title: "SORTEE Code Club debrief: Decode the Code (March 18th)"
+title: "SORTEE Code Club debrief: Decode the Code"
 
 ---
 &nbsp;
 
 *The Member Engagement Committee runs Code Club every third Tuesday of the month. Time can vary depending on the host and will be announced at least two weeks in advance on [SORTEE’s Slack](https://www.sortee.org/join/). For more information, see [SORTEE’s Code Club page](https://www.sortee.org/code_club/).*  
+
+  
   
 On Tuesday, March 18th, the SORTEE Code Club gathered again for a hands-on session to improve messy code. This time, we worked with a pre-prepared script (which one participant jokingly called a "monster" script!) shared on GitHub before the meeting, allowing participants to explore it locally . The session brought together six participants, split into two breakout rooms. Each group tackled the script in their own way. While the code ran correctly, we quickly found areas where clarity, readability, and documentation could be improved.  
   
