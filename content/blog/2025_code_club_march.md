@@ -36,7 +36,8 @@ See you at the next Code Club session!
 **What’s next?**  
 The next Code Club meeting will be **on Tuesday, April 15th at 8:00-9:00h UTC +00:00** (zoom link will be posted on [SORTEE’s Slack](https://www.sortee.org/join/)). The next session will be a training session where we will give an Introduction to Reproducible Coding Environments. 
   
-You can check the [Code Club schedule here](https://docs.google.com/spreadsheets/d/1rOOOE7ghPduwtFftG0DJJf0DXVigAdcmQ0xdEwbKQXo/edit?usp=sharing) for upcoming meetings. To receive calendar invites in your local time zone, [sign up here](https://forms.gle/yKrEm6xAKZtom5kt7).  
+You can check the [Code Club schedule here](https://docs.google.com/spreadsheets/d/1rOOOE7ghPduwtFftG0DJJf0DXVigAdcmQ0xdEwbKQXo/edit?usp=sharing) for upcoming meetings.  
+To receive calendar invites in your local time zone, [sign up here](https://forms.gle/yKrEm6xAKZtom5kt7).  
   
 **Suggest a topic**  
 To propose a Code Club meeting topic, please use [this form](https://forms.gle/eZy81dUymiZNJetu8).  
