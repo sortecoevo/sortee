@@ -284,7 +284,7 @@ paginate = 6
     enable = true #change to true to display
     icon = "fas fa-globe"
     title = "2025 SORTEE conference 15-16th October"
-    subtitle = "Content submissions now open!"
+    subtitle = "Content submissions are now open!"
     link_url = "/upcoming"
     link_text = "Read more"
 
