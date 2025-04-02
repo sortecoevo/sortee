@@ -25,9 +25,9 @@ We accept the following types of proposals:
  
 &nbsp; 
   
-* **Unconferences**: Facilitated discussions of ideas for how to make ecology, evolutionary biology, and related disciplines more open, reliable, and transparent. Facilitation involves moderating the conversation with ideas and examples, but there are no formal presentations.  
-* **Hackathons**: Group projects with well-defined goals (papers, techniques, software, protocols, organizations, etc.).  
-* **Workshops**: Teach tips and tools for producing open, reliable and transparent research practices.  
+1. **Unconferences**: Facilitated discussions of ideas for how to make ecology, evolutionary biology, and related disciplines more open, reliable, and transparent. Facilitation involves moderating the conversation with ideas and examples, but there are no formal presentations.  
+2. **Hackathons**: Group projects with well-defined goals (papers, techniques, software, protocols, organizations, etc.).  
+3. **Workshops**: Teach tips and tools for producing open, reliable and transparent research practices.  
 &nbsp; 
   
 You are also welcome to submit a proposal and facilitate your session in a language other than English. We will organise live translation during the conference to support this.  
