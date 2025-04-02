@@ -281,10 +281,10 @@ paginate = 6
     link_text = "Click here!"
 
 [params.new_news]
-    enable = false #change to true to display
+    enable = true #change to true to display
     icon = "fas fa-globe"
-    title = "2024 SORTEE conference 15-16th October"
-    subtitle = "Registration now open and program online!"
+    title = "2025 SORTEE conference 15-16th October"
+    subtitle = "Content submissions now open!"
     link_url = "/upcoming"
     link_text = "Read more"
 
