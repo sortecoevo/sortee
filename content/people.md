@@ -211,10 +211,8 @@ Current members are:
   
 Anita Tarandek      
 Ineta Kačergytė      
-James Last  
 Magdalena Wutkowska    
-Marija Purgar    
-Sissi Lozada Gobilard   
+Marija Purgar      
 Sofia Paraskevopoulou    
 Stephanie Flaman      
 
@@ -231,15 +229,14 @@ The Diversity, Equity, and Inclusion Committee promotes diversity, equity, and i
 Current members are:   
   
 ![Brooke Long-Fox](/img/people/B_Long-Fox.png)  
-**Chair:** [Brooke Long-Fox](mailto:blongfox@morphobank.org)  
+**Co-Chair:** [Brooke Long-Fox](mailto:blongfox@morphobank.org)  
   
-![Friederike (Freddy) Hilleman](/img/people/F_Hillemann.png)  
+![Friederike (freddy) Hilleman](/img/people/F_Hillemann.png)  
 **Co-Chair:** [Friederike (Freddy) Hilleman](mailto:f.hillemann@web.de) ([Website](https://fhillemann.github.io/))  
   
 Charlotte Recapet  
 Elvira D'Bastiani  
-Frigg Speelman  
-Malika Ihle  
+Frigg Speelman   
 Manasee Weerathunga  
 Sarah Hasnain  
 Sofia Paraskevopoulou  
