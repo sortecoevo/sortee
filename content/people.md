@@ -231,8 +231,8 @@ Current members are:
 ![Brooke Long-Fox](/img/people/B_Long-Fox.png)  
 **Co-Chair:** [Brooke Long-Fox](mailto:blongfox@morphobank.org)  
   
-![Friederike (freddy) Hilleman](/img/people/F_Hillemann.png)  
-**Co-Chair:** [Friederike (Freddy) Hilleman](mailto:f.hillemann@web.de) ([Website](https://fhillemann.github.io/))  
+![Friederike (freddy) Hillemann](/img/people/F_Hillemann.png)  
+**Co-Chair:** [Friederike (Freddy) Hillemann](mailto:f.hillemann@web.de) ([Website](https://fhillemann.github.io/))  
   
 Charlotte Recapet  
 Elvira D'Bastiani  
