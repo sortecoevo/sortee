@@ -33,7 +33,7 @@ We accept the following types of proposals:
 You are also welcome to submit a proposal and facilitate your session in a language other than English. We will organise live translation during the conference to support this.  
   
 &nbsp;  
-The conference is FREE for [SORTEE members](https://www.sortee.org/join/), and the cost for non-SORTEE members ranges from $0 to $60. 
+The conference is **FREE** for [SORTEE members](https://www.sortee.org/join/). The cost for non-SORTEE members ranges from $0 to $60. 
   
 &nbsp;   
 We strongly encourage proposals for all contribution types from people at a wide range of career stages and from members of under-represented groups. We welcome proposals from small teams, as well as individuals. We encourage teams to include diverse perspectives, for instance with facilitators from different countries and balanced in terms of gender and career stage. Facilitation by early career researchers (students or early career postdocs) is warmly encouraged.  
