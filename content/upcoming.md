@@ -22,7 +22,9 @@ The 2025 SORTEE conference will run continuously from [15 October 07:00 UTC to 1
 &nbsp; 
   
 We accept the following types of proposals:  
+ 
 &nbsp; 
+  
 **Unconferences**: Facilitated discussions of ideas for how to make ecology, evolutionary biology, and related disciplines more open, reliable, and transparent. Facilitation involves moderating the conversation with ideas and examples, but there are no formal presentations.  
 **Hackathons**: Group projects with well-defined goals (papers, techniques, software, protocols, organizations, etc.).  
 **Workshops**: Teach tips and tools for producing open, reliable and transparent research practices.  
