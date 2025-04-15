@@ -204,7 +204,7 @@ paginate = 6
 [[menu.topbar]]
     weight = 7
     name = "Email"
-    url = "mailto:sortecoevo@gmail.com"
+    url = "mailto:contact@sortee.org"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
@@ -253,7 +253,7 @@ paginate = 6
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
-    address = """<p>Email: sortecoevo@gmail.com
+    address = """<p>Email: contact@sortee.org
         <br>Twitter: @SORTEcoEvo
         <br>Mastodon: @SORTEE@ecoevo.social
       </p>
