@@ -54,9 +54,9 @@ We currently have two meeting formats:
 ## Who can participate?  
 &nbsp;
   
-**All SORTEE Members!**      
-You want to participate but you are not a SORTEE Member? [Become one now\!](https://www.joinit.org/o/sortee/)  
+**All SORTEE Members!** 
   
+You want to participate but you are not a SORTEE Member? [Become one now\!](https://www.joinit.org/o/sortee/)    
 **Different time zones?** We rotate meeting times when possible to accommodate participants worldwide.     
 Can't make it live? Check [**past meeting debriefs**](https://www.sortee.org/tags/code-club)!  
   
