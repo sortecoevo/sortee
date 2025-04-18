@@ -46,8 +46,7 @@ We currently have two meeting formats:
   
 You want to participate but you are not a SORTEE Member? [Become one now\!](https://www.joinit.org/o/sortee/)    
 **Different time zones?** We rotate meeting times when possible to accommodate participants worldwide.     
-Can't make it live? Check [**past meeting debriefs**](https://www.sortee.org/tags/code-club)!  
-  
+**Can't make it live?** Check [**past meeting debriefs**](https://www.sortee.org/tags/code-club)!    
 Do you know the topic and want to contribute?  **Join**!   
 Do you have no idea what we are talking about? 	**Join**!    
 Are you waiting for your dentist appointment and need something to do? 	**Join**!    
