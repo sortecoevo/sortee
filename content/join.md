@@ -34,9 +34,7 @@ Note that this fee covers an annual membership to SORTEE and expires on the 31st
 
 ### Diversity, Equity and Inclusion (DEI) at SORTEE   
 
-At SORTEE, we place great importance on DEI. We have a dedicated DEI committee to ensure that we keep making improvements on this topic. We thereby also seek the help of our members. You can help us by filling out our demographic survey, whenever you become a member or renew your membership. This survey informs us on what our members think of diversity and also on which directions we may need to take for the future.    
-
-Our goal is to be diverse and inclusive of people across disciplines, from various geographical locations, from under-represented groups and with various interests.   
+At SORTEE, we place great importance on DEI. We have a dedicated DEI committee to ensure that we keep making improvements on this topic. We thereby also seek the help of our members. You can help us by filling out our demographic survey, whenever you become a member or renew your membership. This survey informs us on what our members think of diversity and also on which directions we may need to take for the future. Our goal is to be diverse and inclusive of people across disciplines, from various geographical locations, from under-represented groups and with various interests.   
 
 &nbsp;
 
