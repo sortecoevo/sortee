@@ -32,17 +32,12 @@ If you work with code, or if you would like to, and care for open science, this 
 ## How is Code Club organized?   
   
 We meet online **every third Tuesday of the month**. Meeting times and topics are announced on [SORTEE’s Slack](https://www.sortee.org/join/) (\#sortee-announcements, \#code\_club)**.** Find upcoming topics and times in the [**Code Club schedule**](https://docs.google.com/spreadsheets/d/1rOOOE7ghPduwtFftG0DJJf0DXVigAdcmQ0xdEwbKQXo/edit?usp=sharing).  
-
-&nbsp;  
-
+&nbsp;   
 We currently have two meeting formats:  
-
-&nbsp;  
+&nbsp;    
 - **Training Sessions**: Focused sessions to learn new coding skills, packages, models, and exploring tools that support open science.  
-- **Hacky Hours**: Casual peer-to-peer sessions where we review code, troubleshoot issues, and share tips and tricks.
-
-&nbsp;  
-  
+- **Hacky Hours**: Casual peer-to-peer sessions where we review code, troubleshoot issues, and share tips and tricks.  
+&nbsp;   
 **Propose a topic** – Have a topic idea? Let us know via [this form](https://forms.gle/eZy81dUymiZNJetu8)\!
 
 &nbsp;  
