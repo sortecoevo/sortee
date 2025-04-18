@@ -36,7 +36,7 @@ We currently have two meeting formats:
 &nbsp;    
 - **Training Sessions**: Focused sessions to learn new coding skills, packages, models, and exploring tools that support open science.  
 - **Hacky Hours**: Casual peer-to-peer sessions where we review code, troubleshoot issues, and share tips and tricks.  
-&nbsp;   
+&nbsp;
 **Propose a topic** – Have a topic idea? Let us know via [this form](https://forms.gle/eZy81dUymiZNJetu8)\!
 
 &nbsp;  
