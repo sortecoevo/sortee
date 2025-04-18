@@ -84,9 +84,9 @@ Find here resources related to code review, reproducibility, and best practices 
   
 ## Useful Links  
   
-* [**Code Club schedule**](https://docs.google.com/spreadsheets/d/1rOOOE7ghPduwtFftG0DJJf0DXVigAdcmQ0xdEwbKQXo/edit?usp=sharing) – See upcoming topics and times.    
+* [**Code Club Schedule**](https://docs.google.com/spreadsheets/d/1rOOOE7ghPduwtFftG0DJJf0DXVigAdcmQ0xdEwbKQXo/edit?usp=sharing) – See upcoming topics and times.    
 * [**Code Club GitHub**](https://github.com/SORTEE/peer-code-review) – Request a code review via SORTEE’s Code Club GitHub page.    
 * [**Sign up to receive calendar invites**](https://forms.gle/yKrEm6xAKZtom5kt7) – Get reminders in your time zone.    
 * [**Join us on SORTEE’s Slack**](https://www.sortee.org/join/) – Stay updated and chat with the community.    
-* [**Propose a topic**](https://forms.gle/eZy81dUymiZNJetu8) – Have a topic idea? Let us know\    
+* [**Propose a Topic**](https://forms.gle/eZy81dUymiZNJetu8) – Have a topic idea? Let us know\    
 * [**Read past meeting debriefs**](https://www.sortee.org/tags/code-club) – Check out what we’ve covered so far.  
