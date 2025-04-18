@@ -9,7 +9,6 @@ title: "SORTEE code club"
 &nbsp;  
   
 ## What is Code Club?  
-&nbsp;  
   
 SORTEE Code Club is an online meeting where people come together to learn, share, and collaborate on coding-related topics in an informal and supportive environment. It’s not about being an experienced coder, it’s about **open science**, **peer learning**, and making coding more **accessible**, and most importantly **reproducible**  for everyone.  
   
