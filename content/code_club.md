@@ -19,7 +19,6 @@ SORTEE Code Club is an online meeting where people come together to learn, share
 At SORTEE we believe in **transparency, reproducibility, collaboration and accessibility in research** and coding is a big part of that! 
 &nbsp;  
 The SORTEE Code Club is a place to:  
-&nbsp;    
 - Learn and develop coding skills;  
 - Discuss and develop resources for code review, reproducibility, open workflows, and best practices;  
 - Share code-related issues and solutions;  
