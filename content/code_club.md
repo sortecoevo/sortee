@@ -16,8 +16,6 @@ SORTEE Code Club is an online meeting where people come together to learn, share
 &nbsp;  
 
 ## Why Code Club?  
-
-&nbsp;  
   
 At SORTEE we believe in **transparency, reproducibility, collaboration and accessibility in research** and coding is a big part of that! 
 &nbsp;  
@@ -32,9 +30,7 @@ The SORTEE Code Club is a place to:
 If you work with code, or if you would like to, and care for open science, this club is for you!  
 
 &nbsp;  
-## How is Code Club organized?  
-
-&nbsp;  
+## How is Code Club organized?   
   
 We meet online **every third Tuesday of the month**. Meeting times and topics are announced on [SORTEE’s Slack](https://www.sortee.org/join/) (\#sortee-announcements, \#code\_club)**.** Find upcoming topics and times in the [**Code Club schedule**](https://docs.google.com/spreadsheets/d/1rOOOE7ghPduwtFftG0DJJf0DXVigAdcmQ0xdEwbKQXo/edit?usp=sharing).  
 
@@ -52,7 +48,6 @@ We currently have two meeting formats:
 
 &nbsp;  
 ## Who can participate?  
-&nbsp;
   
 **All SORTEE Members!** 
   
