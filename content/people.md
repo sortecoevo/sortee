@@ -258,7 +258,7 @@ Current members are:
 **Co-Chair:** [Daniel Noble](mailto:daniel.noble@anu.edu.au) ([Website](https://nobledan.com))  
   
 ![Stefan Vriend](/img/people/S_Vriend.png)    
-**Co-Chair:** [Stefan Vriend](mailto:svriend@gmail.com) ([Website](https://nioo.knaw.nl/en/employees/stefan-vriend))  
+**Co-Chair:** [Stefan Vriend (he/him), *Netherlands Institute of Ecology (NIOO-KNAW), The Netherlands*](mailto:svriend@gmail.com) ([Website](https://nioo.knaw.nl/en/employees/stefan-vriend))  
   
 [Birgit Szabo (they/them), *Gent University, Belgium*](https://birgitszabo.wixsite.com/cogsciresearch)  
 Elvira D'Bastiani  
