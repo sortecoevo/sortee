@@ -311,12 +311,12 @@ Current members are:
  
 ![Matthieu Paquet](/img/people/MatthieuPaquet.png)  
   
-**Chair:** [Matthieu Paquet](mailto:matthieu.paquet@outlook.com) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu))  
+**Chair:** [Matthieu Paquet (He/Him)](mailto:matthieu.paquet@outlook.com) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu))  
   
 Aidan Tan  
 Christopher Barker  
 Dominique Roche  
-Michael Bertram  
+[Michael Bertram (he/him), *Swedish University of Agricultural Sciences, Sweden*] 
 [Ruby Krasnow (she/her), *University of Maine, US*](https://ruby.science)    
 Snata Chakraborty  
 Barbara Class  
