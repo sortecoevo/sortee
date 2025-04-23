@@ -91,7 +91,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;  
 
 ![Ed Ivimey-Cook](/img/people/EdIvimeyCook.png)  
-[Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(President)** is a post-doctoral researcher at the University of Glasgow.   
+[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook) **(President)** is a post-doctoral researcher at the University of Glasgow.   
 &nbsp;  
 
 ![Patrice Pottier](/img/people/PatricePottier_smaller.png)  
@@ -126,7 +126,7 @@ As specified in the [SORTEE bylaws](https://www.sortee.org/bylaws/), the Executi
 Current officers are:
 &nbsp;
 
-[Ed Ivimey-Cook](https://github.com/EIvimeyCook) **(President)**   
+[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  **(President)**    
 [Marija Purgar](https://www.irb.hr/eng/About-RBI/People/Marija-Purgar-Filjak) **(President-Elect)**  
 [Rose O’Dea](https://www.roseodea.com/) **(Past President)**    
 [Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)**  
@@ -149,13 +149,13 @@ Current members are:
 **Chair:** [Joel Pick](mailto:joel.l.pick@gmail.com) ([Website](https://joelpick.github.io))  
   
 Christian John  
-Ed Ivimey-Cook  
-Julia Sharapi  
+[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  
+Julia Sharapi (she/her), *Stanford University, US*  
 Kevin Bairos-Novak  
 Leyla Cabugos  
 Marija Purgar  
 Sarah Hasnain  
-Shinichi Nakagawa  
+Shinichi Nakagawa (he/him), *University of Alberta, Canada*  
 
 &nbsp;
 &nbsp;
@@ -191,7 +191,7 @@ Current members are:
 Alexa Fredston  
 Kaija Gahm  
 Tim Parker          
-Ed Ivimey-Cook     
+[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  
 Malgorzata (Losia) Lagisz     
 
 &nbsp;
@@ -207,7 +207,7 @@ The Conference committee organizes the virtual SORTEE Conference, held in Octobe
 Current members are:   
 
 ![Juliette Tariel-Adam](/img/people/J_Tariel-Adam.png)    
-**Chair:** [Juliette Tariel-Adam](mailto:juliette.tarieladam@gmail.com) ([Website](https://juliettetarieladam.com/))  
+**Chair:** [Juliette Tariel-Adam (she/her), *Macquarie University, Australia*](mailto:juliette.tarieladam@gmail.com) ([Website](https://juliettetarieladam.com/))  
   
 Anita Tarandek      
 Ineta Kačergytė      
@@ -255,19 +255,19 @@ Mark Young
 Current members are:   
   
 ![Daniel Noble](/img/people/D_Noble.png)  
-**Chair:** [Daniel Noble](mailto:daniel.noble@anu.edu.au) ([Website](https://nobledan.com))  
+**Co-Chair:** [Daniel Noble](mailto:daniel.noble@anu.edu.au) ([Website](https://nobledan.com))  
   
 ![Stefan Vriend](/img/people/S_Vriend.png)    
-**Co-Chair:** [Stefan Vriend](mailto:svriend@gmail.com) ([Website](https://nioo.knaw.nl/en/employees/stefan-vriend))  
+**Co-Chair:** [Stefan Vriend (he/him), *Netherlands Institute of Ecology (NIOO-KNAW), The Netherlands*](mailto:svriend@gmail.com) ([Website](https://nioo.knaw.nl/en/employees/stefan-vriend))  
   
-Birgit Szabo  
+[Birgit Szabo (they/them), *Gent University, Belgium*](https://birgitszabo.wixsite.com/cogsciresearch)  
 Elvira D'Bastiani  
 Félicie Dhellemmes  
 Jenna Braun  
 Mark Young  
 Marta Acácio  
 Melina de Souza Leite  
-Nicholas Wu  
+[Nicholas Wu, *Murdoch University, Australia*](mailto:nicholas.wu.nz@gmail.com)  
 Niladri Mondal  
 Pablo Recio Santiago  
 Yseult Héjja-Brichard  
@@ -311,13 +311,13 @@ Current members are:
  
 ![Matthieu Paquet](/img/people/MatthieuPaquet.png)  
   
-**Chair:** [Matthieu Paquet](mailto:matthieu.paquet@outlook.com) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu))  
+**Chair:** [Matthieu Paquet (He/Him)](mailto:matthieu.paquet@outlook.com) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu))  
   
 Aidan Tan  
 Christopher Barker  
 Dominique Roche  
-Michael Bertram  
-Ruby Krasnow  
+Michael Bertram (he/him), *Swedish University of Agricultural Sciences, Sweden*  
+[Ruby Krasnow (she/her), *University of Maine, US*](https://ruby.science)    
 Snata Chakraborty  
 Barbara Class  
 
