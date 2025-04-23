@@ -150,7 +150,7 @@ Current members are:
   
 Christian John  
 [Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  
-Julia Sharapi  
+[Julia Sharapi (she/her), *Stanford University, US*]() 
 Kevin Bairos-Novak  
 Leyla Cabugos  
 Marija Purgar  
@@ -207,7 +207,7 @@ The Conference committee organizes the virtual SORTEE Conference, held in Octobe
 Current members are:   
 
 ![Juliette Tariel-Adam](/img/people/J_Tariel-Adam.png)    
-**Chair:** [Juliette Tariel-Adam](mailto:juliette.tarieladam@gmail.com) ([Website](https://juliettetarieladam.com/))  
+**Chair:** [Juliette Tariel-Adam (she/her), *Macquarie University, Australia*](mailto:juliette.tarieladam@gmail.com) ([Website](https://juliettetarieladam.com/))  
   
 Anita Tarandek      
 Ineta Kačergytė      
