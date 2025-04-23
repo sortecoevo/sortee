@@ -317,7 +317,7 @@ Aidan Tan
 Christopher Barker  
 Dominique Roche  
 Michael Bertram  
-[Ruby Krasnow (she/her),*University of Maine, US*](https://ruby.science)    
+[Ruby Krasnow (she/her), *University of Maine, US*](https://ruby.science)    
 Snata Chakraborty  
 Barbara Class  
 
