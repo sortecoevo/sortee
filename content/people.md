@@ -126,7 +126,7 @@ As specified in the [SORTEE bylaws](https://www.sortee.org/bylaws/), the Executi
 Current officers are:
 &nbsp;
 
-[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  **(President)**   
+[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  **(President)**    
 [Marija Purgar](https://www.irb.hr/eng/About-RBI/People/Marija-Purgar-Filjak) **(President-Elect)**  
 [Rose O’Dea](https://www.roseodea.com/) **(Past President)**    
 [Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)**  
@@ -149,13 +149,13 @@ Current members are:
 **Chair:** [Joel Pick](mailto:joel.l.pick@gmail.com) ([Website](https://joelpick.github.io))  
   
 Christian John  
-[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook) 
+[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  
 Julia Sharapi  
 Kevin Bairos-Novak  
 Leyla Cabugos  
 Marija Purgar  
 Sarah Hasnain  
-[Shinichi Nakagawa (he/him), *University of Alberta, Canada*]()
+[Shinichi Nakagawa (he/him), *University of Alberta, Canada*]()  
 
 &nbsp;
 &nbsp;
@@ -191,7 +191,7 @@ Current members are:
 Alexa Fredston  
 Kaija Gahm  
 Tim Parker          
-[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook) 
+[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  
 Malgorzata (Losia) Lagisz     
 
 &nbsp;
@@ -255,19 +255,19 @@ Mark Young
 Current members are:   
   
 ![Daniel Noble](/img/people/D_Noble.png)  
-**Chair:** [Daniel Noble](mailto:daniel.noble@anu.edu.au) ([Website](https://nobledan.com))  
+**Co-Chair:** [Daniel Noble](mailto:daniel.noble@anu.edu.au) ([Website](https://nobledan.com))  
   
 ![Stefan Vriend](/img/people/S_Vriend.png)    
 **Co-Chair:** [Stefan Vriend](mailto:svriend@gmail.com) ([Website](https://nioo.knaw.nl/en/employees/stefan-vriend))  
   
-[Birgit Szabo (they/them), *Gent University, Belgium*](https://birgitszabo.wixsite.com/cogsciresearch)
+[Birgit Szabo (they/them), *Gent University, Belgium*](https://birgitszabo.wixsite.com/cogsciresearch)  
 Elvira D'Bastiani  
 Félicie Dhellemmes  
 Jenna Braun  
 Mark Young  
 Marta Acácio  
 Melina de Souza Leite  
-[Nicholas Wu, *Murdoch University, Australia*](mailto:nicholas.wu.nz@gmail.com) 
+[Nicholas Wu, *Murdoch University, Australia*](mailto:nicholas.wu.nz@gmail.com)  
 Niladri Mondal  
 Pablo Recio Santiago  
 Yseult Héjja-Brichard  
@@ -317,7 +317,7 @@ Aidan Tan
 Christopher Barker  
 Dominique Roche  
 Michael Bertram  
-[Ruby Krasnow (she/her),*University of Maine, US*](https://ruby.science)  
+[Ruby Krasnow (she/her),*University of Maine, US*](https://ruby.science)    
 Snata Chakraborty  
 Barbara Class  
 
