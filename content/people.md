@@ -343,7 +343,7 @@ Gabe Winter
 Malgorzata (Losia) Lagisz  
 Manasee Weerathunga  
 Oakleigh Wilson  
-Swastika Issar
+Swastika Issar  
 [July Pilowsky (they/he/she), *Cary Institute of Ecosystem Studies, US*](https://pilowsky.me)
 
 &nbsp;
