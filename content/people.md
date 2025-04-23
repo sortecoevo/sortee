@@ -344,7 +344,7 @@ Malgorzata (Losia) Lagisz
 Manasee Weerathunga  
 Oakleigh Wilson  
 Swastika Issar
-July Pilowsky  
+[July Pilowsky (they/he/she), *Cary Institute of Ecosystem Studies, US*](https://pilowsky.me)
 
 &nbsp;
 &nbsp;
