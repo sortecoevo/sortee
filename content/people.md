@@ -150,12 +150,12 @@ Current members are:
   
 Christian John  
 [Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  
-[Julia Sharapi (she/her), *Stanford University, US*]() 
+Julia Sharapi (she/her), *Stanford University, US*  
 Kevin Bairos-Novak  
 Leyla Cabugos  
 Marija Purgar  
 Sarah Hasnain  
-[Shinichi Nakagawa (he/him), *University of Alberta, Canada*]()  
+Shinichi Nakagawa (he/him), *University of Alberta, Canada*  
 
 &nbsp;
 &nbsp;
@@ -316,7 +316,7 @@ Current members are:
 Aidan Tan  
 Christopher Barker  
 Dominique Roche  
-[Michael Bertram (he/him), *Swedish University of Agricultural Sciences, Sweden*] 
+Michael Bertram (he/him), *Swedish University of Agricultural Sciences, Sweden*  
 [Ruby Krasnow (she/her), *University of Maine, US*](https://ruby.science)    
 Snata Chakraborty  
 Barbara Class  
