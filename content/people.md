@@ -152,7 +152,7 @@ Christian John
 [Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  
 Julia Sharapi (she/her), *Stanford University, US*  
 Kevin Bairos-Novak  
-Leyla Cabugos  
+Leyla Cabugos (she/her) *California Polytechnic State University, USA*   
 Marija Purgar  
 Sarah Hasnain  
 Shinichi Nakagawa (he/him), *University of Alberta, Canada*  
@@ -235,7 +235,7 @@ Current members are:
 **Co-Chair:** [Friederike (freddy) Hillemann](mailto:f.hillemann@web.de) ([Website](https://fhillemann.github.io/))  
   
 Charlotte Recapet  
-Elvira D'Bastiani  
+[Elvira D'Bastiani (she/her), *University of California, USA*](elviradbastiani.com)    
 Frigg Speelman   
 Manasee Weerathunga  
 Sarah Hasnain  
@@ -261,7 +261,7 @@ Current members are:
 **Co-Chair:** [Stefan Vriend (he/him), *Netherlands Institute of Ecology (NIOO-KNAW), The Netherlands*](mailto:svriend@gmail.com) ([Website](https://nioo.knaw.nl/en/employees/stefan-vriend))  
   
 [Birgit Szabo (they/them), *Gent University, Belgium*](https://birgitszabo.wixsite.com/cogsciresearch)  
-Elvira D'Bastiani  
+[Elvira D'Bastiani (she/her), *University of California, USA*](elviradbastiani.com)    
 Félicie Dhellemmes  
 Jenna Braun  
 Mark Young  
