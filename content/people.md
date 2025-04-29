@@ -154,7 +154,7 @@ Julia Sharapi (she/her), *Stanford University, USA*
 Kevin Bairos-Novak  
 Leyla Cabugos (she/her), *California Polytechnic State University, USA*    
 Marija Purgar  
-Sarah Hasnain (no pronouns), *Laboratoire d'Océanographie de Villefranche, Sorbonne University - CNRS, France*  
+Sarah Hasnain (no pronouns), *Sorbonne University, France*  
 Shinichi Nakagawa (he/him), *University of Alberta, Canada*  
 
 &nbsp;
@@ -238,7 +238,7 @@ Charlotte Recapet
 [Elvira D'Bastiani (she/her), *University of California, USA*](elviradbastiani.com)    
 Frigg Speelman   
 Manasee Weerathunga  
-Sarah Hasnain (no pronouns), *Laboratoire d'Océanographie de Villefranche, Sorbonne University - CNRS, France*    
+Sarah Hasnain (no pronouns), *Sorbonne University, France*    
 Sofia Paraskevopoulou  
 Suz Everingham  
 Mark Young  
@@ -344,7 +344,7 @@ Gabe Winter
 Manasee Weerathunga  
 Oakleigh Wilson  
 Swastika Issar  
-[July Pilowsky (they/he/she), *Cary Institute of Ecosystem Studies, US*](https://pilowsky.me)  
+[July Pilowsky (they/he/she), *Cary Institute of Ecosystem Studies, USA*](https://pilowsky.me)  
 
 &nbsp;
 &nbsp;
