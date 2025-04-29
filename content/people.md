@@ -82,7 +82,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;
 
 ![Malgorzata (Losia) Lagisz](/img/people/LosiaLagisz.png)  
-[Malgorzata (Losia) Lagisz (she/her),  *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/) is a Research Fellow at the University of New South Wales Sydney, where she works on meta-research and evidence synthesis.
+[Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/) is a Research Fellow at the University of New South Wales Sydney, where she works on meta-research and evidence synthesis.
 
 &nbsp;  
 
@@ -150,11 +150,11 @@ Current members are:
   
 Christian John  
 [Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  
-Julia Sharapi (she/her), *Stanford University, US*
+Julia Sharapi (she/her), *Stanford University, USA*  
 Kevin Bairos-Novak  
-Leyla Cabugos (she/her) *California Polytechnic State University, USA*   
+Leyla Cabugos (she/her), *California Polytechnic State University, USA*    
 Marija Purgar  
-Sarah Hasnain (no pronouns), *Laboratoire d'Océanographie de Villefranche, Sorbonne University - CNRS, France*
+Sarah Hasnain (no pronouns), *Laboratoire d'Océanographie de Villefranche, Sorbonne University - CNRS, France*  
 Shinichi Nakagawa (he/him), *University of Alberta, Canada*  
 
 &nbsp;
@@ -173,7 +173,7 @@ Current members are:
 **Chair:** [Hannah Dugdale](mailto:h.l.dugdale@rug.nl)	([Website](https://hannahdugdale.wordpress.com/))  
   
 Elina Takola  
-[Malgorzata (Losia) Lagisz (she/her),  *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)  
+[Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)  
 [Sandra Hamel  (she/her), *Université Laval, Canada*](https://sandra-hamel.fsg.ulaval.ca/)  
 
 &nbsp;
@@ -192,7 +192,7 @@ Alexa Fredston
 Kaija Gahm  
 Tim Parker          
 [Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  
-[Malgorzata (Losia) Lagisz (she/her),  *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)    
+[Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)    
 
 &nbsp;
 &nbsp;
@@ -238,7 +238,7 @@ Charlotte Recapet
 [Elvira D'Bastiani (she/her), *University of California, USA*](elviradbastiani.com)    
 Frigg Speelman   
 Manasee Weerathunga  
-Sarah Hasnain  
+Sarah Hasnain (no pronouns), *Laboratoire d'Océanographie de Villefranche, Sorbonne University - CNRS, France*    
 Sofia Paraskevopoulou  
 Suz Everingham  
 Mark Young  
@@ -316,7 +316,7 @@ Current members are:
 Aidan Tan  
 Christopher Barker  
 Dominique Roche  
-Michael Bertram (he/him), *Swedish University of Agricultural Sciences, Sweden* 
+Michael Bertram (he/him), *Swedish University of Agricultural Sciences, Sweden*  
 [Ruby Krasnow (she/her), *University of Maine, US*](https://ruby.science)    
 Snata Chakraborty  
 Barbara Class  
@@ -340,11 +340,11 @@ Current members are:
 Alfredo Sánchez-Tójar  
 Caleb Onoja Akogwu  
 Gabe Winter  
-[Malgorzata (Losia) Lagisz (she/her),  *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)     
+[Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)     
 Manasee Weerathunga  
 Oakleigh Wilson  
 Swastika Issar  
-[July Pilowsky (they/he/she), *Cary Institute of Ecosystem Studies, US*](https://pilowsky.me)
+[July Pilowsky (they/he/she), *Cary Institute of Ecosystem Studies, US*](https://pilowsky.me)  
 
 &nbsp;
 &nbsp;
@@ -367,7 +367,7 @@ Current members are:
 Cecilia Baldoni  
 Charlotte Recapet  
 Corné de Groot  
-[Malgorzata (Losia) Lagisz (she/her),  *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)     
+[Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)     
 Rachel Turba  
 
 &nbsp;
