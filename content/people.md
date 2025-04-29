@@ -58,7 +58,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;  
 
 ![Michael Bertram](/img/people/MichaelBertram.png)  
-[Michael Bertram](https://www.michaelbertramlab.org) is an Assistant Professor at the Swedish University of Agricultural Sciences, where he investigates the impacts of human-induced environmental change on wildlife populations.
+[Michael Bertram (he/him), *Swedish University of Agricultural Sciences, Sweden* ](https://www.michaelbertramlab.org) is an Assistant Professor at the Swedish University of Agricultural Sciences, where he investigates the impacts of human-induced environmental change on wildlife populations.
 
 &nbsp;  
 
@@ -77,12 +77,12 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;  
 
 ![Matthieu Paquet](/img/people/MatthieuPaquet.png)  
-[Matthieu Paquet](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu) is a researcher working on behavioural ecology and population dynamics at the Theoretical and Experimental Ecology Station (SETE,CNRS).  
+[Matthieu Paquet, (he/him)](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu) is a researcher working on behavioural ecology and population dynamics at the Theoretical and Experimental Ecology Station (SETE,CNRS).  
 
 &nbsp;
 
 ![Malgorzata (Losia) Lagisz](/img/people/LosiaLagisz.png)  
-[Malgorzata (Losia) Lagisz](https://mlagisz.weebly.com/) is a Research Fellow at the University of New South Wales Sydney, where she works on meta-research and evidence synthesis.
+[Malgorzata (Losia) Lagisz (she/her),  *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/) is a Research Fellow at the University of New South Wales Sydney, where she works on meta-research and evidence synthesis.
 
 &nbsp;  
 
@@ -146,13 +146,13 @@ Current members are:
 
 
 ![Joel Pick](/img/people/J_Pick.png)    
-**Chair:** [Joel Pick](mailto:joel.l.pick@gmail.com) ([Website](https://joelpick.github.io))  
+**Chair:** [Joel Pick (he/him) University of Edinburgh, UK*](mailto:joel.l.pick@gmail.com) ([Website](https://joelpick.github.io))  
   
 Christian John  
 [Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  
 Julia Sharapi (she/her), *Stanford University, US*  
 Kevin Bairos-Novak  
-Leyla Cabugos  
+Leyla Cabugos (she/her) *California Polytechnic State University, USA*   
 Marija Purgar  
 Sarah Hasnain  
 Shinichi Nakagawa (he/him), *University of Alberta, Canada*  
@@ -173,7 +173,7 @@ Current members are:
 **Chair:** [Hannah Dugdale](mailto:h.l.dugdale@rug.nl)	([Website](https://hannahdugdale.wordpress.com/))  
   
 Elina Takola  
-Malgorzata (Losia) Lagisz  
+[Malgorzata (Losia) Lagisz (she/her),  *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)  
 Sandra Hamel  
 
 &nbsp;
@@ -192,7 +192,7 @@ Alexa Fredston
 Kaija Gahm  
 Tim Parker          
 [Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  
-Malgorzata (Losia) Lagisz     
+[Malgorzata (Losia) Lagisz (she/her),  *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)    
 
 &nbsp;
 &nbsp;
@@ -209,11 +209,11 @@ Current members are:
 ![Juliette Tariel-Adam](/img/people/J_Tariel-Adam.png)    
 **Chair:** [Juliette Tariel-Adam (she/her), *Macquarie University, Australia*](mailto:juliette.tarieladam@gmail.com) ([Website](https://juliettetarieladam.com/))  
   
-Anita Tarandek      
+Anita Tarandek (she/her), *Ruđer Bošković Institute, Croatia*       
 Ineta Kačergytė      
 Magdalena Wutkowska    
 Marija Purgar      
-Sofia Paraskevopoulou    
+Sofia Paraskevopoulou (she/her), *University of Lund, Sweden*      
 Stephanie Flaman      
 
 &nbsp;
@@ -229,13 +229,13 @@ The Diversity, Equity, and Inclusion Committee promotes diversity, equity, and i
 Current members are:   
   
 ![Brooke Long-Fox](/img/people/B_Long-Fox.png)  
-**Co-Chair:** [Brooke Long-Fox](mailto:blongfox@morphobank.org)  
+**Co-Chair:** [Brooke Long-Fox (she/her/hers), *MorphoBank, Phoenix Bioinformatics; South Dakota School of Mines and Technology, USA*](mailto:blongfox@morphobank.org)  
   
 ![Friederike (freddy) Hillemann](/img/people/F_Hillemann.png)  
 **Co-Chair:** [Friederike (freddy) Hillemann](mailto:f.hillemann@web.de) ([Website](https://fhillemann.github.io/))  
   
 Charlotte Recapet  
-Elvira D'Bastiani  
+[Elvira D'Bastiani (she/her), *University of California, USA*](elviradbastiani.com)    
 Frigg Speelman   
 Manasee Weerathunga  
 Sarah Hasnain  
@@ -255,13 +255,13 @@ Mark Young
 Current members are:   
   
 ![Daniel Noble](/img/people/D_Noble.png)  
-**Co-Chair:** [Daniel Noble](mailto:daniel.noble@anu.edu.au) ([Website](https://nobledan.com))  
+**Co-Chair:** [Daniel Noble (he/him), *The Australian National University, Australia*](mailto:daniel.noble@anu.edu.au) ([Website](https://nobledan.com))  
   
 ![Stefan Vriend](/img/people/S_Vriend.png)    
 **Co-Chair:** [Stefan Vriend (he/him), *Netherlands Institute of Ecology (NIOO-KNAW), The Netherlands*](mailto:svriend@gmail.com) ([Website](https://nioo.knaw.nl/en/employees/stefan-vriend))  
   
 [Birgit Szabo (they/them), *Gent University, Belgium*](https://birgitszabo.wixsite.com/cogsciresearch)  
-Elvira D'Bastiani  
+[Elvira D'Bastiani (she/her), *University of California, USA*](elviradbastiani.com)    
 Félicie Dhellemmes  
 Jenna Braun  
 Mark Young  
@@ -270,8 +270,8 @@ Melina de Souza Leite
 [Nicholas Wu, *Murdoch University, Australia*](mailto:nicholas.wu.nz@gmail.com)  
 Niladri Mondal  
 Pablo Recio Santiago  
-Yseult Héjja-Brichard  
-Brooke Long-Fox  
+[Yseult Héjja-Brichard (she/they), *University of Veterinary Medicine in Vienna, Austria; University of Vienna, Austria*](https://yseulthb.github.io/)  
+Brooke Long-Fox (she/her/hers), *MorphoBank, Phoenix Bioinformatics; South Dakota School of Mines and Technology, USA*   
 
 &nbsp;
 &nbsp;
@@ -286,7 +286,7 @@ The Education & Outreach committee provides educational resources to individuals
 Current members are:   
     
 ![Saoirse Kelleher](/img/people/S_Kelleher.png)      
-**Chair:** [Saoirse Kelleher](mailto:saoirse.kelleher@student.unimelb.edu.au) ([Website](saoirsekelleher.eco))    
+**Chair:** [Saoirse Kelleher (she/her), *University of Melbourne, Australia*](mailto:saoirse.kelleher@student.unimelb.edu.au) ([Website](saoirsekelleher.eco))    
   
 Elizabeth Hrycyna  
 Giulia Masoero  
@@ -311,7 +311,7 @@ Current members are:
  
 ![Matthieu Paquet](/img/people/MatthieuPaquet.png)  
   
-**Chair:** [Matthieu Paquet (He/Him)](mailto:matthieu.paquet@outlook.com) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu))  
+**Chair:** [Matthieu Paquet (he/him)](mailto:matthieu.paquet@outlook.com) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu))  
   
 Aidan Tan  
 Christopher Barker  
@@ -340,7 +340,7 @@ Current members are:
 Alfredo Sánchez-Tójar  
 Caleb Onoja Akogwu  
 Gabe Winter  
-Malgorzata (Losia) Lagisz  
+[Malgorzata (Losia) Lagisz (she/her),  *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)     
 Manasee Weerathunga  
 Oakleigh Wilson  
 Swastika Issar  
@@ -367,7 +367,7 @@ Current members are:
 Cecilia Baldoni  
 Charlotte Recapet  
 Corné de Groot  
-Malgorzata (Losia) Lagisz   
+[Malgorzata (Losia) Lagisz (she/her),  *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)     
 Rachel Turba  
 
 &nbsp;
