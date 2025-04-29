@@ -154,7 +154,7 @@ Julia Sharapi (she/her), *Stanford University, US*
 Kevin Bairos-Novak  
 Leyla Cabugos (she/her) *California Polytechnic State University, USA*   
 Marija Purgar  
-Sarah Hasnain  
+Sarah Hasnain (no pronouns) *Laboratoire d'Océanographie de Villefranche, Sorbonne University - CNRS, France*
 Shinichi Nakagawa (he/him), *University of Alberta, Canada*  
 
 &nbsp;
