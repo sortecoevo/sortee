@@ -52,3 +52,6 @@ public/
 
 # Desktop Services Store
 *.DS_Store
+
+# Hugo build artifacts
+.hugo_build.lock
