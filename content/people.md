@@ -146,7 +146,7 @@ Current members are:
 
 
 ![Joel Pick](/img/people/J_Pick.png)    
-**Chair:** [Joel Pick (he/him) University of Edinburgh, UK*](mailto:joel.l.pick@gmail.com) ([Website](https://joelpick.github.io))  
+**Chair:** [Joel Pick (he/him), *University of Edinburgh, UK*](mailto:joel.l.pick@gmail.com) ([Website](https://joelpick.github.io))  
   
 Christian John  
 [Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  
