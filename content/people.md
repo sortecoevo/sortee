@@ -154,7 +154,7 @@ Julia Sharapi (she/her), *Stanford University, US*
 Kevin Bairos-Novak  
 Leyla Cabugos (she/her) *California Polytechnic State University, USA*   
 Marija Purgar  
-Sarah Hasnain (no pronouns) *Laboratoire d'Océanographie de Villefranche, Sorbonne University - CNRS, France*
+Sarah Hasnain (no pronouns), *Laboratoire d'Océanographie de Villefranche, Sorbonne University - CNRS, France*
 Shinichi Nakagawa (he/him), *University of Alberta, Canada*  
 
 &nbsp;
@@ -174,7 +174,7 @@ Current members are:
   
 Elina Takola  
 [Malgorzata (Losia) Lagisz (she/her),  *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)  
-Sandra Hamel  
+[Sandra Hamel  (she/her), *Université Laval, Canada*](https://sandra-hamel.fsg.ulaval.ca/)  
 
 &nbsp;
 &nbsp;
