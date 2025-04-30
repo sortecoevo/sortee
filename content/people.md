@@ -289,8 +289,7 @@ Current members are:
 **Chair:** [Saoirse Kelleher (she/her), *University of Melbourne, Australia*](mailto:saoirse.kelleher@student.unimelb.edu.au) ([Website](saoirsekelleher.eco))    
   
 Elizabeth Hrycyna  
-Giulia Masoero  
-Iain Moodie  
+Giulia Masoero 
 Leonardo Capitani  
 Leveda Cheng   
 Nusrath Jahan Emu   
