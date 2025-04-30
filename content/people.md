@@ -314,12 +314,11 @@ Current members are:
 **Chair:** [Matthieu Paquet (he/him)](mailto:matthieu.paquet@outlook.com) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu))  
   
 Aidan Tan  
-Christopher Barker  
 Dominique Roche  
 Michael Bertram (he/him), *Swedish University of Agricultural Sciences, Sweden*  
 [Ruby Krasnow (she/her), *University of Maine, US*](https://ruby.science)    
 Snata Chakraborty  
-Barbara Class  
+Barbara Class  (she/her), *National Research Institute for Agriculture, Food and Environment (INRAE), France*  
 
 &nbsp;
 &nbsp;
