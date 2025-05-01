@@ -268,7 +268,7 @@ Mark Young
 Marta Acácio  
 Melina de Souza Leite  
 [Nicholas Wu, *Murdoch University, Australia*](mailto:nicholas.wu.nz@gmail.com)  
-Niladri Mondal  
+Niladri Mondal (he/him), *Katholic University at Leuven, Belgium*    
 Pablo Recio Santiago  
 [Yseult Héjja-Brichard (she/they), *University of Veterinary Medicine in Vienna, Austria; University of Vienna, Austria*](https://yseulthb.github.io/)  
 Brooke Long-Fox (she/her/hers), *MorphoBank, Phoenix Bioinformatics; South Dakota School of Mines and Technology, USA*   
@@ -289,7 +289,7 @@ Current members are:
 **Chair:** [Saoirse Kelleher (she/her), *University of Melbourne, Australia*](mailto:saoirse.kelleher@student.unimelb.edu.au) ([Website](saoirsekelleher.eco))    
   
 Elizabeth Hrycyna  
-Giulia Masoero 
+Giulia Masoero (she/her), *Swiss Ornithological Institute, Switzerland*   
 Leonardo Capitani  
 Leveda Cheng   
 Nusrath Jahan Emu   
