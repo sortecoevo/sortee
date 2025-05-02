@@ -290,7 +290,7 @@ Current members are:
   
 Elizabeth Hrycyna  
 Giulia Masoero (she/her), *Swiss Ornithological Institute, Switzerland*   
-Leonardo Capitani  
+Leonardo Capitani, *Swiss Federal Institute of Aquatic Science and Technology, Switzerland*    
 Leveda Cheng   
 Nusrath Jahan Emu   
 Philip Ogbevire  
