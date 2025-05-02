@@ -1,10 +1,11 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
+# workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["master"]
+    branches:
+      - master
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -31,7 +32,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.146.0
+      HUGO_VERSION: 0.146.7
+      HUGO_ENVIRONMENT: production
     steps:
       - name: Install Hugo CLI
         run: |
@@ -43,19 +45,37 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
+          fetch-depth: 0
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Cache Restore
+        id: cache-restore
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            ${{ runner.temp }}/hugo_cache
+          key: hugo-${{ github.run_id }}
+          restore-keys:
+            hugo-
+      - name: Configure Git
+        run: git config core.quotepath false
       - name: Build with Hugo
-        env:
-          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
-          HUGO_ENVIRONMENT: production
         run: |
           hugo \
+            --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --cacheDir "${{ runner.temp }}/hugo_cache"
+      - name: Cache Save
+        id: cache-save
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            ${{ runner.temp }}/hugo_cache
+          key: ${{ steps.cache-restore.outputs.cache-primary-key }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
