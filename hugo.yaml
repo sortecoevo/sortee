@@ -1,0 +1,206 @@
+baseurl: "https://www.sortee.org"
+title: "SORTEE"
+theme: "hugo-universal-theme"
+languageCode: "en-us"
+defaultContentLanguage: "en"
+
+services:
+    googleAnalytics:
+        id: ''
+    Disqus:
+        Shortname: ''
+
+pagination:
+    pagerSize: 6
+
+caches:
+    images:
+        dir: ':cacheDir/images'
+
+menu:
+    main:
+        - identifier: "join"
+            name: "Join"
+            url: "/join/"
+            weight: 10
+        - identifier: "people"
+            name: "People"
+            url: "/people/"
+            weight: 20
+        - identifier: "documents"
+            name: "Documents"
+            url: "/documents/"
+            weight: 30
+        - parent: "documents"
+            name: "Awards"
+            url: "/awards/"
+        - parent: "documents"
+            name: "Bylaws"
+            url: "/bylaws/"
+        - parent: "documents"
+            name: "Code of conduct"
+            url: "/codeofconduct/"
+        - parent: "documents"
+            name: "Position Statements"
+            url: "/positionstatements/"
+        - identifier: "resources"
+            name: "Resources"
+            url: "/resources/"
+            weight: 50
+        - parent: "resources"
+            name: "Newsletters"
+            url: "/newsletters/"
+            weight: 50
+        - parent: "resources"
+            name: "Infographics"
+            url: "/infographics/"
+            weight: 60
+        - parent: "resources"
+            name: "Reading"
+            url: "/reading/"
+            weight: 70
+        - parent: "resources"
+            name: "Translations"
+            url: "/translations/"
+            weight: 80
+        - parent: "resources"
+            name: "Other resources"
+            url: "/other_resources/"
+            weight: 90
+        - identifier: "events"
+            name: "Events"
+            url: "/events/"
+            weight: 60
+        - parent: "events"
+            name: "SORTEE workshops and webinars"
+            url: "/other_events/"
+            weight: 110
+        - parent: "events"
+            name: "Upcoming SORTEE conference"
+            url: "/upcoming/"
+            weight: 120
+        - parent: "events"
+            name: "Past SORTEE conferences"
+            url: "/past/"
+            weight: 130
+        - parent: "events"
+            name: "SORTEE meet-ups at other conferences"
+            url: "/meet-ups/"
+            weight: 140
+        - parent: "events"
+            name: "Online social mixers"
+            url: "/mixers/"
+            weight: 150
+        - parent: "events"
+            name: "Code club"
+            url: "/code_club/"
+            weight: 160
+        - identifier: "blog"
+            name: "Blog"
+            url: "/blog/"
+            weight: 70
+        - identifier: "about"
+            name: "About"
+            url: "/about/"
+            weight: 80
+        - identifier: "supporters"
+            name: "Supporters"
+            url: "/supporters/"
+            weight: 75
+
+    topbar:
+        - weight: 1
+            name: "GitHub"
+            url: "https://github.com/sortecoevo/sortee"
+            pre: "<i class='fab fa-2x fa-github'></i>"
+        - weight: 1
+            name: "X"
+            url: "https://x.com/sortecoevo"
+            pre: "<i class='fab fa-2x fa-x-twitter'></i>"
+        - weight: 2
+            name: "Mastodon"
+            url: "https://ecoevo.social/@sortee"
+            pre: "<i class='fab fa-2x fa-mastodon'></i>"
+        - weight: 3
+            name: "Linkedin"
+            url: "https://www.linkedin.com/company/sortee/"
+            pre: "<i class='fab fa-2x fa-linkedin'></i>"
+        - weight: 4
+            name: "Bluesky"
+            url: "https://bsky.app/profile/sortee.bsky.social"
+            pre: "<i class='fab fa-2x fa-bluesky'></i>"
+        - weight: 5
+            name: "Instagram"
+            url: "https://www.instagram.com/sortecoevo"
+            pre: "<i class='fab fa-2x fa-instagram'></i>"
+        - weight: 6
+            name: "Youtube"
+            url: "https://www.youtube.com/@SORTEcoEvo"
+            pre: "<i class='fab fa-2x fa-youtube'></i>"
+        - weight: 7
+            name: "Email"
+            url: "mailto:contact@sortee.org"
+            pre: "<i class='fas fa-2x fa-envelope'></i>"
+
+params:
+    viewMorePostLink: "/blog/"
+    author: "SORTEE"
+    defaultKeywords:
+        - "blog"
+        - "general"
+        - "news"
+    mainSections:
+        - "blog"
+    defaultDescription: "SORTEE blog"
+    twitter_site: "SORTEcoEvo"
+    default_sharing_image: "img/SORTEE_logo_twitter.png"
+    style: "green"
+    copyright: "Copyright (c) 2024, SORTEE; all rights reserved."
+    date_format: "January 2, 2006"
+    logo: "img/logo.png"
+    logo_small: "img/logo-small.png"
+    address: "<p>Email: contact@sortee.org
+            <br>Twitter: @SORTEcoEvo
+            <br>Mastodon: @SORTEE@ecoevo.social
+        </p>"
+    
+    topbar:
+        enable: true
+    
+    widgets:
+        categories: true
+        tags: true
+        search: true
+    
+    testimonials:
+        enable: false
+        icon: "fas fa-globe"
+        title: "Become a SORTEE volunteer!"
+        subtitle: "Nominations close October 30th"
+        link_url: "https://tinyurl.com/volunteerSORTEE2025"
+        link_text: "Click here!"
+    
+    new_news:
+        enable: true
+        icon: "fas fa-globe"
+        title: "2025 SORTEE conference 15-16th October"
+        subtitle: "Content submissions are now open!"
+        link_url: "/upcoming"
+        link_text: "Read more"
+    
+    see_more:
+        enable: true
+        icon: "fas fa-egg"
+        title: "Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)"
+        subtitle: "SORTEE is a service organization that brings together researchers working to improve reliability and transparency through cultural and institutional changes in ecology, evolutionary biology, and related fields broadly defined. Anyone interested in improving research in these disciplines is welcome to join, regardless of experience. The society is international in scope, membership, and objectives."
+        link_url: "/join"
+        link_text: "Join"
+    
+    clients:
+        enable: true
+        title: "Submit a preprint"
+        subtitle: "EcoEvoRxiv is the official preprint server of SORTEE"
+        title_2: "Order a t-shirt"
+
+Permalinks:
+    blog: "/blog/:year/:month/:day/:filename/"
