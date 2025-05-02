@@ -20,93 +20,93 @@ caches:
 menu:
     main:
         - identifier: "join"
-            name: "Join"
-            url: "/join/"
-            weight: 10
+          name: "Join"
+          url: "/join/"
+          weight: 10
         - identifier: "people"
-            name: "People"
-            url: "/people/"
-            weight: 20
+          name: "People"
+          url: "/people/"
+          weight: 20
         - identifier: "documents"
-            name: "Documents"
-            url: "/documents/"
-            weight: 30
+          name: "Documents"
+          url: "/documents/"
+          weight: 30
         - parent: "documents"
-            name: "Awards"
-            url: "/awards/"
+          name: "Awards"
+          url: "/awards/"
         - parent: "documents"
-            name: "Bylaws"
-            url: "/bylaws/"
+          name: "Bylaws"
+          url: "/bylaws/"
         - parent: "documents"
-            name: "Code of conduct"
-            url: "/codeofconduct/"
+          name: "Code of conduct"
+          url: "/code-of-conduct/"
         - parent: "documents"
-            name: "Position Statements"
-            url: "/positionstatements/"
+          name: "Position Statements"
+          url: "/position-statements/"
         - identifier: "resources"
-            name: "Resources"
-            url: "/resources/"
-            weight: 50
+          name: "Resources"
+          url: "/resources/"
+          weight: 50
         - parent: "resources"
-            name: "Newsletters"
-            url: "/newsletters/"
-            weight: 50
+          name: "Newsletters"
+          url: "/newsletters/"
+          weight: 50
         - parent: "resources"
-            name: "Infographics"
-            url: "/infographics/"
-            weight: 60
+          name: "Infographics"
+          url: "/info-graphics/"
+          weight: 60
         - parent: "resources"
-            name: "Reading"
-            url: "/reading/"
-            weight: 70
+          name: "Reading"
+          url: "/reading/"
+          weight: 70
         - parent: "resources"
-            name: "Translations"
-            url: "/translations/"
-            weight: 80
+          name: "Translations"
+          url: "/translations/"
+          weight: 80
         - parent: "resources"
-            name: "Other resources"
-            url: "/other_resources/"
-            weight: 90
+          name: "Other resources"
+          url: "/other_resources/"
+          weight: 90
         - identifier: "events"
-            name: "Events"
-            url: "/events/"
-            weight: 60
+          name: "Events"
+          url: "/events/"
+          weight: 60
         - parent: "events"
-            name: "SORTEE workshops and webinars"
-            url: "/other_events/"
-            weight: 110
+          name: "SORTEE workshops and webinars"
+          url: "/other_events/"
+          weight: 110
         - parent: "events"
-            name: "Upcoming SORTEE conference"
-            url: "/upcoming/"
-            weight: 120
+          name: "Upcoming SORTEE conference"
+          url: "/upcoming/"
+          weight: 120
         - parent: "events"
-            name: "Past SORTEE conferences"
-            url: "/past/"
-            weight: 130
+          name: "Past SORTEE conferences"
+          url: "/past/"
+          weight: 130
         - parent: "events"
-            name: "SORTEE meet-ups at other conferences"
-            url: "/meet-ups/"
-            weight: 140
+          name: "SORTEE meet-ups at other conferences"
+          url: "/meet-ups/"
+          weight: 140
         - parent: "events"
-            name: "Online social mixers"
-            url: "/mixers/"
-            weight: 150
+          name: "Online social mixers"
+          url: "/mixers/"
+          weight: 150
         - parent: "events"
-            name: "Code club"
-            url: "/code_club/"
-            weight: 160
+          name: "Code club"
+          url: "/code_club/"
+          weight: 160
         - identifier: "blog"
-            name: "Blog"
-            url: "/blog/"
-            weight: 70
+          name: "Blog"
+          url: "/blog/"
+          weight: 70
         - identifier: "about"
-            name: "About"
-            url: "/about/"
-            weight: 80
+          name: "About"
+          url: "/about/"
+          weight: 80
         - identifier: "supporters"
-            name: "Supporters"
-            url: "/supporters/"
-            weight: 75
+          name: "Supporters"
+          url: "/supporters/"
+          weight: 75
 
     topbar:
         - weight: 1
