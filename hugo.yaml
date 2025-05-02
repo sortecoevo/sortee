@@ -109,38 +109,19 @@ menu:
           weight: 75
 
     topbar:
-        - weight: 1
-            name: "GitHub"
-            url: "https://github.com/sortecoevo/sortee"
-            pre: "<i class='fab fa-2x fa-github'></i>"
-        - weight: 1
-            name: "X"
-            url: "https://x.com/sortecoevo"
-            pre: "<i class='fab fa-2x fa-x-twitter'></i>"
-        - weight: 2
-            name: "Mastodon"
-            url: "https://ecoevo.social/@sortee"
-            pre: "<i class='fab fa-2x fa-mastodon'></i>"
-        - weight: 3
-            name: "Linkedin"
-            url: "https://www.linkedin.com/company/sortee/"
-            pre: "<i class='fab fa-2x fa-linkedin'></i>"
-        - weight: 4
-            name: "Bluesky"
-            url: "https://bsky.app/profile/sortee.bsky.social"
-            pre: "<i class='fab fa-2x fa-bluesky'></i>"
-        - weight: 5
-            name: "Instagram"
-            url: "https://www.instagram.com/sortecoevo"
-            pre: "<i class='fab fa-2x fa-instagram'></i>"
-        - weight: 6
-            name: "Youtube"
-            url: "https://www.youtube.com/@SORTEcoEvo"
-            pre: "<i class='fab fa-2x fa-youtube'></i>"
-        - weight: 7
-            name: "Email"
-            url: "mailto:contact@sortee.org"
-            pre: "<i class='fas fa-2x fa-envelope'></i>"
+    - weight: 1
+      name: "GitHub"
+      url: "https://github.com/sortecoevo/sortee"
+      pre: "<i class='fab fa-2x fa-github'></i>"
+    - weight: 1
+      name: "X"
+      url: "https://x.com/sortecoevo"
+      pre: "<i class='fab fa-2x fa-x-twitter'></i>"
+    - weight: 2
+      name: "Mastodon"
+      url: "https://ecoevo.social/@sortee"
+      pre: "<i class='fab fa-2x fa-mastodon'></i>"
+    # Fix the remaining entries with the same pattern
 
 params:
     viewMorePostLink: "/blog/"
