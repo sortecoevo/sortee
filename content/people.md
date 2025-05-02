@@ -82,7 +82,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;
 
 ![Malgorzata (Losia) Lagisz](/img/people/LosiaLagisz.png)  
-[Malgorzata (Losia) Lagisz (she/her),  *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/) is a Research Fellow at the University of New South Wales Sydney, where she works on meta-research and evidence synthesis.
+[Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/) is a Research Fellow at the University of New South Wales Sydney, where she works on meta-research and evidence synthesis.
 
 &nbsp;  
 
@@ -146,15 +146,15 @@ Current members are:
 
 
 ![Joel Pick](/img/people/J_Pick.png)    
-**Chair:** [Joel Pick (he/him) University of Edinburgh, UK*](mailto:joel.l.pick@gmail.com) ([Website](https://joelpick.github.io))  
+**Chair:** [Joel Pick (he/him), *University of Edinburgh, UK*](mailto:joel.l.pick@gmail.com) ([Website](https://joelpick.github.io))  
   
 Christian John  
 [Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  
-Julia Sharapi (she/her), *Stanford University, US*
+Julia Sharapi (she/her), *Stanford University, USA*  
 Kevin Bairos-Novak  
-Leyla Cabugos (she/her) *California Polytechnic State University, USA*   
+Leyla Cabugos (she/her), *California Polytechnic State University, USA*    
 Marija Purgar  
-Sarah Hasnain (no pronouns) *Laboratoire d'Océanographie de Villefranche, Sorbonne University - CNRS, France*
+Sarah Hasnain (no pronouns), *Sorbonne University, France*  
 Shinichi Nakagawa (he/him), *University of Alberta, Canada*  
 
 &nbsp;
@@ -173,8 +173,8 @@ Current members are:
 **Chair:** [Hannah Dugdale](mailto:h.l.dugdale@rug.nl)	([Website](https://hannahdugdale.wordpress.com/))  
   
 Elina Takola  
-[Malgorzata (Losia) Lagisz (she/her),  *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)  
-Sandra Hamel  
+[Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)  
+[Sandra Hamel  (she/her), *Université Laval, Canada*](https://sandra-hamel.fsg.ulaval.ca/)  
 
 &nbsp;
 &nbsp;
@@ -192,7 +192,7 @@ Alexa Fredston
 Kaija Gahm  
 Tim Parker          
 [Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  
-[Malgorzata (Losia) Lagisz (she/her),  *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)    
+[Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)    
 
 &nbsp;
 &nbsp;
@@ -238,7 +238,7 @@ Charlotte Recapet
 [Elvira D'Bastiani (she/her), *University of California, USA*](elviradbastiani.com)    
 Frigg Speelman   
 Manasee Weerathunga  
-Sarah Hasnain  
+Sarah Hasnain (no pronouns), *Sorbonne University, France*    
 Sofia Paraskevopoulou  
 Suz Everingham  
 Mark Young  
@@ -268,7 +268,7 @@ Mark Young
 Marta Acácio  
 Melina de Souza Leite  
 [Nicholas Wu, *Murdoch University, Australia*](mailto:nicholas.wu.nz@gmail.com)  
-Niladri Mondal  
+Niladri Mondal (he/him), *Katholic University at Leuven, Belgium*    
 Pablo Recio Santiago  
 [Yseult Héjja-Brichard (she/they), *University of Veterinary Medicine in Vienna, Austria; University of Vienna, Austria*](https://yseulthb.github.io/)  
 Brooke Long-Fox (she/her/hers), *MorphoBank, Phoenix Bioinformatics; South Dakota School of Mines and Technology, USA*   
@@ -289,9 +289,8 @@ Current members are:
 **Chair:** [Saoirse Kelleher (she/her), *University of Melbourne, Australia*](mailto:saoirse.kelleher@student.unimelb.edu.au) ([Website](saoirsekelleher.eco))    
   
 Elizabeth Hrycyna  
-Giulia Masoero  
-Iain Moodie  
-Leonardo Capitani  
+Giulia Masoero (she/her), *Swiss Ornithological Institute, Switzerland*   
+Leonardo Capitani, *Swiss Federal Institute of Aquatic Science and Technology, Switzerland*    
 Leveda Cheng   
 Nusrath Jahan Emu   
 Philip Ogbevire  
@@ -314,12 +313,11 @@ Current members are:
 **Chair:** [Matthieu Paquet (he/him)](mailto:matthieu.paquet@outlook.com) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu))  
   
 Aidan Tan  
-Christopher Barker  
 Dominique Roche  
-Michael Bertram (he/him), *Swedish University of Agricultural Sciences, Sweden* 
+Michael Bertram (he/him), *Swedish University of Agricultural Sciences, Sweden*  
 [Ruby Krasnow (she/her), *University of Maine, US*](https://ruby.science)    
 Snata Chakraborty  
-Barbara Class  
+Barbara Class  (she/her), *National Research Institute for Agriculture, Food and Environment (INRAE), France*  
 
 &nbsp;
 &nbsp;
@@ -340,11 +338,11 @@ Current members are:
 Alfredo Sánchez-Tójar  
 Caleb Onoja Akogwu  
 Gabe Winter  
-[Malgorzata (Losia) Lagisz (she/her),  *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)     
+[Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)     
 Manasee Weerathunga  
 Oakleigh Wilson  
 Swastika Issar  
-[July Pilowsky (they/he/she), *Cary Institute of Ecosystem Studies, US*](https://pilowsky.me)
+[July Pilowsky (they/he/she), *Cary Institute of Ecosystem Studies, USA*](https://pilowsky.me)  
 
 &nbsp;
 &nbsp;
@@ -367,7 +365,7 @@ Current members are:
 Cecilia Baldoni  
 Charlotte Recapet  
 Corné de Groot  
-[Malgorzata (Losia) Lagisz (she/her),  *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)     
+[Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)     
 Rachel Turba  
 
 &nbsp;
