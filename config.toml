@@ -12,9 +12,9 @@ defaultContentLanguage = "en"
   [services.Disqus]
     Shortname = ''
 
-
-googleAnalytics = ""
-
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 # Define the number of posts per page
 [pagination]
