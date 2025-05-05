@@ -1,5 +1,5 @@
 ---
-banner: /img/202403codeclub.png
+banner: img/202403codeclub.png
 date: "2024-04-04"
 author: Natalie van Dis
 categories:

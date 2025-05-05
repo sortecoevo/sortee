@@ -1,5 +1,5 @@
 ---
-banner: /img/Saeed_Sabet.jpg
+banner: img/Saeed_Sabet.jpg
 date: "2023-07-10"
 slug: 2023_sortee_member_Saeed_Shafiei_Sabet
 author: SORTEE
