@@ -54,7 +54,7 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Melina de Souza Leite](/blog/images/Melina_de_Souza_Leite.png)    
+![Melina de Souza Leite](/img/Melina_de_Souza_Leite.png)    
 
 &nbsp;
 &nbsp;

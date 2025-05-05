@@ -41,5 +41,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Owen Petchey](/blog/images/Owen_Petchey.png)    
+![Owen Petchey](/img/Owen_Petchey.png)    
 &nbsp;

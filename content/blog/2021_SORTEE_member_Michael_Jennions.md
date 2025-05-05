@@ -37,7 +37,7 @@ _Where to find you online?:_
 &nbsp;
 &nbsp;
 
-![Michael Jennions](/blog/images/Michael_Jennions.png)    
+![Michael Jennions](/img/Michael_Jennions.png)    
 
 &nbsp;
 &nbsp;

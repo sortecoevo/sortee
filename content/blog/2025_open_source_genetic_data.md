@@ -1,5 +1,5 @@
 ---
-banner: /blog/images/PhylogatRBarchart.jpg 
+banner: /img/PhylogatRBarchart.jpg 
 date: "2025-03-18"  
 author: Tara A Pelletier & Camilo Andrés Calderón Acevedo
 summary: The authors discuss the challenges and insights from using open-source georeferenced genetic data for large-scale biogeography.
@@ -27,7 +27,7 @@ First, the automated pipeline discussed above was streamlined to retain more dat
  
 &nbsp;  
 
-![](/blog/images/PhylogatRBarchart.jpg)
+![](/img/PhylogatRBarchart.jpg)
 
 Figure 1. The number of species with georeferenced DNA sequence data on phylogatR. Image credit: [Sydney Decker](https://skdecker.wixsite.com/home/)  
 
@@ -45,7 +45,7 @@ Recent [taxonomic studies](https://doi.org/10.1016/j.ympev.2021.107356) continue
 
 &nbsp;  
 
-![](/blog/images/PD_ecoregions109_Landscape_3298.6x1360.6px.jpg)
+![](/img/PD_ecoregions109_Landscape_3298.6x1360.6px.jpg)
 
 Figure 2. Global map displaying COI sampling and estimates of phylogenetic diversity in bats. Modified from [Green et al](https://www.biorxiv.org/content/10.1101/2025.02.18.636314v1). Image credit: Camilo Andrés Calderón Acevedo  
 

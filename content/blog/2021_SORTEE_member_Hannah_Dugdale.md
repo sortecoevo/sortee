@@ -42,5 +42,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Hannah Dugdale](/blog/images/Hannah_Dugdale.png)    
+![Hannah Dugdale](/img/Hannah_Dugdale.png)    
 &nbsp;

@@ -45,5 +45,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Malika Ihle](/blog/images/Malika_Ihle.png)    
+![Malika Ihle](/img/Malika_Ihle.png)    
 &nbsp;

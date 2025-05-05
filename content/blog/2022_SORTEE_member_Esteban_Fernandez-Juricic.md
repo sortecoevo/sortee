@@ -43,5 +43,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Esteban Fernandez-Juricic](/blog/images/Esteban_Fernandez-Juricic.png)    
+![Esteban Fernandez-Juricic](/img/Esteban_Fernandez-Juricic.png)    
 &nbsp;

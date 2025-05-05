@@ -89,5 +89,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Matt Lloyd Jones](/blog/images/Matt_Lloyd_Jones.png)    
+![Matt Lloyd Jones](/img/Matt_Lloyd_Jones.png)    
 &nbsp;

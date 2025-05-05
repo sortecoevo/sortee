@@ -53,5 +53,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Hannah Fraser](/blog/images/Hannah_Fraser.png)    
+![Hannah Fraser](/img/Hannah_Fraser.png)    
 &nbsp;

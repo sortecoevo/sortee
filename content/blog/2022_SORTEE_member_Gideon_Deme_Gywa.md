@@ -43,5 +43,5 @@ _Where to find you online?:_
 &nbsp;
 &nbsp;
 
-![Gideon Deme Gywa](/blog/images/Gideon_Deme_Gywa.png)    
+![Gideon Deme Gywa](/img/Gideon_Deme_Gywa.png)    
 &nbsp;

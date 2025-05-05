@@ -70,5 +70,5 @@ Twitter: [@andykadykalo](https://twitter.com/andykadykalo)
 &nbsp;
 
 
-![Andrew Kadykalo](/blog/images/Andrew_Kadykalo.png)    
+![Andrew Kadykalo](/img/Andrew_Kadykalo.png)    
 &nbsp;

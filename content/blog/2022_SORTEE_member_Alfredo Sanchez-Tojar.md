@@ -63,5 +63,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Alfredo Sánchez-Tójar](/blog/images/Alfredo_Sanchez-Tojar.png)    
+![Alfredo Sánchez-Tójar](/img/Alfredo_Sanchez-Tojar.png)    
 &nbsp;

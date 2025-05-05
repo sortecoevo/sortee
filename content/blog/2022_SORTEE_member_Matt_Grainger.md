@@ -44,5 +44,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Matt Grainger](/blog/images/Matt_Grainger.png)    
+![Matt Grainger](/img/Matt_Grainger.png)    
 &nbsp;

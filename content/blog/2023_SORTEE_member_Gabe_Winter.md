@@ -1,5 +1,5 @@
 ---
-banner: /blog/images/Gabe_Winter.png
+banner: /img/Gabe_Winter.png
 date: "2023-06-04"
 slug: 2023_sortee_member_Gabe_Winter
 author: SORTEE
@@ -48,4 +48,4 @@ https://www.popecol.uni-jena.de/winter
 &nbsp;
 
 
-![Gabe-Winter](/blog/images/Gabe_Winter.png)   
+![Gabe-Winter](/img/Gabe_Winter.png)   

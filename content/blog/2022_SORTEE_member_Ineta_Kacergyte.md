@@ -44,5 +44,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Ineta Kacergyte](/blog/images/Ineta_Kacergyte.png)    
+![Ineta Kacergyte](/img/Ineta_Kacergyte.png)    
 &nbsp;

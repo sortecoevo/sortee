@@ -18,7 +18,7 @@ __Dominique Roche, SORTEE Past-President.__
 ## Birgit Szabo 
 #### PostDoc at University of Bern, Switzerland
 
-![Birgit Szabo](/blog/images/Birgit_Szabo.jpg)
+![Birgit Szabo](/img/Birgit_Szabo.jpg)
 
 __Can you tell us a bit about yourself and your research interests?__
 
@@ -41,7 +41,7 @@ In the future, I want to incorporate event more ORT practices in my workflow and
 ## Euan A Young 
 #### PhD candidate at the University of Groningen, Netherlands
 
-![Euan A Young](/blog/images/Euan_Young.jpg)
+![Euan A Young](/img/Euan_Young.jpg)
 
 __Can you tell us a bit about yourself and your research interests?__
 

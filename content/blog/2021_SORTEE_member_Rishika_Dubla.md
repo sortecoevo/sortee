@@ -103,5 +103,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Rishika Dubla](/blog/images/Rishika_Dubla.png)    
+![Rishika Dubla](/img/Rishika_Dubla.png)    
 &nbsp;

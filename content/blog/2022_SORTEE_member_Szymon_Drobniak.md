@@ -46,5 +46,5 @@ Twitter: [@SzymekD](https://twitter.com/szymekd?lang=en)
 &nbsp;
 
 
-![Szymon Drobniak](/blog/images/Szymon_Drobniak.png)    
+![Szymon Drobniak](/img/Szymon_Drobniak.png)    
 &nbsp;

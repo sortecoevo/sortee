@@ -74,5 +74,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![David Wilkinson](/blog/images/David_Wilkinson.png)    
+![David Wilkinson](/img/David_Wilkinson.png)    
 &nbsp;

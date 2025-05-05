@@ -44,5 +44,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Patrice Pottier](/blog/images/Patrice_Pottier.png)    
+![Patrice Pottier](/img/Patrice_Pottier.png)    
 &nbsp;

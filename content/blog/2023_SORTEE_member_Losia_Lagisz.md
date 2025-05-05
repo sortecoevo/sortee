@@ -1,5 +1,5 @@
 ---
-banner: /blog/images/Losia_Lagisz.png
+banner: /img/Losia_Lagisz.png
 date: "2023-06-30"
 slug: 2023_sortee_member_Losia_Lagisz
 author: SORTEE
@@ -62,4 +62,4 @@ https://mlagisz.weebly.com
 &nbsp;
 
 
-![Losia-Lagisz](/blog/images/Losia_Lagisz.png)   
+![Losia-Lagisz](/img/Losia_Lagisz.png)   

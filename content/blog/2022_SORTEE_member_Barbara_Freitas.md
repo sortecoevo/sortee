@@ -42,5 +42,5 @@ _Where to find you online?:_
 &nbsp;
 &nbsp;
 
-![Bárbara Freitas](/blog/images/Barbara_Freitas.png)    
+![Bárbara Freitas](/img/Barbara_Freitas.png)    
 &nbsp;

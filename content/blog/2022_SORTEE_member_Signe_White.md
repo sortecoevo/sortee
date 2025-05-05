@@ -44,5 +44,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Signe White](/blog/images/Signe_White.png)    
+![Signe White](/img/Signe_White.png)    
 &nbsp;

@@ -1,5 +1,5 @@
 ---
-banner: /blog/images/2025_Fig_1.jpeg  
+banner: /img/2025_Fig_1.jpeg  
 date: "2025-01-23"  
 author: Ane Liv Berthelsen & Rebecca S. Chen  
 summary: The authors discuss the potential for data and coding error correction during pre-submission and the actions that can be taken to embrace this potential.
@@ -30,7 +30,7 @@ When discussing Berberi & Roche (2022) in the weekly Stats Club of Bielefeld Uni
 
 &nbsp;
 
-![](/blog/images/2025_Fig_1.jpeg)
+![](/img/2025_Fig_1.jpeg)
 
 Figure from Chen et al (2023).  
 

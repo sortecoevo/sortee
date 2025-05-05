@@ -44,5 +44,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Markus Eichhorn](/blog/images/Markus_Eichhorn.png)    
+![Markus Eichhorn](/img/Markus_Eichhorn.png)    
 &nbsp;

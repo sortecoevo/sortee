@@ -43,5 +43,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Alexander Mielke](/blog/images/Alexander_Mielke.png)    
+![Alexander Mielke](/img/Alexander_Mielke.png)    
 &nbsp;

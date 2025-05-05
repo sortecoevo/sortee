@@ -1,5 +1,5 @@
 ---
-banner: /blog/images/2024_Figure_1.png
+banner: /img/2024_Figure_1.png
 date: "2024-11-23"
 author: Graziella V. DiRenzo, Ephraim M. Hanks & David A. W. Miller
 summary: The authors provide a step-by-step guide to make sense of complex models using data simulations and discuss their recent paper.
@@ -24,7 +24,7 @@ In our recent paper (DiRenzo et al. 2023, Methods in Ecology & Evolution [https:
 
 &nbsp;
 
-![Graphical illustration of steps for each type of simulation study (6 total)](/blog/images/2024_Figure_1.png)
+![Graphical illustration of steps for each type of simulation study (6 total)](/img/2024_Figure_1.png)
 
 Figure 1. Graphical illustration of steps for each type of simulation study (6 total). Blue boxes are data-related steps, peach boxes are model-fitting steps, and green boxes are comparison steps. 
 

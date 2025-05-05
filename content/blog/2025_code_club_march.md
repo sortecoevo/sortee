@@ -1,5 +1,5 @@
 ---
-banner: /blog/images/2025_Code_club.png
+banner: /img/2025_Code_club.png
 date: "2025-03-18"  
 author: Cecilia Baldoni & Corné de Groot
 summary: The authors debrief about the latest code club meeting, all to do with improving messy code!

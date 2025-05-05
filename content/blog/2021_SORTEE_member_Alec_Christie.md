@@ -43,5 +43,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Alec Christie](/blog/images/Alec_Christie.png)    
+![Alec Christie](/img/Alec_Christie.png)    
 &nbsp;

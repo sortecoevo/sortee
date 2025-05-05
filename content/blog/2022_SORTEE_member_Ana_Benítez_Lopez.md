@@ -47,5 +47,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Ana Benítez López](/blog/images/Ana_Benítez_Lopez.png)    
+![Ana Benítez López](/img/Ana_Benítez_Lopez.png)    
 &nbsp;

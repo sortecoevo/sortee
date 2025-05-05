@@ -1,5 +1,5 @@
 ---
-banner: /blog/images/Erlend_Nilsen.png
+banner: /img/Erlend_Nilsen.png
 date: "2023-05-28"
 slug: 2023_sortee_member_Erlend_Nilsen
 author: SORTEE
@@ -45,4 +45,4 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Erlend-Nilsen](/blog/images/Erlend_Nilsen.png)   
+![Erlend-Nilsen](/img/Erlend_Nilsen.png)   

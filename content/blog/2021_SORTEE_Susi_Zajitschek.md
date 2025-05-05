@@ -51,5 +51,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Susi Zajitschek](/blog/images/Susi_Zajitschek.png)    
+![Susi Zajitschek](/img/Susi_Zajitschek.png)    
 &nbsp;
