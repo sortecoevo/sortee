@@ -51,5 +51,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Nicholas Grebe](/blog/images/Nicholas_Grebe.png)    
+![Nicholas Grebe](/img/Nicholas_Grebe.png)    
 &nbsp;

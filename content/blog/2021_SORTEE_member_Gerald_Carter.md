@@ -42,7 +42,7 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Gerald Carter](/blog/images/Gerald_Carter.png)    
+![Gerald Carter](/img/Gerald_Carter.png)    
 
 &nbsp;
 &nbsp;

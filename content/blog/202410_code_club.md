@@ -1,5 +1,5 @@
 ---
-banner: /blog/images/202410codeclub.png
+banner: /img/202410codeclub.png
 date: "2024-12-09"
 author: Natalie van Dis
 summary: Publishing our code and data is an important Open, Reliable, and Transparent practice to ensure the reproducibility of research. To facilitate the production and reviewing of code, Arthur Rodrigues and Natalie van Dis hosted the Code Club meetings of October and November with a Hackathon aimed at Creating a Code Standard.
@@ -52,7 +52,7 @@ performing a relatively simple and common ecology/evolution analysis.
 
 &nbsp;
 
-![Slack poll](/blog/images/202410codeclub.png)    
+![Slack poll](/img/202410codeclub.png)    
 *Slack poll: which coding language is mostly used in the Ecology and Evolution field?*
 
 &nbsp;
@@ -81,7 +81,7 @@ For example, implement tests in your code checking that data wrangling steps hav
 
 &nbsp;
 
-![Code standard repo](/blog/images/202410_2_codeclub.png)   
+![Code standard repo](/img/202410_2_codeclub.png)   
 *Code edits made with git during the Hackathon to make a piece of R code as perfectly ORT as possible.*
 
 &nbsp;

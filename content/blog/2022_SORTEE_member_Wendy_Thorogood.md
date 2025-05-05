@@ -82,5 +82,5 @@ Other people would be surprised that I don't spend all my time in the field watc
 &nbsp;
 &nbsp;
 
-![Wendy Thorogood](/blog/images/Wendy_Thorogood.png)    
+![Wendy Thorogood](/img/Wendy_Thorogood.png)    
 &nbsp;

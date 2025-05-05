@@ -48,5 +48,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Victoria Hemming](/blog/images/Victoria_Hemming.png)    
+![Victoria Hemming](/img/Victoria_Hemming.png)    
 &nbsp;

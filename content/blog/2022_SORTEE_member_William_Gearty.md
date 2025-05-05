@@ -58,5 +58,5 @@ _Where to find you online?:_
 &nbsp;
 &nbsp;
 
-![William Gearty](/blog/images/William_Gearty.png)    
+![William Gearty](/img/William_Gearty.png)    
 &nbsp;

@@ -13,7 +13,7 @@ editor_options:
     wrap: sentence
 ---
 
-![rxiv-logo](/blog/images/rxiv-logo.png)   
+![rxiv-logo](/img/rxiv-logo.png)   
 
 &nbsp;
 

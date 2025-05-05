@@ -37,7 +37,7 @@ _Where to find you online?:_
 &nbsp;
 &nbsp;
 
-![Dylan Gome](/blog/images/Dylan_Gomes.png)    
+![Dylan Gome](/img/Dylan_Gomes.png)    
 
 
 &nbsp;

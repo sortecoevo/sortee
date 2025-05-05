@@ -43,5 +43,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Vijayan Jithin](/blog/images/Vijayan_Jithin.png)    
+![Vijayan Jithin](/img/Vijayan_Jithin.png)    
 &nbsp;

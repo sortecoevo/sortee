@@ -44,5 +44,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Timothy Clark](/blog/images/Timothy_Clark.png)    
+![Timothy Clark](/img/Timothy_Clark.png)    
 &nbsp;

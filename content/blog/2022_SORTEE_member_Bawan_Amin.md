@@ -48,5 +48,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Bawan Amin](/blog/images/Bawan_Amin.png)    
+![Bawan Amin](/img/Bawan_Amin.png)    
 &nbsp;

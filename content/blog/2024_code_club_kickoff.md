@@ -1,5 +1,5 @@
 ---
-banner: /blog/images/code_review.jpeg
+banner: /img/code_review.jpeg
 date: "2024-03-06"
 author: Natalie van Dis
 categories:
@@ -20,7 +20,7 @@ In this first session, previous code club organizers Ed Ivimey-Cook and Saras Wi
 
 &nbsp;
 
-![The 4 R’s of code review](/blog/images/code_review.jpeg)
+![The 4 R’s of code review](/img/code_review.jpeg)
 
 &nbsp;
 

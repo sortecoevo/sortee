@@ -1,5 +1,5 @@
 ---
-banner: /blog/images/202411_journalclub_Figure-1.png
+banner: /img/202411_journalclub_Figure-1.png
 date: "2024-11-07"
 author: "Stefano Mammola & Facundo X. Palacio"
 summary: The authors talk about their paper - A protocol for reproducible functional diversity analyses
@@ -28,7 +28,7 @@ of ecosystem functioning. But things are not so simple.
 
 &nbsp;
 
-![Figure 1.](/blog/images/202411_journalclub_Figure-1.png)
+![Figure 1.](/img/202411_journalclub_Figure-1.png)
 *Figure 1. The recent steep increase in the number of published papers using the term ‘functional diversity’ (the diversity of traits in a given species assemblage) compared to ‘phylogenetic diversity’ (the diversity of evolutionary lineages in a given species assemblage). Image credit: [Palacio et al. 2022, Ecography](https://doi.org/10.1111/ecog.06287)*
 
 &nbsp;
@@ -59,7 +59,7 @@ FAIRness (Findable, Accessible, Interoperable, and Reusable data principles) and
 
 &nbsp;
 
-![Figure 2.](/blog/images/202411_journalclub_Figure-2.png)
+![Figure 2.](/img/202411_journalclub_Figure-2.png)
 *Figure 2. The protocol for reproducible trait-based analyses we proposed. Image credit: [Palacio et al. 2022, Ecography](https://doi.org/10.1111/ecog.06287)*
 
 &nbsp;

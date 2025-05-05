@@ -42,5 +42,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Marcus Michelangeli](/blog/images/Marcus_Michelangeli.png)    
+![Marcus Michelangeli](/img/Marcus_Michelangeli.png)    
 &nbsp;

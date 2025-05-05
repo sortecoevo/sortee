@@ -43,5 +43,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Fredrik Jutfelt](/blog/images/Fredrik_Jutfelt.png)    
+![Fredrik Jutfelt](/img/Fredrik_Jutfelt.png)    
 &nbsp;

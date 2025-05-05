@@ -1,5 +1,5 @@
 ---
-banner: /blog/images/202405codeclub.png
+banner: /img/202405codeclub.png
 date: "2024-06-04"
 author: Natalie van Dis
 summary: In May’s Hacky Hour, we did a code review exercise using the 17-step checklist for Ecology and Evolution. Participants reviewed each other’s code or that of already published papers and discussed what would constitute the “perfect” piece of Open, Reliable and Transparent (ORT) code.
@@ -22,7 +22,7 @@ For the code exercise, participants were split into pairs and exchanged their co
 
 &nbsp;
 
-[![checklist](/blog/images/202405codeclub.png)](https://osf.io/kncw6/wiki/home/)
+[![checklist](/img/202405codeclub.png)](https://osf.io/kncw6/wiki/home/)
 
 &nbsp;
 

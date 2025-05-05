@@ -54,5 +54,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Lauren White](/blog/images/Lauren_White.png)    
+![Lauren White](/img/Lauren_White.png)    
 &nbsp;

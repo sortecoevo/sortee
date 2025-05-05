@@ -1,5 +1,5 @@
 ---
-banner: /blog/images/202403codeclub.png
+banner: /img/202403codeclub.png
 date: "2024-04-04"
 author: Natalie van Dis
 categories:
@@ -18,7 +18,7 @@ In this month’s Hacky Hour, 9 participants shared their code mistakes, startin
 
 &nbsp;
 
-![SORTEE Code Club: Hacky Hour](/blog/images/202403codeclub.png)
+![SORTEE Code Club: Hacky Hour](/img/202403codeclub.png)
 
 &nbsp;
 

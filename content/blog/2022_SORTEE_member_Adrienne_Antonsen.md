@@ -54,5 +54,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Adrienne Antonsen](/blog/images/Adrienne_Antonsen.png)    
+![Adrienne Antonsen](/img/Adrienne_Antonsen.png)    
 &nbsp;

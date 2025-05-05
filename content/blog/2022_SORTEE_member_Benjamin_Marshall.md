@@ -43,5 +43,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Benjamin Marshall](/blog/images/Benjamin_Marshall.png)    
+![Benjamin Marshall](/img/Benjamin_Marshall.png)    
 &nbsp;

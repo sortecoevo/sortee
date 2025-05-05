@@ -53,5 +53,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Ellen Bledsoe](/blog/images/Ellen_Bledsoe.png)    
+![Ellen Bledsoe](/img/Ellen_Bledsoe.png)    
 &nbsp;

@@ -1,5 +1,5 @@
 ---
-banner: /blog/images/open-science-components.png
+banner: /img/open-science-components.png
 date: "2024-04-12"
 author: Elina Takola
 categories:
@@ -18,7 +18,7 @@ The aforementioned practices can be avoided by adopting, the tenets of open scie
 
 &nbsp;
 
-![open-sci](/blog/images/open-science-components.png)
+![open-sci](/img/open-science-components.png)
 
 Figure 1. Components of open science ([Gallagher et al. 2020](https://doi.org/10.1038/s41559-020-1109-6)).	
 

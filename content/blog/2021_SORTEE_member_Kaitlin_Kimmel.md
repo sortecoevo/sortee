@@ -42,7 +42,7 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Kaitlin Kimmel](/blog/images/kaitlin_kimmel.png)    
+![Kaitlin Kimmel](/img/kaitlin_kimmel.png)    
 
 &nbsp;
 &nbsp;

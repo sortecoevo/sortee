@@ -69,5 +69,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Marko Bracic](/blog/images/Marko_Bracic.png)    
+![Marko Bracic](/img/Marko_Bracic.png)    
 &nbsp;

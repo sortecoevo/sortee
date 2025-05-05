@@ -46,5 +46,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Tanya Strydom](/blog/images/Tanya_Strydom.png)    
+![Tanya Strydom](/img/Tanya_Strydom.png)    
 &nbsp;

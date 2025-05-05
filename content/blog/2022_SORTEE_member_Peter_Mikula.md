@@ -45,5 +45,5 @@ _Where to find you online?:_
 &nbsp;
 
 
-![Peter Mikula](/blog/images/Peter_Mikula.png)    
+![Peter Mikula](/img/Peter_Mikula.png)    
 &nbsp;

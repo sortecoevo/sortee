@@ -1,5 +1,5 @@
 ---
-banner: /blog/images/2024codeclub.png
+banner: /img/2024codeclub.png
 date: "2024-10-08"
 author: Natalie van Dis
 summary: Code Club returned from midyear break with a training session on local Open Science meet-ups. Kaija Gahm shared her experiences with running weekly “Hacky Hours” in her department at the University of California, Los Angeles, which serves as a collaborative coding and working space. We discussed the value of such local Open Science meet-ups and how to organize them.
@@ -27,7 +27,7 @@ Kaija discussed how particularly having meetings in-person is part of their succ
 
 &nbsp;
 
-![Hacky Hours at Kaija’s department (credit: Kaija Gahm)](/blog/images/2024codeclub.png)
+![Hacky Hours at Kaija’s department (credit: Kaija Gahm)](/img/2024codeclub.png)
 *Photo: Hacky Hours at Kaija’s department (credit: Kaija Gahm)*
 
 &nbsp;
