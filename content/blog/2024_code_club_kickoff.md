@@ -1,5 +1,5 @@
 ---
-banner: /img/code_review.jpeg
+banner: img/code_review.jpeg
 date: "2024-03-06"
 author: Natalie van Dis
 categories:

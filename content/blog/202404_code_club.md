@@ -1,5 +1,5 @@
 ---
-banner: /img/202404codeclub.png
+banner: img/202404codeclub.png
 date: "2024-05-03"
 author: Natalie van Dis
 summary: In this month’s Training Session, Stefan Vriend, Freddy Hillemann and Joey Burant hosted a workshop on how to code review a manuscript, using a checklist they developed for Ecology and Evolution.

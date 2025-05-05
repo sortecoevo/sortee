@@ -1,5 +1,5 @@
 ---
-banner: /img/PhylogatRBarchart.jpg 
+banner: img/PhylogatRBarchart.jpg 
 date: "2025-03-18"  
 author: Tara A Pelletier & Camilo Andrés Calderón Acevedo
 summary: The authors discuss the challenges and insights from using open-source georeferenced genetic data for large-scale biogeography.

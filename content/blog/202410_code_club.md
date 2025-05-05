@@ -1,5 +1,5 @@
 ---
-banner: /img/202410codeclub.png
+banner: img/202410codeclub.png
 date: "2024-12-09"
 author: Natalie van Dis
 summary: Publishing our code and data is an important Open, Reliable, and Transparent practice to ensure the reproducibility of research. To facilitate the production and reviewing of code, Arthur Rodrigues and Natalie van Dis hosted the Code Club meetings of October and November with a Hackathon aimed at Creating a Code Standard.

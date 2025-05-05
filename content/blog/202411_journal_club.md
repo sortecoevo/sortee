@@ -1,5 +1,5 @@
 ---
-banner: /img/202411_journalclub_Figure-1.png
+banner: img/202411_journalclub_Figure-1.png
 date: "2024-11-07"
 author: "Stefano Mammola & Facundo X. Palacio"
 summary: The authors talk about their paper - A protocol for reproducible functional diversity analyses

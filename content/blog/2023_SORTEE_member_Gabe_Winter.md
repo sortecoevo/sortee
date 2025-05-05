@@ -1,5 +1,5 @@
 ---
-banner: /img/Gabe_Winter.png
+banner: img/Gabe_Winter.png
 date: "2023-06-04"
 slug: 2023_sortee_member_Gabe_Winter
 author: SORTEE

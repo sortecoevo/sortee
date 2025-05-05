@@ -1,5 +1,5 @@
 ---
-banner: /img/202406codeclub.png
+banner: img/202406codeclub.png
 date: "2024-07-01"
 author: Natalie van Dis
 summary: In June’s Code Club session, Steffi LaZerte hosted a workshop on how to code our own website. By walking participants through the code underlying her own website, she showed us how to use Markdown and Quarto to create and host a website on GitHub.

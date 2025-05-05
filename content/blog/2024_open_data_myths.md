@@ -1,5 +1,5 @@
 ---
-banner: /img/open-science-components.png
+banner: img/open-science-components.png
 date: "2024-04-12"
 author: Elina Takola
 categories:
