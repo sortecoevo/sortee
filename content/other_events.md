@@ -24,6 +24,25 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 ---
 &nbsp;
 
+## May 2025
+
+### **Title:** *DisMAP - a visualization, analysis, data-sharing and discovery tool to evaluate marine species distribution changes through time*
+
+**Presenter:** Melissa Karp\
+**Type:** Webinar\
+**Date and Time:** May 14 2025 20:00UTC\
+**Timezone(s)**: Americas\
+**Duration:** 60 min\
+**Summary:** The Distribution Mapping and Analysis Portal (DisMAP) is a user friendly and interactive website designed to improve ease of access to and exploration of species distribution data. It allows users to examine changes in species distributions over time by looking at both location maps as well as graphs of key indicators of a species distribution (changes over time in latitude, depth, range limits). In this webinar I will introduce the portal, describe how the data on the portal is compiled and analyzed, and demo how users can interact with the data on the portal. I will also introduce a new R package being developed that provides functions to easily interact with DisMAP APIs.\
+
+[**Register here!**](https://events.humanitix.com/dismap-a-visualization-analysis-data-sharing-and-discovery-tool-to-evaluate-marine-species-distribution-changes-through-time)
+
+&nbsp;
+
+---
+&nbsp;
+
+# Past events  
 
 ## March 2025
 
@@ -37,13 +56,6 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 **Summary:** In this interactive workshop, Ed Ivimey-Cook will introduce the basics of reproducible project structure, data, and code. He'll also show you the basics of conducting a code review. This event is open to all - but is targeted at beginners.
 
 [**Register here!**](https://events.humanitix.com/sortee-workshop-reproducible-data-analysis-in-r)
-
-&nbsp;
-
----
-&nbsp;
-
-# Past events  
 
 &nbsp;  
 
