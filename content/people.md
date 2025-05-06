@@ -57,17 +57,17 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 
 &nbsp;  
 
-![Michael Bertram](/img/people/MichaelBertram.png)  
+![Michael Bertram](img/people/MichaelBertram.png)  
 [Michael Bertram (he/him), *Swedish University of Agricultural Sciences, Sweden* ](https://www.michaelbertramlab.org) is an Assistant Professor at the Swedish University of Agricultural Sciences, where he investigates the impacts of human-induced environmental change on wildlife populations.
 
 &nbsp;  
 
-![Stephanie Flaman](/img/people/StephanieFlaman.png)  
+![Stephanie Flaman](img/people/StephanieFlaman.png)  
 [Stephanie Flaman]() is a MSc student at the University of Regina in conjunction with Agriculture and Agri-Food Canada.  
 
 &nbsp;  
 
-![Marija Purgar](/img/people/MarijaPurgar.png)  
+![Marija Purgar](img/people/MarijaPurgar.png)  
 [Marija Purgar](https://www.irb.hr/eng/About-RBI/People/Marija-Purgar-Filjak) **(President-Elect)** is a PhD student in Oceanology at the Faculty of Science and a research assistant at the Ruđer Bošković Institute, Zagreb.  
 
 &nbsp;   
@@ -76,12 +76,12 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 
 &nbsp;  
 
-![Matthieu Paquet](/img/people/MatthieuPaquet.png)  
+![Matthieu Paquet](img/people/MatthieuPaquet.png)  
 [Matthieu Paquet, (he/him)](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu) is a researcher working on behavioural ecology and population dynamics at the Theoretical and Experimental Ecology Station (SETE,CNRS).  
 
 &nbsp;
 
-![Malgorzata (Losia) Lagisz](/img/people/LosiaLagisz.png)  
+![Malgorzata (Losia) Lagisz](img/people/LosiaLagisz.png)  
 [Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/) is a Research Fellow at the University of New South Wales Sydney, where she works on meta-research and evidence synthesis.
 
 &nbsp;  
@@ -90,15 +90,15 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 
 &nbsp;  
 
-![Ed Ivimey-Cook](/img/people/EdIvimeyCook.png)  
+![Ed Ivimey-Cook](img/people/EdIvimeyCook.png)  
 [Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook) **(President)** is a post-doctoral researcher at the University of Glasgow.   
 &nbsp;  
 
-![Patrice Pottier](/img/people/PatricePottier_smaller.png)  
+![Patrice Pottier](img/people/PatricePottier_smaller.png)  
 [Patrice Pottier](http://www.i-deel.org/patrice-pottier.html) is a PhD student at the University of New South Wales.  
 &nbsp;
 
-![Alfredo Sánchez Tójar](/img/people/AlfredoSanchezTojar.png)  
+![Alfredo Sánchez Tójar](img/people/AlfredoSanchezTojar.png)  
 [Alfredo Sánchez Tójar](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/evo_biology/team/tojar/) is a researcher at Bielefeld University, where he focuses on evidence synthesis and meta-research in ecology and evolution.
 
 &nbsp;  
@@ -108,11 +108,11 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 
 &nbsp;   
 
-![Kaija Gahm](/img/people/KaijaGahm.png)   
+![Kaija Gahm](img/people/KaijaGahm.png)   
 [Kaija Gahm](http://kaijagahm.netlify.app/) **(Secretary)** is a PhD student at UCLA, studying spatiotemporal dynamics of vulture social networks in the Pinter-Wollman lab.   
 &nbsp;
 
-![Alexa Fredston](/img/people/AlexaFredston.png)   
+![Alexa Fredston](img/people/AlexaFredston.png)   
 [Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)** is a quantitative ecologist and Assistant Professor at the University of California Santa Cruz.   
 
 &nbsp;
@@ -145,7 +145,7 @@ The Advocacy committee will develop policy statements and propose advocacy proje
 Current members are: 
 
 
-![Joel Pick](/img/people/J_Pick.png)    
+![Joel Pick](img/people/J_Pick.png)    
 **Chair:** [Joel Pick (he/him), *University of Edinburgh, UK*](mailto:joel.l.pick@gmail.com) ([Website](https://joelpick.github.io))  
   
 Christian John  
@@ -169,7 +169,7 @@ The awards committee is responsible for managing the SORTEE awards program [http
 
 Current members are: 
  
-![Hannah Dugdale](/img/people/H_Dugdale.png)    
+![Hannah Dugdale](img/people/H_Dugdale.png)    
 **Chair:** [Hannah Dugdale](mailto:h.l.dugdale@rug.nl)	([Website](https://hannahdugdale.wordpress.com/))  
   
 Elina Takola  
@@ -206,7 +206,7 @@ The Conference committee organizes the virtual SORTEE Conference, held in Octobe
 
 Current members are:   
 
-![Juliette Tariel-Adam](/img/people/J_Tariel-Adam.png)    
+![Juliette Tariel-Adam](img/people/J_Tariel-Adam.png)    
 **Chair:** [Juliette Tariel-Adam (she/her), *Macquarie University, Australia*](mailto:juliette.tarieladam@gmail.com) ([Website](https://juliettetarieladam.com/))  
   
 Anita Tarandek (she/her), *Ruđer Bošković Institute, Croatia*       
@@ -228,10 +228,10 @@ The Diversity, Equity, and Inclusion Committee promotes diversity, equity, and i
 
 Current members are:   
   
-![Brooke Long-Fox](/img/people/B_Long-Fox.png)  
+![Brooke Long-Fox](img/people/B_Long-Fox.png)  
 **Co-Chair:** [Brooke Long-Fox (she/her/hers), *MorphoBank, Phoenix Bioinformatics; South Dakota School of Mines and Technology, USA*](mailto:blongfox@morphobank.org)  
   
-![Friederike (freddy) Hillemann](/img/people/F_Hillemann.png)  
+![Friederike (freddy) Hillemann](img/people/F_Hillemann.png)  
 **Co-Chair:** [Friederike (freddy) Hillemann](mailto:f.hillemann@web.de) ([Website](https://fhillemann.github.io/))  
   
 Charlotte Recapet  
@@ -254,10 +254,10 @@ Mark Young
 
 Current members are:   
   
-![Daniel Noble](/img/people/D_Noble.png)  
+![Daniel Noble](img/people/D_Noble.png)  
 **Co-Chair:** [Daniel Noble (he/him), *The Australian National University, Australia*](mailto:daniel.noble@anu.edu.au) ([Website](https://nobledan.com))  
   
-![Stefan Vriend](/img/people/S_Vriend.png)    
+![Stefan Vriend](img/people/S_Vriend.png)    
 **Co-Chair:** [Stefan Vriend (he/him), *Netherlands Institute of Ecology (NIOO-KNAW), The Netherlands*](mailto:svriend@gmail.com) ([Website](https://nioo.knaw.nl/en/employees/stefan-vriend))  
   
 [Birgit Szabo (they/them), *Gent University, Belgium*](https://birgitszabo.wixsite.com/cogsciresearch)  
@@ -285,7 +285,7 @@ The Education & Outreach committee provides educational resources to individuals
 
 Current members are:   
     
-![Saoirse Kelleher](/img/people/S_Kelleher.png)      
+![Saoirse Kelleher](img/people/S_Kelleher.png)      
 **Chair:** [Saoirse Kelleher (she/her), *University of Melbourne, Australia*](mailto:saoirse.kelleher@student.unimelb.edu.au) ([Website](saoirsekelleher.eco))    
   
 Elizabeth Hrycyna  
@@ -308,7 +308,7 @@ The Fundraising committee develops and implements plans for raising funds to sup
 
 Current members are:   
  
-![Matthieu Paquet](/img/people/MatthieuPaquet.png)  
+![Matthieu Paquet](img/people/MatthieuPaquet.png)  
   
 **Chair:** [Matthieu Paquet (he/him)](mailto:matthieu.paquet@outlook.com) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu))  
   
@@ -331,7 +331,7 @@ The Media committee develops content (for the website, social media, and newslet
 
 Current members are:  
  
-![Tim Parker](/img/people/T_Parker.png)  
+![Tim Parker](img/people/T_Parker.png)  
   
 **Chair:** [Tim Parker](mailto:mailto:parkerth@whitman.edu) ([Website](http://people.whitman.edu/~parkerth/))  
   
@@ -358,7 +358,7 @@ The Member Engagement Committee oversees opportunities for SORTEE members to int
 
 Current members are:   
 
-![Natalie van Dis](/img/people/N.VanDiss.png)  
+![Natalie van Dis](img/people/N.VanDiss.png)  
   
 **Chair:** [Natalie van Dis](mailto:natalie.vandis@helsinki.fi) ([Website](https://scholar.google.com/citations?user=UTC6iJMAAAAJ&hl=en))  
   
