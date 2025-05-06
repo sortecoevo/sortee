@@ -22,7 +22,7 @@ menu:
         - identifier: "join"
           name: "Join"
           url: "/join/"
-          weight: 10
+          weight: 80
         - identifier: "people"
           name: "People"
           url: "/people/"
@@ -102,7 +102,7 @@ menu:
         - identifier: "about"
           name: "About"
           url: "/about/"
-          weight: 80
+          weight: 10
         - identifier: "supporters"
           name: "Supporters"
           url: "/supporters/"
