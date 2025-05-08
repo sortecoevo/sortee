@@ -1,8 +1,8 @@
 ---
 aliases:
 - join-us
-author: ML
-date: "2022-02-17"
+author: SORTEE
+date: "2025-05-08"
 description: Join Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: Join
 ---

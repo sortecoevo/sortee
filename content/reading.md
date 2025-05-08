@@ -1,8 +1,8 @@
 ---
 aliases:
 - reading-us
-author: ML
-date: "2020-10-21"
+author: SORTEE
+date: "2020-05-08"
 description: reading materials of the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: Reading materials
 ---
@@ -146,9 +146,6 @@ This page hosts a list of reading materials on the topics related to the goals o
 * Borries, C., Sandel, A.A., Koenig, A., Fernandez-Duque, E., Kamilar, J.M., Amoroso, C.R., Barton, R.A., Bray, J., Di Fiore, A., Gilby, I.C., Gordon, A.D., Mundry, R., Port, M., Powell, L.E., Pusey, A.E., Spriggs, A. and Nunn, C.L. 2016. Transparency, usability, and reproducibility: Guiding principles for improving comparative databases using primates as examples. Evolutionary Anthropology, 25: 232-238  doi:10.1002/evan.21502
 
 * Hampton, S. E., S. S. Anderson, S. C. Bagby, C. Gries, X. Han, E. M. Hart, M. B. Jones, W. C. Lenhardt, A. MacDonald, W. K. Michener, J. Mudge, A. Pourmokhtarian, M. P. Schildhauer, K. H. Woo, and N. Zimmerman. 2015. [The Tao of open science for ecology.](http://dx.doi.org/10.1890/ES14-00402.1) Ecosphere 6(7):120. 
-
-   
-[//]: # ( ![seeds photo](/img/seeds.jpg#textphoto) )  
 
 &nbsp;
 

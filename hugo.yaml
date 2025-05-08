@@ -39,10 +39,10 @@ menu:
           url: "/bylaws/"
         - parent: "documents"
           name: "Code of conduct"
-          url: "/code-of-conduct/"
+          url: "/codeofconduct/"
         - parent: "documents"
           name: "Position Statements"
-          url: "/position-statements/"
+          url: "/positionstatements/"
         - identifier: "resources"
           name: "Resources"
           url: "/resources/"
@@ -53,7 +53,7 @@ menu:
           weight: 50
         - parent: "resources"
           name: "Infographics"
-          url: "/info-graphics/"
+          url: "/infographics/"
           weight: 60
         - parent: "resources"
           name: "Reading"
