@@ -148,7 +148,7 @@ Current members are:
 ![Joel Pick](J_Pick.png)    
 **Chair:** [Joel Pick (he/him), *University of Edinburgh, UK*](mailto:joel.l.pick@gmail.com) ([Website](https://joelpick.github.io))  
   
-Christian John  
+Christian John (he/him), *University of California, USA*   
 [Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  
 Julia Sharapi (she/her), *Stanford University, USA*  
 Kevin Bairos-Novak  
