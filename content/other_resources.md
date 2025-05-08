@@ -1,8 +1,8 @@
 ---
 aliases:
 - other_resources-us
-author: ML
-date: "2020-10-21"
+author: SORTEE
+date: "2025-05-08"
 description: other resources of the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: Other resources
 ---

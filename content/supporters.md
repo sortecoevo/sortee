@@ -1,8 +1,8 @@
 ---
 aliases:
 - supporters-us
-author: ML
-date: "2022-06-02"
+author: SORTEE
+date: "2025-05-08"
 description: Supporters of the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: Supporters
 ---

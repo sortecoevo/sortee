@@ -1,7 +1,7 @@
 ---
 aliases:
 - hannah_fraser-us
-author: ML
+author: SORTEE
 date: "2021-06-03"
 description: SORTEE conference 2021 speaker profile - Hannah Fraser
 title: Hannah Fraser

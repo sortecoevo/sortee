@@ -4,7 +4,7 @@ aliases:
 author: SORTEE
 categories:
 - documents
-date: "2023-08-12"
+date: "2025-05-08"
 description: Awards of Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: "SORTEE awards"
 ---

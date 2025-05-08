@@ -1,8 +1,8 @@
 ---
 aliases:
 - past-us
-author: ML
-date: "2021-08-28"
+author: SORTEE
+date: "2025-05-08"
 description: Past events by Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: Past events
 ---

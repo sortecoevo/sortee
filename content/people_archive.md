@@ -1,8 +1,8 @@
 ---
 aliases:
 - people_archive-us
-author: ML
-date: "2022-02-12"
+author: SORTEE
+date: "2022-05-08"
 description: People of Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: Previous Board Members
 ---
