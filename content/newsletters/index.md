@@ -1,8 +1,7 @@
 ---
 aliases:
 - newsletters-us
-author: ML
-date: "2020-10-21"
+layout: page
 description: newsletters of the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: Newsletters
 ---

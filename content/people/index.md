@@ -1,8 +1,7 @@
 ---
 aliases:
 - people-us
-author: ML
-date: "2024-01-14"
+layout: page
 description: People of the Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE)
 title: People
 ---

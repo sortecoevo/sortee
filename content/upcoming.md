@@ -1,7 +1,7 @@
 ---
 aliases:
 - upcoming-us
-author: SORTEE
+layout: page
 date: "2025-05-08"
 description: Upcoming conference by Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: Upcoming events

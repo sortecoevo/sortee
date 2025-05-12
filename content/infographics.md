@@ -1,8 +1,7 @@
 ---
 aliases:
 - infographics-us
-author: SORTEE
-date: "2025-05-08"
+layout: page
 description: infographics by the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: Infographics
 ---

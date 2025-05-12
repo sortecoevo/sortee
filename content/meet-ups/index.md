@@ -1,8 +1,7 @@
 ---
 aliases:
 - meet-ups-us
-author: SORTEE
-date: "2025-05-08"
+layout: page
 description: Other events by Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: "SORTEE meet-ups at other conferences"
 markup:

@@ -1,8 +1,7 @@
 ---
 aliases:
 - michael_jennions-us
-author: ML
-date: "2021-06-03"
+layout: page
 description: SORTEE conference 2021 speaker profile - Michael Jennions
 title: Michael Jennions
 ---
