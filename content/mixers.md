@@ -1,6 +1,5 @@
 ---
-author: SORTEE
-date: "2024-04-04"
+layout: page
 description: Other events by Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: "Social mixers"
 ---

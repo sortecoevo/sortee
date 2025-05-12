@@ -1,10 +1,9 @@
 ---
 aliases:
 - bylaws-us
-author: SORTEE
 categories:
 - documents
-date: "2024-04-23"
+layout: page
 description: Bylaws of Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: Bylaws
 ---

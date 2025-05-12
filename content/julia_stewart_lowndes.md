@@ -1,8 +1,7 @@
 ---
 aliases:
 - julia_stewart_lowndes-us
-author: ML
-date: "2021-06-03"
+layout: page
 description: SORTEE conference 2021 speaker profile - Julia Stewart Lowndes 
 title: Julia Stewart Lowndes 
 ---

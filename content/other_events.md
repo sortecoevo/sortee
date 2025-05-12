@@ -1,8 +1,7 @@
 ---
 aliases:
 - other_events-us
-author: SORTEE
-date: "2025-05-08"
+layout: page
 description: Other events by Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: "SORTEE workshops and webinars"
 ---

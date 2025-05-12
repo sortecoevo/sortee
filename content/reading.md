@@ -1,8 +1,7 @@
 ---
 aliases:
 - reading-us
-author: SORTEE
-date: "2020-05-08"
+layout: page
 description: reading materials of the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)
 title: Reading materials
 ---

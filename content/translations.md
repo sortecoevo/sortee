@@ -2,6 +2,7 @@
 date: "2023-05-04"
 description: The manifesto for the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE) in multiple languages, for outreach purposes.
 title: "SORTEE translations"
+layout: page
 ---
 
 - [English](#english)
