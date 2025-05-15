@@ -17,7 +17,9 @@ For this first interview of the *ECR Asks* series, I want to sincerely thank Tim
 
 # Q\&A
 
-![Tim Parker](img/THP_headshot_2021.jpg)
+{{< figure src="/img/THP_headshot_2021.jpg" width="300px" alt="headshot of Tim Parker">}}
+
+&nbsp;
 
 For this Q\&A, I spoke with [Tim Parker](https://www.whitman.edu/academics/majors-and-programs/biology/faculty-and-staff/tim-parker), Professor of Biology and Environmental Studies at Whitman College, Washington, USA. Tim’s research focuses on plant community responses to environmental change, but he describes his most important work as being on bias in empirical research. He has published widely in bird ecology and collaborated on dozens of papers related to open science, scientific bias, and transparency in ecology. Tim has been involved with the Center for Open Science for about a decade where he has contributed to various initiatives, including updating the Transparency and Openness Promotion (TOP) guidelines for improved accessibility. Tim co-founded SORTEE in 2020, serving as its inaugural president and then a member on the leadership board. Since 2023, he has chaired the media committee, promoting SORTEE across a range of digital platforms. He joined me on the 14th of February to chat about preprints and post-prints, incentives in open science, and how ECRs can make their own commitment to best practices.
 
