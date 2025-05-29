@@ -28,7 +28,7 @@ development of better theory and inference in the evolutionary sciences more bro
 --------------------------------------------------------------------------------------------------------------------
 
 
-![Richard McElreath](/img/people/RichardMcElreath.png) 
+{{< figure src="PLENARY4_MCELREATH.png" width="600px" >}}
 
 --------------------------------------------------------------------------------------------------------------------
 
