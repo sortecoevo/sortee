@@ -28,7 +28,7 @@ She is a co-founder of Open Life Science, a mentoring and training programme tha
 &nbsp;
 --------------------------------------------------------------------------------------------------------------------
 
-![Malvika Sharan](/img/people/MalvikaSharan.png) 
+{{< figure src="PLENARY1_SHARAN.png" width="600px" >}}
 
 --------------------------------------------------------------------------------------------------------------------
 
