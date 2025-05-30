@@ -17,7 +17,7 @@ The 2025 SORTEE conference will run continuously from [15 October 07:00 UTC to 1
 
 &nbsp; 
   
-**Content submissions are now OPEN.** Submit here: [https://forms.gle/QRsrgU2kNTVS7ZET8](https://forms.gle/QRsrgU2kNTVS7ZET8)  
+**Content submissions are now OPEN. Deadline June 2nd.** Submit here: [https://forms.gle/QRsrgU2kNTVS7ZET8](https://forms.gle/QRsrgU2kNTVS7ZET8)  
 
 &nbsp; 
   
