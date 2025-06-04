@@ -33,12 +33,11 @@ To join the mailing list and receive conference updates, click [here](https://al
 
 &nbsp;  
 
-## We are excited to announce our plenary presenters for the 2025 SORTEE Conference:##   
+## We are excited to announce our plenary presenters for the 2025 SORTEE Conference: ##   
 **Prof. Simine Vazire**  
 **Dr. Israel Borokini**   
 
 &nbsp;  
-
 
 ### About SORTEE conferences ###
 Our conferences are informative, fun and low-cost and is a forum to **discuss and develop ideas**, while also exploring **current practices** for advancing research in fields related to ecology and evolutionary biology.  
