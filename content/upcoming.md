@@ -43,21 +43,18 @@ To join the mailing list and receive conference updates, click [here](https://al
 Our conferences are informative, fun and low-cost and is a forum to **discuss and develop ideas**, while also exploring **current practices** for advancing research in fields related to ecology and evolutionary biology.  
 
 &nbsp;   
-The conference will be a mix of 5 session types:
+The conference will be a mix of 5 session types:  
+
+&nbsp;  
     
 **1.** **Unconferences**: Facilitated discussions of ideas for how to make ecology, evolutionary biology, and related disciplines more open, reliable, and transparent. Facilitation involves moderating the conversation with ideas and examples, but there are no formal presentations.  
 **2.** **Hackathons**: Group projects with well-defined goals (papers, techniques, software, protocols, organizations, etc.).  
 **3.** **Workshops**: Teach tips and tools for producing open, reliable and transparent research practices.  
-**4.** **Plenaries**: Two plenaries about recent initiatives in open science.
-&nbsp; 
-  
-You are also welcome to submit a proposal and facilitate your session in a language other than English. We will organise live translation during the conference to support this.  
-  
+**4.** **Plenaries**: Two plenaries about recent initiatives in open science.  
+
 &nbsp;  
-The conference is **FREE** for [SORTEE members](https://www.sortee.org/join/). The cost for non-SORTEE members ranges from $0 to $60. 
-  
-&nbsp;   
-We strongly encourage proposals for all contribution types from people at a wide range of career stages and from members of under-represented groups. We welcome proposals from small teams, as well as individuals. We encourage teams to include diverse perspectives, for instance with facilitators from different countries and balanced in terms of gender and career stage. Facilitation by early career researchers (students or early career postdocs) is warmly encouraged.  
+
+To have an idea of what a SORTEE conference looks like, check the last SORTEE conference program here ([https://osf.io/cqby5/](https://osf.io/cqby5/)) and the summary of previous conferences at [https://www.sortee.org/past](https://www.sortee.org/past).  
   
 &nbsp;   
 We encourage people with any questions about accessibility in the submission process or the conference itself to contact us via [conference@sortee.org](mailto:conference@sortee.org). Similarly, please feel free to contact us if you would like guidance as you prepare your proposals.
