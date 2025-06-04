@@ -184,7 +184,7 @@ params:
         enable: true
         icon: "fas fa-globe"
         title: "2025 SORTEE conference 15-16th October"
-        subtitle: "Content submissions are now open!"
+        subtitle: "Registrations are now open!"
         link_url: "/upcoming"
         link_text: "Read more"
     
