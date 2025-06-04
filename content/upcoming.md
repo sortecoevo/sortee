@@ -26,6 +26,9 @@ Registrations are now OPEN via Humanitix. [Register here!](https://events.humani
 &nbsp; 
 
 The conference is FREE for SORTEE members ([become a member](https://www.sortee.org/join/)), and the cost for non-SORTEE members ranges from $0 to $60.   
+
+&nbsp;  
+
 To join the mailing list and receive conference updates, click [here](https://alluring-acorn-871.myflodesk.com/s4v8w89s35).  
 
 &nbsp;  
