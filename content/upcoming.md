@@ -11,6 +11,14 @@ title: Upcoming events
 
 ***Virtual & world-wide!***  
 
+## We are excited to announce our plenary presenters for the 2025 SORTEE Conference: ##   
+**Prof. Simine Vazire**  
+**Dr. Israel Borokini**   
+
+&nbsp; 
+  
+**Registrations are now OPEN via Humanitix. [Register here!](https://events.humanitix.com/sortee-conference-2025)**   
+
 &nbsp; 
   
 The 2025 SORTEE conference will run continuously from [15 October 07:00 UTC to 16 October 10:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SORTEE+2025+Conference&iso=20251015T07&p1=1440&ah=23&am=55) to cover all time zones.   
@@ -18,10 +26,6 @@ The 2025 SORTEE conference will run continuously from [15 October 07:00 UTC to 1
 &nbsp; 
   
 Content submissions are currently being evaluated. The Conference Program will be available on this [page](https://conf-sortee.shinyapps.io/program-app/) by early July.  
-
-&nbsp; 
-  
-Registrations are now OPEN via Humanitix. [Register here!](https://events.humanitix.com/sortee-conference-2025)  
  
 &nbsp; 
 
@@ -30,12 +34,6 @@ The conference is FREE for SORTEE members ([become a member](https://www.sortee.
 &nbsp;  
 
 To join the mailing list and receive conference updates, click [here](https://alluring-acorn-871.myflodesk.com/s4v8w89s35).  
-
-&nbsp;  
-
-## We are excited to announce our plenary presenters for the 2025 SORTEE Conference: ##   
-**Prof. Simine Vazire**  
-**Dr. Israel Borokini**   
 
 &nbsp;  
 
