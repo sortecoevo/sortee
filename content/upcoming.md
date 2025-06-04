@@ -11,7 +11,9 @@ title: Upcoming events
 
 ***Virtual & world-wide!***  
 
-## We are excited to announce our plenary presenters for the 2025 SORTEE Conference: ##   
+&nbsp; 
+
+### We are excited to announce our plenary presenters for the 2025 SORTEE Conference: ###   
 ### **Prof. Simine Vazire**  ###
 ### **Dr. Israel Borokini**  ###
 
