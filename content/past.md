@@ -24,7 +24,7 @@ Recordings of the plenary sessions, as well as the opening and closing remarks o
 ### 2024 Conference
 
 - [Hu Chuan-Peng](https://chuan-peng-lab.netlify.app/) – *[Promoting Open Science via Grassroots Networks in a Developing Country](https://www.youtube.com/watch?v=qSCMXoq9E18)*
-- **[Kate Laskowski](https://eve.ucdavis.edu/people/kate-laskowski)** – *[What to Do When You Don’t Trust Your Data Anymore](https://www.youtube.com/watch?v=xxDeqZyxpgc)*
+- [Kate Laskowski](https://eve.ucdavis.edu/people/kate-laskowski) – *[What to Do When You Don’t Trust Your Data Anymore](https://www.youtube.com/watch?v=xxDeqZyxpgc)*
 
 &nbsp;
 
