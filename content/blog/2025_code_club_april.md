@@ -1,16 +1,16 @@
 ---
-banner: img/2025_Code_club.png
-date: "2025-04-15"  
-author: Cecilia Baldoni & Corné de Groot
-summary: The authors debrief about the latest code club meeting, all about reproducible science in R!
+title: 'SORTEE Code Club debrief: Introduction to Reproducible Coding Environments'
+author: "Cecilia Baldoni & Corné de Groot"
+date: "2025-04-15"
+summary: The authors debrief about the latest code club meeting, all about reproducible
+  science in R!
 categories:
 - blog
-tags: 
+tags:
 - code club
 - code
 - open science
-title: "SORTEE Code Club debrief: Introduction to Reproducible Coding Environments"
-
+banner: img/2025_Code_club.png
 ---
 &nbsp;
 
