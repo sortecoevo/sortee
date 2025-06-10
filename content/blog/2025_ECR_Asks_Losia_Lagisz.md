@@ -18,11 +18,15 @@ I extend my sincere thanks to Losia for taking the time to generously share her 
 
 {{< figure src="/img/Losia_Lagisz.png" width="300px" alt="headshot of Malgorzata Lagisz">}}  
 
+&nbsp;  
+
 In this month’s Q\&A I spoke with [Malgorzata (Losia) Lagisz](https://mlagisz.weebly.com/), Research Fellow at the University of New South Wales, Sydney, Australia. Losia is a methodologist for evidence synthesis who specialises in designing research questions, criteria, scope, and overall optimisation for systematic analyses. Her research topics branch across multiple fields, from molecular biology and evolution to collaborations in biomedical, environmental, conservation and even social sciences research. A strong advocate for open science, Losia fosters transparency in research through initiatives in open data sharing, reporting standards, and the recognition and promotion of diversity, equity, and inclusion. She is a founding member of SORTEE and currently serves on the Board of Directors.
 
 Losia joined me on the 29th of April to discuss a [recently co-authored paper](https://doi.org/10.1016/j.tree.2024.04.007), *‘Leveraging AI to Improve Evidence Synthesis in Conservation’*, published June 2024 in Trends in Ecology & Evolution, a topic she has also written about on [her lab’s website](https://www.i-deel.org/blog/around-meta-analysis-15-emerging-large-language-models-llm-tools). In this interview, she explains how AI-enhanced research tools can be rigorously and transparently implemented in evidence synthesis, and offers helpful tips for ECRs trying out this research style for the first time.
 
 This interview has been edited for length and clarity.
+
+&nbsp;  
 
 ## What is Systematic Evidence Synthesis, and how did you get started in this field?
 
@@ -33,6 +37,8 @@ This interview has been edited for length and clarity.
 ***ECR:** How did you first get into evidence synthesis as a research approach and topic?*
 
 **ML:** During my postdoc there was a specific project where I was asked to collect data for a very large meta-analysis, with a broad question on the effects of dietary restriction on longevity across all species. I needed to extract concrete numbers that often weren’t included in the original paper, which meant lots of work looking through lots of additional articles. Of course, there were lots of missing data, assumptions, and heterogeneity, and I thought, “Oh, this is so messy\! Every study is so different, we will never see any pattern”. To our surprise, however, there were some clear patterns, and this made me a believer... With enough sample size and meticulous data collection, if there is a general pattern across organisms and studies, you will be able to detect it using meta-analysis. We learnt a lot from this experience and it all grew and diversified from that initial project.
+
+&nbsp;  
 
 ## What stages of systematic evidence synthesis can AI be useful for?
 
@@ -48,6 +54,8 @@ For data extraction, I would say it's not quite there yet, because, especially i
 
 **ML:** That’s a really good question and I think everybody's working on that right now\! Historically, most of the focus has been on the screening so there are fewer papers explicitly evaluating performance of AI for data extraction, but we’re trying to get there. Basically, it will be a human doing the work, but in parallel with AI, continuously cross-checking each other because both humans and AI make mistakes. For example, AI can help you find the relevant text fragments to support data extraction. While you will still need to read those sections to make sure they are interpreted correctly, it is faster compared to reading the whole paper — but yes, don’t rely on it completely (AI may miss relevant information, especially if it is not explicit or hidden in the supplementary files).
 
+&nbsp;  
+
 ## Red Flags in AI Systematic Synthesis Openness and Transparency
 
 ***ECR:** In the interest of transparent, open science, we need to report our use of AI in research, but how far do you go with that reporting? If you use ChatGPT as a sounding board for early ideas, or as a grammar-checker, does all of that need to be reported, or just for the big things?*
@@ -59,6 +67,8 @@ For data extraction, I would say it's not quite there yet, because, especially i
 **ML:** Yes, when they don’t provide their raw data\! I want not only the summary calculations, but also the raw values and metadata with detailed descriptions of every variable and assumption. Especially for evidence synthesis, if you extract numbers from primary research, you should to provide information about where it comes from in the original paper including recording the table or figure number with enough information so you can find that exact actual data and crosscheck it as needed (as well as helping you to cross-check it yourself, especially if you are getting some crazy values in your analyses). Sometimes, when I’m reviewing, a number will be in the extracted summary data but not in the original paper. I don’t know what they did to that number. Did they calculate a total? Divide it? Multiply it? Why is this number like that? Where is it from?
 
 If the authors record their sources, assumptions, and data transformations,it gives me confidence that they were tidy and rigorous. But if that’s missing, it can seem dodgy, as if they’re hiding how they got their numbers and preventing replication.
+
+&nbsp;  
 
 ## ECRs and AI in Systematic Evidence Synthesis
 
