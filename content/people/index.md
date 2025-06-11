@@ -57,7 +57,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;  
 
 ![Michael Bertram](MichaelBertram.png)  
-[Michael Bertram (he/him), *Swedish University of Agricultural Sciences, Sweden* ](https://www.michaelbertramlab.org) is an Assistant Professor at the Swedish University of Agricultural Sciences, where he investigates the impacts of human-induced environmental change on wildlife populations.
+[Michael Bertram (he/him)](https://www.michaelbertramlab.org) is an Assistant Professor at the Swedish University of Agricultural Sciences, where he investigates the impacts of human-induced environmental change on wildlife populations.
 
 &nbsp;  
 
@@ -81,7 +81,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;
 
 ![Malgorzata (Losia) Lagisz](LosiaLagisz.png)  
-[Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/) is a Research Fellow at the University of New South Wales Sydney, where she works on meta-research and evidence synthesis.
+[Malgorzata (Losia) Lagisz (she/her)](https://mlagisz.weebly.com/) is a Research Fellow at the University of New South Wales Sydney, where she works on meta-research and evidence synthesis.
 
 &nbsp;  
 
@@ -90,7 +90,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;  
 
 ![Ed Ivimey-Cook](EdIvimeyCook.png)  
-[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://eivimeycook.github.io/) **(President)** is a post-doctoral researcher at the University of Glasgow.   
+[Ed Ivimey-Cook (he/him)](https://eivimeycook.github.io/) **(President)** is a post-doctoral researcher at the University of Glasgow.   
 &nbsp;  
 
 ![Patrice Pottier](PatricePottier_smaller.png)  
