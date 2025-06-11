@@ -90,7 +90,7 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 &nbsp;  
 
 ![Ed Ivimey-Cook](EdIvimeyCook.png)  
-[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook) **(President)** is a post-doctoral researcher at the University of Glasgow.   
+[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://eivimeycook.github.io/) **(President)** is a post-doctoral researcher at the University of Glasgow.   
 &nbsp;  
 
 ![Patrice Pottier](PatricePottier_smaller.png)  
@@ -125,7 +125,7 @@ As specified in the [SORTEE bylaws](https://www.sortee.org/bylaws/), the Executi
 Current officers are:
 &nbsp;
 
-[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  **(President)**    
+[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://eivimeycook.github.io/)  **(President)**    
 [Marija Purgar](https://www.irb.hr/eng/About-RBI/People/Marija-Purgar-Filjak) **(President-Elect)**  
 [Rose O’Dea](https://www.roseodea.com/) **(Past President)**    
 [Alexa Fredston](https://www.alexafredston.com/) **(Treasurer)**  
@@ -148,7 +148,7 @@ Current members are:
 **Chair:** [Joel Pick (he/him), *University of Edinburgh, UK*](mailto:joel.l.pick@gmail.com) ([Website](https://joelpick.github.io))  
   
 Christian John (he/him), *University of California, USA*   
-[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://github.com/EIvimeyCook)  
+[Ed Ivimey-Cook (he/him), *University of Glasgow, UK*](https://eivimeycook.github.io/)  
 Julia Sharapi (she/her), *Stanford University, USA*  
 Kevin Bairos-Novak  
 Leyla Cabugos (she/her), *California Polytechnic State University, USA*    
@@ -233,8 +233,8 @@ Current members are:
 ![Friederike (freddy) Hillemann](F_Hillemann.png)  
 **Co-Chair:** [Friederike (freddy) Hillemann](mailto:f.hillemann@web.de) ([Website](https://fhillemann.github.io/))  
   
-Charlotte Recapet  
-[Elvira D'Bastiani (she/her), *University of California, USA*](elviradbastiani.com)    
+[Charlotte Recapet (they/them), *Université Pau Pays de l'Adour, France*](https://recherche.univ-pau.fr/en/pagesperso/cv_en_-crecapet-en.html)  
+[Elvira D'Bastiani (she/her), *University of California, USA*](https://www.elviradbastiani.com)    
 Frigg Speelman   
 Manasee Weerathunga  
 Sarah Hasnain (no pronouns), *Sorbonne University, France*    
@@ -260,7 +260,7 @@ Current members are:
 **Co-Chair:** [Stefan Vriend (he/him), *Netherlands Institute of Ecology (NIOO-KNAW), The Netherlands*](mailto:svriend@gmail.com) ([Website](https://nioo.knaw.nl/en/employees/stefan-vriend))  
   
 [Birgit Szabo (they/them), *Gent University, Belgium*](https://birgitszabo.wixsite.com/cogsciresearch)  
-[Elvira D'Bastiani (she/her), *University of California, USA*](elviradbastiani.com)    
+[Elvira D'Bastiani (she/her), *University of California, USA*](https://www.elviradbastiani.com)    
 Félicie Dhellemmes  
 Jenna Braun  
 Mark Young  
@@ -285,7 +285,7 @@ The Education & Outreach committee provides educational resources to individuals
 Current members are:   
     
 ![Saoirse Kelleher](S_Kelleher.png)      
-**Chair:** [Saoirse Kelleher (she/her), *University of Melbourne, Australia*](mailto:saoirse.kelleher@student.unimelb.edu.au) ([Website](saoirsekelleher.eco))    
+**Chair:** [Saoirse Kelleher (she/her), *University of Melbourne, Australia*](mailto:saoirse.kelleher@student.unimelb.edu.au) ([Website](https://saoirsekelleher.eco))    
   
 Elizabeth Hrycyna  
 Giulia Masoero (she/her), *Swiss Ornithological Institute, Switzerland*   
