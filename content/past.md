@@ -30,7 +30,7 @@ Recordings of the plenary sessions, as well as the opening and closing remarks o
 
 ### 2023 Conference
 
-_No plenary sessions were held at the SORTEE 2023 conference._
+No plenary sessions were held at the SORTEE 2023 conference.
 
 ### 2022 Conference
 
