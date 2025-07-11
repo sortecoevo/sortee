@@ -1,4 +1,4 @@
-baseurl: "https://www.sortee.org"
+baseurl: "https://sortee.org"
 title: "SORTEE"
 theme: "hugo-universal-theme"
 languageCode: "en-us"
