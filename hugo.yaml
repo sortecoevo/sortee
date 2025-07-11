@@ -95,6 +95,10 @@ menu:
           name: "Code club"
           url: "/code_club/"
           weight: 160
+        - parent: "events"
+          name: "Collaborations"
+          url: "/collaborations/"
+          weight: 170
         - identifier: "blog"
           name: "Blog"
           url: "/blog/"
