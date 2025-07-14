@@ -14,8 +14,8 @@ title: Upcoming events
 &nbsp; 
 
 ### We are excited to announce our plenary presenters for the 2025 SORTEE Conference: ###   
-### **Prof. Simine Vazire**  ###
-### **Dr. Israel Borokini**  ###
+### **Prof. Simine Vazire**: *Journal Prestige Can and Should be Earned*  ###
+### **Dr. Israel Borokini** *Advancing Ecology and Evolutionary Research in the Global South - African context* ###
 
 &nbsp; 
   
