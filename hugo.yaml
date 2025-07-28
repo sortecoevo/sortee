@@ -45,7 +45,7 @@ menu:
           url: "/positionstatements/"
         - parent: "documents"
           name: "SORTEE Outputs"
-          # url: "/outputs/"
+          url: "/outputs/"
         - identifier: "resources"
           name: "Resources"
           url: "/resources/"
