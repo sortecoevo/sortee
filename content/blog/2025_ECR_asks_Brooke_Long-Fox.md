@@ -18,6 +18,9 @@ I would like to wholeheartedly thank Brooke for sharing her time, personal story
 
 # Q&A
 
+{{< figure src="/img/Brooke_Long-Fox.jpg" width="200px" alt="headshot of Brooke Long-Fox">}} 
+
+
 Science is ultimately a human endeavour and thus a part of, not apart from, the remainder of the socio-political climate. While open science conversations and initiatives often focus on technical accessibility and transparency, "openness" can also refer to social inclusion, for example identifying the barriers preventing access to science, as well as transparency in the incentive structures underlying funding allocation and decision-making. As members of and contributors to this scientific community, it is important for us to be aware and mindful of these forces.
 
   
