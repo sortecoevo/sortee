@@ -1,7 +1,7 @@
 ---
 title: 'SORTEE Code Club debrief: Getting started with Shiny: build interactive applications in R'
 author: "Cecilia Baldoni & Corné de Groot"
-date: "2025-04-15"
+date: "2025-06-15"
 summary: The authors debrief about the latest code club meeting, in which Ed Ivimey-Cook talked about Shiny applications!
 categories:
 - blog
