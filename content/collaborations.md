@@ -26,7 +26,7 @@ Selected past SORTEE hackathons, and related past and ongoing collaborative proj
 
 **Additional Work & Outcomes:** There were no mandatory tasks following the hackathon, but participants were encouraged to follow up with journal editors if they did not receive a response. The list of journals was made publicly available for further outreach. While no publishable content was expected, the event aimed to drive real-world change by promoting registered reports in academic publishing.
 
-**Outputs:** database of contacted journals. One journal (i.e., Ethology) adopted Registered Reports in response to this hackathon. 
+# **Outputs:** database of contacted journals. One journal (i.e., Ethology) adopted Registered Reports in response to this hackathon. 
 
 ### **Short Title: Promoting GitHub Use in EcoEvo**
 
