@@ -111,6 +111,14 @@ menu:
           name: "Supporters"
           url: "/supporters/"
           weight: 75
+        - parent: "join"
+          name: "Brazil Chapter"
+          url: "/chapter_brasil/"
+          weight: 180
+        - parent: "join"
+          name: "2025 Membership"
+          url: "/join/"
+          weight: 175
 
     topbar:
     - weight: 1
@@ -207,4 +215,4 @@ params:
         title_2: "Order a t-shirt"
 
 Permalinks:
-    blog: "/blog/:year/:month/:day/:filename/"
+    blog: "/blog/:year/:month/:day/:contentbasename/"
