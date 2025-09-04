@@ -41,7 +41,7 @@ title: "SORTEE awards"
 
 #### Eligibility    
 
-1. Projects must contribute to fostering Open Science values or practices such as transparency, robustness of research, or improvement of the scientific system/practice in general, going beyond simply implementing current practices or processes, with actual impact on any scale.
+1. Projects must contribute to fostering Open Science values or practices such as transparency, robustness of research, or improvement of the scientific system/practice in general, going beyond simply implementing current practices or processes, with actual impact on any scale. Open-access data/code from journal publications is not considered going beyond current practices.
 2. Projects should be related at least remotely to the fields of ecology and/or evolutionary biology or closely related fields.
 3. Evidence of the project has to be provided, e.g., by photos, websites, teaching/outreach materials, screenshots of news or social posts, recommendation letters, repositories, preprints.
 4. The person nominating the project, or at least one project member, must be a current SORTEE member (newly joined members are eligible).
