@@ -121,7 +121,8 @@ This is an elected committee that is ultimately responsible for SORTEE. Three po
 ---
 
 ### Executive Committee       
-As specified in the [SORTEE bylaws](https://www.sortee.org/bylaws/), the Executive Committee is chosen by the Board of Directors.<br>  
+As specified in the [SORTEE bylaws](https://www.sortee.org/bylaws/), the Executive Committee is chosen by the Board of Directors.
+
 Current officers are:
 &nbsp;
 
