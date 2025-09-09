@@ -362,7 +362,7 @@ Current members are:
   
 **Chair:** [Natalie van Dis](mailto:natalie.vandis@helsinki.fi) ([Website](https://scholar.google.com/citations?user=UTC6iJMAAAAJ&hl=en))  
   
-Cecilia Baldoni  
+[Cecilia Baldoni](https://cecibaldoni.github.io/)  
 Charlotte Recapet  
 Corné de Groot  
 [Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)     
