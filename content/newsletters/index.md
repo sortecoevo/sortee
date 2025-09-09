@@ -13,6 +13,8 @@ This page hosts links to archived newsletters produced by SORTEE.
 
 ## [Newsletter - March 2025](newsletter-202503.pdf)  
 
+## [Newsletter - December 2024](newsletter-202412.pdf)  
+
 ## [Newsletter - September 2024](newsletter-202409.pdf)  
 
 ## [Newsletter - June 2024](newsletter-202406.pdf)  
