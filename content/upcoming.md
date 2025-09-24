@@ -29,8 +29,6 @@ The conference is **FREE** for SORTEE members ([become a member](https://sortee.
 
 To join the mailing list and receive conference updates, click [here](https://alluring-acorn-871.myflodesk.com/s4v8w89s35). 
 
-The 2025 SORTEE conference will run continuously from [15 October 07:00 UTC to 16 October 10:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=SORTEE+2025+Conference&iso=20251015T07&p1=1440&ah=23&am=55) to cover all time zones.
-
  
 
 ### About SORTEE conferences
