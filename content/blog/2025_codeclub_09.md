@@ -1,15 +1,16 @@
 ---
-title: 'SORTEE Code Club debrief: Version control: a researcher's guide to Git and Github'
+title: 'SORTEE Code Club debrief: Version control: a researcher''s guide to Git and Github'
 author: "Cecilia Baldoni & Corné de Groot"
-date: "2025-06-15"
+date: "2025-09-23"
 summary: The authors debrief about the latest code club meeting, about version control using Git and Github!
 categories:
-- blog
+  - blog
 tags:
-- code club
-- code
+  - code club
+  - code
 banner: img/2025_Code_club.png
 ---
+
 
 **SORTEE Code Club debrief: Version control: a researcher's guide to Git and Github - September, 17th 2025**
 
@@ -17,7 +18,7 @@ Author: Cecilia Baldoni, Corné de Groot
 
 The Member Engagement Committee runs **Code Club every third Tuesday of the month**. Time can vary depending on the host and will be announced at least two weeks in advance on [SORTEE's Slack](https://sortee.org/join). For more information, see [SORTEE's Code Club page](https://www.sortee.org/code_club/).
 
-On Tuesday, the 17th of September, we hosted a training session on version control using \[Git\](<https://git-scm.com/)> and \[GitHub\](<https://github.com/),> tailored for researchers who want to make their work more reproducible and collaborative. Version control provides a systematic way of tracking changes in code, manuscripts, or data, so you never have to rely on confusing filenames like "script_final_v2_final.R" again. Instead, Git helps you keep a clear history of your project's development and makes collaboration much easier.
+On Tuesday, the 17th of September, we hosted a training session on version control using [Git](<https://git-scm.com/) and [GitHub](<https://github.com/),> tailored for researchers who want to make their work more reproducible and collaborative. Version control provides a systematic way of tracking changes in code, manuscripts, or data, so you never have to rely on confusing filenames like "script_final_v2_final.R" again. Instead, Git helps you keep a clear history of your project's development and makes collaboration much easier.
 
 We had 12 participants join us for this 60-minute, beginner-friendly session conducted by Cecilia Baldoni. We started by exploring the basics of version control and why it is such a powerful tool for research workflows. Participants then learned how to use Git from both the command line and directly within the RStudio IDE, giving them multiple ways to get started.
 
