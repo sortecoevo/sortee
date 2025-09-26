@@ -210,7 +210,7 @@ Current members are:
 **Chair:** [Juliette Tariel-Adam (she/her), *Macquarie University, Australia*](mailto:juliette.tarieladam@gmail.com) ([Website](https://juliettetarieladam.com/))  
   
 Anita Tarandek (she/her), *Ruđer Bošković Institute, Croatia*       
-Ineta Kačergytė      
+Ineta Kačergytė (she/her), [*Department of Ecology, Swedish University of Agricultural Sciences, Sweden*](https://www.slu.se/en/profilepages/k/ineta-kacergyte/)        
 Magdalena Wutkowska    
 Marija Purgar      
 Sofia Paraskevopoulou (she/her), *University of Lund, Sweden*      
