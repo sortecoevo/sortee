@@ -72,11 +72,11 @@ Gain access to SORTEE's newsletter, Slack space, regular online events and more
 
 ### ![Training](join-sortee-training.svg) Get training opportunities and forge collaborations 
 
--   Get a free access to SORTEE's [workshops, webinars](https://www.sortee.org/other_events/), and [code clubs](https://www.sortee.org/code_club/)
+-   Get free access to SORTEE's [workshops, webinars](https://www.sortee.org/other_events/), and [code clubs](https://www.sortee.org/code_club/)
 
 -   Join networking and collaboration opportunities, through hackathons and workshops ([Examples of publications arising from previous conferences and projects](https://sortee.org/outputs/))
 
--   Attend for free [SORTEE annual online conference](https://www.sortee.org/past/), covering all timezones
+-   Attend the [SORTEE annual online conference](https://www.sortee.org/past/) for free!
 
   
 ## **Want to be more involved?**
