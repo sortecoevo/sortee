@@ -20,7 +20,7 @@ Manuscripts related to past or current SORTEE hackathons or projects:
 
 -   Lagisz M, Bairos-Novak KR, Martinig AR, Bertram MG, Mizuno A, Shafiei Sabet S, Paquet M, Santana MS, Thoré ESJ, Trubanová N, Rutkowska J, Orr JA, Takola E, Yang Y, Pottier P, Gomes DGE, Chan YC, Xian Z, Akogwu CO, Drobniak SM, Nakagawa S. Priced out of belonging? Insufficient concessions on membership fees across international societies in ecology and evolution. **Proceedings of the Royal Society B: Biological Sciences**. 2025 Feb;292(2040):20241430. doi: 10.1098/rspb.2024.1430    -     \[from SORTEE2023 Hackathon\]
 
--   Ivimey-Cook, E., Sánchez-Tójar, A., Berberi, I., Culina, A., Roche, D., Almeida, R., Amin, B., Bairos-Novak, K., Balti, H., Bertram, M., Bliard, L., Byrne, I., Chan, Y.-C., Cioffi, W., Corbel, Q., Elsy, A., Florko, K., Gould, E., Grainger, M., \... Moran, N. (2025). From Policy to Practice: Progress towards Data- and Code-Sharing in Ecology and Evolution. **Proceedings B** (preprint). <https://doi.org/10.1098/rspb.2025.1394>    -     \[from SORTEE2023 Hackathon\]
+-   Ivimey-Cook, E., Sánchez-Tójar, A., Berberi, I., Culina, A., Roche, D., Almeida, R., Amin, B., Bairos-Novak, K., Balti, H., Bertram, M., Bliard, L., Byrne, I., Chan, Y.-C., Cioffi, W., Corbel, Q., Elsy, A., Florko, K., Gould, E., Grainger, M., \... Moran, N. (2025). From Policy to Practice: Progress towards Data- and Code-Sharing in Ecology and Evolution. **Proceedings of the Royal Society B: Biological Sciences**. <https://doi.org/10.1098/rspb.2025.1394>    -     \[from SORTEE2023 Hackathon\]
 
 
 ## Conference outputs
