@@ -91,7 +91,7 @@ menu:
           url: "/meet-ups/"
           weight: 140
         - parent: "events"
-          name: "Online social mixers"
+          name: "Virtual socials"
           url: "/mixers/"
           weight: 150
         - parent: "events"
