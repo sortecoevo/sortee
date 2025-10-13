@@ -402,7 +402,7 @@ William Sutherland
 ---
 
 
-### Past Board Members  
+### Previous Board Members  
 
 Please see [this page]({{< ref "people_archive.md" >}}).   
 
