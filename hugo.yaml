@@ -115,7 +115,7 @@ menu:
           url: "/supporters/"
           weight: 75
         - parent: "join"
-          name: "Brazil Chapter"
+          name: "Local Chapters"
           url: "/chapter_brasil/"
           weight: 180
         - parent: "join"
