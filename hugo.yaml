@@ -183,7 +183,7 @@ params:
         enable: true
     
     widgets:
-        categories: true
+        categories: false
         tags: true
         search: true
     
