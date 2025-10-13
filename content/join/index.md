@@ -12,9 +12,9 @@ title: Join
 
 [Become a SORTEE member in 2025](https://www.joinit.org/o/sortee/)
 
-In 2022, we moved to a suggested membership fee model to support the society's continued operation and growth (e.g., board insurance, website hosting, membership management software, stipends to monthly workshop and webinar speakers, legal and administrative fees, etc.).
+In 2022, we moved to a suggested membership fee model to support the society's continued operation and growth (e.g., board insurance, website hosting, membership management software, stipends for monthly workshop and webinar speakers, legal and administrative fees, etc.).
 
-We kept the 2022 suggested membership fees the same for 2023, 2024, and 2025 (amounts are in US\$):
+We kept the 2022 suggested annual membership fees the same for 2023, 2024, and 2025 (amounts are in US\$):
 
 -   **Senior-career professionals**: \$40
 -   **Early-career professionals**: \$20
@@ -76,7 +76,7 @@ Gain access to SORTEE's newsletter, Slack space, regular online events and more
 
 ### ![Support](join-sortee-promote.svg) Promote Open practices in Ecology and Evolution
 
--   Join [SORTEE committees](https://www.sortee.org/people/) ([how to join](https://www.sortee.org/about/)) to make a difference and...
+-   Join [SORTEE committees](https://www.sortee.org/people/) ([how to join](https://www.sortee.org/join/)) to make a difference and...
 
     -   ...get funding for actions promoting Open Science
 
@@ -84,7 +84,7 @@ Gain access to SORTEE's newsletter, Slack space, regular online events and more
 
     -   \...organize SORTEE activities and help produce training resources for researchers and institutions, such as [infographics](https://www.sortee.org/infographics/)
 
--   Highlight your (and others') engagement to Open Science through [SORTEE's awards](https://www.sortee.org/awards/)
+-   Highlight your (and others') contributions to Open Science through [SORTEE's awards](https://www.sortee.org/awards/)
 
   
 
@@ -103,7 +103,7 @@ Gain access to SORTEE's newsletter, Slack space, regular online events and more
 
 ## Diversity, Equity and Inclusion (DEI) at SORTEE
 
-At SORTEE, we place great importance on DEI. We have a dedicated DEI committee to ensure that we keep making improvements on this topic. We thereby also seek the help of our members. You can help us by filling out our demographic survey, whenever you become a member or renew your membership. This survey informs us on what our members think of diversity and also on which directions we may need to take for the future. Our goal is to be diverse and inclusive of people across disciplines, from various geographical locations, from under-represented groups and with various interests.
+At SORTEE, we place great importance on DEI. We have a dedicated [DEI committee](https://sortee.org/people/#diversity-equity-and-inclusion-committee) to ensure that we keep making improvements on this topic.  Our goal is to be diverse and inclusive of people across disciplines, from various geographical locations, from under-represented groups and with various interests. We thereby also seek the help of our members. You can help us by filling out our demographic survey, whenever you become a member or renew your membership. This survey informs us on what our members think of diversity and also on which directions we may need to take for the future.
 
  
  
