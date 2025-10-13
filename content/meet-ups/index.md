@@ -60,7 +60,7 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 |:---|:---|
 | **Organizer:** | Tom Ratz, Ed Ivimey-Cook |
 | **Summary:** | SORTEE hosted a symposium on open science at the 2025 ESEB Conference in Barcelona, Spain. It was hugely successful and well received! The symposium was hosted by current SORTEE president Ed Ivimey-Cook and president-elect, Marija Purgar. We had six fantastic speakers, including an invited talk by Dr. Malgorzata (Losia) Lagisz (Board and committee member), who discussed inclusive meta-research for transparency; and Joel Pick (Chair of the Advocacy committee) who discussed the role of journals in promoting diverse and credible research culture. Both of these talks showcased the large variety of research happening at SORTEE.<br><br>Other talk topics ranged from the importance of career breaks to lessons learned from Covid-19 on Open Science practices. SORTEE also had a number of poster presentations that further highlighted the many diverse open science initiatives across EcoEvo.<br><br>SORTEE also organised a well-attended meetup for anyone interested in open science and SORTEE. |
-| **Photos**: | {{< figure src="/img/ESEB-pick.jpg" alt="Joel Pick (SORTEE Advocacy Committee chair)" width="300px" >}}<br>{{< figure src="/img/ESEB-Lagisz.jpg" alt="Losia Lagisz (SORTEE board member)" width="300px" >}} <br> ESEB Barcelona (August 2025) |
+| **Photos**: | {{< figure src="/img/ESEB-Aug2025.jpg" alt="" width="300px" >}} <br> ESEB Barcelona (August 2025) |
 
 &nbsp;
 
@@ -70,7 +70,7 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 |:---|:---|
 | **Organizer:** | Giulia Masoero, Matthieu Paquet |
 | **Summary:** | Earlier the same day, Antica gave a plenary presentation about ORT Science (open data, open code, and registration). She encouraged people to join SORTEE and advertised the round table discussion later the same day. The round table was at the same time of the second hour of the poster session which was a bit unfortunate but still we were 17 people from various career stages. We shared about open data, open code, preregistration and registered reports (briefly about diamond open access but didn't have much time). Every person spoke during the roundtable which was great. We shared about open vs FAIR data. Some people were worried about making all long term datasets open but thought it was important to have FAIR data checked when publishing and deposited (but not necessarily open). We shared about the pressure (sometimes self imposed) to have significant results and how we can reduce this pressure (notably when acting as reviewers). Also how to make code clubs less intimidating. After one hour of round table some of us went to a pub nearby to continue discussing more informally. We felt that it was a very successful event. |
-| **Photos**: | {{< figure src="/img/EOU-Culina.jpg" alt="Plenary presentation by Antica Culina" width="300px" >}}<br>{{< figure src="/img/EOU-Aug2025.jpg" alt="Round table discussion facilitated by Giulia Masoero and Matthieu Paquet" width="300px" >}}<br>{{< figure src="/img/EOU-roundtable.jpg" alt="Meet-up after the round table (not financially supported)" width="300px" >}} |
+| **Photos**: | {{< figure src="/img/EOU-roundtable.jpg" alt="Meet-up after the round table (not financially supported)" width="300px" >}} <br> EOU Wales (August 2025) |
 
 &nbsp;
 
@@ -110,7 +110,7 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 |:---|:---|
 | **Organizer:** | Yeseult Héjja-Brichard |
 | **Summary:** | The poster presentation went rather well. Only a few people knew about SORTEE which felt surprising. Stickers were well appreciated. |
-| **Photos**: | {{< figure src="/img/ABS-Jul2025.jpg" alt="ABS Baltimore poster" width="300px" >}} |
+| **Photos**: | No photos available |
 
 &nbsp;
 
