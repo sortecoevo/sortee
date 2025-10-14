@@ -19,7 +19,7 @@ The 2025 SORTEE conference will run continuously from [**15 October 07:00 UTC to
 
 We are excited to announce our plenary presenters for the 2025 SORTEE Conference:
 
-**Prof. Simine Vazire**: *Journal Prestige Can and Should be Earned*
+**Prof. Simine Vazire**: *Where are the Self-Correcting Mechanisms in Science?*
 
 **Dr. Israel Borokini** *Advancing Ecology and Evolutionary Research in the Global South - African context*
 
