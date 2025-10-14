@@ -333,16 +333,16 @@ Current members are:
  
 ![Tim Parker](T_Parker.png)  
   
-**Chair:** Tim Parker [Contact](mailto:mailto:parkerth@whitman.edu) - [Website](http://people.whitman.edu/~parkerth/))  
+**Chair:** Tim Parker ([Contact](mailto:mailto:parkerth@whitman.edu) - [Website](http://people.whitman.edu/~parkerth/))  
   
 Alfredo Sánchez-Tójar  
 Caleb Onoja Akogwu  
 Gabe Winter  
-[Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)     
+Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada* ([Website](https://mlagisz.weebly.com/))     
 Manasee Weerathunga  
 Oakleigh Wilson  
 Swastika Issar  
-[July Pilowsky (they/he/she), *Cary Institute of Ecosystem Studies, USA*](https://pilowsky.me)  
+July Pilowsky (they/he/she), *Cary Institute of Ecosystem Studies, USA* ([Website](https://pilowsky.me))  
 
 &nbsp;
 &nbsp;
@@ -360,12 +360,12 @@ Current members are:
 
 ![Natalie van Dis](N.VanDiss.png)  
   
-**Chair:** [Natalie van Dis](mailto:natalie.vandis@helsinki.fi) ([Website](https://scholar.google.com/citations?user=UTC6iJMAAAAJ&hl=en))  
+**Chair:** Natalie van Dis ([Contact](mailto:natalie.vandis@helsinki.fi) - [Website](https://scholar.google.com/citations?user=UTC6iJMAAAAJ&hl=en))  
   
-[Cecilia Baldoni](https://cecibaldoni.github.io/)  
+Cecilia Baldoni ([Website](https://cecibaldoni.github.io/))  
 Charlotte Recapet  
 Corné de Groot  
-[Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada*](https://mlagisz.weebly.com/)     
+Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Australia; University of Alberta, Canada* ([Website](https://mlagisz.weebly.com/))     
 Rachel Turba  
 
 &nbsp;
