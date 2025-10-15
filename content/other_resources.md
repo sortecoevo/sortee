@@ -103,8 +103,4 @@ This is a Google Sheet created by SORTEE to help researchers find reviewers expe
    
 &nbsp;
 
-
-   
-[//]: # ( ![seeds photo](/img/seeds.jpg#textphoto) )
-
 &nbsp;
