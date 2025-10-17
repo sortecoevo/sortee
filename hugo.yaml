@@ -198,10 +198,10 @@ params:
     new_news:
         enable: true
         icon: "fas fa-globe"
-        title: "2025 SORTEE conference 15-16th October"
-        subtitle: "Program is now online!"
-        link_url: "/upcoming"
-        link_text: "Read more"
+        title: "Become a 2026 SORTEE volunteer!"
+        subtitle: "Nominations are now open for Member of the Board of Directors, Committee Chair, and Committee Volunteer positions. Please consider applying! If you have friends/colleagues who care about open science in ecology and evolution, encourage them to apply too."
+        link_url: "https://docs.google.com/forms/d/e/1FAIpQLSe1t7EK3MQPGPlSSJ14_-eSROkdLSV_Nt1Eg9l564u5dTeRag/viewform?usp=header"
+        link_text: "Apply now (deadline on 31 Oct 2025)"
     
     see_more:
         enable: true
