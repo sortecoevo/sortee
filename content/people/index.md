@@ -126,10 +126,10 @@ As specified in the [SORTEE bylaws](https://www.sortee.org/bylaws/), the Executi
 Current officers are:
 &nbsp;
 
-Ed Ivimey-Cook (he/him), *University of Glasgow, UK*   **(President)**    ([Website](https://eivimeycook.github.io/))
-Marija Purgar **(President-Elect)** ([Website](https://www.irb.hr/eng/About-RBI/People/Marija-Purgar-Filjak))
-Rose O’Dea **(Past President)**    ([Website](https://www.roseodea.com/))
-Alexa Fredston **(Treasurer)**  ([Website](https://www.alexafredston.com/))
+Ed Ivimey-Cook (he/him), *University of Glasgow, UK*   **(President)**    ([Website](https://eivimeycook.github.io/))  
+Marija Purgar **(President-Elect)** ([Website](https://www.irb.hr/eng/About-RBI/People/Marija-Purgar-Filjak))  
+Rose O’Dea **(Past President)**    ([Website](https://www.roseodea.com/))  
+Alexa Fredston **(Treasurer)**  ([Website](https://www.alexafredston.com/))  
 Kaija Gahm **(Secretary)**   ([Website](http://kaijagahm.netlify.app/))
 
 &nbsp;
@@ -149,7 +149,7 @@ Current members are:
 **Chair:** Joel Pick (he/him), *University of Edinburgh, UK* ([Contact](mailto:joel.l.pick@gmail.com) - [Website](https://joelpick.github.io))  
   
 Christian John (he/him), *University of California, USA*   
-Ed Ivimey-Cook (he/him), *University of Glasgow, UK* [Website](https://eivimeycook.github.io/)  
+Ed Ivimey-Cook (he/him), *University of Glasgow, UK* ([Website](https://eivimeycook.github.io/))  
 Julia Sharapi (she/her), *Stanford University, USA*  
 Kevin Bairos-Novak  
 Leyla Cabugos (she/her), *California Polytechnic State University, USA*    
@@ -234,7 +234,7 @@ Current members are:
 ![Friederike (freddy) Hillemann](F_Hillemann.png)  
 **Co-Chair:** Friederike (freddy) Hillemann ([Contact](mailto:f.hillemann@web.de) - [Website](https://fhillemann.github.io/))  
   
-Charlotte Recapet (they/them), *Université Pau Pays de l'Adour, France* ([Website](https://recherche.univ-pau.fr/en/pagesperso/cv_en_-crecapet-en.html)) 
+Charlotte Recapet (they/them), *Université Pau Pays de l'Adour, France* ([Website](https://recherche.univ-pau.fr/en/pagesperso/cv_en_-crecapet-en.html))  
 Elvira D'Bastiani (she/her), *University of California, USA* ([Website](https://www.elviradbastiani.com))    
 Frigg Speelman   
 Manasee Weerathunga  
