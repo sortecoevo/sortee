@@ -195,13 +195,13 @@ params:
         link_url: "https://tinyurl.com/volunteerSORTEE2025"
         link_text: "Click here!"
     
-    new_news:
-        enable: true
-        icon: "fas fa-globe"
-        title: "Become a 2026 SORTEE volunteer!"
-        subtitle: "Nominations are now open for Member of the Board of Directors, Committee Chair, and Committee Volunteer positions. Please consider applying! If you have friends/colleagues who care about open science in ecology and evolution, encourage them to apply too."
-        link_url: "https://docs.google.com/forms/d/e/1FAIpQLSe1t7EK3MQPGPlSSJ14_-eSROkdLSV_Nt1Eg9l564u5dTeRag/viewform?usp=header"
-        link_text: "Apply now (deadline on 31 Oct 2025)"
+    # new_news:
+    #     enable: false
+    #     icon: "fas fa-globe"
+    #     title: "Become a 2026 SORTEE volunteer!"
+    #     subtitle: "Nominations are now open for Member of the Board of Directors, Committee Chair, and Committee Volunteer positions. Please consider applying! If you have friends/colleagues who care about open science in ecology and evolution, encourage them to apply too."
+    #     link_url: "https://docs.google.com/forms/d/e/1FAIpQLSe1t7EK3MQPGPlSSJ14_-eSROkdLSV_Nt1Eg9l564u5dTeRag/viewform?usp=header"
+    #     link_text: "Apply now (deadline on 31 Oct 2025)"
     
     see_more:
         enable: true
