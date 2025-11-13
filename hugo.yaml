@@ -219,3 +219,9 @@ params:
 
 Permalinks:
     blog: "/blog/:year/:month/:day/:contentbasename/"
+
+markup:
+  tableOfContents:
+    endLevel: 3
+    ordered: true
+    startLevel: 1
