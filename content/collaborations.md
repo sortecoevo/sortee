@@ -26,7 +26,7 @@ Selected past SORTEE hackathons, and related past and ongoing collaborative proj
 
 **Additional Work & Outcomes:** There were no mandatory tasks following the hackathon, but participants were encouraged to follow up with journal editors if they did not receive a response. The list of journals was made publicly available for further outreach. While no publishable content was expected, the event aimed to drive real-world change by promoting registered reports in academic publishing.
 
-# **Outputs:** database of contacted journals. One journal (i.e., Ethology) adopted Registered Reports in response to this hackathon. 
+**Outputs:** database of contacted journals. One journal (i.e., Ethology) adopted Registered Reports in response to this hackathon. 
 
 ### **Short Title: Promoting GitHub Use in EcoEvo**
 
@@ -108,7 +108,7 @@ Selected past SORTEE hackathons, and related past and ongoing collaborative proj
 
 **Additional Work & Outcomes:** Participants collaborated on designing a database to compile journal policies on data and code sharing during and after publication. The hackathon laid the groundwork for a future publication on open science practices in peer review. Those who actively engaged during or after the hackathon via Slack or Google Docs were included as authors.
 
-**Outputs:** Preprint manuscript -  Ivimey-Cook, E., Sánchez-Tójar, A., Berberi, I., Culina, A., Roche, D., Almeida, R., Amin, B., Bairos-Novak, K., Balti, H., Bertram, M., Bliard, L., Byrne, I., Chan, Y.-C., Cioffi, W., Corbel, Q., Elsy, A., Florko, K., Gould, E., Grainger, M., ... Moran, N. (2025). From Policy to Practice: Progress towards Data- and Code-Sharing in Ecology and Evolution. EcoEvoRxiv.<https://doi.org/10.32942/X2492Q>.
+**Outputs:** Published article: Ivimey-Cook, E. R., Sánchez-Tójar, A., Berberi, I., Culina, A., Roche, D. G., A Almeida, R., Amin, B., Bairos-Novak, K. R., Balti, H., Bertram, M. G., Bliard, L., Byrne, I., Chan, Y. C., Cioffi, W. R., Corbel, Q., Elsy, A. D., Florko, K. R. N., Gould, E., Grainger, M. J., Harshbarger, A. E., … Moran, N. P. (2025). From policy to practice: progress towards data- and code-sharing in ecology and evolution. Proceedings. Biological sciences, 292(2055), 20251394. <https://doi.org/10.1098/rspb.2025.1394>
 
 ### **Short Title: The First 1000 EcoEvoRxiv Preprints: Did They Get Published and Where?**
 

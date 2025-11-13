@@ -54,21 +54,4 @@ No plenary sessions were held at the SORTEE 2023 conference.
 
 ---
 
-# SORTEE Conference products
-
-* Ivimey-Cook, E. R., Pick, J. L., Bairos-Novak, K., Culina, A., Gould, E., Grainger, M., ... & Windecker, S. (2023). [Implementing Code Review in the Scientific Workflow: Insights from Ecology and Evolutionary Biology.](https://doi.org/10.32942/X2CG64) EcoEvoRxiv.
-
- 
-
-* Braga, P. H. P., Hébert, K., Hudgins, E. J., Scott, E. R., Edwards, B. P., Sánchez Reyes, L. L., ... & Crystal‐Ornelas, R. (2023). [Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution.](https://doi.org/10.1111/2041-210X.14108) Methods in Ecology and Evolution.
-
- 
-
-* Nakagawa, S., Ivimey-Cook, E. R., Grainger, M. J., O’Dea, R. E., Burke, S., Drobniak, S. M., ... & Lagisz, M. (2023). [Method Reporting with Initials for Transparency (MeRIT) promotes more granularity and accountability for author contributions.](https://doi.org/10.1038/s41467-023-37039-1) Nature Communications, 14(1), 1788.
-
- 
-* Gomes, D. G., Pottier, P., Crystal-Ornelas, R., Hudgins, E. J., Foroughirad, V., Sánchez-Reyes, L. L., ... & Gaynor, K. M. (2022). [Why don't we share data and code? Perceived barriers and benefits to public archiving practices.](https://doi.org/10.1098/rspb.2022.1113) Proceedings of the Royal Society B, 289(1987), 20221113.
-
----
-
 You can download our **conference app** [here](https://github.com/SORTEE/Conference-app) and adapt it to your own conference.
