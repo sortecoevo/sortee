@@ -1,0 +1,18 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $caption := .Get "caption" }}
+{{ $width := .Get "width" }}
+{{ $height := .Get "height" }}
+{{ $class := "" }}
+
+{{- if strings.HasSuffix $src "#center" -}}
+  {{ $class = "centered-figure" }}
+{{- end -}}
+
+<figure{{ with $class }} class="{{ . }}"{{ end }}>
+  <img src="{{ $src }}" 
+       {{ with $alt }}alt="{{ . }}"{{ end }}
+       {{ with $width }}width="{{ . }}"{{ end }}
+       {{ with $height }}height="{{ . }}"{{ end }}>
+  {{ with $caption }}<figcaption><p>{{ . }}</p></figcaption>{{ end }}
+</figure>

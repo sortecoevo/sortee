@@ -72,3 +72,23 @@ body {
   text-align: center !important;
   margin-bottom: 0 !important;
 }
+
+/* Table styling - adding borders and padding */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+table th,
+table td {
+  border: 1px solid #ddd;
+  padding: 12px 15px;
+  text-align: left;
+  vertical-align: top;
+}
+
+table th {
+  font-weight: bold;
+  border-bottom: 2px solid;
+}
