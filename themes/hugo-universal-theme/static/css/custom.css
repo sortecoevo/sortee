@@ -52,3 +52,23 @@ body {
 #copyright {
   padding: 20px 0;
 }
+
+/* Centered figure shortcode styling */
+.centered-figure {
+  text-align: center !important;
+}
+
+.centered-figure img {
+  display: block !important;
+  margin: 0.7rem auto !important;
+}
+
+.centered-figure figcaption {
+  text-align: center !important;
+  margin-top: 0.5rem !important;
+}
+
+.centered-figure figcaption p {
+  text-align: center !important;
+  margin-bottom: 0 !important;
+}

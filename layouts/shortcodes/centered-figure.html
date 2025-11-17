@@ -1,0 +1,13 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $caption := .Get "caption" }}
+{{ $width := .Get "width" }}
+{{ $height := .Get "height" }}
+
+<figure class="centered-figure">
+  <img src="{{ $src }}" 
+       {{ with $alt }}alt="{{ . }}"{{ end }}
+       {{ with $width }}width="{{ . }}"{{ end }}
+       {{ with $height }}height="{{ . }}"{{ end }}>
+  {{ with $caption }}<figcaption><p>{{ . }}</p></figcaption>{{ end }}
+</figure>
