@@ -110,7 +110,7 @@ We were a team of seven. Most of us were based in Europe — except Stephanie, w
 + Stephanie Flaman, a MSc student developing remote sensing tools for estimating aboveground biomass of shelterbelts growing on agricultural land. This year, I was the platform manager for the SORTEE 2025 conference where I updated various guides and led the technical side of the conference. In my spare time, I play in a trombone choir and jazz band,  indulge in long distance running, and volunteer at a wildlife rehab.
 
 
-{{< centered-figure src="/img/committee_members.png" width="800px" alt="Conf committee members around a tree" caption="SORTEE 2025 conference team in a virtual space (photo by Roman Samborskyi, Adobe Stock, edited by July Pilowsky)">}} 
+{{< centered-figure src="/img/committee_members.png" width="700px" alt="Conf committee members as animals around a tree" caption="SORTEE 2025 conference team in a virtual space (image by Andy Dao (CC BY 4.0), modified by Ineta Kačergytė)">}} 
 
 &nbsp;
 
