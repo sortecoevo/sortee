@@ -27,7 +27,7 @@ In his talk, Dr. Borokini drew attention to Africa’s understudied, yet globall
 Interested in learning more about the challenges faced by researchers in the Global South and how we can make science more equitable? Watch [Dr. Borokini’s plenary talk “Advancing ecology and evolutionary research in the Global South – African context”](https://www.youtube.com/watch?v=YqBFkkZSTfs).
 
 
-{{< centered-figure src="s/img/Conf2025_Recording plenary Simine thumbnail.png" width="350px" alt="Israel Borokini plenary talk presentation" >}} 
+{{< centered-figure src="/img/Conf2025_Recording plenary Israel thumbnail.png" width="350px" alt="Israel Borokini plenary talk presentation" >}} 
 
 &nbsp;
 
