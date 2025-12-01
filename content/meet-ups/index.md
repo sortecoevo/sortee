@@ -54,19 +54,19 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 
 ## Photos from some SORTEE meet-ups and outreach events at in-person conferences 
 
-{{< figure src="/img/ESEB-Aug2025.jpg" alt="" width="300px" >}} <br> ESEB Barcelona (August 2025)
+{{< figure src="img/ESEB-Aug2025.jpg" alt="" width="300px" >}} <br> ESEB Barcelona (August 2025)
 
 &nbsp;
 
-{{< figure src="/img/EOU-roundtable.jpg" alt="Meet-up after the round table (not financially supported)" width="300px" >}} <br> EOU Wales (August 2025)
+{{< figure src="img/EOU-roundtable.jpg" alt="Meet-up after the round table (not financially supported)" width="300px" >}} <br> EOU Wales (August 2025)
 
 &nbsp;
 
-{{< figure src="/img/AOS-Aug2025.jpg" alt="AOS St. Louis (August 2025)" width="300px" >}} <br> AOS St. Louis (August 2025)
+{{< figure src="img/AOS-Aug2025.jpg" alt="AOS St. Louis (August 2025)" width="300px" >}} <br> AOS St. Louis (August 2025)
 
 &nbsp;
 
-{{< figure src="/img/ESA-Aug2025.jpg" alt="ESA Baltimore (August 2025)" width="300px" >}} <br> ESA Baltimore (August 2025)
+{{< figure src="img/ESA-Aug2025.jpg" alt="ESA Baltimore (August 2025)" width="300px" >}} <br> ESA Baltimore (August 2025)
 
 &nbsp;
 
@@ -76,19 +76,19 @@ Meet-up hosts must agree to abide by [SORTEE’s Code of Conduct](https://www.so
 
 | Conference | Location & Date | Photo |
 |:---|:---|:---:|
-| ESAustralia | Melbourne (December 2024) | {{< figure src="/img/ESA_Dec2024.jpg" width="300px" >}} |
-| ISBE | Melbourne (October 2024) | {{< figure src="/img/ISBE2024.jpg" width="300px" >}} |
-| ESA | Long Beach, CA (August 2024) | {{< figure src="/img/ESA2024.JPEG" width="300px" >}} |
-| ESEB | Montreal (July 2024) | {{< figure src="/img/ESEB2024.JPEG" width="300px" >}} |
-| ISEC | Swansea (July 2024) | {{< figure src="/img/ISEC2024.JPEG" width="300px" >}} |
-| IWEC | Bengaluru (June 2024) | {{< figure src="/img/IndianWildlife2024.jpeg" width="300px" >}} |
-| Swiss Reproducibility Conference | Zurich (June 2024) | {{< figure src="/img/SwissReproConf2024.jpg" width="300px" >}} |
-| EOU Fledglings Meeting | Prague (March 2024) | {{< figure src="/img/fledglings2024.jpg" width="300px" >}} |
-| The promises and pitfalls of preregistration | London (March 2024) | {{< figure src="/img/london2024.png" width="300px" >}} |
-| ESA | Portland (August 2023) | {{< figure src="/img/ESA2023.jpg" width="300px" >}} |
-| Behaviour | Bielefeld (August 2023) | {{< figure src="/img/Behaviour_Bielefeld.jpg" width="300px" >}} |
-| SFE2-GfÖ-EEF | Metz (November 2022) | {{< figure src="/img/SFE2-GfO-EEF_catchup1.jpeg" width="300px" >}} |
-| ESEB | Prague (August 2022) | {{< figure src="/img/ESEB2022_catchup.JPG" width="300px" >}} |
-| ESA/CSEE | Montreal (August 2022) | {{< figure src="/img/ESA2022_catchup.JPG" width="300px" >}} |
+| ESAustralia | Melbourne (December 2024) | {{< figure src="img/ESA_Dec2024.jpg" width="300px" >}} |
+| ISBE | Melbourne (October 2024) | {{< figure src="img/ISBE2024.JPEG" width="300px" >}} |
+| ESA | Long Beach, CA (August 2024) | {{< figure src="img/ESA2024.JPEG" width="300px" >}} |
+| ESEB | Montreal (July 2024) | {{< figure src="img/ESEB2024.JPEG" width="300px" >}} |
+| ISEC | Swansea (July 2024) | {{< figure src="img/ISEC2024.JPEG" width="300px" >}} |
+| IWEC | Bengaluru (June 2024) | {{< figure src="img/IndianWildlife2024.jpeg" width="300px" >}} |
+| Swiss Reproducibility Conference | Zurich (June 2024) | {{< figure src="img/SwissReproConf2024.jpg" width="300px" >}} |
+| EOU Fledglings Meeting | Prague (March 2024) | {{< figure src="img/fledglings2024.jpg" width="300px" >}} |
+| The promises and pitfalls of preregistration | London (March 2024) | {{< figure src="img/london2024.png" width="300px" >}} |
+| ESA | Portland (August 2023) | {{< figure src="img/ESA2023.jpg" width="300px" >}} |
+| Behaviour | Bielefeld (August 2023) | {{< figure src="img/Behaviour_Bielefeld.jpg" width="300px" >}} |
+| SFE2-GfÖ-EEF | Metz (November 2022) | {{< figure src="img/SFE2-GfO-EEF_catchup1.jpeg" width="300px" >}} |
+| ESEB | Prague (August 2022) | {{< figure src="img/ESEB2022_catchup.JPG" width="300px" >}} |
+| ESA/CSEE | Montreal (August 2022) | {{< figure src="img/ESA2022_catchup.JPG" width="300px" >}} |
 
 
