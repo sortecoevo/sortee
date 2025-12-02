@@ -12,7 +12,7 @@ banner: img/2025_Code_club.png
 ---
 &nbsp;
 
-**SORTEE Code Club debrief: Getting started with Shiny: build interactive applications in R - June, 17th 2025**
+**SORTEE Code Club Unconference 5: How to start your own code club - October, 16th 2025**
 
 Author: Cecilia Baldoni, Saoirse Kelleher, Natalie van Dis, Corné de Groot
 
