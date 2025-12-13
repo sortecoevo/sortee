@@ -229,7 +229,7 @@ The Diversity, Equity, and Inclusion Committee promotes diversity, equity, and i
 Current members are:   
   
 ![Brooke Long-Fox](B_Long-Fox.png)  
-**Co-Chair:** Brooke Long-Fox (she/her/hers), *MorphoBank, Phoenix Bioinformatics; South Dakota School of Mines and Technology, USA* ([Contact](mailto:blongfox@morphobank.org))  
+**Co-Chair:** Brooke Long-Fox (she/her/hers), *MorphoBank, Phoenix Bioinformatics, USA* ([Contact](mailto:blongfox@morphobank.org))  
   
 ![Friederike (freddy) Hillemann](F_Hillemann.png)  
 **Co-Chair:** Friederike (freddy) Hillemann ([Contact](mailto:f.hillemann@web.de) - [Website](https://fhillemann.github.io/))  
@@ -271,7 +271,7 @@ Nicholas Wu, *Murdoch University, Australia*
 Niladri Mondal (he/him), *Katholic University at Leuven, Belgium*    
 Pablo Recio Santiago  
 Yseult Héjja-Brichard (she/they), *University of Veterinary Medicine in Vienna, Austria; University of Vienna, Austria* ([Website](https://yseulthb.github.io/))  
-Brooke Long-Fox (she/her/hers), *MorphoBank, Phoenix Bioinformatics; South Dakota School of Mines and Technology, USA*   
+Brooke Long-Fox (she/her/hers), *MorphoBank, Phoenix Bioinformatics, USA*   
 
 &nbsp;
 &nbsp;
@@ -381,13 +381,11 @@ The purpose of the SAB is to provide senior counsel and advice to SORTEE leaders
 Current members are:   
 
 Allen Moore  
-Ben Sheldon   
 Bob Montgomerie     
 Bob Wong     
 Fiona Fidler     
 Julia Koricheva     
 Klaus Reinhold     
-Loeske Kruuk     
 Mark Burgman     
 Michael Jennions     
 Nicolas Galtier     
