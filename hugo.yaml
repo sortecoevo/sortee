@@ -119,7 +119,7 @@ menu:
           url: "/chapter_brasil/"
           weight: 180
         - parent: "join"
-          name: "2025 Membership"
+          name: "Membership"
           url: "/join/"
           weight: 175
 

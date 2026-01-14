@@ -39,7 +39,8 @@ title: People
 * [2021 Annual Report](https://osf.io/eb4ph)   
 * [2022 Annual Report](https://osf.io/va7eq)     
 * [2023 Annual Report](https://osf.io/5s2xc)     
-* [2024 Annual Report](https://osf.io/gsw6x)     
+* [2024 Annual Report](https://osf.io/gsw6x)
+* [2025 Annual Report](https://osf.io/6yzxb/files/rzcbv)
 
 
 &nbsp;
