@@ -26,7 +26,7 @@ Besides the *Pay No Fees* option (no questions asked), we are offering everyone 
 
 To **join SORTEE** or update your membership details, please go to: <https://www.joinit.org/o/sortee/>.
 
-Note that this fee covers an annual membership to SORTEE and **expires on the 31st December** at the end of each calendar year.
+Note that this fee covers an annual membership to SORTEE and expires one year from the date on which membership dues are paid.
 
 
  
