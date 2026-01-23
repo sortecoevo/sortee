@@ -16,9 +16,9 @@ In 2022, we moved to a suggested membership fee model to support the society's c
 
 We have kept the suggested annual membership fees the same since 2022 (amounts are in US$):
 
--   **Senior-career professionals**: \$40
--   **Early-career professionals**: \$20
--   **Students**: \$10
+-   **Senior-career professionals**: \$40 (\$110 for 3 years)
+-   **Early-career professionals**: \$20 (\$50 for 3 years)
+-   **Students**: \$10 (\$25 for 3 years)
 -   **Pay No Fees**: Free
 -   **Pay What You Can**: Minimum \$0.50 (50 cents)
 
