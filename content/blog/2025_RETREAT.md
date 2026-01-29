@@ -1,7 +1,7 @@
 ---
 title: 'Reflections from the SORTEE 2025 Leadership Retreat'
 author: SORTEE 2025 Leadership Retreat participants
-date: "2025-12-02"
+date: "2025-12-12"
 summary: Discover the highlights from the SORTEE 2025 Leadership Retreat! This blog post covers key outcomes from three days of inspiring discussions on SORTEE’s vision, sustainability, and governance. Explore the priorities taking shape for 2026, our plans to strengthen visibility and collaboration within the EcoEvo community, and a snapshot of the retreat in numbers.
 
 categories:
