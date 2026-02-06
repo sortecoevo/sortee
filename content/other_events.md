@@ -23,7 +23,17 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 ---
 &nbsp;
 
+## February 2026
 
+### **Title:** *Data all the way down: How uncovering the data underlying research findings impacts every aspect of scholarly communication*
+
+**Panelists:** DataDryad & SORTEE; representatives from Dryad, OpenRXiv, eLife, Morphobank, and British Ecological Society Journals\
+**Type:** Panel\
+**Date and Time:** February 12 2026, 17:00 UTC\
+**Timezone(s):** Americas/Europe/Africa\
+**Duration:** 60 min\
+**Summary:** We love data — but questions remain: should data be publicly available before article publication? How can we make data sharing easier for researchers? What could AI and big data mean for existing open datasets? This panel will explore the challenges and opportunities of uncovering and sharing the data that underpins research across scholarly communication.\
+[Register here](https://events.humanitix.com/love-data-week-panel-discussion-data-all-the-way-down)
 
 ---
 &nbsp;
