@@ -116,7 +116,7 @@ menu:
           weight: 75
         - parent: "join"
           name: "Local Chapters"
-          url: "/chapter_brasil/"
+          url: "/chapters/"
           weight: 180
         - parent: "join"
           name: "Membership"
