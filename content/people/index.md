@@ -343,7 +343,7 @@ Malgorzata (Losia) Lagisz (she/her), *The University of New South Wales, Austral
 Manasee Weerathunga  
 Oakleigh Wilson  
 Swastika Issar  
-July Pilowsky (they/he/she), *Cary Institute of Ecosystem Studies, USA* ([Website](https://pilowsky.me))  
+July Pilowsky (they/he/she), *Cary Institute of Ecosystem Studies, USA; Museo de Ciencias Naturales, Spain* ([Website](https://pilowsky.me))  
 
 &nbsp;
 &nbsp;
