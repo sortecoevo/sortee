@@ -1,7 +1,7 @@
 ---
 aliases:
 - people-us
-layout: page
+layout: people
 description: People of the Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE)
 title: People
 ---

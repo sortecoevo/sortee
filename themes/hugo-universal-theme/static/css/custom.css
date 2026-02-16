@@ -92,3 +92,14 @@ table th {
   font-weight: bold;
   border-bottom: 2px solid;
 }
+
+/* Circular image frames for people page only */
+.people-page img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  margin: 1rem auto;
+}
