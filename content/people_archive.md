@@ -8,7 +8,37 @@ title: Previous Board Members
 
 ### Former members of the Board of Directors
 
-![Kaija Gahm](/img/KaijaGahm.png)   
+ 
+
+![Ed Ivimey-Cook](/people/Ed_IvimeyCook.png)  
+
+2023-2025
+
+[Ed Ivimey-Cook](https://eivimeycook.github.io/) is a post-doctoral researcher at the University of
+Glasgow.  
+ 
+
+![Patrice Pottier](/people/Patrice_Pottier.png) 
+
+2023-2025
+
+[Patrice Pottier](http://www.i-deel.org/patrice-pottier.html)
+is a PhD student at the University of New South Wales.  
+ 
+
+![Alfredo Sánchez Tójar](/people/Alfredo_SanchezTojar.png)
+
+2023-2025
+
+[Alfredo Sánchez Tójar](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/evo_biology/team/tojar/)
+is a researcher at Bielefeld University, where he focuses on evidence
+synthesis and meta-research in ecology and evolution.
+
+ 
+
+
+
+![Kaija Gahm](/people/Kaija_Gahm.png)   
 2022-2024  
 [Kaija Gahm](http://kaijagahm.netlify.app/) is a PhD student at UCLA, studying spatiotemporal dynamics of vulture social networks in the Pinter-Wollman lab.   
 &nbsp;
