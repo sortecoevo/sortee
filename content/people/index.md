@@ -55,29 +55,10 @@ This is an elected committee that is ultimately responsible for SORTEE.
 Three positions on the board come open each year and are elected by the
 members of SORTEE in November. These terms last for three (3) years.
 
-**Members serving from 2025 through 2027 are:**  
-
-&nbsp;  
-
-![Michael Bertram](MichaelBertram.png)  
-Michael Bertram (he/him) ([Website](https://www.michaelbertramlab.org)) is an Assistant Professor at the Swedish University of Agricultural Sciences, where he investigates the impacts of human-induced environmental change on wildlife populations.
-
-&nbsp;  
-
-![Stephanie Flaman](Stephanie_Flaman.png)  
-Stephanie Flaman is a MSc student at the University of Regina in conjunction with Agriculture and Agri-Food Canada.  
-
-&nbsp;  
-
-![Marija Purgar](Marija_Purgar.png)  
-Marija Purgar ([Website](https://www.irb.hr/eng/About-RBI/People/Marija-Purgar-Filjak)) is a PhD student in Oceanology at the Faculty of Science and a research assistant at the Ruđer Bošković Institute, Zagreb.  
-
+ 
+ 
 
 **Members serving from 2026 through 2028 are:**
-
- 
-![Matthieu Paquet](Matthieu_Paquet.png)  
-Matthieu Paquet, (he/him) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu)) is a researcher working on behavioural ecology and population dynamics at the Theoretical and Experimental Ecology Station (SETE,CNRS).  
 
 ![Ineta Kačergytė](Ineta_Kačergytė.jpg)  
 Ineta Kačergytė (she/her)
@@ -105,11 +86,40 @@ interested in the evolution of fish behaviour. Juliette currently works
 on tool use by fishes ([project website](https://fishtooluse.com))
 remotely with Macquarie University.
 
+ 
+ 
+
+**Members serving from 2025 through 2027 are:**  
+
+&nbsp;  
+
+![Michael Bertram](Michael_Bertram.png)  
+Michael Bertram (he/him) ([Website](https://www.michaelbertramlab.org)) is an Assistant Professor at the Swedish University of Agricultural Sciences, where he investigates the impacts of human-induced environmental change on wildlife populations.
+
+&nbsp;  
+
+![Stephanie Flaman](Stephanie_Flaman.png)  
+Stephanie Flaman is a MSc student at the University of Regina in conjunction with Agriculture and Agri-Food Canada.  
+
+&nbsp;  
+
+![Marija Purgar](Marija_Purgar.png)  
+Marija Purgar ([Website](https://www.irb.hr/eng/About-RBI/People/Marija-Purgar-Filjak)) is a PhD student in Oceanology at the Faculty of Science and a research assistant at the Ruđer Bošković Institute, Zagreb.  
+
+ 
+ 
+
+**Members serving from 2024 through 2026 are:**  
+
+![Matthieu Paquet](Matthieu_Paquet.png)  
+Matthieu Paquet, (he/him) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu)) is a researcher working on behavioural ecology and population dynamics at the Theoretical and Experimental Ecology Station (SETE,CNRS).  
+
 ![Malgorzata (Losia) Lagisz](Losia_Lagisz.png) Malgorzata (Losia) Lagisz
 (she/her) ([Website](https://mlagisz.weebly.com/) and
 [Labwebsite](https://i-deel.org/)) is an Associate Professor at the
 University of Alberta in Canada, where she works on meta-research and
 evidence synthesis.
+
 
 ------------------------------------------------------------------------
 
