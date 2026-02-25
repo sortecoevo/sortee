@@ -23,6 +23,18 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 ---
 &nbsp;
 
+## March 2026
+
+### **Title:** *On what makes good sharable and reproducible R code, how to do it, and why it’s good for science*
+
+**Presenter:** Dr. Dax Kellie, Atlas of Living Australia\
+**Type:** Webinar\
+**Date and Time:** March 16 22:30 UTC\
+**Timezone(s):** Australasia/Americas\
+**Duration:** 60 min\
+**Summary:** Using code for data wrangling, analysis and visualisation is increasingly seen as fundamental to quantitative ecology and biology. In addition, there is an increasing push for scientists to share their code alongside their publications for reproducibility. However, sharing code does not by itself equate to an analysis being reproducible. Despite many scientists using code, many lack formal training in best coding practices, and this makes scientific code particularly prone to formatting that reduces the chances of a code script running again without fail in a year’s time. The inability to rerun scientific analyses inhibits scientists (and your future self) from verifying or building upon previous results. In this talk, I’ll provide tips for creating readable and reproducible workflows in R, based on personal learnings making R packages and coding resources that support users of Australia’s largest biodiversity data infrastructure, the Atlas of Living Australia. I’ll speak about how each part of a complete workflow – i.e. making code readable, managing files, and creating rendered outputs – not only improves reproducibility but also creates an effective environment for scientific output. These tips will hopefully make everyone feel that they can work reproducibly, and offer ideas of where to start and what to prioritise.\
+[Register here](https://events.humanitix.com/sortee-webinar-good-r-code)
+
 ## February 2026
 
 ### **Title:** *Data all the way down: How uncovering the data underlying research findings impacts every aspect of scholarly communication*
