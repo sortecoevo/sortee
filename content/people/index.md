@@ -104,8 +104,7 @@ Stephanie Flaman is a MSc student at the University of Regina in conjunction wit
 &nbsp;  
 
 ![Marija Purgar](Marija_Purgar.png)  
-Marija Purgar ([Website](https://www.irb.hr/eng/About-RBI/People/Marija-Purgar-Filjak)) is a PhD student in Oceanology at the Faculty of Science and a research assistant at the Ruđer Bošković Institute, Zagreb.  
-
+Marija Purgar (she/her) is a postdoctoral researcher at the University of Alberta, Canada
  
  
 
