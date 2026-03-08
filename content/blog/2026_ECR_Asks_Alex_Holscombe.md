@@ -7,7 +7,7 @@ categories:
 - blog
 tags:
 - ECR Asks
-title: "ECR Asks: Professor Alex Holscombe"
+title: "ECR Asks: Professor Alex Holcombe"
 ---
 
 'ECR Asks' is a series of Q&A sessions where I speak with experienced researchers to explore their journey in, and perspectives on, open science and transparent research. With the goal of supporting early career researchers like myself, this series aims to answer big questions and share practical insights on navigating the ever evolving landscape of open science and academia.
@@ -18,7 +18,7 @@ I would like to thank Alex for his in-depth answers to my many questions. This e
 
 # Q&A
 
-{{< figure src="/img/AlexHolscombeHeadShot.png" width="400px" alt="headshot of Alex Holscombe">}}
+{{< figure src="/img/AlexHolscombeHeadShot.png" width="400px" alt="headshot of Alex Holcombe">}}
 
 
 One of the biggest challenges in Open Science is ensuring that our research remains both accessible and affordable. Traditional journal publishers often charge authors [substantial Article Processing Charges (APC) for Open Access](https://onlinelibrary.wiley.com/doi/full/10.1002/leap.1558), or place articles behind reader paywalls. Given that much of science is funded through government (and ultimately taxpayer) dollars, it makes little sense for the outputs of this public investment to be monopolised by private publishers or for any financial benefit to flow to private stakeholders. Despite seemingly every researcher balking at this system, it nevertheless persists, and becomes ever more expensive, leaving ECRs like myself asking: “how can we change this?”
@@ -62,7 +62,7 @@ In short, this is a collective action problem. It’s game theory. Currently we 
 ECR: *When I first learned about the current publishing system, I thought: “I'll simply just become an editor-in-chief, and I'll just change the system!” Obviously, however, everyone's had that idea already…*
 
 
-AH: Well, some editor-in-chiefs have made a stand, but it's not easy. There have been cases where an entire editorial board has resigned together. They publicise that this particular journal is blacklisted and encourage the entire community to back their new free journal. It’s worked several times but only when there is strong leadership and an existing community.
+AH: Well, some editor-in-chief have made a stand, but it's not easy. There have been cases where an entire editorial board has resigned together. They publicise that this particular journal is blacklisted and encourage the entire community to back their new free journal. It’s worked several times but only when there is strong leadership and an existing community.
 
 
 ECR: *How much does it cost to run a publishing house? What are the costs of — hypothetically — SORTEE starting, for example, our own Diamond Access journal?*
