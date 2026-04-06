@@ -16,7 +16,7 @@ I would like to thank Cecilia for her time, and the inspiring, passionate energy
 
 # Q&A
 
-{{< figure src="/img/BaldoniCecilia_Headshot.jpg.png" width="400px" alt="Headshot of Cecilia Baldoni">}}
+{{< figure src="/img/BaldoniCecilia_Headshot.jpg" width="400px" alt="Headshot of Cecilia Baldoni">}}
 
 If the “meta” of metascience encompasses not only research practices but also how scientists organise, communicate, and collaborate in pursuit of their shared goals, then SORTEE’s mission of Open Science can extend to these social elements too. In the same way we seek to continuously improve scientific methods, we can learn from and refine how we coordinate ourselves.
   
