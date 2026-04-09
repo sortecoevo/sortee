@@ -53,7 +53,7 @@ editor_options:
 
 This is an elected committee that is ultimately responsible for SORTEE.
 Three positions on the board come open each year and are elected by the
-members of SORTEE in November. These terms last for three (3) years.
+members of SORTEE in November. These terms last for three (3) years. The Board can be contacted via email at [contact@sortee.org](mailto:contact@sortee.org).
 
  
  
@@ -125,7 +125,7 @@ evidence synthesis.
 ### Executive Committee
 
 As specified in the [SORTEE bylaws](https://www.sortee.org/bylaws/), the
-Executive Committee is chosen by the Board of Directors.
+Executive Committee is chosen by the Board of Directors. The Executive Committee can be contacted via email at [contact@sortee.org](mailto:contact@sortee.org), and the President via [president@sortee.org](mailto:president@sortee.org).
 
 Current officers are:  
 
@@ -542,8 +542,9 @@ Deborah Hawkshaw (she/her), *Biological Sciences Department, University of Alber
 Tim Parker, *Department of biology, Whitman College, USA* 
 ([Website](http://people.whitman.edu/~parkerth/))
 
-![July Pilowsky](SORTEE_logo.png)
+![July Pilowsky](July_Pilowsky.jpg)
 July Pilowsky (they/he/she), *Cary Institute of Ecosystem Studies, USA; Museo de Ciencias Naturales, Spain*
+([Website](https://pilowsky.me))
 
 ![Alfredo Sánchez Tójar](Alfredo_SanchezTojar.png)
 Alfredo Sánchez Tójar (he/him), *University of Coimbra, Portugal*
@@ -608,18 +609,15 @@ Terms of Reference for the Senior Advisory Board can be found
 
 Current members are:
 
-Allen Moore  
-Bob Montgomerie  
+Allen Moore    
 Bob Wong  
 Fiona Fidler  
-Julia Koricheva  
-Klaus Reinhold  
+Julia Koricheva   
 Mark Burgman  
 Michael Jennions  
 Nicolas Galtier  
 Richard McElreath  
 Tracey Chapman  
-William Sutherland
 
      
 
