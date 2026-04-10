@@ -27,53 +27,44 @@ title: "SORTEE awards"
 
  
 
-#### Award Description
-
--   The SORTEE Commendation Awards aim to highlight projects that align with the **aims and values of the society.**
--   A Project is defined as **any work** that is an initiative benefiting the Eco-Evo community by fostering Open Science values or practices (e.g., journal clubs, workshops, seminar series, websites, repositories, tools, educational materials, public talks, podcasts, etc.).
--   The SORTEE Commendation Awards recognise that Projects are often team efforts. As such, the contributions of all project members, rather than individuals, will be highlighted. Note, however, that projects from single individuals can also be nominated.
--   We warmly encourage **diverse nominations** in terms of team membership (e.g., country, gender, professional background) and content (see eligibility criteria below). We will also value projects with any scale of impact - from local (e.g., within a single research group or institution) to global (e.g., publicly accessible websites or repositories).
--   There is **no limit** on the number of SORTEE Commendation awards given by the society per year. Any nominated Projects meeting the eligibility criteria listed below will be awarded a Commendation.
-
- 
-
-#### Eligibility
-
-1.  Projects must contribute to fostering Open Science values or practices such as transparency, robustness of research, or improvement of the scientific system/practice in general, going beyond simply implementing current practices or processes, with actual impact on any scale. Open-access data/code from journal publications is not considered going beyond current practices.
-2.  Projects should be related at least remotely to the fields of ecology and/or evolutionary biology or closely related fields.
-3.  Evidence of the project has to be provided, e.g., by photos, websites, teaching/outreach materials, screenshots of news or social posts, recommendation letters, repositories, preprints.
-4.  The person nominating the project, or at least one project member, must be a current SORTEE member (newly joined members are eligible).
-5.  Current SORTEE Awards Committee members, SORTEE Awards DEI Representative, members of the Board of Directors and Executive Officers ([the secretary, treasurer, past president, president, president-elect](sortee.org/people)) are not eligible to nominate a Project, or be a member of a nominated Project.
-
- 
-
-#### Nomination process
-
-Project nominations can be submitted year-round until **two months before the SORTEE conference.** This two-month time period allows for assessing nominations by the Awards Committee and approval by the Board of Directors. Submissions made within this period will be transferred to the pool of submissions for the following round.
-
-Projects may be self-nominated by project members, or nominated by individuals who were not project members. Project nominations must be submitted through an online [SORTEE Project Award nomination form](https://forms.gle/gFM47pAYe6mjECUU9) and a [document upload template.](https://docs.google.com/document/d/19R1tAcS_fNoXbxKvx3eaFYMhXJI7hvau/edit?usp=sharing&ouid=110356474356884735091&rtpof=true&sd=true) The nomination form requires the following information:
-
-1.  Name of the nominated Project
-2.  Name and email address of the person nominating the Project, and information on whether it is a self-nomination (from a project member) or not (from a person who is not a project member).
-3.  Name of one member of the nominated Project, or the name of the nominating person, who is a current SORTEE member (there is no time limit between joining SORTEE and submitting an award nomination), for eligibility purposes.
-4.  One completed nomination document (using the document upload template), containing the name of the nominated project and the following 3 sections:
-    -   Names, email addresses, primary institutional affiliations (where appropriate), and contributions of all project members in a structured format as an attached document (file). We remind the nominator to ensure all under-represented groups are given appropriate credit for their contributions.
-    -   Description (maximum 500 words) of why the Project is deserving of a SORTEE Commendation Award. This section may include showing how the project goes beyond simply implementing current scientific practices or processes, and its actual impact on any scale.
-    -   Evidence supporting the project (maximum 2 pages). This section can contain copies of photos, websites, teaching/outreach materials, news and social posts, recommendation letters, repositories, preprints, or links (accessible to adjudicators through URLs / DOIs) to any additional documents evidencing the project.
-
- 
-
-#### Assessment process
-
--   The SORTEE Awards Committee will assess whether applications meet the SORTEE Commendation Awards eligibility criteria, as listed above.
--   Eligible Projects will then be proposed by the SORTEE Awards Committee to the SORTEE Board of Directors who will vote on the final approval.
--   We will inform the nominating person and project members about the assessment outcome using the contact details provided on the nomination form.
--   Awards will be announced during the SORTEE annual virtual conference and then posted on the [SORTEE website](http://www.sortee.org) and social media (currently: Mastodon, X, Facebook, LinkedIn).
-
- 
-
-[**NOMINATION DOCUMENT TEMPLATE**](https://docs.google.com/document/d/19R1tAcS_fNoXbxKvx3eaFYMhXJI7hvau/edit?usp=sharing&ouid=110356474356884735091&rtpof=true&sd=true) **(to be downloaded, filled in and provided as an attachment with the online submission form)**
-
+### Award Description
+- The SORTEE Commendation Awards aim to highlight Projects that align with the aims and values of the society.
+- A Project is defined as any work that is an initiative benefiting the Eco-Evo community by fostering Open Science values or practices (e.g., journal clubs, workshops, seminar series, websites, repositories, tools, educational materials, public talks, podcasts, etc.).
+- Sharing open data and/or code alongside a publication or software output is strongly valued; however, the presence of these materials alone does not constitute a project aimed at fostering Open Science values or practices. This means that a single research article with shared data or code will not be considered unless it involves a sustained effort, resource, or activity designed to foster Open Science practices within the Eco-Evo community. Please see examples of successful project applications from 2025 on our website.
+- The SORTEE Commendation Awards recognise that Projects are often team efforts. As such, the contributions of all project members, rather than individuals, will be highlighted. Note that projects from single individuals can still be nominated.
+- We warmly encourage diverse nominations in terms of team membership (e.g., country, gender, professional background) and Project content (see eligibility criteria below). 
+- We seek projects with broad and diverse types of impact (e.g., events or actions within a single institution, country or continent), as well as global (e.g., publicly accessible online events or resources). Citation counts will not be considered as a reliable evidence of impact. 
+- There is no limit on the number of SORTEE Commendation awards given by the society per year. Any nominated Projects meeting the eligibility criteria listed below will be considered for a Commendation award.
+ 
+### Eligibility
+1.	Projects must contribute to fostering Open Science values or practices, such as transparency, robustness of research, or improvement of the scientific system/practice in general, going beyond simply implementing current practices or processes. Sharing data/code alongside a publication or software is not considered going beyond expected practices even if few people do it in a sub-field where it is  uncommon.
+2.	Projects should be related at least remotely to the fields of ecology and/or evolutionary biology or closely related fields with implications for ecology and/or evolutionary biology (e.g. systematics, paleontology, marine biology).
+3.	Evidence of the project has to be provided, e.g., through photographs, websites, teaching/outreach materials, screenshots of news or social posts, recommendation letters, repositories, or preprints.
+4.	Either the person nominating the project, or at least one member of the Project team, must be a current SORTEE member (newly joined members are eligible).
+5.	Current SORTEE Awards Committee members, SORTEE Awards DEI Representative, members of the Board of Directors and Officers (the [secretary, treasurer, past president, president, president-elect](https://sortee.org/people/)) are not eligible to nominate a Project, or be a member of a nominated Project. This means that projects where teams/contributors included these ineligible individuals are not eligible for the period these individuals are active in their SORTEE roles listed above. Such projects can be nominated when individuals in questions are no longer active in their SORTEE roles listed above.
+6.	Failure to acknowledge all project members/contributors by full name on the nomination form may render nomination ineligible. However, team members should have an opportunity to request not to share their name publicly on award announcement materials.
+ 
+### Nomination process
+Project nominations can be submitted between April 1, 2026 and August 31, 2026 (23:59 UTC). This deadline ensures that the Awards Committee has sufficient time to review all nominations and obtain approval from the Board of Directors before the annual conference in October. Submissions received after August 31, 2026 (23:59 UTC) will not be considered in the current round and will be invited to re-nominate in the following cycle.
+Projects may be self-nominated by Project members, or nominated by individuals who were not Project members. The nominating person will serve as the contact for the nomination. The Awards Committee may reach out to them for any necessary clarifications and to communicate the outcome of the eligibility assessment. **Project nominations must be submitted through an online [SORTEE Project Award nomination form](https://forms.gle/38QFNJYcY2tLzaeD9)** and use a [nomination document template](https://docs.google.com/document/d/1nGX3E8hcjmxJh57jWmlIo8G66bPcnIjw/edit?usp=sharing&ouid=102029643229244298595&rtpof=true&sd=true). The SORTEE Project Award nomination form requires the following information:
+1.	Name of the nominated Project
+2.	Name and email address of the person nominating the Project, and information on whether it is a self-nomination (from a project member) or not (from a person who is not a project member).
+3.	Name of one member of the nominated Project, or the name of the nominating person, who is a current SORTEE member (there is no time limit between joining SORTEE and submitting an award nomination), for eligibility purposes.
+4.	One completed [nomination document template](https://docs.google.com/document/d/1nGX3E8hcjmxJh57jWmlIo8G66bPcnIjw/edit?usp=sharing&ouid=102029643229244298595&rtpof=true&sd=true), containing the name of the nominated Project and the following 4 sections:
+○	Names, email addresses, primary institutional affiliations (where appropriate), and contributions of all Project members in a structured format as an attached document (file). We remind the nominator to ensure all under-represented groups are given appropriate credit for their contributions.
+○	Description (maximum 500 words) of why the Project is deserving of a SORTEE Commendation Award. This section may include showing how the Project goes beyond simply implementing current scientific practices or processes, and its actual impact on any scale.
+○	Evidence supporting the project (maximum 2 pages). This section can contain copies of photos, websites, teaching/outreach materials, news and social posts, recommendation letters, repositories, preprints, or links (accessible to adjudicators through URLs / DOIs) to any additional documents evidencing the project.
+○	Short text (blurb) for SORTEE website and promotion (maximum 200 words). If selected, this text may be used by SORTEE on its website, social media platforms, and promotional materials (e.g., examples from 2025 award winners on the SORTEE website; see 'Past Awards' below). The text should be written in accessible language suitable for a broad audience.
+5.	Project image (e.g., project logo; is optional but strongly encouraged). If selected, this image may be used by SORTEE on its website, social media platforms, and promotional materials (e.g., see examples from 2025 award winners on the SORTEE website; see 'Past Awards' below).
+ 
+### Assessment process
+- The SORTEE Awards Committee will assess whether applications meet the SORTEE Commendation Awards eligibility criteria in September, as listed above and following the protocol [available here](https://docs.google.com/document/d/1hrHMD1wGJrjjj6bjdGILcL-f5d4LtP4vobL_6YthZVU/edit?usp=sharing).
+- The SORTEE Awards Committee may contact the nominators for additional information or clarifications. The nominators will be given a reasonable period of two weeks to provide the requested information.
+- Eligible Projects will then be recommended by the SORTEE Awards Committee to the SORTEE Board of Directors who will vote on the final approval.
+- We will inform the nominating person about the assessment outcome before the SORTEE annual conference in October, using the contact details provided on the nomination form. It is a responsibility of the nominating person to inform all Project team members about the outcomes,
+- Awards will be announced during the SORTEE annual virtual conference and then posted on the SORTEE website and social media (currently: [Bluesky](https://docs.google.com/document/d/1hrHMD1wGJrjjj6bjdGILcL-f5d4LtP4vobL_6YthZVU/edit?usp=sharing), [Instagram](), [LinkedIn](https://www.instagram.com/sortecoevo/), [Mastodon](https://ecoevo.social/@sortee), and [X](https://x.com/sortecoevo)).
+ 
+**[NOMINATION DOCUMENT TEMPLATE](https://docs.google.com/document/d/1nGX3E8hcjmxJh57jWmlIo8G66bPcnIjw/edit?usp=sharing&ouid=102029643229244298595&rtpof=true&sd=true) (to be downloaded, filled in and provided as an attachment within the [online submission form](https://forms.gle/38QFNJYcY2tLzaeD9)).**
  
 
 ------------------------------------------------------------------------
