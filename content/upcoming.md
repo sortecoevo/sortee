@@ -32,7 +32,7 @@ We strongly encourage proposals for all contribution types from people at a wide
 
 Please feel free to contact us via [conference@sortee.org](mailto:conference@sortee.org) if you would like guidance as you prepare your proposals.
 
-The conference is **FREE** for SORTEE members ([become a member](https://www.sortee.org/join/)), and the cost for non-SORTEE members ranges from $0 to $60. To join the SORTEE mailing list and receive conference updates, click [here](https://sortee-conference.myflodesk.com/). We send a maximum of 8 emails a year.
+The conference is **FREE** for SORTEE members ([become a member](https://www.sortee.org/join/); membership can be free depending on your situation), and the cost for non-SORTEE members ranges from $30 to $60. To join the SORTEE mailing list and receive conference updates, click [here](https://sortee-conference.myflodesk.com/). We send a maximum of 8 emails a year.
 
 ---
 
