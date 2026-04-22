@@ -157,7 +157,7 @@ Current members are:
 [Website](https://joelpick.github.io))
 
 ![Ed Ivimey-Cook](Ed_IvimeyCook.png) **Co-Chair:** Ed Ivimey-Cook
-(he/him), *University of Glasgow, UK*
+(he/him), *University of East Anglia, UK*
 ([Website](https://eivimeycook.github.io/))
 
 ![Ben Auxier](Ben_Auxier.png) Ben Auxier (he/him) *Wageningen University
