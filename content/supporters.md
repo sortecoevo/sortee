@@ -10,6 +10,22 @@ We are grateful for the financial support of these sponsor organisations!
 
 &nbsp;
 
+## 2026  institutional supporters
+
+&nbsp;
+
+[![Canadian Science Publishing](../img/sponsors/canadian-science-publishing.png)](https://cdnsciencepub.com)
+[![Dryad](../img/sponsors/dryad.png)](https://datadryad.org/)
+[![Peer Community In](../img/sponsors/pci.jpg)](https://peercommunityin.org)
+[![Royal Society Publishing](../img/sponsors/RoySoc_logo.png)](https://royalsociety.org/)
+[![Society for the Study of Evolution](../img/sponsors/SSE_logo.png)](https://www.evolutionsociety.org/)
+
+&nbsp;
+
+---  
+
+&nbsp;
+
 ## 2025  institutional supporters
 
 &nbsp;
