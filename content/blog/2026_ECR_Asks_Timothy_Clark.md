@@ -7,7 +7,7 @@ categories:
 - blog
 tags:
 - ECR Asks
-title: "ECR Asks: Dr Timothy Clark"
+title: "ECR Asks: Professor Timothy Clark"
 ---
 
 'ECR Asks' is a series of Q&A sessions where I speak with experienced researchers to explore their journey in, and perspectives on, open science and transparent research. With the goal of supporting early career researchers like myself, this series aims to answer big questions and share practical insights on navigating the ever evolving landscape of open science and academia.
