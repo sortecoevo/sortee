@@ -19,6 +19,8 @@ We are grateful for the financial support of these sponsor organisations!
 [![Peer Community In](../img/sponsors/pci.jpg)](https://peercommunityin.org)
 [![Royal Society Publishing](../img/sponsors/RoySoc_logo.png)](https://royalsociety.org/)
 [![Society for the Study of Evolution](../img/sponsors/SSE_logo.png)](https://www.evolutionsociety.org/)
+[![The Company of Biologists](../img/sponsors/cob.jpg)](https://www.biologists.com/)
+[![Physalia-courses](../img/sponsors/physalia.jpg)](https://www.physalia-courses.org/)
 
 &nbsp;
 
