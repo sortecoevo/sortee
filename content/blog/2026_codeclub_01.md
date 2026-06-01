@@ -1,7 +1,7 @@
 ---
 title: 'SORTEE Code Club Debrief: February - April 2026'
 author: "Corné de Groot & Max Carter-Brown"
-date: "2026-05-02"
+date: "2026-06-02"
 summary: "The authors' debriefs about the recent few SORTEE Code Club meetings"
 categories:
 - blog
