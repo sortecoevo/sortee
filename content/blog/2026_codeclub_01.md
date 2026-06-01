@@ -14,9 +14,6 @@ banner: img/2025_Code_club.png
 
 **SORTEE Code Club Debrief: February - April 2026**
 
-Author: Corné de Groot & Max Carter-Brown 
-  
-
 The Member Engagement Committee runs **Code Club every month**. Timing can vary, depending on the hosts’ availability and will be announced at least one week in advance *on [SORTEE's Slack](https://sortee.org/join)*. Corné de Groot & Max Carter-Brown will be co-hosting Code Club in 2026-27. *For more information, see [SORTEE's Code Club page](https://www.sortee.org/code_club/)*.
 
 ## February: SORTEE Code Club kick-off meeting
