@@ -104,14 +104,14 @@ Stephanie Flaman is a MSc student at the University of Regina in conjunction wit
 &nbsp;  
 
 ![Marija Purgar](Marija_Purgar.png)  
-Marija Purgar (she/her) is a postdoctoral researcher at the University of Alberta, Canada
+Marija Purgar (she/her) is a postdoctoral researcher at the University of Alberta in Canada, where she works on meta-research related to open and transparent research practices.  
  
  
 
 **Members serving from 2024 through 2026 are:**  
 
 ![Matthieu Paquet](Matthieu_Paquet.png)  
-Matthieu Paquet, (he/him) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu)) is a researcher working on behavioural ecology and population dynamics at the Theoretical and Experimental Ecology Station (SETE,CNRS).  
+Matthieu Paquet (he/him) ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu)) is a researcher working on behavioural ecology and population dynamics at the Theoretical and Experimental Ecology Station (SETE, CNRS).  
 
 ![Malgorzata (Losia) Lagisz](Losia_Lagisz.png) Malgorzata (Losia) Lagisz
 (she/her) ([Website](https://mlagisz.weebly.com/) and
@@ -137,7 +137,7 @@ Ed Ivimey-Cook (he/him) **(Past-President)** ([Website](https://eivimeycook.gith
 
 Christian John (he/him) **(Treasurer)** ([Website](https://jepsonnomad.github.io/))   
 
-Matthieu Paquet (he/him) **(Secretary)** ([Website](https://sete-moulis-cnrs.fr/fr/recherches/change/equipe/item/1169-paquet-matthieu))  
+Juliette Tariel-Adam (she/they)  **(Secretary)** ([Website](https://juliettetarieladam.com))  
 
      
 
@@ -208,7 +208,7 @@ Heikel BALTI (he/him), *Marie & Louis Pasteur University, CNRS, France*
 Abuoma Ejikeme (she/her), *Department of Biomedical Laboratory Science,
 University of Ibadan, Nigeria*
 
-![Sandra Hamel](SORTEE_logo.png)
+![Sandra Hamel](sandra_hamel.png)
 Sandra Hamel (she/her), *Université Laval, Canada*
 ([Website](https://sandra-hamel.fsg.ulaval.ca/)) 
 
@@ -618,6 +618,8 @@ Michael Jennions
 Nicolas Galtier  
 Richard McElreath  
 Tracey Chapman  
+Akira S Mori
+Nokuthula Mchunu  
 
      
 
