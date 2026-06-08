@@ -23,6 +23,34 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 ---
 &nbsp;
 
+## June 2026
+
+### **Title:** *What role do journals play in fighting the replication crisis?*
+
+**Presenter:** Joel Pick\
+**Type:** Webinar\
+**Date and Time:** June 25, 2026\
+**Timezone(s):** Europe\
+**Duration:** 60 min\
+**Summary:** As with many other quantitative fields, Ecology and Evolutionary Biology are facing a crisis. We are surrounded by low powered studies and strong publication bias, and work in an inequitable research environment which incentivises questionable research practices. As a consequence, the published literature is full of inflated effects sizes and false positives, and fails to provide a good representation of research conducted and, ultimately, the phenomena we study. This 'replication crisis' is the antithesis of what we aim to achieve as academics. While many researchers either do not realise the potential scale of this crisis, or choose to bury their heads in the sand, journals are in a unique position to change the way we conduct and communicate our research. When working effectively, journals, and the peer review system, is often considered a gatekeeper of quality - we presume that published, peer-reviewed papers are generally higher quality, and have undergone more scrutiny than, for example, pre-prints. We now need journals to be a further gatekeeper of credibility, and act to increase the transparency, and so trust, in science.\
+[Register here](https://events.humanitix.com/webinar-what-role-do-journals-play-in-fighting-the-replication-crisis)
+
+---
+&nbsp;
+
+# Past events  
+
+## May 2026
+
+### **Title:** *Assessing Computational Reproducibility in Ecology and Evolution*
+
+**Presenter:** Steven Kambouris\
+**Type:** Webinar\
+**Timezone(s):** Europe/Australasia\
+**Duration:** 60 min\
+**Summary:** Researchers are increasingly sharing both the data and code associated with research publications in open repositories and archives. This makes it easier for interested researchers to computationally reproduce the results reported in a publication, by re-running that code with the data. This presentation examines the activity of computationally reproducing published results, by presenting and discussing the outcomes of my attempts to reproduce results from the Ecology and Evolution literature published over 2015-17. I will cover the technical aspects of my efforts to get R code from different times and versions to run, highlighting both my successes and failures, but will also address more fundamental questions, such as how we might decide on the criteria to judge whether a reproduction attempt has been "successful" or not. I will also discuss the benefits (and difficulties) of working reproducibly when embarking on assessments of computational reproducibility of other work.\
+[Recording](https://www.youtube.com/watch?v=S7-X-bfvQCA)
+
 ## March 2026
 
 ### **Title:** *On what makes good sharable and reproducible R code, how to do it, and why it’s good for science*
@@ -33,7 +61,6 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 **Timezone(s):** Australasia/Americas\
 **Duration:** 60 min\
 **Summary:** Using code for data wrangling, analysis and visualisation is increasingly seen as fundamental to quantitative ecology and biology. In addition, there is an increasing push for scientists to share their code alongside their publications for reproducibility. However, sharing code does not by itself equate to an analysis being reproducible. Despite many scientists using code, many lack formal training in best coding practices, and this makes scientific code particularly prone to formatting that reduces the chances of a code script running again without fail in a year’s time. The inability to rerun scientific analyses inhibits scientists (and your future self) from verifying or building upon previous results. In this talk, I’ll provide tips for creating readable and reproducible workflows in R, based on personal learnings making R packages and coding resources that support users of Australia’s largest biodiversity data infrastructure, the Atlas of Living Australia. I’ll speak about how each part of a complete workflow – i.e. making code readable, managing files, and creating rendered outputs – not only improves reproducibility but also creates an effective environment for scientific output. These tips will hopefully make everyone feel that they can work reproducibly, and offer ideas of where to start and what to prioritise.\
-[Register here](https://events.humanitix.com/sortee-webinar-good-r-code)
 
 ## February 2026
 
@@ -45,12 +72,6 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 **Timezone(s):** Americas/Europe/Africa\
 **Duration:** 60 min\
 **Summary:** We love data — but questions remain: should data be publicly available before article publication? How can we make data sharing easier for researchers? What could AI and big data mean for existing open datasets? This panel will explore the challenges and opportunities of uncovering and sharing the data that underpins research across scholarly communication.\
-[Register here](https://events.humanitix.com/love-data-week-panel-discussion-data-all-the-way-down)
-
----
-&nbsp;
-
-# Past events  
 
 ## October 2025
 
