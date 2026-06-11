@@ -7,32 +7,29 @@ description: Upcoming conference by the Society for Open, Reliable, and Transpar
 title: Upcoming SORTEE conference
 ---
 
-# **SORTEE Conference 2026: Content submissions are now open\!**
+# **SORTEE Conference 2026: Registration is now open\!**
 
 #### ***Virtual & world-wide\! 13-14 October 2026***
 
-The 2026 SORTEE conference will run continuously from **13th October 07:00 UTC to 14th October 10:00 UTC** to cover all time zones. 
+The 2026 SORTEE conference will run continuously from **13th October 07:00 UTC to 14th October 10:00 UTC** to cover all time zones.
 
-**Content submissions are now OPEN**.
+**Conference registration is now OPEN**.
 
-➡️ Submit via the [link](https://forms.gle/R1pTxmmxKwf2DMzB9)**.**  
- **Deadline: 7th June 2026\.**
+➡️ [Register here](https://events.humanitix.com/sortee-conference-2026)
 
-We accept the following types of proposals:
+The conference is **FREE** for SORTEE members, so please consider [joining SORTEE](https://www.sortee.org/join/). There is a free joining option, no questions asked.
 
-1. **Unconferences:** Facilitated discussions on how to make ecology, evolutionary biology, and related disciplines more open, reliable, and transparent.  The goal of an unconference is to generate understanding and ideas around a topic. 
+**Content submissions are now closed** and are currently being evaluated.
 
-2. **Hackathons:** Group projects with well-defined goals (papers, techniques, software, protocols, organizations, etc.). The goal of a hackathon is to bring people together to produce a concrete deliverable.
+---
 
-3. **Workshops:** Facilitators will teach tools to implement open, reliable, and transparent practices. The goal of a workshop is for attendees to learn an open science practice.
+## **Microgrants**
 
-You are also welcome to submit a proposal and facilitate your session in a language other than English. We will organise live translation during the conference to support this.
+This year we are introducing microgrants. Do you experience any barriers to attending the SORTEE Conference in October? Will a small financial contribution help you overcome this? Information on how to apply will be posted here.
 
-We strongly encourage proposals for all contribution types from people at a wide range of career stages and from members of under-represented groups. We welcome proposals from small teams, as well as individuals. We encourage teams to include diverse perspectives, for instance with facilitators from different countries and balanced in terms of gender and career stage. Facilitation by early career researchers (students or early career postdocs) is warmly encouraged.
+---
 
-Please feel free to contact us via [conference@sortee.org](mailto:conference@sortee.org) if you would like guidance as you prepare your proposals.
-
-The conference is **FREE** for SORTEE members ([become a member](https://www.sortee.org/join/)), and the cost for non-SORTEE members ranges from $0 to $60. To join the SORTEE mailing list and receive conference updates, click [here](https://sortee-conference.myflodesk.com/). We send a maximum of 8 emails a year.
+To join the SORTEE mailing list and receive conference updates, click [here](https://sortee-conference.myflodesk.com/). We send a maximum of 8 emails a year.
 
 ---
 
