@@ -31,6 +31,9 @@ This year we are introducing microgrants. Do you experience any barriers to atte
 
 To join the SORTEE mailing list and receive conference updates, click [here](https://sortee-conference.myflodesk.com/). We send a maximum of 8 emails a year.
 
+<!-- % DO NOT REMOVE ANYTHING BELOW THIS LINE UNLESS SPECIFICALLY ASKED BY THE CONFERENCE COMMITTEE
+% These two paragraphs are permanent SORTEE conference information and should not be removed -->
+
 ---
 
 ## **Accessibility**
