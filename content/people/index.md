@@ -617,9 +617,9 @@ Mark Burgman
 Michael Jennions  
 Nicolas Galtier  
 Richard McElreath  
-Tracey Chapman  
-Akira S Mori
-Nokuthula Mchunu  
+Tracey Chapman    
+Akira S Mori  
+Nokuthula Mchunu    
 
      
 
