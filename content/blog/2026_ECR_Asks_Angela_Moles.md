@@ -1,8 +1,8 @@
 ---
 banner: img/ECR_Asks_logo.png
-date: "2026-05-19"
+date: "2026-06-23"
 author: Oakleigh Wilson
-summary: The eighth in the blog series ECR Asks, where early career researchers interview experienced researchers for advice.
+summary: The ninth in the blog series ECR Asks, where early career researchers interview experienced researchers for advice.
 categories:
 - blog
 tags:
