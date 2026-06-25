@@ -29,7 +29,7 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 
 **Presenter:** Rachel Heyard\
 **Type:** Webinar\
-**Date and Time:** July 7, 2026\
+**Date and Time:** July 7, 2026 at 08:00 UTC\
 **Timezone(s):** Europe/Africa/Australasia\
 **Duration:** 60 min\
 **Summary:** Research assessment shapes not only careers and funding decisions but also the culture of research itself. However, many current assessment systems, based on publication metrics or the expectations of linear career trajectories, were never intentionally designed, and therefore often fail to value what truly contributes to rigorous, innovative, and socially valuable research. This webinar shows how research on research can inform better funding decision-making. I will share real-world examples from my work as a statistician at the Swiss National Science Foundation (SNSF) and my current research on funding and evaluation.\
