@@ -61,7 +61,7 @@ members of SORTEE in November. These terms last for three (3) years. The Board c
 **Members serving from 2026 through 2028 are:**
 
 ![Ineta Kačergytė](Ineta_Kačergytė.jpg)  
-Ineta Kačergytė (she/her)
+Ineta Kačergytė (she/they)
 ([Website](https://www.slu.se/en/profilepages/k/ineta-kacergyte/)) is a
 postdoctoral researcher at the Swedish University of Agricultural
 Sciences, where Ineta evaluates conservation efforts to restore wetlands
