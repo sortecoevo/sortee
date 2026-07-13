@@ -28,6 +28,6 @@ aliases: outputs
 
 -   Ivimey-Cook, E., Culina, A., Dimri, S., Grainger, M., Kar, F., Lagisz, M., Moran, N., Roche, D., Sánchez-Tójar, A., Windecker, S., Pick, J. (2025). TADA! Simple guidelines to improve code sharing. **EcoEvoRxiv** <https://doi.org/10.32942/X2D93K.>
 
--   Pick, J., Allen, B., Bachelot, B., Bairos-Novak, K., Brand, J., Class, B., Dallas, T., D'Amelio, P., Fenollosa, E., Fernández-Juricic, E., Gomes, D., Grainger, M., Guillemaud, T., John, C., Krasnow, R., Lagisz, M., Lequime, S., Maynard, D., Ivimey-Cook, E. (2025). The SORTEE Guidelines for Data and Code Quality Control in Ecology and Evolutionary Biology. **EcoEvoRxiv** <https://doi.org/10.32942/X24P8S.>
+-   Pick, J.L., Allen, B.J., Bachelot, B., Bairos-Novak, K.R., Brand, J.A., Class, B., Dallas, T., D'Amelio, P.B., Fenollosa, E., Fernández-Juricic, E. and Gomes, D.G., 2026. The SORTEE guidelines for data and code quality control in ecology and evolutionary biology. **Peer Community Journal**, 6. <https://doi.org/10.24072/pcjournal.687>
 
 -   Turba, R., Thoré, E. S. J., Bertram, M. G., Bridg, H., Sabet, S. S., Gamboa, M., Ríos-Orjuela, J. C., Takola, E., Capa Salinas, J., Sampaio Franco, A. C., & Marín, C. (2025). Global North-South science inequalities due to language and funding barriers. Zenodo. <https://doi.org/10.5281/zenodo.16933196>
