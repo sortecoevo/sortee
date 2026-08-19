@@ -440,7 +440,7 @@ Montpellier, France
 
 ![Leonardo Capitani](Leonardo_Capitani.png) Leonardo Capitani (he/him),
 *Eawag - Swiss Federal Institute of Aquatic Science and Technology,
-Switzerland* ([Website](https://leomarameo7.github.io/index_home.html)).
+Switzerland* ([Website](https://leomarameo7.github.io/)).
 
 ![Hermina Ghenu](Hermina_Ghenu.png) Hermina Ghenu (they/them),
 *University of Bern, Switzerland*
