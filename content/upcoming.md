@@ -9,23 +9,35 @@ title: Upcoming SORTEE conference
 
 # **SORTEE Conference 2026: Registration is now open\!**
 
-#### ***Virtual & world-wide\! 13-14 October 2026***
+#### The conference program is now available!
 
-The 2026 SORTEE conference will run continuously from **13th October 07:00 UTC to 14th October 10:00 UTC** to cover all time zones.
+This year's virtual & world-wide SORTEE Conference will run continuously from 13th October 07:00 UTC to 14th October 9:15 UTC to cover all time zones.
 
-**Conference registration is now OPEN**.
+The conference program is now available [here](https://conf-sortee.shinyapps.io/2026-program-app/)!
+ 
+We are excited to announce our plenary speakers and titles of their talks:
+    • **Dr Lauren Cadwallader** (Senior Open Research Manager, PLOS): “Code Sharing in Practice: Lessons from Expanding a Publisher’s Policy” 
+    • **Dr Tatsuya Amano** (Associate Professor, The University of Queensland): “Is science open across languages?”
 
+Registrations are open and will remain open until the conference, go ahead and register today!
 ➡️ [Register here](https://events.humanitix.com/sortee-conference-2026)
 
-The conference is **FREE** for SORTEE members, so please consider [joining SORTEE](https://www.sortee.org/join/). There is a free joining option, no questions asked.
+The conference is FREE for SORTEE members, and becoming a member can be free too! 
+[Join us!](https://sortee.org/join/) 
 
-**Content submissions are now closed** and are currently being evaluated.
+To join the mailing list and receive conference updates, click [here](https://sortee-conference.myflodesk.com/). To have an idea of what a SORTEE conference looks like, check the section below “About SORTEE conferences”.
+
 
 ---
 
 ## **Microgrants**
 
-This year we are introducing microgrants. Do you experience any barriers to attending the SORTEE Conference in October? Will a small financial contribution help you overcome this? Information on how to apply will be posted here.
+This year we are introducing microgrants. 
+Do you experience any barriers to attending the SORTEE Conference in October? 
+Will a small financial contribution help you overcome this? 
+
+➡️ Apply [here](https://forms.gle/p7YxXHv39ibwWQRq9). 
+**Deadline: September 6, 2026.**
 
 ---
 
