@@ -16,8 +16,8 @@ This year's virtual & world-wide SORTEE Conference will run continuously from 13
 The conference program is now available [here](https://conf-sortee.shinyapps.io/2026-program-app/)!
  
 We are excited to announce our plenary speakers and titles of their talks:
-    • **Dr Lauren Cadwallader** (Senior Open Research Manager, PLOS): “Code Sharing in Practice: Lessons from Expanding a Publisher’s Policy” 
-    • **Dr Tatsuya Amano** (Associate Professor, The University of Queensland): “Is science open across languages?”
+- **Dr Lauren Cadwallader** (Senior Open Research Manager, PLOS): “Code Sharing in Practice: Lessons from Expanding a Publisher’s Policy”
+- **Dr Tatsuya Amano** (Associate Professor, The University of Queensland): “Is science open across languages?”
 
 Registrations are open and will remain open until the conference, go ahead and register today!
 ➡️ [Register here](https://events.humanitix.com/sortee-conference-2026)
