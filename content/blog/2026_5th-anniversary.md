@@ -14,11 +14,11 @@ Five years ago, SORTEE began with a simple but ambitious idea: to bring together
 
 On 29 July 2026, we had the pleasure of celebrating just how far that idea has come.
 
-Members from around the world joined our 5th Birthday Virtual Social, featuring Prof. Tim Parker, SORTEE's first President. Tim shared the story of how the society came to life, reflected on what we've achieved together over the past five years, and offered his hopes for the future. We were also fortunate to celebrate in person with colleagues at the Collaboration for Open Science and Synthesis in Ecology and Evolution (COSSEE) led by Prof. Shinichi Nakagawa, one of SORTEE & EcoEvoRixv founding members, at the University of Alberta in Edmonton, Canada.
+Members from around the world joined our 5th Birthday Virtual Social, featuring Prof. Tim Parker, SORTEE's first President. Tim shared the story of how the society came to life, reflected on what we've achieved together over the past five years, and offered his hopes for the future. We were also fortunate to celebrate in person with colleagues at the Collaboration for Open Science and Synthesis in Ecology and Evolution (COSSEE) led by Prof. Shinichi Nakagawa, one of SORTEE & EcoEvoRxiv founding members, at the University of Alberta in Edmonton, Canada.
 
 The afternoon was filled with inspiring discussions, plenty of laughter, and, of course, a birthday cake.
 
-{{< centered-figure src="/img/Parker-Purgar-Lagisz-Nakagawa-Flaman.jpg" width="500px" alt="5 SORTEE members blowing out candles on a birthday cake" caption="Prof. Tim Parker, Marija Purgar (President), Losia Lagisz (President-Elect), Prof. Shinichi Nakagawa, Stephanie Flaman (Conference Committee Chair)" 
+{{< centered-figure src="/img/Parker-Purgar-Lagisz-Nakagawa-Flaman.jpg" width="500px" alt="5 SORTEE members blowing out candles on a birthday cake" caption="Prof. Tim Parker, Marija Purgar (President), Losia Lagisz (President-Elect), Prof. Shinichi Nakagawa, Stephanie Flaman (Conference Committee Chair)"}} 
 
 ## Where It All Began
 
@@ -44,11 +44,11 @@ Many cared deeply about improving scientific practice but felt like they were th
 
 Listening to Tim reflect on those early conversations made it especially meaningful to look at the community we have today.
 
-In just five years, SORTEE has grown from a small network of like-minded researchers into a truly international grassroots society. Today, our members (500+ / year) come from more than 50 countries, and our activities are powered by over 70 volunteers who generously contribute their time, expertise, and enthusiasm through [SORTEE's committees](https://sortee.org/people/) and [Senior Advisory Board](https://sortee.org/people/#senior-advisory-board). One of SORTEE's greatest strengths continues to be its early-career researchers, who make up much of our leadership.
+In just five years, SORTEE has grown from a small network of like-minded researchers into a truly international grassroots society. Today, our membership exceeds 500 people per year, with members coming from more than 50 countries, and our activities are powered by over 70 volunteers who generously contribute their time, expertise, and enthusiasm through [SORTEE's committees](https://sortee.org/people/) and [Senior Advisory Board](https://sortee.org/people/#senior-advisory-board). One of SORTEE's greatest strengths continues to be its early-career researchers, who make up much of our leadership.
 
 Our volunteers organize an [annual virtual conference](https://sortee.org/upcoming/) that brings together participants across every time zone, run monthly [Code Club](https://sortee.org/code_club/) and [workshop & webinar series](https://sortee.org/other_events/), develop [educational materials](https://sortee.org/infographics/), write [blogs](https://sortee.org/blog/) and [newsletters](https://sortee.org/newsletters/), lead collaborative [meta-research projects](https://sortee.org/collaborations/), and advocate for better research practices across ecology and evolutionary biology, e.g., *[The SORTEE guidelines for data and code quality control in ecology and evolutionary biology](https://peercommunityjournal.org/articles/10.24072/pcjournal.687/)*.
 
-Perhaps one of our best-known contributions is **[EcoEvoRxiv](https://ecoevorxiv.org/)**, community-governed preprint server in ecology and evolution. 
+Perhaps one of our best-known contributions is **[EcoEvoRxiv](https://ecoevorxiv.org/)**, a community-governed preprint server in ecology and evolution. 
 
 Together, these initiatives demonstrate how a volunteer-driven society can help shape research culture through collaboration, education, and advocacy.
 
@@ -57,7 +57,7 @@ When asked whether today's SORTEE reflects the vision he originally had, Tim adm
 
 But he also shared that **SORTEE has exceeded his expectations**.
 
-Among the achievements he highlighted were the incredible dedication of volunteers, the rapid success of SORTEE's first virtual conference, which attracted more than 1,000 registrations only a six months after the official founding date, and the growing influence SORTEE has had through initiatives such as supporting journal data editors and promoting better research practices.
+Among the achievements he highlighted were the incredible dedication of volunteers, the rapid success of SORTEE's first virtual conference, which attracted more than 1,000 registrations only six months after the official founding date, and the growing influence SORTEE has had through initiatives such as supporting journal data editors and promoting better research practices.
 
 Perhaps most rewarding, Tim said, has been watching new generations of volunteers step into leadership and continue building the society far beyond what its founders could have achieved alone.
 
@@ -75,7 +75,7 @@ It was inspiring to hear how an idea born from a shared commitment to open scien
 ## Looking Ahead
 As the conversation turned from the past to the future, Tim shared where he believes SORTEE can make the greatest difference over the next five years.
 
-Tim sees one of the society's greatest opportunities in continuing to strengthen meta-research, by generating evidence on which policies, practices, and advocacy efforts are most effective at improving the quality, transparency, and reliability of science, and advocacy efforts.
+Tim sees one of the society's greatest opportunities in continuing to strengthen meta-research, by generating evidence on which policies, practices, and advocacy efforts are most effective at improving the quality, transparency, and reliability of science.
 
 Another important priority is continuing to grow the community.
 
