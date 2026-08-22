@@ -18,7 +18,7 @@ Members from around the world joined our 5th Birthday Virtual Social, featuring 
 
 The afternoon was filled with inspiring discussions, plenty of laughter, and, of course, a birthday cake.
 
-{{< centered-figure src="/img/Parker-Purgar-Lagisz-Nakagawa-Flaman.jpg" width="500px" alt="5 SORTEE members blowing out candles on a birthday cake" caption="Prof. Tim Parker, Marija Purgar (President), Losia Lagisz (President-Elect), Prof. Shinichi Nakagawa, Stephanie Flaman (Conference Committee Chair)"}} 
+{{< centered-figure src="/img/Parker-Purgar-Lagisz-Nakagawa-Flaman.jpg" width="500px" alt="5 SORTEE members blowing out candles on a birthday cake" caption="Prof. Tim Parker, Marija Purgar (President), Losia Lagisz (President-Elect), Prof. Shinichi Nakagawa, Stephanie Flaman (Conference Committee Chair)" >}}
 
 ## Where It All Began
 
