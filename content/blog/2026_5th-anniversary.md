@@ -116,5 +116,6 @@ Here's to the next five years of learning from one another, supporting one anoth
 **Happy 5th Birthday, SORTEE! 💚**
 
 {{< centered-figure src="/img/SORTEE-5th-birthdaycake.jpg" width="500px" alt="A close-up of a birthday cake" >}} 
+
 {{< centered-figure src="/img/COSSEE-Alberta.jpg" width="500px" alt="People in a meeting room at the University of Alberta, smiling and looking at the camera" >}}  
 
