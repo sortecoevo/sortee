@@ -20,7 +20,7 @@ banner: img/PauloEnriqueCardosoPeixoto.jpeg
 
 *How did you become interested in open science, and what prompted you to join SORTEE?*  I was bothered that most published articles reported significant results, while most of my studies found non-significant results. This led me to study publication patterns and then learn about cognitive biases. During that period, I met researchers who were part of SORTEE. <br>
 
-*What institutional policy do you believe could improve the reliability of science?*  The adoption of registered reports and internal of research. But more important than that, courses on scientific method and ethics to students, so they will be able to understand the risks of developing studies with a lack of transparency.  <br>
+*What institutional policy do you believe could improve the reliability of science?*  The adoption of registered reports and internal committees at universities that monitor the development of research. But more important than that, courses on scientific method and ethics to students, so they will be able to understand the risks of developing studies with a lack of transparency.  <br>
 
 *What do you enjoy doing in your free time?*  Playing video games, going to coffee shops with friends, or visiting nature reserves.  <br>
 
