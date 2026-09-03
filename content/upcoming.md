@@ -37,7 +37,7 @@ Do you experience any barriers to attending the SORTEE Conference in October?
 Will a small financial contribution help you overcome this? 
 
 ➡️ Apply [here](https://forms.gle/p7YxXHv39ibwWQRq9). 
-**Deadline: September 6, 2026.**
+**Deadline: Tuesday 22 September 2026, 12 pm (noon).**
 
 ---
 
