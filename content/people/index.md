@@ -573,7 +573,7 @@ Current members are:
 
 ![Natalie van Dis](Natalie_VanDis.png)
 **Chair:** Natalie van Dis, *Netherlands Institute of Ecology (NIOO-KNAW)*
-([Contact](mailto:natalie.vandis@helsinki.fi) -
+([Contact](mailto:n.vandis@nioo.knaw.nl) -
 [Website](https://scholar.google.com/citations?user=UTC6iJMAAAAJ&hl=en))
 
 ![Cecilia Baldoni](Cecilia_Baldoni.png)
