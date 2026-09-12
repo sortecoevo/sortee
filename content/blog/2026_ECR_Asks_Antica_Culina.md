@@ -16,7 +16,7 @@ Thank you to Antica for meeting with me to explain such a large-scale, yet under
 
 # Background
 
-{{< figure src="/img/AnticaCulina_Headshot.jps" width="400px" alt="Headshot of Antica Čulina">}}
+{{< figure src="/img/AnticaCulina_Headshot.jpg" width="400px" alt="Headshot of Antica Čulina">}}
 
 One of the most common motivations underlying our academic careers is an aspiration that we may be able to, at least in our own very small ways, make a difference. Whether we are attempting to build core foundation knowledge, expand new methods, or influence policy and people, we only hope that our findings, time, efforts, and passions may not be for waste. And yet, research by Dr Čulina and her team estimates that as much as 82-89% of our research output is wasted. Grappling with this shocking statistic we can only ask, how did science get to a place of such massive inefficiency, and what can we do to stop it?
 
