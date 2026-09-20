@@ -103,3 +103,9 @@ table th {
   display: block;
   margin: 1rem 0 !important;
 }
+
+/* Member voice quotes (voice-quote shortcode) */
+.voice-quote blockquote {
+  font-size: 18px;
+  line-height: 1.5;
+}
