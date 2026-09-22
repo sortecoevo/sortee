@@ -302,7 +302,7 @@ Current members are:
 **Co-Chair:** Brooke Long-Fox (she/her/hers), *MorphoBank, Phoenix
 Bioinformatics, USA* ([Contact](mailto:blongfox@morphobank.org))
 
-![Mark Young](Mark_Young.png) **Co-Chair:** Mark Young (he/they) *School
+![Mark Young](Mark_Young.png) Mark Young (he/they) *School
 of Biological Sciences, University of Southampton, UK*
 ([Website](https://sites.google.com/view/drmarkyoung))
 
@@ -579,10 +579,6 @@ Current members are:
 ![Cecilia Baldoni](Cecilia_Baldoni.png)
 Cecilia Baldoni *Max Planck Institute of Animal Behavior*
 ([Website](https://cecibaldoni.github.io/))  
-
-![Max Carter-Brown](Max_Carter-Brown.png)
-Max Carter-Brown (he/him), *Anglia Ruskin University, UK* 
-([Website](https://github.com/Euphrasiologist)) 
 
 ![](SORTEE_logo.png)
 Corné de Groot, Ludwig Maximilian University of Munich, Germany ([Website](https://scholar.google.com/citations?user=eTPSb1IAAAAJ&hl=en))
