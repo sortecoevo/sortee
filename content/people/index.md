@@ -184,8 +184,16 @@ Synthesis in Ecology and Evolution (COSSEE)*
 ([Website](https://www.cossee.org/index.html))
 
 ![Julia Sharapi](Julia_Sharapi.png) Julia Sharapi (she/her), *Stanford
-University, USA*
+University, USA* 
 
+![Kate L. Laskowski](Kate_laskowski.jpg) Kate L Laskowski (she/her), *University of California Davis, USA*  
+([Website](https://laskowskilab.faculty.ucdavis.edu/)) 
+
+![Kevin R. Bairos-Novak](KN-N.jpg) Kevin R. Bairos-Novak (he/him), *Australian Institute of Marine Science, Australia* 
+([Website](https://github.com/kevolve)) 
+
+![Dena J. Clink](dena_clink.jpg) Dena J. Clink, *Cornell University, USA*    
+([Website](https://www.birds.cornell.edu/ccb/dena-j-clink-ph-d/))  
      
 
 ------------------------------------------------------------------------
