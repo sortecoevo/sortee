@@ -94,7 +94,7 @@ remotely with Macquarie University.
 &nbsp;  
 
 ![Michael Bertram](Michael_Bertram.png)  
-Michael Bertram (he/him) ([Website](https://www.michaelbertramlab.org)) is an Assistant Professor at the Swedish University of Agricultural Sciences, where he investigates the impacts of human-induced environmental change on wildlife populations.
+Michael Bertram (he/him) ([Website](https://www.michaelbertramlab.org)) is a Principal Research Scientist in Applied Ecology at the Arthur Rylah Institute for Environmental Research, where he studies how environmental pressures affect wildlife and ecosystems to support conservation and environmental management.
 
 &nbsp;  
 
