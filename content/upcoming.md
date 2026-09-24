@@ -11,7 +11,7 @@ title: Upcoming SORTEE conference
 
 #### The conference program is now available!
 
-This year's virtual & world-wide SORTEE Conference will run continuously from 13th October 07:00 UTC to 14th October 9:15 UTC to cover all time zones.
+This year's virtual & world-wide SORTEE Conference will run continuously from 13th October 08:00 UTC to 14th October 9:15 UTC to cover all time zones.
 
 The conference program is now available [here](https://conf-sortee.shinyapps.io/2026-program-app/)!
  
