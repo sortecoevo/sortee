@@ -237,7 +237,7 @@ requests](https://docs.google.com/forms/d/e/1FAIpQLSdY7gi-pNRSJPZaFnV9WpS4L28ZNg
 
 Current members are:
 
-Ed Ivimey Cook
+Ed Ivimey-Cook
 
 Christian John
 
