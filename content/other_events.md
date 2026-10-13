@@ -23,6 +23,19 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 ---
 &nbsp;
 
+## December 2026
+
+### **Title:** *DAFNEE: choosing academia-friendly journals for more responsible - and more open - publishing in ecology and evolution*
+
+**Presenter:** Dr. Sonia Kéfi\
+**Type:** Webinar\
+**Date and Time:** December 10, 2026 at 13:00 CEST\
+**Timezone(s):** Europe/Africa/Australasia\
+**Duration:** 60 min\
+**Summary:** Academia pays roughly ten times what it actually costs to publish a paper, and much of the difference ends up as profit for a handful of commercial publishers rather than supporting research. Changing this is a collective challenge, and it starts with the choices each of us makes as author, reviewer, editor and evaluator. DAFNEE (https://dafnee.isem-evolution.fr/) is a curated database of nearly 700 academia-friendly journals in ecology, evolutionary biology and archaeology: journals run by learned societies, universities, museums or non-profit organisations. In this webinar, I will introduce the database and what we have learned from it. Compared with other journals, DAFNEE journals charge lower APCs and publish fewer special issues, while achieving similar citation rates, and researchers who publish mostly in them are not penalised in their citation records. Open science is where the publisher matters most: in 550 articles from 110 eco-evo journals, only about one third shared data and/or code, and the publishers partnering with academia were the ones actively supporting it. I will close with practical recommendations and with evidence that publishing practices can change quickly once researchers are informed, and leave plenty of time for discussion.\
+[Register here](https://events.humanitix.com/sortee-webinar-dafnee)
+
+
 ## July 2026
 
 ### **Title:** *Lotteries and innovations in research funding allocation*
