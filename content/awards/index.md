@@ -19,9 +19,62 @@ title: "SORTEE awards"
 
  
 
-# Current Awards
+# Current Awards 
 
- 
+We are pleased to share the **2026 SORTEE Commendation Award recipients** (listed in alphabetical order): Análises Ecológicas no R, BeeTree, Evolutionary Biology Crash Course, IAVS Open Data Index, Living Norway Open Science Training, *paleopal*, and *pastclim*. You can learn more about each project in the descriptions below.
+
+
+{{< figure src="analises_ecologicas.jpeg" alt="Análises Ecológicas no R book cover, in Portuguese, has a frog picture on it" width="180px" >}}
+### **Análises Ecológicas no R (Ecological Analyses in R)**
+
+Análises Ecológicas no R is a free, openly licensed textbook that teaches ecological data analysis in Portuguese, together with the non-profit teaching project built around it. Mathematical and statistical tools are central to modern ecology, yet they often pose barriers to students with limited quantitative training. This is even more important in countries where English is not the first language, as the available material is predominantly in English. “Análises Ecológicas no R” was written in Portuguese and developed to address these gaps by integrating ecological theory, scientific reasoning, and data analysis within a coherent, question-oriented framework. The book emphasizes that analytical workflows should emerge from well-defined ecological questions and hypotheses, linking theory to method and implementation. Through clear examples based on real datasets, it guides users from problem formulation to statistical testing and interpretation, combining explanatory text with structured R code and visualizations. Covering topics from basic data handling, exploration, and visualization to classical and modern statistical models, multivariate analyses, and spatial data visualization, it serves as an introductory resource for undergraduate and graduate students. The book prioritizes accessibility and active learning through exercises and reproducible scripts. Ultimately, the book aims to build autonomy in ecological data analysis while lowering barriers to computational and statistical literacy in ecology.
+
+Análises Ecológicas no R can be accessed at [https\://analises-ecologicas.com/](https://analises-ecologicas.com/). 
+
+{{< figure src="BeeTree_logo.png" alt="BeeTree logo, has a bee with phylogeny tree for antennae" width="400px" >}}
+### **BeeTree: A Global Phylogeny of Bees (Hymenoptera: Anthophila)**
+
+BeeTree is an open-access global phylogeny database for bees, providing freely accessible evolutionary resources for one of the world’s most ecologically important insect groups. The project currently includes phylogenetic data for 4,586 bee species and offers downloadable trees, chronograms, and curated datasets through a user-friendly online platform. Users can explore the global bee tree, and use the BeeTree Pruner to create customized datasets for their own research. The underlying data, code and supplementary materials are openly available, supporting transparency and reproducibility. Originally developed to investigate the evolution of structural colouration in bees, BeeTree grew into a community resource, promoting transparency, reproducibility, and accessibility in ecology and evolutionary biology by making phylogenetic resources broadly available for reuse.
+
+BeeTree can be accessed at [http\://beetreeoflife.org/](http://beetreeoflife.org/). 
+
+{{< figure src="crash_course_logo.png" alt="Crash Course logo with Darwin's head and a phylogeny" width="230px" >}}
+### **Evolutionary Biology Crash Course**
+
+The Evolutionary Biology Crash Course is a free, international, volunteer-led initiative that makes specialised training in ecology and evolution more accessible to students around the world, particularly those from the Global South and other underrepresented backgrounds. Since 2022, the Crash Course has reached hundreds of students across all continents through two weeks of lectures, practicals, Q\&A sessions and career-focused workshops. Topics span the breadth of evolutionary biology, from population genetics and genomics to behavioural ecology, phylogenetics and macroevolution. More than 200 students have completed the full course, with several going on to competitive Master’s and PhD programmes. Beyond teaching, the Crash Course addresses practical barriers to entering science by offering mentorship, career and CV guidance, and mini-grants to support costs such as English-language tests and study visas. Nearly 30 volunteer researchers from more than 15 countries contribute to the initiative. By freely sharing knowledge while actively reducing financial, geographical and institutional barriers to scientific participation, the Crash Course demonstrates how Open Science can create tangible opportunities and foster a more inclusive, diverse and internationally connected scientific community.
+
+Evolutionary Biology Crash Course website can be accessed at [https\://evobiocrashcourse.github.io](https://evobiocrashcourse.github.io). 
+
+{{< figure src="IAVS_logo.png" alt="IAVS logo, looks like a green spiraly globe" width="180px" >}}
+### **IAVS Open Data Index**
+
+The IAVS Open Data Index is a meta-database allowing easy access to published data and code in vegetation science, assisting synthesis and reuse. Data and code with an open license are indexed along with additional information, and can be accessed at their original source. This makes these materials easier to find and reuse, contributing to more openness and incremental progress in vegetation science and plant community ecology. The IAVS Open Data Index creators are currently manually indexing entries from already published articles. There is also the possibility for authors to index and manage their own resources. Such submissions will become part of the publication process in the journals of the International Association of Vegetation Science (IAVS). While the main focus is on IAVS journals at the moment, because this started as an initiative of the Ecoinformatics Working Group of that society, the IAVS Open Data Index creators are hoping to extend its scope to other journals in the future.
+
+The IAVS Open Data Index can be accessed at [https\://opendata.iavs.org/](https://opendata.iavs.org/). 
+
+{{< figure src="living_norway.png" alt="Living Norway logo, has a leaf on it" width="400px" >}}
+### **Living Norway Open Science Training**
+
+The Living Norway Open Science Training was created to extend the knowledge and practices developed within the [Living Norway Ecological Data Network](https://livingnorway.no/home/) to a broader Norwegian and international ecological community. Its purpose is to address two practical barriers to open science \- lack of know-how and lack of network support \- by providing training in open-science practices and connecting people interested in open, transparent, and reproducible ecological research. During 2022 it ran monthly webinars and online workshops attended by more than 150 researchers from 24 countries, with all materials and recordings made openly available. In 2023, the programme expanded its focus to in-person workshops on open-science best practice, data publishing and reuse, and transparent research workflows. The network also developed an early career hands-on course on open and reproducible science in ecology, which has been run annually for 5 iterations.
+
+Living Norway Open Science Training resources can be accessed under: 
+
+* Online Open Science Lab pages: [https\://livingnorway.no/open-science-lab-seminar-series-2022/](https://livingnorway.no/open-science-lab-seminar-series-2022/)   
+* In-person course website: [https\://open-science-course.github.io/course\_website/](https://open-science-course.github.io/course_website/)
+
+{{< figure src="logo_paleopal.png" alt="paleopal logo: learn, teach, reproduce" width="400px" >}}
+### ***paleopal***
+
+*paleopal* is a free, open-source web application in which researchers in modern paleobiology can construct a complete paleontological analysis through a graphical interface. It allows users to import data, clean it, run analyses, and produce publication-quality figures, while the application writes the corresponding R code as they work. The finished workflow can be downloaded as a script that anyone can read and rerun, and it is guaranteed to reproduce the analysis exactly as it was built. *paleopal* runs entirely within a web browser, so it requires no installation, no account, and no cost. This also makes it an effective teaching tool: newcomers carry out genuine analytical work immediately while observing and digesting the code that produces it. Furthermore, the underlying software engineering framework powering *paleopal* is fully documented and openly released as an R package called *shinypal*, enabling researchers throughout ecology and evolution to develop comparable tools for their own communities.
+
+The *paleopal* can be accessed at [https\://williamgearty.com/paleopal/](https://williamgearty.com/paleopal/) and *shinypal* at [https\://williamgearty.com/shinypal/](https://williamgearty.com/shinypal/). 
+
+{{< figure src="pastclim_logo.png" alt="pastclim hexagon logo with images of various biomes" width="200px" >}}
+### ***pastclim***
+
+*pastclim* is an open-source project that makes climate data across the past, present, and future easily accessible to the wider research community. By integrating multiple climate reconstructions and projections into a single, user-friendly framework, *pastclim* helps researchers conduct transparent and reproducible analyses without requiring specialist expertise in climate modelling or geospatial data processing. The project supports work across ecology, evolution, conservation, archaeology, anthropology, and related disciplines. Through freely available software, open development, extensive documentation, and tutorials, *pastclim* lowers technical barriers that often limit participation in climate-informed research. Researchers can use shared workflows and datasets, improving transparency, reducing duplication of effort, and facilitating reproducibility across studies.
+
+*pastclim* website and documentation can be accessed at [https\://evolecolgroup.github.io/pastclim](https://evolecolgroup.github.io/pastclim). 
 
 ## SORTEE Commendation Awards
 
