@@ -12,6 +12,7 @@ aliases: "past-us"
   
 |                     | **Time** in UTC              | **Slides**                                     | **Program**                                                    | **Abstract Book**                       |
 | ------------------- | ---------------------------- | ---------------------------------------------- | -------------------------------------------------------------- | --------------------------------------- |
+| **2026 Conference** | 13 Oct 08:00 – 14 Oct 09:15 UTC  | TBA                                            | [2026 App](https://conf-sortee.shinyapps.io/2026-program-app/) | TBA                                     |
 | **2025 Conference** | 15 Oct 07:00 – 16 Oct 10:00  | [OSF 2025](https://osf.io/jk9yu)               | [2025 App](https://conf-sortee.shinyapps.io/2025-program-app/) | [Download](https://doi.org/10.17605/OSF.IO/CDS6N)       |
 | **2024 Conference** | 15 Oct 07:00 – 16 Oct 10:00 UTC  | [OSF 2024](https://osf.io/meetings/SORTEE2024) | [2024 App](https://conf-sortee.shinyapps.io/2024-program-app/) | [Download](https://doi.org/10.17605/OSF.IO/HXYVQ)       |
 | **2023 Conference** | 17 Oct 07:00 – 18 Oct 08:30 UTC  | [OSF 2023](https://osf.io/meetings/SORTEE2023) | [2023 App](https://conf-sortee.shinyapps.io/2023-program-app/) | [Download](https://doi.org/10.17605/OSF.IO/FHXAM)       |
@@ -34,6 +35,11 @@ You can download our conference app at <https://github.com/SORTEE/Conference-app
 # Plenary Speakers at SORTEE conferences
 
 Recordings of all plenary talks are available on our [Youtube channel](https://www.youtube.com/channel/UClkqZ7VO08b6d-vpNFumNTA/playlists). Some recordings include captions in other languages. 
+
+## 2026 Conference
+
+- **Lauren Cadwallader**: Code Sharing in Practice: Lessons from Expanding a Publisher’s Policy
+- **Tatsuya Amano**: Is science open across languages?
 
 ## 2025 Conference
 
