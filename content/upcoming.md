@@ -11,7 +11,7 @@ title: Upcoming SORTEE conference
 
 Hard to believe, but #SORTEE2026 Conference is now over. This year we brought together 225 participants from across 6 continents 🌏🌎🌍, all passionate about open science!
 
-If you missed it or want to go back to conference slides, please visit our conference repository.
+If you missed it or want to go back to conference slides, please visit our [conference repository](https://github.com/sortee-conference/sortee-2026).
 
 We'd like to thank all of the fantastic participants, plenary speakers, and facilitators who brought their ideas and great content to the #SORTEE2026 Conference. Thank you so much for your participation and we hope to see you at the #SORTEE2027 Conference!
 
