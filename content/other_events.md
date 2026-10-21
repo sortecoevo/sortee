@@ -35,6 +35,17 @@ To **request** a workshop or webinar on a particular topic, please [click here](
 **Summary:** Academia pays roughly ten times what it actually costs to publish a paper, and much of the difference ends up as profit for a handful of commercial publishers rather than supporting research. Changing this is a collective challenge, and it starts with the choices each of us makes as author, reviewer, editor and evaluator. DAFNEE (https://dafnee.isem-evolution.fr/) is a curated database of nearly 700 academia-friendly journals in ecology, evolutionary biology and archaeology: journals run by learned societies, universities, museums or non-profit organisations. In this webinar, I will introduce the database and what we have learned from it. Compared with other journals, DAFNEE journals charge lower APCs and publish fewer special issues, while achieving similar citation rates, and researchers who publish mostly in them are not penalised in their citation records. Open science is where the publisher matters most: in 550 articles from 110 eco-evo journals, only about one third shared data and/or code, and the publishers partnering with academia were the ones actively supporting it. I will close with practical recommendations and with evidence that publishing practices can change quickly once researchers are informed, and leave plenty of time for discussion.\
 [Register here](https://events.humanitix.com/sortee-webinar-dafnee)
 
+## November 2026
+
+### **Title:** *The Journal of Statistical Ecology: a new diamond open access journal*
+
+**Presenter:** Dr. Frederic Barraquand\
+**Type:** Webinar\
+**Date and Time:** November 18, 2026 at 8:30 UTC\
+**Timezone(s):** Europe/Africa/Australasia\
+**Duration:** 60 min\
+**Summary:** Frederic Barraquand joins us to introduce the Journal of Statistical Ecology (https://jse.centre-mersenne.org), a newly created journal publishing research combining ecology and statistics. It is published in the diamond open access format (without article processing charges, funded by institutions) and builds notably on the community of the International Statistical Ecology Conferences. Frederic will cover the reasons why the journal was created, discuss the various open-access publishing models (and why they chose that one), some milestones and challenges along the way, and provide an overview of JSE's functioning, with guidelines for potential authors.\
+[Register here](https://events.humanitix.com/sortee-webinar-introducing-journal-of-statistical-ecology)
 
 ## July 2026
 
