@@ -1,5 +1,6 @@
 ---
 title: "SORTEE at ISBE 2026: advancing open science in behavioural ecology"
+author: Cecilia Baldoni
 date: "2026-09-20"
 summary: "Fourteen SORTEE members, one booth, one workshop, and 90 inquisitive attendees  at the 20th ISBE Congress in Torino!"
 categories:
